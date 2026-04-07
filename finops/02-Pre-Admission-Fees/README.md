@@ -20,6 +20,8 @@ Before any pre-admission fees can be processed, the system needs to be configure
 7. Repeat to create Enrolment fee and Enrolment deposit, entering these in both **Transaction type** and **Description**.
 8. Click **Save**.
 
+![Pre-Admission Type Creation](../99-Images/pre_admission_type_creation_1.png)
+
 ---
 
 ## Setup Posting Logic For Each Transaction Type
