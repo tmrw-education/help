@@ -105,14 +105,20 @@ Once enrolment fees and deposits have been created and posted, payments can be p
 4. Identify the student by clicking the **Student name** column and using the **filter** to search (e.g., Stuart Little).
 5. **Check** either the Enrolment fee and/or Enrolment deposit from the far-left column.
 6. Click **Post receipt** in the toolbar.
+
+![Pre Admission Enrolment Fee Payment Process Creation 1](../99-Images/pre_admission_enrolment_fee_payment_process_creation_1.png)
+![Pre Admission Enrolment Fee Payment Process Creation 2](../99-Images/pre_admission_enrolment_fee_payment_process_creation_2.png)
+
 7. Choose the appropriate **Bank account** from the dropdown.
 8. Decide whether to enable the **preview** option:
    - If **Enabled**, review payment channels manually before processing.
    - If **Disabled**, the system posts the payment automatically.
 9. Click **OK** to finalise the payment.
 
----
+![Pre Admission Enrolment Fee Payment Process Creation 3](../99-Images/pre_admission_enrolment_fee_payment_process_creation_3.png)
+![Pre Admission Enrolment Fee Payment Process Creation 4](../99-Images/pre_admission_enrolment_fee_payment_process_creation_4.png)
 
+---
 
 #### Refundable Deposit
 Enrolment deposits are designed to be refundable under certain circumstances, but they can also be forfeited if a student does not proceed with enrolment. This section covers both scenarios. When a refund is required, staff select the deposit, choose the refund bank account, and process the transaction through the journal. When a deposit is to be forfeited, the same selection process applies, but the forfeit action is used instead. In both cases, only deposits with a status of Received or Partial are eligible for processing, ensuring that incomplete or unsettled deposits are not actioned prematurely.
