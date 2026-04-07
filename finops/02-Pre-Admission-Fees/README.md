@@ -73,6 +73,7 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
    *Note: The status updates from Created to Posted.*
 7. Click **Save**.
 
+![Manually Adding Enrolment Fee Records](../99-Images/manually_adding_enrolment_fee_records_creation_2.png)
 ---
 
 ## Manually Adding Enrolment Deposit Records
@@ -86,6 +87,7 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
    *Note: The status updates from Created to Posted.*
 7. Click **Save**.
 
+![Manually Adding Enrolment Deposit Records](../99-Images/manually_adding_enrolment_deposit_records_creation_3.png)
 ---
 
 
