@@ -59,6 +59,7 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 
 > **Tip:** *Under any date and time value, user can type letter "t" then hit Enter to input today date value.*
 
+![Manually Adding Application Fee Records](../99-Images/manually_adding_application_fee_records_creation_1.png)
 ---
 
 ## Manually Adding Enrolment Fee Records
