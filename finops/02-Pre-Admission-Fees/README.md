@@ -210,6 +210,9 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 6. Select the **enrolment deposit or fee** using the checkbox on the far-left column.
 7. Click **Cancel** in the toolbar.
 8. In the dialog box on the right, choose the **Reverse posting date.**
-9. Click OK.
+9. Click OK. 
+![Reverse Enrolment Deposit Or Fee Creation 1](../99-Images/reverse_enrolment_deposit_or_fee_creation_1.png)
+![Reverse Enrolment Deposit Or Fee Creation 2](../99-Images/reverse_enrolment_deposit_or_fee_creation_2.png)
+
 
 ---
