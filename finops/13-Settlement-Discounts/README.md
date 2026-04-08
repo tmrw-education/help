@@ -22,6 +22,8 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 7. Assign the **Main Account** where the discount will be posted.
 8. Click **Save**.
 
+![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
+
 ---
 
 ## Assigning Discounts to Products / Fees
@@ -31,6 +33,8 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 3. Select a relevant **fee item** (e.g., tuition, music lesson, sport class).
 4. Under the **Sell** section, assign the relevant discount code and percentage or amount using the **Early payment discount** dropdown.
 5. Click **Save**.
+
+![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
 
 ---
 
@@ -44,6 +48,8 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 6. Go to **Accounts receivable** ▸ **Invoices** ▸ **Open Customer Invoices**.
 7. Filter by **fee payer and/or date range** to confirm discounts and due dates are updated on invoices.
 
+![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
+
 ---
 
 ## Controlling Discount Eligibility Based on Payment
@@ -53,6 +59,8 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 3. Choose whether to enable or disable **Early payment discount eligibility**.
 4. Click **Save**.
    > Note: *If unchecked, the discount applies even if only one invoice is paid. If checked, the discount applies only if all due invoices are paid together.*
+
+![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
 
 ---
 
