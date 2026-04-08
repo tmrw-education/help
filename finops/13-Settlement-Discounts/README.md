@@ -73,4 +73,11 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 12. Check the **voucher** to confirm the discount was posted.
     > Note: *Click the three dots in the toolbar and choose All related vouchers to see the discount amount.*
 
+   ![Processing Payments with Discounts 1](../99-images/processing_payments_with_discounts_1.png)
+
+   ![Processing Payments with Discounts 2](../99-images/processing_payments_with_discounts_2.png)
+
+   ![Processing Payments with Discounts 3](../99-images/processing_payments_with_discounts_3.png)
+
+   ![Processing Payments with Discounts 4](../99-images/processing_payments_with_discounts_4.png)
 ---
