@@ -18,6 +18,7 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 3. Click **New** in the top toolbar.
 4. Complete the columns to create new fee categories.
 5. Click **Save**.
+![Create Fee Categories Creation 1](../99-Images/create_fee_categories_creation_1.png)
 
 ---
 
@@ -28,6 +29,7 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 3. Click **New** in the top toolbar.
 4. Complete the columns to create codes for subjects and events.
 5. Click **Save**.
+![Create Subject And Event Codes Creation 1](../99-Images/create_subject_and_event_codes_creation_1.png)
 
 ---
 
@@ -47,6 +49,7 @@ Once the subject and event codes are in place, students can be registered into s
 5. Expand the **Sell** section.
 6. Set the **fee category**.
 7. Click **Save**.
+![Assign Fee Category To An Item Creation 1](../99-Images/assign_fee_category_to_an_item_creation_1.png)
 
 ---
 
@@ -67,6 +70,8 @@ Once the subject and event codes are in place, students can be registered into s
 10. In the line with Code in the Field column, enter the event code in the **Criteria column** by clicking +.
 11. Click **OK**.
 12. Click **Save**.
+![Sessional Class And Event Enrolment Creation 1](../99-Images/sessional_class_and_event_enrolment_creation_1.png)
+![Sessional Class And Event Enrolment Creation 2](../99-Images/sessional_class_and_event_enrolment_creation_2.png)
 
 ---
 
@@ -80,6 +85,8 @@ Once the subject and event codes are in place, students can be registered into s
 4. Enable the **Session Based** option.
 5. Click **Save**.
 6. Run a fee schedule batch to generate the invoices.
+![Adjust For Session Based Invoicing Creation 1](../99-Images/adjust_for_session_based_invoicing_creation_1.png)
+![Adjust For Session Based Invoicing Creation 2](../99-Images/adjust_for_session_based_invoicing_creation_2.png)
 
 ---
 
@@ -99,6 +106,7 @@ After invoices have been generated for sessional classes or events, there may be
 5. Change the status from Invoice to Change by opening the **Change status** dropdown in the toolbar.
 6. Enter the new number of sessions attended by the student in the **Updated sessions** column.
 7. Click **Save**.
+![Update The Session Information Creation 1](../99-Images/update_the_session_information_creation_1.png)
 
 ---
 
@@ -109,5 +117,6 @@ After invoices have been generated for sessional classes or events, there may be
 3. In the dialog box, choose the **adjustment date**.
 4. Expand the **Records** to include section and add the specific student, or leave blank to process all students with changes.
 5. Click **OK** to run the task.
+![Generate The Adjustment Creation 1](../99-Images/generate_the_adjustment_creation_1.png)
 
 ---
