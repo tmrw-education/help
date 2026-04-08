@@ -25,6 +25,8 @@ Payment schedules allow the school to offer fee payers the option of paying invo
    - Enter the **Number of payments**.
 7. Click **Save**.
 
+![Create a New Payment Schedule](../99-Images/create_a_new_payment_schedule_1.png)
+
 ---
 
 ## Apply the Payment Schedule to Payment Plans
@@ -38,6 +40,8 @@ Payment schedules allow the school to offer fee payers the option of paying invo
    - Enter a description.
    - Set the start and end dates for the payment plan.
 5. Click Save.
+
+![Apply the Payment Schedule to Payment Plans](../99-Images/apply_the_payment_schedule_to_payment_plans_1.png)
 
 ---
 
