@@ -21,6 +21,8 @@ When a student begins their enrolment after the official term start date, it wou
     > Note: *This ensures the system calculates fees based on the actual number of study days for students who start after the official term start date.*
 6. Click **Save**.
 
+![Enable Pro Rata Adjustments](../99-Images/enable_pro_rata_adjustments_1.png)
+
 ---
 
 ## Update Student Enrolment Dates
@@ -31,6 +33,12 @@ When a student begins their enrolment after the official term start date, it wou
 4. Select the Academic tab (if it is not visible, click on the ellipsis), click **Academic enrolments**.
 5. Edit each student's enrolment record to set their **Effective date to the actual start date**.
 6. Click **Save**.
+
+![Update Student Enrolment Dates 1](../99-Images/update_student_enrolment_dates_1.png)
+
+![Update Student Enrolment Dates 2](../99-Images/update_student_enrolment_dates_2.png)
+
+![Update Student Enrolment Dates 3](../99-Images/update_student_enrolment_dates_3.png)
 
 ---
 
@@ -46,6 +54,8 @@ When a student begins their enrolment after the official term start date, it wou
 8. Expand **Fee schedule batches** and click **All fee schedule batches**.
 9. Open the **fee schedule batch form**.
 10. Review the sales orders for each student. Confirm that students with late start dates have a reduced tuition fee amount, reflecting the pro rata calculation based on their actual study days.
+
+![Generate and Review Sales Orders](../99-Images/generate_and_review_sales_orders_1.png)
 
 ---
 
