@@ -210,6 +210,9 @@ After fee invoices have been generated and reviewed, they need to be formally po
    - Run as a background job (recommended for large batches).
 7. If running in the background, submit and wait for processing.
 8. When complete, the batch status changes from Active to Invoice, and invoices are generated.
+![Post Fee Invoices Creation 1](../99-Images/post_fee_invoices_creation_1.png)
+![Post Fee Invoices Creation 2](../99-Images/post_fee_invoices_creation_2.png)
+![Post Fee Invoices Creation 3](../99-Images/post_fee_invoices_creation_3.png)
 
 ---
 
@@ -222,5 +225,7 @@ After fee invoices have been generated and reviewed, they need to be formally po
 5. Review deposits with status **received** (indicating payment).
 6. After posting, the system automatically matches these deposits to invoices.
 7. Confirm the deposit status changes from received to **settled**.
-
+![Settle Enrolment Deposits Creation 1](../99-Images/settle_enrolment_deposits_creation_1.png)
+![Settle Enrolment Deposits Creation 2](../99-Images/settle_enrolment_deposits_creation_2.png)
+![Settle Enrolment Deposits Creation 3](../99-Images/settle_enrolment_deposits_creation_3.png)
 ---
