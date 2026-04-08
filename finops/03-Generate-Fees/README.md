@@ -29,6 +29,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 11. Click **Save** if any changes were made.
 ![Check Student Details Creation 3](../99-Images/check_student_details_creation_3.png)
 ![Check Student Details Creation 4](../99-Images/check_student_details_creation_4.png)
+
 ---
 
 ## Scholarship and Discount Setup
@@ -47,6 +48,10 @@ Accurate fee generation depends entirely on the quality of the data held against
 7. Click **Add / remove users**.
 8. Search for and select the **approvers**.
 9. Click **Add to group** and go **back**.
+![Scholarship And Discount Setup Creation 1](../99-Images/scholarship_and_discount_setup_creation_1.png)
+![Scholarship And Discount Setup Creation 2](../99-Images/scholarship_and_discount_setup_creation_2.png)
+![Scholarship And Discount Setup Creation 3](../99-Images/scholarship_and_discount_setup_creation_3.png)
+
 10. Select the new **User group** and click **Save**.
 11. Select the **scholarship or discount** you created.
 12. Go to the **General tab** and click **Items** under Fees.
@@ -59,6 +64,9 @@ Accurate fee generation depends entirely on the quality of the data held against
 19. From the **Approval dropdown**, select **Report as ready**.
 20. Repeat to fully approve by selecting **Approve**.
 21. Click **Save**.
+![Scholarship And Discount Setup Creation 4](../99-Images/scholarship_and_discount_setup_creation_4.png)
+![Scholarship And Discount Setup Creation 5](../99-Images/scholarship_and_discount_setup_creation_5.png)
+![Scholarship And Discount Setup Creation 6](../99-Images/scholarship_and_discount_setup_creation_6.png)
 
 ---
 
@@ -83,6 +91,8 @@ Accurate fee generation depends entirely on the quality of the data held against
     - Enter **Session numbers** if required (leave 0 for single sessions).
     - Enter the **Effective date and Expiration date**.
 11. Click **Save**.
+![Subject And Event Name Setup Creation 1](../99-Images/subject_and_event_name_setup_creation_1.png)
+![Subject And Event Name Setup Creation 2](../99-Images/subject_and_event_name_setup_creation_2.png)
 
 ---
 
