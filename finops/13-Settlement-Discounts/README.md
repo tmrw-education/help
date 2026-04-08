@@ -22,7 +22,7 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 7. Assign the **Main Account** where the discount will be posted.
 8. Click **Save**.
 
-![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
+![Configuring Discount Setup](../99-Images/configuring_discount_setup_1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 4. Under the **Sell** section, assign the relevant discount code and percentage or amount using the **Early payment discount** dropdown.
 5. Click **Save**.
 
-![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
+![Assiging Discounts to Products / Fees](../99-Images/assiging_discounts_to_products_1.png)
 
 ---
 
@@ -48,7 +48,9 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 6. Go to **Accounts receivable** ▸ **Invoices** ▸ **Open Customer Invoices**.
 7. Filter by **fee payer and/or date range** to confirm discounts and due dates are updated on invoices.
 
-![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
+![Bulk Updating Discounts on Invoices 1](../99-Images/bulk_update_discounts_on_invoices_1.png)
+
+![Bulk Updating Discounts on Invoices 2](../99-Images/bulk_update_discounts_on_invoices_2.png)
 
 ---
 
@@ -60,7 +62,7 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 4. Click **Save**.
    > Note: *If unchecked, the discount applies even if only one invoice is paid. If checked, the discount applies only if all due invoices are paid together.*
 
-![Processing Payments with Discounts 1](../99-Images/processing_payments_with_discounts_1.png)
+![Controlling Discount Eligibility Based on Payment](../99-Images/controlling_discount_eligibility_based_on_payment_1.png)
 
 ---
 
