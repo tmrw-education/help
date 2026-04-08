@@ -8,7 +8,6 @@ This section covers the two main methods for processing fee payments from custom
 #### In-Person (Over-the-Counter)
 Over-the-counter payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff access the Over the Counter Payment form, select the fee payer, choose the payment method such as cash or credit card, enter the amount, and mark the invoices the payment should be applied to. If the amount paid exceeds the invoice total, the system records the excess as an advance payment. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
 
-
 ---
 
 ## Over-the-Counter Processing
@@ -27,6 +26,8 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 11. The system generates a **unique journal number** for reference.
 12. A dialog box appears asking if you want to **print and/or email** the receipt. Select your options and click **OK**.
 13. The system prints the receipt and/or sends it to the fee payer's email as specified.
+
+![Over-the-Counter Processing](../99-Images/over_the_counter_processing_1.png)
 
 ---
 
@@ -56,5 +57,15 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
     > Note: *The system requests authorisation from the service provider. If successful, the status changes to Approved; if not, a failure message appears, unauthorised lines are deleted and must be manually retired or reviewed.*
 14. Once authorisation is received, click **Post**.
     > Note: *The system confirms posting, and the Post button becomes inactive. All transactions are now posted and complete.*
+
+![Schuedling Credit Card Payments 1](../99-Images/scheduling_credit_card_payments_1.png)
+
+![Schuedling Credit Card Payments 2](../99-Images/scheduling_credit_card_payments_2.png)
+
+![Schuedling Credit Card Payments 3](../99-Images/scheduling_credit_card_payments_3.png)
+
+![Schuedling Credit Card Payments 4](../99-Images/scheduling_credit_card_payments_4.png)
+
+![Schuedling Credit Card Payments 5](../99-Images/scheduling_credit_card_payments_5.png)
 
 ---
