@@ -126,7 +126,6 @@ Accurate fee generation depends entirely on the quality of the data held against
 ![Create Fee Schedule Templates Creation 4](../99-Images/create_fee_schedule_templates_creation_4.png)
 ![Create Fee Schedule Templates Creation 5](../99-Images/create_fee_schedule_templates_creation_5.png)
 ![Create Fee Schedule Templates Creation 6](../99-Images/create_fee_schedule_templates_creation_6.png)
-![Create Fee Schedule Templates Creation 7](../99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
 
@@ -141,6 +140,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 7. Complete the required fields for each line.
 8. Add **conditions** if required.
 9. Click **Save**.
+![Create Fee Schedule Templates Creation 7](../99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
 
@@ -188,7 +188,7 @@ With student data confirmed and fee schedule templates in place, the system is r
 6. In the dialog, click **Download** to export to Excel or SSRS for further validation if needed.
 ![Reconcile The Generated Sales Orders Creation 1](../99-Images/reconcile_the_generated_sales_orders_creation_1.png)
 ![Reconcile The Generated Sales Orders Creation 2](../99-Images/reconcile_the_generated_sales_orders_creation_2.png)
-![Reconcile The Generated Sales Orders Creation 3](../99-Images/reconcile_the_generated_sales_creation_3.png)
+![Reconcile The Generated Sales Orders Creation 3](../99-Images/reconcile_the_generated_sales_orders_creation_3.png)
 
 ---
 
