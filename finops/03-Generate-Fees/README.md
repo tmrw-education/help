@@ -105,10 +105,15 @@ Accurate fee generation depends entirely on the quality of the data held against
 5. **Choose an option** from the Billing interval dropdown.
 6. Click **+ Add line** to create the fee schedule.
 7. Select the required fee item in **Item number**.
+![Create Fee Schedule Templates Creation 1](../99-Images/create_fee_schedule_templates_creation_1.png)
+
 8. If a condition is required for the fee invoice, check the box in the **Condition** column.
     - Open **Condition** from the toolbar.
     - Choose the line that is required for the fee being paid and enter a value in the **Criteria** column by clicking on the '+' button.
     - Click **Ok** in the bottom right.
+![Create Fee Schedule Templates Creation 2](../99-Images/create_fee_schedule_templates_creation_2.png)
+![Create Fee Schedule Templates Creation 3](../99-Images/create_fee_schedule_templates_creation_3.png)
+
 9. Click the **+ Add line** button.
 10. Create the fee discount and fill out the following fields:
     - Click the dropdown in the **Item number** column and choose the required discount item.
@@ -118,6 +123,10 @@ Accurate fee generation depends entirely on the quality of the data held against
     - Open **Condition** from the toolbar.
     - In the line which has **Code** in the **Field** column enter a value in the **Criteria** column by clicking on the '+' button.
     - Click **Ok** in the bottom right.
+![Create Fee Schedule Templates Creation 4](../99-Images/create_fee_schedule_templates_creation_4.png)
+![Create Fee Schedule Templates Creation 5](../99-Images/create_fee_schedule_templates_creation_5.png)
+![Create Fee Schedule Templates Creation 6](../99-Images/create_fee_schedule_templates_creation_6.png)
+![Create Fee Schedule Templates Creation 7](../99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
 
