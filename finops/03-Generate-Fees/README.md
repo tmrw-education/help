@@ -189,7 +189,7 @@ With student data confirmed and fee schedule templates in place, the system is r
 ![Reconcile The Generated Sales Orders Creation 1](../99-Images/reconcile_the_generated_sales_orders_creation_1.png)
 ![Reconcile The Generated Sales Orders Creation 2](../99-Images/reconcile_the_generated_sales_orders_creation_2.png)
 ![Reconcile The Generated Sales Orders Creation 3](../99-Images/reconcile_the_generated_sales_orders_creation_3.png)
-![Reconcile The Generated Sales Orders Creation 3](../99-Images/reconcile_the_generated_sales_orders_creation_3.png)
+
 ---
 
 #### Post Fee Invoice and Settle Deposit
