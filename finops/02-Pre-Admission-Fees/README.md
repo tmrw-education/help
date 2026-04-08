@@ -180,17 +180,19 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 
 7. In the dialog box on the right, choose the **Bank account** for the refund.
 8. Choose whether to **Preview** or disable the toggle to post automatically. Click **OK**.
-9. To preview, click the **Refund journal number**. 
+9. To preview, click the **Refund journal number**.
 10. Open the journal by selecting the refund journal and clicking **Lines** in the toolbar. 
 11. Review the refund, select the credit line using the **checkbox**, and click **Post**.
 12. Review the transaction.
 <img align="right" src="../99-Images/refunding_deposits_creation_5.png" alt="Refunding Deposits Creation 5" width="250"/>
+
+
 13. Select the credit line using the **checkbox**, and click **Post**.
 14. Click **Save** in the toolbar.
-
+![Refunding Deposits Creation 6](../99-Images/refunding_deposits_creation_6.png)
+![Refunding Deposits Creation 7](../99-Images/refunding_deposits_creation_7.png)
 
 ---
-
 
 #### Reversing Unpaid Fees
 There are situations where a posted enrolment fee or deposit needs to be reversed, such as when a fee was created in error or circumstances have changed before payment was received. This process allows staff to cancel a posted record by selecting it from the pre-admission fees list and applying a reverse posting date. The reversal creates an offsetting entry in the system, effectively cancelling the original transaction and restoring the record to a neutral state without permanently deleting any audit history.
