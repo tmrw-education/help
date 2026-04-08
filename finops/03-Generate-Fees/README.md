@@ -19,12 +19,16 @@ Accurate fee generation depends entirely on the quality of the data held against
 4. Confirm the Current academic year under Enrolment details and update if needed.
 5. Open the **Academic** tab in the top toolbar.
 6. Click on **Academic enrolments** under Related information.
+![Check Student Details Creation 1](../99-Images/check_student_details_creation_1.png)
+![Check Student Details Creation 2](../99-Images/check_student_details_creation_2.png)
+
 7. Confirm the **Effective date** and **Expiration date** and update if needed.
 8. Click **Back** in the top toolbar.
 9. If the student has siblings, confirm the Sibling field under General has a number (e.g., eldest sibling = 1).
 10. In the Relationships section, ensure the total **Paid percentage equals 100.00**.
 11. Click **Save** if any changes were made.
-
+![Check Student Details Creation 3](../99-Images/check_student_details_creation_3.png)
+![Check Student Details Creation 4](../99-Images/check_student_details_creation_4.png)
 ---
 
 ## Scholarship and Discount Setup
