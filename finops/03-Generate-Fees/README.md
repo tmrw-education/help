@@ -163,11 +163,16 @@ With student data confirmed and fee schedule templates in place, the system is r
 6. Decide whether to **Consolidate by item**:
    - Yes — separates invoices by item.
    - No — generates one invoice per student for the entire template.
+![Generate Fee Invoices Creation 1](../99-Images/generate_fee_invoices_creation_1.png)
+
 7. Use Customer **Filter** to select specific students or groups (e.g., by academic year).
 8. In **Records to include**, select one or more fee schedule templates.
 9. Under **Run in the background**, turn on Batch processing for large student numbers to avoid performance issues.
 10. Click **OK** to start the process.
 11. The system will notify you when the task is processing and when it's complete.
+![Generate Fee Invoices Creation 2](../99-Images/generate_fee_invoices_creation_2.png)
+![Generate Fee Invoices Creation 3](../99-Images/generate_fee_invoices_creation_3.png)
+![Generate Fee Invoices Creation 4](../99-Images/generate_fee_invoices_creation_4.png)
 
 ---
 
@@ -181,9 +186,11 @@ With student data confirmed and fee schedule templates in place, the system is r
    - How many students were included.
 5. To export data, right-click the **Fee payer name** column header and select **Export all rows**.
 6. In the dialog, click **Download** to export to Excel or SSRS for further validation if needed.
+![Reconcile The Generated Sales Orders Creation 1](../99-Images/reconcile_the_generated_sales_orders_creation_1.png)
+![Reconcile The Generated Sales Orders Creation 2](../99-Images/reconcile_the_generated_sales_orders_creation_2.png)
+![Reconcile The Generated Sales Orders Creation 3](../99-Images/reconcile_the_generated_sales_orders_creation_3.png)
 
 ---
-
 
 #### Post Fee Invoice and Settle Deposit
 After fee invoices have been generated and reviewed, they need to be formally posted to create the financial transactions in the system. This is done by selecting the relevant fee schedule batch and initiating the post, either directly or as a background job for large volumes. Once posted, the batch status updates from Active to Invoice. At this point, the system also automatically matches any received enrolment deposits to the corresponding invoices, settling them against the posted amounts. Staff should confirm that deposit statuses update from Received to Settled to ensure the reconciliation has completed correctly.
