@@ -36,6 +36,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 8. Click **New** in the toolbar to create the Enrolment Deposit entry.
 9. Set values for each of the columns in the table.
 10. Click **Save**.
+
 ![Setup Posting Logic For Each Transaction Type Creation 1](../99-Images/setup_posting_logic_for_each_transaction_type_creation_1.png)
 
 ---
@@ -61,6 +62,7 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 > **Tip:** *Under any date and time value, user can type letter "t" then hit Enter to input today date value.*
 
 ![Manually Adding Application Fee Records](../99-Images/manually_adding_application_fee_records_creation_1.png)
+
 ---
 
 ## Manually Adding Enrolment Fee Records
@@ -75,6 +77,7 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 7. Click **Save**.
 
 ![Manually Adding Enrolment Fee Records](../99-Images/manually_adding_enrolment_fee_records_creation_2.png)
+
 ---
 
 ## Manually Adding Enrolment Deposit Records
@@ -89,6 +92,7 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 7. Click **Save**.
 
 ![Manually Adding Enrolment Deposit Records](../99-Images/manually_adding_enrolment_deposit_records_creation_3.png)
+
 ---
 
 
@@ -111,9 +115,13 @@ Once enrolment fees and deposits have been created and posted, payments can be p
    - If **Enabled**, review payment channels manually before processing.
    - If **Disabled**, the system posts the payment automatically.
 9. Click **OK** to finalise the payment.
+
 ![Pre Admission Enrolment Fee Payment Process Creation 1](../99-Images/pre_admission_enrolment_fee_payment_process_creation_1.png)
+
 ![Pre Admission Enrolment Fee Payment Process Creation 2](../99-Images/pre_admission_enrolment_fee_payment_process_creation_2.png)
+
 ![Pre Admission Enrolment Fee Payment Process Creation 3](../99-Images/pre_admission_enrolment_fee_payment_process_creation_3.png)
+
 ![Pre Admission Enrolment Fee Payment Process Creation 4](../99-Images/pre_admission_enrolment_fee_payment_process_creation_4.png)
 
 ---
@@ -143,11 +151,17 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 13. Review the transaction.
 14. Select the credit line using the **checkbox** and click **Post**.
 15. Click **Save** in the toolbar.
+
 ![Forfeiting Deposits Creation 1](../99-Images/forfeiting_deposits_creation_1.png)
+
 ![Forfeiting Deposits Creation 2](../99-Images/forfeiting_deposits_creation_2.png)
+
 ![Forfeiting Deposits Creation 3](../99-Images/forfeiting_deposits_creation_3.png)
+
 ![Forfeiting Deposits Creation 4](../99-Images/forfeiting_deposits_creation_4.png)
+
 ![Forfeiting Deposits Creation 5](../99-Images/forfeiting_deposits_creation_5.png)
+
 ![Forfeiting Deposits Creation 6](../99-Images/forfeiting_deposits_creation_6.png)
 
 ---
@@ -168,12 +182,19 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 12. Review the transaction.
 13. Select the credit line using the **checkbox**, and click **Post**.
 14. Click **Save** in the toolbar.
+
 ![Refunding Deposits Creation 1](../99-Images/refunding_deposits_creation_1.png)
+
 ![Refunding Deposits Creation 2](../99-Images/refunding_deposits_creation_2.png)
+
 ![Refunding Deposits Creation 3](../99-Images/refunding_deposits_creation_3.png)
+
 ![Refunding Deposits Creation 4](../99-Images/refunding_deposits_creation_4.png)
+
 ![Refunding Deposits Creation 5](../99-Images/refunding_deposits_creation_5.png)
+
 ![Refunding Deposits Creation 6](../99-Images/refunding_deposits_creation_6.png)
+
 ![Refunding Deposits Creation 7](../99-Images/refunding_deposits_creation_7.png)
 
 ---
@@ -195,7 +216,9 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 7. Click **Cancel** in the toolbar.
 8. In the dialog box on the right, choose the **Reverse posting date.**
 9. Click OK. 
+
 ![Reverse Enrolment Deposit Or Fee Creation 1](../99-Images/reverse_enrolment_deposit_or_fee_creation_1.png)
+
 ![Reverse Enrolment Deposit Or Fee Creation 2](../99-Images/reverse_enrolment_deposit_or_fee_creation_2.png)
 
 
