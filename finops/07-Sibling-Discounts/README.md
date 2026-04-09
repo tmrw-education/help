@@ -87,6 +87,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 10. When the task completes, go back to **Modules** ▸ **Academic Management**.
 11. Expand **Fee schedule batches** and click **All fee schedule batches**.
 12. Open the latest batch and review the sales orders.
+    
 ![Sibling Order Calculation Creation 1](../99-Images/sibling_order_calculation_creation_1.png)
 
 ---
