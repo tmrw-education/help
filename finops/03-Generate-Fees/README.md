@@ -19,15 +19,18 @@ Accurate fee generation depends entirely on the quality of the data held against
 4. Confirm the Current academic year under Enrolment details and update if needed.
 5. Open the **Academic** tab in the top toolbar.
 6. Click on **Academic enrolments** under Related information.
-![Check Student Details Creation 1](../99-Images/check_student_details_creation_1.png)
-![Check Student Details Creation 2](../99-Images/check_student_details_creation_2.png)
-
 7. Confirm the **Effective date** and **Expiration date** and update if needed.
 8. Click **Back** in the top toolbar.
 9. If the student has siblings, confirm the Sibling field under General has a number (e.g., eldest sibling = 1).
 10. In the Relationships section, ensure the total **Paid percentage equals 100.00**.
 11. Click **Save** if any changes were made.
+
+![Check Student Details Creation 1](../99-Images/check_student_details_creation_1.png)
+
+![Check Student Details Creation 2](../99-Images/check_student_details_creation_2.png)
+
 ![Check Student Details Creation 3](../99-Images/check_student_details_creation_3.png)
+
 ![Check Student Details Creation 4](../99-Images/check_student_details_creation_4.png)
 
 ---
@@ -48,8 +51,11 @@ Accurate fee generation depends entirely on the quality of the data held against
 7. Click **Add / remove users**.
 8. Search for and select the **approvers**.
 9. Click **Add to group** and go **back**.
+
 ![Scholarship And Discount Setup Creation 1](../99-Images/scholarship_and_discount_setup_creation_1.png)
+
 ![Scholarship And Discount Setup Creation 2](../99-Images/scholarship_and_discount_setup_creation_2.png)
+
 ![Scholarship And Discount Setup Creation 3](../99-Images/scholarship_and_discount_setup_creation_3.png)
 
 10. Select the new **User group** and click **Save**.
@@ -64,8 +70,11 @@ Accurate fee generation depends entirely on the quality of the data held against
 19. From the **Approval dropdown**, select **Report as ready**.
 20. Repeat to fully approve by selecting **Approve**.
 21. Click **Save**.
+
 ![Scholarship And Discount Setup Creation 4](../99-Images/scholarship_and_discount_setup_creation_4.png)
+
 ![Scholarship And Discount Setup Creation 5](../99-Images/scholarship_and_discount_setup_creation_5.png)
+
 ![Scholarship And Discount Setup Creation 6](../99-Images/scholarship_and_discount_setup_creation_6.png)
 
 ---
@@ -91,7 +100,9 @@ Accurate fee generation depends entirely on the quality of the data held against
     - Enter **Session numbers** if required (leave 0 for single sessions).
     - Enter the **Effective date and Expiration date**.
 11. Click **Save**.
+
 ![Subject And Event Name Setup Creation 1](../99-Images/subject_and_event_name_setup_creation_1.png)
+
 ![Subject And Event Name Setup Creation 2](../99-Images/subject_and_event_name_setup_creation_2.png)
 
 ---
@@ -105,15 +116,10 @@ Accurate fee generation depends entirely on the quality of the data held against
 5. **Choose an option** from the Billing interval dropdown.
 6. Click **+ Add line** to create the fee schedule.
 7. Select the required fee item in **Item number**.
-![Create Fee Schedule Templates Creation 1](../99-Images/create_fee_schedule_templates_creation_1.png)
-
 8. If a condition is required for the fee invoice, check the box in the **Condition** column.
     - Open **Condition** from the toolbar.
     - Choose the line that is required for the fee being paid and enter a value in the **Criteria** column by clicking on the '+' button.
     - Click **Ok** in the bottom right.
-![Create Fee Schedule Templates Creation 2](../99-Images/create_fee_schedule_templates_creation_2.png)
-![Create Fee Schedule Templates Creation 3](../99-Images/create_fee_schedule_templates_creation_3.png)
-
 9. Click the **+ Add line** button.
 10. Create the fee discount and fill out the following fields:
     - Click the dropdown in the **Item number** column and choose the required discount item.
@@ -123,8 +129,17 @@ Accurate fee generation depends entirely on the quality of the data held against
     - Open **Condition** from the toolbar.
     - In the line which has **Code** in the **Field** column enter a value in the **Criteria** column by clicking on the '+' button.
     - Click **Ok** in the bottom right.
+
+![Create Fee Schedule Templates Creation 1](../99-Images/create_fee_schedule_templates_creation_1.png)
+
+![Create Fee Schedule Templates Creation 2](../99-Images/create_fee_schedule_templates_creation_2.png)
+
+![Create Fee Schedule Templates Creation 3](../99-Images/create_fee_schedule_templates_creation_3.png)
+
 ![Create Fee Schedule Templates Creation 4](../99-Images/create_fee_schedule_templates_creation_4.png)
+
 ![Create Fee Schedule Templates Creation 5](../99-Images/create_fee_schedule_templates_creation_5.png)
+
 ![Create Fee Schedule Templates Creation 6](../99-Images/create_fee_schedule_templates_creation_6.png)
 
 ---
@@ -140,6 +155,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 7. Complete the required fields for each line.
 8. Add **conditions** if required.
 9. Click **Save**.
+
 ![Create Fee Schedule Templates Creation 7](../99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
@@ -163,15 +179,20 @@ With student data confirmed and fee schedule templates in place, the system is r
 6. Decide whether to **Consolidate by item**:
    - Yes — separates invoices by item.
    - No — generates one invoice per student for the entire template.
-![Generate Fee Invoices Creation 1](../99-Images/generate_fee_invoices_creation_1.png)
+
 
 7. Use Customer **Filter** to select specific students or groups (e.g., by academic year).
 8. In **Records to include**, select one or more fee schedule templates.
 9. Under **Run in the background**, turn on Batch processing for large student numbers to avoid performance issues.
 10. Click **OK** to start the process.
 11. The system will notify you when the task is processing and when it's complete.
+
+![Generate Fee Invoices Creation 1](../99-Images/generate_fee_invoices_creation_1.png)
+
 ![Generate Fee Invoices Creation 2](../99-Images/generate_fee_invoices_creation_2.png)
+
 ![Generate Fee Invoices Creation 3](../99-Images/generate_fee_invoices_creation_3.png)
+
 ![Generate Fee Invoices Creation 4](../99-Images/generate_fee_invoices_creation_4.png)
 
 ---
@@ -186,8 +207,11 @@ With student data confirmed and fee schedule templates in place, the system is r
    - How many students were included.
 5. To export data, right-click the **Fee payer name** column header and select **Export all rows**.
 6. In the dialog, click **Download** to export to Excel or SSRS for further validation if needed.
+
 ![Reconcile The Generated Sales Orders Creation 1](../99-Images/reconcile_the_generated_sales_orders_creation_1.png)
+
 ![Reconcile The Generated Sales Orders Creation 2](../99-Images/reconcile_the_generated_sales_orders_creation_2.png)
+
 ![Reconcile The Generated Sales Orders Creation 3](../99-Images/reconcile_the_generated_sales_orders_creation_3.png)
 
 ---
@@ -210,8 +234,11 @@ After fee invoices have been generated and reviewed, they need to be formally po
    - Run as a background job (recommended for large batches).
 7. If running in the background, submit and wait for processing.
 8. When complete, the batch status changes from Active to Invoice, and invoices are generated.
+
 ![Post Fee Invoices Creation 1](../99-Images/post_fee_invoices_creation_1.png)
+
 ![Post Fee Invoices Creation 2](../99-Images/post_fee_invoices_creation_2.png)
+
 ![Post Fee Invoices Creation 3](../99-Images/post_fee_invoices_creation_3.png)
 
 ---
@@ -225,7 +252,11 @@ After fee invoices have been generated and reviewed, they need to be formally po
 5. Review deposits with status **received** (indicating payment).
 6. After posting, the system automatically matches these deposits to invoices.
 7. Confirm the deposit status changes from received to **settled**.
+
 ![Settle Enrolment Deposits Creation 1](../99-Images/settle_enrolment_deposits_creation_1.png)
+
 ![Settle Enrolment Deposits Creation 2](../99-Images/settle_enrolment_deposits_creation_2.png)
+
 ![Settle Enrolment Deposits Creation 3](../99-Images/settle_enrolment_deposits_creation_3.png)
+
 ---
