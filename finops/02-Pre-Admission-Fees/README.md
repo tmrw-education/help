@@ -36,7 +36,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 8. Click **New** in the toolbar to create the Enrolment Deposit entry.
 9. Set values for each of the columns in the table.
 10. Click **Save**.
-
+![Setup Posting Logic For Each Transaction Type Creation 1](../99-Images/setup_posting_logic_for_each_transaction_type_creation_1.png)
 ---
 
 
