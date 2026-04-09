@@ -106,16 +106,13 @@ Once enrolment fees and deposits have been created and posted, payments can be p
 4. Identify the student by clicking the **Student name** column and using the **filter** to search (e.g., Stuart Little).
 5. **Check** either the Enrolment fee and/or Enrolment deposit from the far-left column.
 6. Click **Post receipt** in the toolbar.
-
-![Pre Admission Enrolment Fee Payment Process Creation 1](../99-Images/pre_admission_enrolment_fee_payment_process_creation_1.png)
-![Pre Admission Enrolment Fee Payment Process Creation 2](../99-Images/pre_admission_enrolment_fee_payment_process_creation_2.png)
-
 7. Choose the appropriate **Bank account** from the dropdown.
 8. Decide whether to enable the **preview** option:
    - If **Enabled**, review payment channels manually before processing.
    - If **Disabled**, the system posts the payment automatically.
 9. Click **OK** to finalise the payment.
-
+![Pre Admission Enrolment Fee Payment Process Creation 1](../99-Images/pre_admission_enrolment_fee_payment_process_creation_1.png)
+![Pre Admission Enrolment Fee Payment Process Creation 2](../99-Images/pre_admission_enrolment_fee_payment_process_creation_2.png)
 ![Pre Admission Enrolment Fee Payment Process Creation 3](../99-Images/pre_admission_enrolment_fee_payment_process_creation_3.png)
 ![Pre Admission Enrolment Fee Payment Process Creation 4](../99-Images/pre_admission_enrolment_fee_payment_process_creation_4.png)
 
@@ -129,7 +126,6 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 
 ## Forfeiting Deposits
 
-<img align="right" src="../99-Images/forfeiting_deposits_creation_1.png" alt="Forfeiting Deposits Creation 1" width="300"/>
 > **Note:** *Only deposits with Status = Received or Partial is eligible to be forfeited.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
@@ -140,33 +136,23 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 6. Click **Forfeit** in the toolbar.
 7. In the dialog box on the right, choose whether to **Preview** or **disable** the toggle to post automatically.
 8. Click **OK**.
-   
-<img align="left" src="../99-Images/forfeiting_deposits_creation_2.png" alt="Forfeiting Deposits Creation 2" width="400"/>
-<img align="right" src="../99-Images/forfeiting_deposits_creation_3.png" alt="Forfeiting Deposits Creation 3" width="400"/>
-<br clear="both"/>
-
-
-
 9. To preview, click the **Forfeit journal number**.
 10. Open the journal by clicking **Lines** in the toolbar.
 11. Review the transaction, select the credit line using the **checkbox**, and click **Post**.
-12. Click **Save** in the toolbar.
-![Forfeiting Deposits Creation 4](../99-Images/forfeiting_deposits_creation_4.png)
-![Forfeiting Deposits Creation 5](../99-Images/forfeiting_deposits_creation_5.png)
-
-                                                            
+12. Click **Save** in the toolbar.                                                           
 13. Review the transaction.
 14. Select the credit line using the **checkbox** and click **Post**.
 15. Click **Save** in the toolbar.
+![Forfeiting Deposits Creation 1](../99-Images/forfeiting_deposits_creation_1.png)
+![Forfeiting Deposits Creation 2](../99-Images/forfeiting_deposits_creation_2.png)
+![Forfeiting Deposits Creation 3](../99-Images/forfeiting_deposits_creation_3.png)
+![Forfeiting Deposits Creation 4](../99-Images/forfeiting_deposits_creation_4.png)
+![Forfeiting Deposits Creation 5](../99-Images/forfeiting_deposits_creation_5.png)
 ![Forfeiting Deposits Creation 6](../99-Images/forfeiting_deposits_creation_6.png)
 
 ---
 
 ## Refunding Deposits
-
-<img align="right" src="../99-Images/refunding_deposits_creation_1.png" alt="Refunding Deposits Creation 1" width="300"/>
-<br clear="both"/>
-<img align="right" src="../99-Images/refunding_deposits_creation_2.png" alt="Refunding Deposits Creation 2" width="300"/>
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
@@ -174,22 +160,19 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 4. When the deposit criteria window opens, click **OK** to view all deposits.
 5. **Check** the deposit to be refunded from the far-left column.
 6. Click **Refund** in the toolbar.
-![Refunding Deposits Creation 3](../99-Images/refunding_deposits_creation_3.png)
-
-
-<img align="right" src="../99-Images/refunding_deposits_creation_4.png" alt="Refunding Deposits Creation 4" width="300"/>
-
 7. In the dialog box on the right, choose the **Bank account** for the refund.
 8. Choose whether to **Preview** or disable the toggle to post automatically. Click **OK**.
 9. To preview, click the **Refund journal number**.
 10. Open the journal by selecting the refund journal and clicking **Lines** in the toolbar. 
 11. Review the refund, select the credit line using the **checkbox**, and click **Post**.
 12. Review the transaction.
-<img align="right" src="../99-Images/refunding_deposits_creation_5.png" alt="Refunding Deposits Creation 5" width="250"/>
-
-
 13. Select the credit line using the **checkbox**, and click **Post**.
 14. Click **Save** in the toolbar.
+![Refunding Deposits Creation 1](../99-Images/refunding_deposits_creation_1.png)
+![Refunding Deposits Creation 2](../99-Images/refunding_deposits_creation_2.png)
+![Refunding Deposits Creation 3](../99-Images/refunding_deposits_creation_3.png)
+![Refunding Deposits Creation 4](../99-Images/refunding_deposits_creation_4.png)
+![Refunding Deposits Creation 5](../99-Images/refunding_deposits_creation_5.png)
 ![Refunding Deposits Creation 6](../99-Images/refunding_deposits_creation_6.png)
 ![Refunding Deposits Creation 7](../99-Images/refunding_deposits_creation_7.png)
 
