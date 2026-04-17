@@ -109,25 +109,33 @@ Accurate fee generation depends entirely on the quality of the data held against
 ## Create Fee Schedule Templates
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Fee schedules** and click on **All fee schedules**.
-3. Click **New** in the toolbar to create the fee invoice.
-4. Enter details in **Description** (e.g., Fee invoice).
-5. **Choose an option** from the Billing interval dropdown.
-6. Click **+ Add line** to create the fee schedule.
-7. Select the required fee item in **Item number**.
-8. If a condition is required for the fee invoice, check the box in the **Condition** column.
-    - Open **Condition** from the toolbar.
-    - Choose the line that is required for the fee being paid and enter a value in the **Criteria** column by clicking on the '+' button.
-    - Click **Ok** in the bottom right.
-9. Click the **+ Add line** button.
-10. Create the fee discount and fill out the following fields:
-    - Click the dropdown in the **Item number** column and choose the required discount item.
-    - Change the value in the **Quantity** column to **-1**.
-    - Change the value in the **Apply to** column to **Scholarship and discount**.
-11. **If a condition is required** for the fee discount, check the box in the **Condition** column.
-    - Open **Condition** from the toolbar.
-    - In the line which has **Code** in the **Field** column enter a value in the **Criteria** column by clicking on the '+' button.
-    - Click **Ok** in the bottom right.
+2. Expand **Fee schedules** and click **All fee schedules**.
+3. Click **New** in the toolbar.
+4. Set **Customer type** to **Student**.
+5. Enter a **Description**.
+6. Select the **Fee and charge interval**.
+   > **Note:** *The fee and charge interval determines which students and terms the system targets when generating invoices. Start and end dates populate automatically based on this selection.*
+7. Click **+ Add line** under **Fee schedule lines**.
+8. Select the **Item number**.
+9. Select the **Unit**.
+   > **Note:** *The unit must match the unit used when setting up the item price in the trade agreement.*
+10. Enable **Quantity** if the system should use the quantity from the fee and charge interval rather than the template.
+    > **Note:** *Enable this for items charged monthly. Leave disabled for items charged once per year.*
+11. Enable **Consolidate all periods** if all terms should be consolidated into one sales order line.
+    > **Note:** *Enable this for recurring items such as tuition fees. Leave disabled for one-off items such as ID card fees.*
+12. Set **Apply to** to **Student account**.
+13. If the item should only apply to students who meet specific criteria, enable **Condition**.
+14. Click **Condition** in the toolbar.
+15. Select the **Field** and enter the required value in the **Criteria** column.
+16. Click **OK**.
+    > **Note:** *Use conditions when the school has different fee structures for different student types. Items without conditions apply to all students.*
+17. Repeat steps 7–16 for each additional fee item.
+18. To set up revenue recognition, click **Deferral** in the toolbar.
+19. Enable the **Deferral** option for each term.
+20. Select the **Deferral template** for the number of months to allocate revenue across.
+    > **Note:** *If a revenue recognition date is set in the fee and charge interval, the system automatically populates the deferral start date.*
+21. Click **Ok**.
+22. Click **Save**.
 
 ![Create Fee Schedule Templates Creation 1](../99-Images/create_fee_schedule_templates_creation_1.png)
 
@@ -140,6 +148,10 @@ Accurate fee generation depends entirely on the quality of the data held against
 ![Create Fee Schedule Templates Creation 5](../99-Images/create_fee_schedule_templates_creation_5.png)
 
 ![Create Fee Schedule Templates Creation 6](../99-Images/create_fee_schedule_templates_creation_6.png)
+
+![Create Fee Schedule Templates Creation 7](../99-Images/create_fee_schedule_templates_creation_7.png)
+
+![Create Fee Schedule Templates Creation 8](../99-Images/create_fee_schedule_templates_creation_8.png)
 
 ---
 
