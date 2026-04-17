@@ -137,21 +137,11 @@ Accurate fee generation depends entirely on the quality of the data held against
 21. Click **Ok**.
 22. Click **Save**.
 
-![Create Fee Schedule Templates Creation 1](../99-Images/create_fee_schedule_templates_creation_1.png)
+![Create Fee Schedule Templates 1](../99-Images/create_fee_schedule_templates_1.png)
 
-![Create Fee Schedule Templates Creation 2](../99-Images/create_fee_schedule_templates_creation_2.png)
+![Create Fee Schedule Templates 2](../99-Images/create_fee_schedule_templates_2.png)
 
-![Create Fee Schedule Templates Creation 3](../99-Images/create_fee_schedule_templates_creation_3.png)
-
-![Create Fee Schedule Templates Creation 4](../99-Images/create_fee_schedule_templates_creation_4.png)
-
-![Create Fee Schedule Templates Creation 5](../99-Images/create_fee_schedule_templates_creation_5.png)
-
-![Create Fee Schedule Templates Creation 6](../99-Images/create_fee_schedule_templates_creation_6.png)
-
-![Create Fee Schedule Templates Creation 7](../99-Images/create_fee_schedule_templates_creation_7.png)
-
-![Create Fee Schedule Templates Creation 8](../99-Images/create_fee_schedule_templates_creation_8.png)
+![Create Fee Schedule Templates 3](../99-Images/create_fee_schedule_templates_3.png)
 
 ---
 
