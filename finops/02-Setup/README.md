@@ -23,3 +23,9 @@ Before fees can be generated, processed, or settled across the platform, the fee
 7. Click **Save**.
 
 ![Fee Schedule Parameters GEMS 1](../99-Images/fee_schedule_parameters_gems_1.png)
+
+![Fee Schedule Parameters GEMS 2](../99-Images/fee_schedule_parameters_gems_2.png)
+
+![Fee Schedule Parameters GEMS 3](../99-Images/fee_schedule_parameters_gems_3.png)
+
+![Fee Schedule Parameters GEMS 4](../99-Images/fee_schedule_parameters_gems_4.png)
