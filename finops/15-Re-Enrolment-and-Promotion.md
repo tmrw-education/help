@@ -24,7 +24,7 @@ During pre-promotion activities, the student management system polls Finance & O
 5. Contact the family to arrange payment of the outstanding balance.
 6. Once payment is received and the system polls again, confirm the student's status updates to **Reenrolment open**.
 
-![Blocking Due to Fee Outstanding 1](../99-Images/blocking_due_to_fee_outstanding_1.png)
+![Blocking Due to Fee Outstanding 1](./99-Images/blocking_due_to_fee_outstanding_1.png)
 
 ---
 
@@ -50,7 +50,7 @@ Where a payment arrangement is in place and the school does not want to block a 
 
 > **Note:** *On the next system poll, the student will be excluded from the financial check and their status will update to Reenrolment open.*
 
-![Overriding the Fee Check for Reenrolment 1](../99-Images/overriding_fee_check_reenrolment_1.png)
+![Overriding the Fee Check for Reenrolment 1](./99-Images/overriding_fee_check_reenrolment_1.png)
 
 ---
 
@@ -75,6 +75,6 @@ At the start of a new year or after a promotion process, overrides set in the pr
    - *Individual* — uncheck the **Financial check override** checkbox directly in the list for each student.
    - *Bulk via Excel* — click **Export to Excel**, clear the override values in the exported file, then import the file back into the system.
 
-![Clearing Fee Check Overrides 1](../99-Images/clearing_fee_check_overrides_1.png)
+![Clearing Fee Check Overrides 1](./99-Images/clearing_fee_check_overrides_1.png)
 
 ---
