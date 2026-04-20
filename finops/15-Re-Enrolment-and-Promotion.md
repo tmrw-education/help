@@ -50,7 +50,7 @@ Where a payment arrangement is in place and the school does not want to block a 
 
 > **Note:** *On the next system poll, the student will be excluded from the financial check and their status will update to Reenrolment open.*
 
-![Overriding the Fee Check for Reenrolment 1](./99-Images/overriding_the_fee_check_reenrolment_1.png)
+![Overriding the Fee Check for Reenrolment 1](./99-Images/overriding_the_fee_check_for_reenrolment_1.png)
 
 ---
 
