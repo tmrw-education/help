@@ -21,7 +21,7 @@ When a student begins their enrolment after the official term start date, it wou
     > Note: *This ensures the system calculates fees based on the actual number of study days for students who start after the official term start date.*
 6. Click **Save**.
 
-![Enable Pro Rata Adjustments](../99-Images/enable_pro_rata_adjustments_1.png)
+![Enable Pro Rata Adjustments](./99-Images/enable_pro_rata_adjustments_1.png)
 
 ---
 
@@ -34,11 +34,11 @@ When a student begins their enrolment after the official term start date, it wou
 5. Edit each student's enrolment record to set their **Effective date to the actual start date**.
 6. Click **Save**.
 
-![Update Student Enrolment Dates 1](../99-Images/update_student_enrolment_dates_1.png)
+![Update Student Enrolment Dates 1](./99-Images/update_student_enrolment_dates_1.png)
 
-![Update Student Enrolment Dates 2](../99-Images/update_student_enrolment_dates_2.png)
+![Update Student Enrolment Dates 2](./99-Images/update_student_enrolment_dates_2.png)
 
-![Update Student Enrolment Dates 3](../99-Images/update_student_enrolment_dates_3.png)
+![Update Student Enrolment Dates 3](./99-Images/update_student_enrolment_dates_3.png)
 
 ---
 
@@ -55,7 +55,7 @@ When a student begins their enrolment after the official term start date, it wou
 9. Open the **fee schedule batch form**.
 10. Review the sales orders for each student. Confirm that students with late start dates have a reduced tuition fee amount, reflecting the pro rata calculation based on their actual study days.
 
-![Generate and Review Sales Orders](../99-Images/generate_and_review_sales_orders_1.png)
+![Generate and Review Sales Orders](./99-Images/generate_and_review_sales_orders_1.png)
 
 ---
 
@@ -76,7 +76,7 @@ When a student leaves the school before the end of a term, any fees already invo
    > Note: *This ensures the system will calculate fees based on the actual number of study days for students who start after the official term start date.*
 6. Click **Save**.
 
-![Enable Pro Rata Adjustments](../99-Images/enable_pro_rata_adjustments_1.png)
+![Enable Pro Rata Adjustments](./99-Images/enable_pro_rata_adjustments_1.png)
 
 ---
 
@@ -89,7 +89,7 @@ When a student leaves the school before the end of a term, any fees already invo
 4. Click **OK** to allow the system to process the adjustment.
 5. The system calculates the refund based on the remaining school days after the leaving date.
 
-![Fee and Charge Adjustments](../99-Images/fee_charge_adjustment_1.png)
+![Fee and Charge Adjustments](./99-Images/fee_charge_adjustment_1.png)
 
 ---
 
@@ -102,8 +102,8 @@ When a student leaves the school before the end of a term, any fees already invo
 5. The Quantity column shows a negative value representing the number of remaining school days to be refunded.
 6. The Net amount column displays the total refund due to the student.
 
-![Review the Sales Order Adjustment 1](../99-Images/review_the_sales_order_adjustment_1.png)
+![Review the Sales Order Adjustment 1](./99-Images/review_the_sales_order_adjustment_1.png)
 
-![Review the Sales Order Adjustment 2](../99-Images/review_the_sales_order_adjustment_2.png)
+![Review the Sales Order Adjustment 2](./99-Images/review_the_sales_order_adjustment_2.png)
 
 ---
