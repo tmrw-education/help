@@ -30,9 +30,9 @@ The sibling discount feature allows the school to automatically apply fee reduct
 10. Repeat as many times as required.
 11. Click **Save**.
     
-![Sibling Order Setup Creation 1](../99-Images/sibling_order_setup_creation_1.png)
+![Sibling Order Setup Creation 1](./99-Images/sibling_order_setup_creation_1.png)
 
-![Sibling Order Setup Creation 2](../99-Images/sibling_order_setup_creation_2.png)
+![Sibling Order Setup Creation 2](./99-Images/sibling_order_setup_creation_2.png)
 
 
 ---
@@ -63,13 +63,13 @@ The sibling discount feature allows the school to automatically apply fee reduct
 17. Click **Save**.
 18. Repeat for other tuition fee items.
 
-![Trade Agreement Creation 1](../99-Images/trade_agreement_creation_1.png)
+![Trade Agreement Creation 1](./99-Images/trade_agreement_creation_1.png)
 
-![Trade Agreement Creation 2](../99-Images/trade_agreement_creation_2.png)
+![Trade Agreement Creation 2](./99-Images/trade_agreement_creation_2.png)
 
-![Trade Agreement Creation 3](../99-Images/trade_agreement_creation_3.png)
+![Trade Agreement Creation 3](./99-Images/trade_agreement_creation_3.png)
 
-![Trade Agreement Creation 4](../99-Images/trade_agreement_creation_4.png)
+![Trade Agreement Creation 4](./99-Images/trade_agreement_creation_4.png)
 
 ---
 
@@ -88,6 +88,6 @@ The sibling discount feature allows the school to automatically apply fee reduct
 11. Expand **Fee schedule batches** and click **All fee schedule batches**.
 12. Open the latest batch and review the sales orders.
     
-![Sibling Order Calculation Creation 1](../99-Images/sibling_order_calculation_creation_1.png)
+![Sibling Order Calculation Creation 1](./99-Images/sibling_order_calculation_creation_1.png)
 
 ---
