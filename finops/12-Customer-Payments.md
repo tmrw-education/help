@@ -27,7 +27,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 12. A dialog box appears asking if you want to **print and/or email** the receipt. Select your options and click **OK**.
 13. The system prints the receipt and/or sends it to the fee payer's email as specified.
 
-![Over-the-Counter Processing](../99-Images/over_the_counter_processing_1.png)
+![Over-the-Counter Processing](./99-Images/over_the_counter_processing_1.png)
 
 ---
 
@@ -58,14 +58,14 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
 14. Once authorisation is received, click **Post**.
     > Note: *The system confirms posting, and the Post button becomes inactive. All transactions are now posted and complete.*
 
-![Schuedling Credit Card Payments 1](../99-Images/scheduling_credit_card_payments_1.png)
+![Schuedling Credit Card Payments 1](./99-Images/scheduling_credit_card_payments_1.png)
 
-![Schuedling Credit Card Payments 2](../99-Images/scheduling_credit_card_payments_2.png)
+![Schuedling Credit Card Payments 2](./99-Images/scheduling_credit_card_payments_2.png)
 
-![Schuedling Credit Card Payments 3](../99-Images/scheduling_credit_card_payments_3.png)
+![Schuedling Credit Card Payments 3](./99-Images/scheduling_credit_card_payments_3.png)
 
-![Schuedling Credit Card Payments 4](../99-Images/scheduling_credit_card_payments_4.png)
+![Schuedling Credit Card Payments 4](./99-Images/scheduling_credit_card_payments_4.png)
 
-![Schuedling Credit Card Payments 5](../99-Images/scheduling_credit_card_payments_5.png)
+![Schuedling Credit Card Payments 5](./99-Images/scheduling_credit_card_payments_5.png)
 
 ---
