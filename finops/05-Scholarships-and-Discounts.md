@@ -18,7 +18,7 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 4. Complete the columns to create a new scholarship or discount.
 5. Click **Save**.
 
-![Create A New Scholarship Or Discount Creation 1](../99-Images/create_a_new_scholarship_or_discount_creation_1.png)
+![Create A New Scholarship Or Discount Creation 1](./99-Images/create_a_new_scholarship_or_discount_creation_1.png)
 
 ---
 
@@ -33,9 +33,9 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 7. Enter the required details.
 8. Click **Save**.
 
-![Linking Scholarships And Discounts To Fee Items Creation 1](../99-Images/linking_scholarships_and_discounts_to_fee_items_creation_1.png)
+![Linking Scholarships And Discounts To Fee Items Creation 1](./99-Images/linking_scholarships_and_discounts_to_fee_items_creation_1.png)
 
-![Linking Scholarships And Discounts To Fee Items Creation 2](../99-Images/linking_scholarships_and_discounts_to_fee_items_creation_2.png)
+![Linking Scholarships And Discounts To Fee Items Creation 2](./99-Images/linking_scholarships_and_discounts_to_fee_items_creation_2.png)
 
 ---
 
@@ -54,9 +54,9 @@ Scholarships and discounts allow the school to apply financial reductions to ind
    - Set the **start and expiration date**.
 8. Click **Save**.
 
-![Linking Scholarships And Discounts To Students Creation 1](../99-Images/linking_scholarships_and_discounts_to_students_creation_1.png)
+![Linking Scholarships And Discounts To Students Creation 1](./99-Images/linking_scholarships_and_discounts_to_students_creation_1.png)
 
-![Linking Scholarships And Discounts To Students Creation 2](../99-Images/linking_scholarships_and_discounts_to_students_creation_2.png)
+![Linking Scholarships And Discounts To Students Creation 2](./99-Images/linking_scholarships_and_discounts_to_students_creation_2.png)
 ---
 
 ## Scholarship and Discount Approval Process
@@ -71,11 +71,11 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 8. The status changes to Under Review.
 9. Click **Save**.
 
-![Scholarship And Discount Approval Process Creation 1](../99-Images/scholarship_and_discount_approval_process_creation_1.png)
+![Scholarship And Discount Approval Process Creation 1](./99-Images/scholarship_and_discount_approval_process_creation_1.png)
 
-![Scholarship And Discount Approval Process Creation 2](../99-Images/scholarship_and_discount_approval_process_creation_2.png)
+![Scholarship And Discount Approval Process Creation 2](./99-Images/scholarship_and_discount_approval_process_creation_2.png)
 
-![Scholarship And Discount Approval Process Creation 3](../99-Images/scholarship_and_discount_approval_process_creation_3.png)
+![Scholarship And Discount Approval Process Creation 3](./99-Images/scholarship_and_discount_approval_process_creation_3.png)
 
 ---
 
@@ -90,9 +90,9 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 7. Click the Approval dropdown and choose **Approve or Reject**.
 8. Click **Save**.
 
-![Approving Or Rejecting Scholarships And Discounts Creation 1](../99-Images/approving_or_rejecting_scholarships_and_discounts_creation_1.png)
+![Approving Or Rejecting Scholarships And Discounts Creation 1](./99-Images/approving_or_rejecting_scholarships_and_discounts_creation_1.png)
 
-![Approving Or Rejecting Scholarships And Discounts Creation 2](../99-Images/approving_or_rejecting_scholarships_and_discounts_creation_2.png)
+![Approving Or Rejecting Scholarships And Discounts Creation 2](./99-Images/approving_or_rejecting_scholarships_and_discounts_creation_2.png)
 
 ---
 
@@ -105,9 +105,9 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 5. Under Related information, click **Scholarship and discounts**.
 6. Use the **checkbox to filter by activity**.
 
-![View Scholarships And Discounts For A Student Creation 1](../99-Images/view_scholarships_and_discounts_for_a_student_creation_1.png)
+![View Scholarships And Discounts For A Student Creation 1](./99-Images/view_scholarships_and_discounts_for_a_student_creation_1.png)
 
-![View Scholarships And Discounts For A Student Creation 2](../99-Images/view_scholarships_and_discounts_for_a_student_creation_2.png)
+![View Scholarships And Discounts For A Student Creation 2](./99-Images/view_scholarships_and_discounts_for_a_student_creation_2.png)
 
 ---
 
@@ -119,8 +119,8 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 4. Open the **fee record**.
 5. Under Sales order lines, scroll to the right to view the **discount amount** applied.
 
-![View Approved Scholarship And Discount Fees Creation 1](../99-Images/view_approved_scholarship_and_discount_fees_creation_1.png)
+![View Approved Scholarship And Discount Fees Creation 1](./99-Images/view_approved_scholarship_and_discount_fees_creation_1.png)
 
-![View Approved Scholarship And Discount Fees Creation 2](../99-Images/view_approved_scholarship_and_discount_fees_creation_2.png)
+![View Approved Scholarship And Discount Fees Creation 2](./99-Images/view_approved_scholarship_and_discount_fees_creation_2.png)
 
 ---
