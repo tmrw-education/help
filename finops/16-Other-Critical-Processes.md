@@ -17,4 +17,8 @@ The student ledger provides a consolidated view of a student's financial activit
    > **Note:** *Enabling this toggle hides both advance invoice and prepayment invoice lines from the generated report, producing a simplified statement view.*
 9. Click **OK** to generate the report.
 
-![Student Ledger 1](../99-Images/student_ledger_1.png)
+![Student Ledger 1](./99-Images/student_ledger_1.png)
+
+![Student Ledger 2](./99-Images/student_ledger_2.png)
+
+---
