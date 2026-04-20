@@ -22,8 +22,8 @@ Fee payer account statements provide a summarised view of a fee payer's financia
 7. Click **OK** to generate the statement for the selected account.
 8. Review the completed statement and distribute it to the fee payer as required.
 
-![Generate Fee Statements 1](../99-Images/generate_fee_statements_1.png)
+![Generate Fee Statements 1](./99-Images/generate_fee_statements_1.png)
 
-![Generate Fee Statements 2](../99-Images/generate_fee_statements_2.png)
+![Generate Fee Statements 2](./99-Images/generate_fee_statements_2.png)
 
 ---
