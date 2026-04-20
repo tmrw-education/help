@@ -19,7 +19,7 @@ Managing student visa information within F&O ensures the school maintains accura
 4. Complete the columns to create a new Visa type.
 5. Click **Save**.
 
-![Create New Visa Type Creation 1](../99-Images/create_new_visa_type_creation_1.png)
+![Create New Visa Type Creation 1](./99-Images/create_new_visa_type_creation_1.png)
 
 ---
 
@@ -30,9 +30,9 @@ Managing student visa information within F&O ensures the school maintains accura
 3. Select or search for a **student account** and click the student whose details you want to view.
 4. Scroll down to the **Other Information** tab to view Visa details.
 
-![Visa Details On Students Creation 1](../99-Images/visa_details_on_students_creation_1.png)
+![Visa Details On Students Creation 1](./99-Images/visa_details_on_students_creation_1.png)
 
-![Visa Details On Students Creation 2](../99-Images/visa_details_on_students_creation_2.png)
+![Visa Details On Students Creation 2](./99-Images/visa_details_on_students_creation_2.png)
 
 ---
 
@@ -43,6 +43,6 @@ Managing student visa information within F&O ensures the school maintains accura
 3. Click **Students with Visa**.
 4. Use the **checkbox** to filter by status.
 
-![View All Students Visa Types Creation 1](../99-Images/view_all_students_visa_types_creation_1.png)
+![View All Students Visa Types Creation 1](./99-Images/view_all_students_visa_types_creation_1.png)
 
 ---
