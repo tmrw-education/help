@@ -1,8 +1,8 @@
-## Troubleshooting Guide
+# Troubleshooting Guide
 
 ---
 
-### Navigating the F&O Platform
+## Navigating the F&O Platform
 
 🔴 **Problem:** The navigation pane is not visible or has disappeared.
 
@@ -28,7 +28,7 @@
 
 ---
 
-### Pre-Admission Fees
+## Pre-Admission Fees
 
 🔴 **Problem:** The Pre-Admission Types page is not visible in the menu.
 
@@ -70,7 +70,7 @@
 
 ---
 
-### Generate Fees
+## Generate Fees
 
 🔴 **Problem:** Student details are incorrect when generating fees (e.g., wrong academic year or enrolment dates).
 
@@ -112,7 +112,7 @@
 
 ---
 
-### Scholarships and Discounts
+## Scholarships and Discounts
 
 🔴 **Problem:** A new scholarship or discount cannot be saved.
 
@@ -138,7 +138,7 @@
 
 ---
 
-### Visa Management
+## Visa Management
 
 🔴 **Problem:** A new visa type cannot be created manually.
 
@@ -156,7 +156,7 @@
 
 ---
 
-### Sessional Classes & Events
+## Sessional Classes & Events
 
 🔴 **Problem:** A sessional class or event fee is not generating for a student.
 
@@ -182,7 +182,7 @@
 
 ---
 
-### Sibling Discounts
+## Sibling Discounts
 
 🔴 **Problem:** A sibling discount is not applying to a student's invoice.
 
@@ -200,7 +200,7 @@
 
 ---
 
-### Split Bill Override
+## Split Bill Override
 
 🔴 **Problem:** The split billing percentages are not applying correctly to a student's invoice.
 
@@ -218,7 +218,7 @@
 
 ---
 
-### Pro Rata Adjustments
+## Pro Rata Adjustments
 
 🔴 **Problem:** A new student is being charged the full term fee instead of a pro rata amount.
 
@@ -236,7 +236,7 @@
 
 ---
 
-### Payment Schedule
+## Payment Schedule
 
 🔴 **Problem:** A payment schedule is not appearing in the Payment plan dropdown when applied to a fee payer.
 
@@ -254,7 +254,7 @@
 
 ---
 
-### Customer Payments
+## Customer Payments
 
 🔴 **Problem:** An over-the-counter payment is not allocating to the correct invoice.
 
@@ -280,7 +280,7 @@
 
 ---
 
-### Fee Payer Statements
+## Fee Payer Statements
 
 🔴 **Problem:** A fee payer statement is generating with no data.
 
@@ -290,7 +290,7 @@
 
 ---
 
-### Settlement Discounts
+## Settlement Discounts
 
 🔴 **Problem:** A cash discount is not applying when a payment is processed.
 
