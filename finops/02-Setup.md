@@ -57,7 +57,7 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 10. **Copy** the line for the same academic attribute combination.
 11. In the **Unit** field, select *Annual*.
 12. Enter the **annual price** in the currency field.
-13. Repeat steps 8–17 for each additional academic attribute combination (academic year, curriculum, and stream).
+13. Repeat steps 8–12 for each additional academic attribute combination (academic year, curriculum, and stream).
 
 > **Note:** *All attribute combinations used in fee generation must have a trade agreement line. If any combination is missing a price, the system will not generate a price for that combination.*
 
@@ -67,7 +67,9 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 
 ---
 
-## Non-Tuition Item Price Setup **WIP**
+## Non-Tuition Item Price Setup 
+
+**WIP** (needs screenshots)
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Sales and marketing**.
 2. Expand **Prices and discounts** and click **Trade agreement journals**.
@@ -91,17 +93,12 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Academic year**.
-3. Open the relevant **academic year** record.
-4. Click **New** in the tuition fee items section.
-5. In the **Item number** field, select the **tuition fee item**.
-6. In the **Unit** field, select *Annual*.
-
-> **Note:** *Annual must be selected here because enrolment and re-enrolment deposit calculations are based on the annual price, not the monthly price.*
-
-7. Select the **fee structure type**:
-    - *New student* — enable this option if the fee structure applies to new students only.
-    - *Existing student* — enable this option if the fee structure applies to existing (returning) students only.
-8. If a second tuition fee item exists for the other student type, click **New** and repeat steps 5–7 for that item.
-9. Repeat steps 3–8 for each additional academic year.
+3. Select the relevant **academic year** record.
+4. Click **Tuition fee items**.
+5. Click **New** in the tuition fee items section.
+6. Complete the columns to link Tuition Fees to an Academic Year.
+7. If a second tuition fee item exists for the other student type, click **New** and repeat that item.
+8. Repeat steps 3–8 for each additional academic year.
+9. Click **Save**.
 
 ![Fee Structure Setup Academic Year Link 1](./99-Images/fee_structure_setup_academic_year_link_1.png)
