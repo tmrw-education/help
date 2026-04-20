@@ -2,7 +2,7 @@
 
 ## Basic Navigation in F&O
 
-<img src="../99-Images/Nav-BasicNav-image1.png" alt="Navigation Pane" width="350" align="right"/>
+<img src="./99-Images/Nav-BasicNav-image1.png" alt="Navigation Pane" width="350" align="right"/>
 
 When you first log into Dynamics 365 F&O, the interface might feel overwhelming, but once you understand the layout, it becomes a powerful and intuitive workspace. The key to mastering navigation lies in understanding the left-hand sidebar, often referred to as the navigation pane.
 
@@ -37,6 +37,6 @@ At the far left of the Action Pane, you'll find three key buttons that are alway
 
 These buttons are anchored in place; they won't shift or disappear as you move through tabs or sections within a form. That consistency helps users stay oriented and confident, especially when multitasking or working quickly.
 
-![Toolbar](../99-Images/toolbarinfno-image1.png)
+![Toolbar](./99-Images/toolbarinfno-image1.png)
 
 ---
