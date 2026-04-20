@@ -10,7 +10,7 @@
 
 🟢 **Solution:** Click the hamburger menu icon (☰) at the top left of the screen to expand the navigation pane.
 
-
+---
 
 🔴 **Problem:** A module or page cannot be found in the navigation pane.
 
@@ -18,7 +18,7 @@
 
 🟢 **Solution:** Use the search bar at the top of the page to search for the module or form by name. If it does not appear, contact your system administrator to confirm access permissions.
 
-
+---
 
 🔴 **Problem:** The Home icon does not return the user to the correct dashboard.
 
@@ -36,7 +36,7 @@
 
 🟢 **Solution:** Expand **Modules** ▸ **Academic Management** ▸ **Setup** ▸ **Pre-admission fees** and click **Pre-admission types**. If the option is still not visible, contact your system administrator.
 
-
+---
 
 🔴 **Problem:** A pre-admission fee record cannot be posted.
 
@@ -44,7 +44,7 @@
 
 🟢 **Solution:** Ensure all required columns in the record are filled in. Verify that posting logic has been set up for the relevant transaction type under **Setup** ▸ **Pre-admission fees** ▸ **Pre-admission posting**.
 
-
+---
 
 🔴 **Problem:** The status of a pre-admission fee does not update after posting.
 
@@ -52,7 +52,7 @@
 
 🟢 **Solution:** Review the record for any error messages. Re-attempt the post after confirming all required fields are complete. Check that the correct bank account has been assigned.
 
-
+---
 
 🔴 **Problem:** A deposit cannot be forfeited or refunded.
 
@@ -60,7 +60,7 @@
 
 🟢 **Solution:** Filter the Pre-admission deposits list by status and confirm the deposit shows as Received or Partial before attempting to forfeit or refund.
 
-
+---
 
 🔴 **Problem:** The Reverse option is not available for a pre-admission fee.
 
@@ -78,7 +78,7 @@
 
 🟢 **Solution:** Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**, open the student record, and update the academic year, effective date, and expiration date before running the fee generation batch.
 
-
+---
 
 🔴 **Problem:** A scholarship or discount is not applying to a student's invoice.
 
@@ -86,7 +86,7 @@
 
 🟢 **Solution:** Confirm the scholarship or discount status is Approved. Verify it is linked to the correct fee items under the General tab and that the student has been added under the Students tab with valid effective and expiration dates.
 
-
+---
 
 🔴 **Problem:** Fee invoices are not being generated for some students.
 
@@ -94,7 +94,7 @@
 
 🟢 **Solution:** When running the Generate Sales Order Batch Processing task, confirm that the correct customer academic year is selected under Records to include (Customers) and the correct fee schedule template is selected under Records to include (Fee schedule templates).
 
-
+---
 
 🔴 **Problem:** Invoices are created but not posted.
 
@@ -102,7 +102,7 @@
 
 🟢 **Solution:** Navigate to **Accounts receivable** ▸ **Sales orders** ▸ **All sales orders** and manually post the invoices from there.
 
-
+---
 
 🔴 **Problem:** The fee generation reconciliation report shows fewer students than expected.
 
@@ -120,7 +120,7 @@
 
 🟢 **Solution:** Ensure all required columns are completed, including Code, Name, Active, Approval, and User group, before clicking Save.
 
-
+---
 
 🔴 **Problem:** The scholarship or discount is not visible on the student's invoice.
 
@@ -128,7 +128,7 @@
 
 🟢 **Solution:** Navigate to the scholarship or discount record, open the Students tab, and confirm the approval status. Select Approve from the Approval dropdown if the record is Under Review.
 
-
+---
 
 🔴 **Problem:** The Approve option is not available in the Approval dropdown.
 
@@ -146,7 +146,7 @@
 
 🟢 **Solution:** Search for the visa type before creating a new one to avoid duplicates. If creation is blocked, contact your system administrator to confirm permissions. Note that visa entries are typically generated automatically from CE.
 
-
+---
 
 🔴 **Problem:** Visa details are not visible on a student's record.
 
@@ -164,7 +164,7 @@
 
 🟢 **Solution:** Navigate to **Inquiries and reports** ▸ **Fee schedules** ▸ **Sessional class and event details** and confirm the student has been assigned to the correct class or event with valid effective and expiration dates.
 
-
+---
 
 🔴 **Problem:** The system is charging a flat fee instead of a session-based fee.
 
@@ -172,7 +172,7 @@
 
 🟢 **Solution:** Open the relevant fee schedule template, enable the **Session Based** option, click Save, and delete any previously generated sales orders for the event or student before rerunning the Generate Sale Order Batch Process.
 
-
+---
 
 🔴 **Problem:** A sessional class adjustment is not generating after updating session numbers.
 
@@ -190,7 +190,7 @@
 
 🟢 **Solution:** Confirm the student's sibling order number is set under General in their student record. Verify the trade agreement has been posted and that the Line discount group on the relevant released products is set to the Sibling discount trade agreement.
 
-
+---
 
 🔴 **Problem:** The wrong discount percentage is applying to a sibling.
 
@@ -208,7 +208,7 @@
 
 🟢 **Solution:** Set up the split configuration before running the sales order generation. For existing invoices, delete the sales order and rerun the Generate Sales Order Batch Processing task after the split configuration is in place.
 
-
+---
 
 🔴 **Problem:** The total paid percentage for fee payers does not equal 100.
 
@@ -226,7 +226,7 @@
 
 🟢 **Solution:** Confirm the Pro rata field on the released product is set to any option except None. Then navigate to the student's academic enrolment record and update the Effective date to the student's actual start date before rerunning the fee generation batch.
 
-
+---
 
 🔴 **Problem:** An exiting student's refund amount appears incorrect.
 
@@ -244,7 +244,7 @@
 
 🟢 **Solution:** Navigate to **Setup** ▸ **Payment option setup**, confirm the payment plan has been created and linked to the correct payment schedule, and ensure the start and end dates are valid.
 
-
+---
 
 🔴 **Problem:** An invoice is not splitting into instalments after a payment plan is applied.
 
@@ -262,7 +262,7 @@
 
 🟢 **Solution:** Before clicking Post, ensure the correct invoices are checked in the payment form. If the payment has already been posted without allocation, review the advance payment and manually settle it against the correct invoice.
 
-
+---
 
 🔴 **Problem:** A credit card payment proposal is not returning any invoices.
 
@@ -270,7 +270,7 @@
 
 🟢 **Solution:** Confirm the date range covers the correct period and that the Method of payment is set to CC. Check that invoices exist within that period and have not already been paid.
 
-
+---
 
 🔴 **Problem:** Credit card authorisation is failing during payment processing.
 
@@ -298,7 +298,7 @@
 
 🟢 **Solution:** Ensure the payment date is set before the discount due date when settling transactions. Confirm the Early payment discount eligibility setting is correctly configured under **Academic Management** ▸ **Setup** ▸ **Fee schedule parameter**.
 
-
+---
 
 🔴 **Problem:** A discount has been applied to an invoice but should not have been.
 
@@ -306,7 +306,7 @@
 
 🟢 **Solution:** Navigate to **Academic Management** ▸ **Setup** ▸ **Fee schedule parameter** and enable the Early payment discount eligibility checkbox so that discounts only apply when all due invoices are paid together.
 
-
+---
 
 🔴 **Problem:** Discounts are not appearing on invoices after running the bulk update task.
 
