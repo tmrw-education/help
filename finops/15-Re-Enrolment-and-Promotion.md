@@ -50,7 +50,7 @@ Where a payment arrangement is in place and the school does not want to block a 
 
 > **Note:** *On the next system poll, the student will be excluded from the financial check and their status will update to Reenrolment open.*
 
-![Overriding the Fee Check for Reenrolment 1](./99-Images/overriding_fee_check_reenrolment_1.png)
+![Overriding the Fee Check for Reenrolment 1](./99-Images/overriding_the_fee_check_reenrolment_1.png)
 
 ---
 
@@ -76,5 +76,9 @@ At the start of a new year or after a promotion process, overrides set in the pr
    - *Bulk via Excel* — click **Export to Excel**, clear the override values in the exported file, then import the file back into the system.
 
 ![Clearing Fee Check Overrides 1](./99-Images/clearing_fee_check_overrides_1.png)
+
+![Clearing Fee Check Overrides 2](./99-Images/clearing_fee_check_overrides_2.png)
+
+![Clearing Fee Check Overrides 3](./99-Images/clearing_fee_check_overrides_3.png)
 
 ---
