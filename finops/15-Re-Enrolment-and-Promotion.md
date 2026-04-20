@@ -66,7 +66,7 @@ At the start of a new year or after a promotion process, overrides set in the pr
 2. Expand **Students** and click **All students**.
 3. Right-click any column header and select **Insert field**.
 4. Search for and add the **Financial check override** field.
-5. Click **OK**.
+5. Click **Update**.
 
 > **Note:** *The Financial check override column displays as a checkbox. Once added, the column persists in the view for future use.*
 
