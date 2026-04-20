@@ -25,13 +25,13 @@ Accurate fee generation depends entirely on the quality of the data held against
 10. In the Relationships section, ensure the total **Paid percentage equals 100.00**.
 11. Click **Save** if any changes were made.
 
-![Check Student Details Creation 1](../99-Images/check_student_details_creation_1.png)
+![Check Student Details Creation 1](./99-Images/check_student_details_creation_1.png)
 
-![Check Student Details Creation 2](../99-Images/check_student_details_creation_2.png)
+![Check Student Details Creation 2](./99-Images/check_student_details_creation_2.png)
 
-![Check Student Details Creation 3](../99-Images/check_student_details_creation_3.png)
+![Check Student Details Creation 3](./99-Images/check_student_details_creation_3.png)
 
-![Check Student Details Creation 4](../99-Images/check_student_details_creation_4.png)
+![Check Student Details Creation 4](./99-Images/check_student_details_creation_4.png)
 
 ---
 
@@ -64,17 +64,17 @@ Accurate fee generation depends entirely on the quality of the data held against
 20. Repeat to fully approve by selecting **Approve**.
 21. Click **Save**.
 
-![Scholarship And Discount Setup Creation 1](../99-Images/scholarship_and_discount_setup_creation_1.png)
+![Scholarship And Discount Setup Creation 1](./99-Images/scholarship_and_discount_setup_creation_1.png)
 
-![Scholarship And Discount Setup Creation 2](../99-Images/scholarship_and_discount_setup_creation_2.png)
+![Scholarship And Discount Setup Creation 2](./99-Images/scholarship_and_discount_setup_creation_2.png)
 
-![Scholarship And Discount Setup Creation 3](../99-Images/scholarship_and_discount_setup_creation_3.png)
+![Scholarship And Discount Setup Creation 3](./99-Images/scholarship_and_discount_setup_creation_3.png)
 
-![Scholarship And Discount Setup Creation 4](../99-Images/scholarship_and_discount_setup_creation_4.png)
+![Scholarship And Discount Setup Creation 4](./99-Images/scholarship_and_discount_setup_creation_4.png)
 
-![Scholarship And Discount Setup Creation 5](../99-Images/scholarship_and_discount_setup_creation_5.png)
+![Scholarship And Discount Setup Creation 5](./99-Images/scholarship_and_discount_setup_creation_5.png)
 
-![Scholarship And Discount Setup Creation 6](../99-Images/scholarship_and_discount_setup_creation_6.png)
+![Scholarship And Discount Setup Creation 6](./99-Images/scholarship_and_discount_setup_creation_6.png)
 
 ---
 
@@ -100,9 +100,9 @@ Accurate fee generation depends entirely on the quality of the data held against
     - Enter the **Effective date and Expiration date**.
 11. Click **Save**.
 
-![Subject And Event Name Setup Creation 1](../99-Images/subject_and_event_name_setup_creation_1.png)
+![Subject And Event Name Setup Creation 1](./99-Images/subject_and_event_name_setup_creation_1.png)
 
-![Subject And Event Name Setup Creation 2](../99-Images/subject_and_event_name_setup_creation_2.png)
+![Subject And Event Name Setup Creation 2](./99-Images/subject_and_event_name_setup_creation_2.png)
 
 ---
 
@@ -137,11 +137,11 @@ Accurate fee generation depends entirely on the quality of the data held against
 21. Click **Ok**.
 22. Click **Save**.
 
-![Create Fee Schedule Templates 1](../99-Images/create_fee_schedule_templates_1.png)
+![Create Fee Schedule Templates 1](./99-Images/create_fee_schedule_templates_1.png)
 
-![Create Fee Schedule Templates 2](../99-Images/create_fee_schedule_templates_2.png)
+![Create Fee Schedule Templates 2](./99-Images/create_fee_schedule_templates_2.png)
 
-![Create Fee Schedule Templates 3](../99-Images/create_fee_schedule_templates_3.png)
+![Create Fee Schedule Templates 3](./99-Images/create_fee_schedule_templates_3.png)
 
 ---
 
@@ -157,7 +157,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 8. Add **conditions** if required.
 9. Click **Save**.
 
-![Create Fee Schedule Templates Creation 7](../99-Images/create_fee_schedule_templates_creation_7.png)
+![Create Fee Schedule Templates Creation 7](./99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
 
@@ -188,13 +188,13 @@ With student data confirmed and fee schedule templates in place, the system is r
 10. Click **OK** to start the process.
 11. The system will notify you when the task is processing and when it's complete.
 
-![Generate Fee Invoices Creation 1](../99-Images/generate_fee_invoices_creation_1.png)
+![Generate Fee Invoices Creation 1](./99-Images/generate_fee_invoices_creation_1.png)
 
-![Generate Fee Invoices Creation 2](../99-Images/generate_fee_invoices_creation_2.png)
+![Generate Fee Invoices Creation 2](./99-Images/generate_fee_invoices_creation_2.png)
 
-![Generate Fee Invoices Creation 3](../99-Images/generate_fee_invoices_creation_3.png)
+![Generate Fee Invoices Creation 3](./99-Images/generate_fee_invoices_creation_3.png)
 
-![Generate Fee Invoices Creation 4](../99-Images/generate_fee_invoices_creation_4.png)
+![Generate Fee Invoices Creation 4](./99-Images/generate_fee_invoices_creation_4.png)
 
 ---
 
@@ -209,11 +209,11 @@ With student data confirmed and fee schedule templates in place, the system is r
 5. To export data, right-click the **Fee payer name** column header and select **Export all rows**.
 6. In the dialog, click **Download** to export to Excel or SSRS for further validation if needed.
 
-![Reconcile The Generated Sales Orders Creation 1](../99-Images/reconcile_the_generated_sales_order_creation_1.png)
+![Reconcile The Generated Sales Orders Creation 1](./99-Images/reconcile_the_generated_sales_order_creation_1.png)
 
-![Reconcile The Generated Sales Orders Creation 2](../99-Images/reconcile_the_generated_sales_orders_creation_2.png)
+![Reconcile The Generated Sales Orders Creation 2](./99-Images/reconcile_the_generated_sales_orders_creation_2.png)
 
-![Reconcile The Generated Sales Orders Creation 3](../99-Images/reconcile_the_generated_sales_orders​_creation_3.png)
+![Reconcile The Generated Sales Orders Creation 3](./99-Images/reconcile_the_generated_sales_orders​_creation_3.png)
 
 ---
 
@@ -236,11 +236,11 @@ After fee invoices have been generated and reviewed, they need to be formally po
 7. If running in the background, submit and wait for processing.
 8. When complete, the batch status changes from Active to Invoice, and invoices are generated.
 
-![Post Fee Invoices Creation 1](../99-Images/post_fee_invoices_creation_1.png)
+![Post Fee Invoices Creation 1](./99-Images/post_fee_invoices_creation_1.png)
 
-![Post Fee Invoices Creation 2](../99-Images/post_fee_invoices_creation_2.png)
+![Post Fee Invoices Creation 2](./99-Images/post_fee_invoices_creation_2.png)
 
-![Post Fee Invoices Creation 3](../99-Images/post_fee_invoices_creation_3.png)
+![Post Fee Invoices Creation 3](./99-Images/post_fee_invoices_creation_3.png)
 
 ---
 
@@ -254,10 +254,10 @@ After fee invoices have been generated and reviewed, they need to be formally po
 6. After posting, the system automatically matches these deposits to invoices.
 7. Confirm the deposit status changes from received to **settled**.
 
-![Settle Enrolment Deposits Creation 1](../99-Images/settle_enrolment_deposits_creation_1.png)
+![Settle Enrolment Deposits Creation 1](./99-Images/settle_enrolment_deposits_creation_1.png)
 
-![Settle Enrolment Deposits Creation 2](../99-Images/settle_enrolment_deposits_creation_2.png)
+![Settle Enrolment Deposits Creation 2](./99-Images/settle_enrolment_deposits_creation_2.png)
 
-![Settle Enrolment Deposits Creation 3](../99-Images/settle_enrolment_deposits_creation_3.png)
+![Settle Enrolment Deposits Creation 3](./99-Images/settle_enrolment_deposits_creation_3.png)
 
 ---
