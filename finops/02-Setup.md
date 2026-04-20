@@ -65,6 +65,10 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 
 ![Fee Structure Setup Trade Agreement 1](./99-Images/fee_structure_setup_trade_agreement_1.png)
 
+![Fee Structure Setup Trade Agreement 2](./99-Images/fee_structure_setup_trade_agreement_2.png)
+
+![Fee Structure Setup Trade Agreement 3](./99-Images/fee_structure_setup_trade_agreement_3.png)
+
 ---
 
 ## Non-Tuition Item Price Setup 
@@ -102,3 +106,7 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 9. Click **Save**.
 
 ![Fee Structure Setup Academic Year Link 1](./99-Images/fee_structure_setup_academic_year_link_1.png)
+
+![Fee Structure Setup Academic Year Link 2](./99-Images/fee_structure_setup_academic_year_link_2.png)
+
+---
