@@ -21,9 +21,9 @@ By default, a student's fees are divided between fee payers according to the spl
 
 > **Note:** *This is the baseline for all fees unless overridden.*
 
-![Setup Student Financial Responsibility 1](../99-Images/setup_student_financial_responsibility_1.png)
+![Setup Student Financial Responsibility 1](./99-Images/setup_student_financial_responsibility_1.png)
 
-![Setup Student Financial Responsibility 2](../99-Images/setup_student_financial_responsibility_2.png)
+![Setup Student Financial Responsibility 2](./99-Images/setup_student_financial_responsibility_2.png)
 
 ---
 
@@ -41,7 +41,7 @@ By default, a student's fees are divided between fee payers according to the spl
 10. Add any other **fee items** required (e.g., Building Fund Fee item, which can be set to apply to all students without conditions).
 11. Click **Save**.
 
-![Create Split Billing Fee Schedule Template](../99-Images/create_split_billing_fee_schedule_template_1.png)
+![Create Split Billing Fee Schedule Template](./99-Images/create_split_billing_fee_schedule_template_1.png)
 
 ---
 
@@ -60,6 +60,6 @@ By default, a student's fees are divided between fee payers according to the spl
 5. Repeat these steps for the other payer.
 6. Click **Save**.
 
-![Configure Split Percent by Fee Items](../99-Images/configure_split_percent_by_fee_items_1.png)
+![Configure Split Percent by Fee Items](./99-Images/configure_split_percent_by_fee_items_1.png)
 
 ---
