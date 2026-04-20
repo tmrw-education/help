@@ -44,9 +44,6 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Search for and open the **tuition fee item** to review before setting up the price.
-
-> **Note:** *Service items are used to manage academic and school fee items in GEMS. A school may have one tuition fee item if a single fee structure applies to all students, or two items if separate structures apply to new and existing students.*
-
 3. Open **Modules** ▸ **Sales and marketing**.
 4. Expand **Prices and discounts** and click **Trade agreement journals**.
 5. Click **New** to create a new trade agreement journal.
@@ -60,22 +57,11 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 10. Select the **Stream**.
 11. In the **Item** field, select the **tuition fee item**.
 12. Enter the **Start date** and **End date**.
-
-> **Note:** *The start and end dates should align with the academic year or fee interval dates — for example, the start of the academic year through to the end of June.*
-
 13. In the **Unit** field, select *Monthly*.
 14. Enter the **monthly price** in the currency field.
-
-> **Note:** *The monthly unit price is used by the system when generating tuition fee invoices via batch jobs.*
-
 15. Add a new line for the same academic attribute combination.
 16. In the **Unit** field, select *Annual*.
 17. Enter the **annual price** in the currency field.
-
-> **Note:** *The annual price is calculated by multiplying the monthly fee by the number of chargeable months in the academic year (e.g., 10 months × monthly fee). This price is used when calculating enrolment and re-enrolment deposits.*
-
-> **Note:** *For each academic attribute combination, the system automatically generates a unique price group ID. This is a customisation — in standard D365 behaviour, price groups are defined manually.*
-
 18. Repeat steps 8–17 for each additional academic attribute combination (academic year, curriculum, and stream).
 
 > **Note:** *All attribute combinations used in fee generation must have a trade agreement line. If any combination is missing a price, the system will not generate a price for that combination.*
@@ -120,13 +106,7 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 7. Select the **fee structure type**:
     - *New student* — enable this option if the fee structure applies to new students only.
     - *Existing student* — enable this option if the fee structure applies to existing (returning) students only.
-
-> **Note:** *If the school uses only one tuition fee structure for all students, link a single item without enabling either flag.*
-
 8. If a second tuition fee item exists for the other student type, click **New** and repeat steps 5–7 for that item.
-
-> **Note:** *A maximum of two tuition fee items can be linked per academic year — one for new students and one for existing students.*
-
 9. Repeat steps 3–8 for each additional academic year.
 
 ![Fee Structure Setup Academic Year Link 1](./99-Images/fee_structure_setup_academic_year_link_1.png)
