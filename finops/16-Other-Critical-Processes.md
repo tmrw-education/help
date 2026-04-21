@@ -41,18 +41,24 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 > **Note:** *This displays all sales orders for the student, including open proforma invoices awaiting confirmation.*
 
-7. Select the sales order to confirm.
-8. On the Action Pane, click **Sell**.
-9. Click **Confirm sales order**.
-10. Set the **Print confirmation** field to *Yes*.
-11. Set the **Use print management destination** field to *Yes*.
-12. Click **OK**.
+8. Select the sales order to confirm.
+9. On the Action Pane, click **Sell**.
+10. Click **Confirm sales order**.
+11. Set the **Print confirmation** field to *Yes*.
+12. Set the **Use print management destination** field to *Yes*.
+13. Click **OK**.
 
 > **Note:** *The system sends the proforma invoice to the fee payer using the print management destination configured for the school. No manual distribution is required.*
 
-13. Click **Back**.
+14. Click **Back**.
 
 ![Generate Proforma Invoice Document 1](./99-Images/generate_proforma_invoice_document_1.png)
+
+![Generate Proforma Invoice Document 2](./99-Images/generate_proforma_invoice_document_2.png)
+
+![Generate Proforma Invoice Document 3](./99-Images/generate_proforma_invoice_document_3.png)
+
+![Generate Proforma Invoice Document 4](./99-Images/generate_proforma_invoice_document_4.png)
 
 ---
 
@@ -73,6 +79,8 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 ![Regenerate Proforma Invoice Document 1](./99-Images/regenerate_proforma_invoice_document_1.png)
 
+![Regenerate Proforma Invoice Document 2](./99-Images/regenerate_proforma_invoice_document_2.png)
+
 ---
 
 ## Generate Proforma Invoices in Bulk
@@ -80,7 +88,7 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 1. From the **FNO dashboard**, open **Modules** ▸ **Sales and Marketing**.
 2. Expand **Sales orders** ▸ **Order confirmation** and click **Confirm sales order**.
 3. Click **Select**.
-4. Add a filter for **Fee and charge interval**.
+4. **Add** a filter for **Fee and charge interval**.
 5. Click **Ok**.
 6. Enter the **billing cycle year** to filter for the proforma invoices to be generated.
 
@@ -99,6 +107,10 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 > **Note:** *The system automatically emails each proforma invoice to the fee payer as an attachment once the batch completes.*
 
 ![Generate Proforma Invoices In Bulk 1](./99-Images/generate_proforma_invoices_in_bulk_1.png)
+
+![Generate Proforma Invoices In Bulk 2](./99-Images/generate_proforma_invoices_in_bulk_2.png)
+
+![Generate Proforma Invoices In Bulk 3](./99-Images/generate_proforma_invoices_in_bulk_3.png)
 
 ---
 
