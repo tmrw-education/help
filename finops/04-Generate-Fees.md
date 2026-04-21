@@ -183,14 +183,13 @@ With student data confirmed and fee schedule templates in place, the system is r
    > **Note:** *This filters which students are included. Only students whose academic enrolment record contains this interval will be picked up by the batch.*
 7. Enter a **Batch description**.
 8. Select the **Fee schedule template number**, or leave blank to include all active templates.
-9. Set the **Enrolment application status** filter.
-10. In **Records to include**, **filter** certain criteria if running for a specific cohort, students, academic year, etc.
+9. In **Records to include**, **filter** certain criteria if running for a specific cohort, students, academic year, etc.
     > **Note:** *Leave this blank to run the batch across all eligible students for the selected interval.*
-11. Click **OK** to submit the batch job.
-12. Wait for the batch job to complete.
-13. Open **Modules** ▸ **Academic Management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
+10. Click **OK** to submit the batch job.
+11. Wait for the batch job to complete.
+12. Open **Modules** ▸ **Academic Management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
     > **Note:** *The system generates a new batch number for each run. All sales orders created in that batch are listed under the batch number.*
-14. Click the **batch number** to review all generated sales orders.
+13. Click the **batch number** to review all generated sales orders.
 
 > **Note:** *The system reuses an existing deposit sales order if the student has already paid an enrolment deposit, inserting the fee items into that order. If no deposit has been paid, a new sales order is created automatically. The sales order type is set to Fee Generation to distinguish it from other order types.*
 
