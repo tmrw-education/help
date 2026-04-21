@@ -106,7 +106,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 
 ---
 
-## Create Fee Schedule Templates
+## Fee Schedule Templates
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Fee schedules** and click **All fee schedules**.
