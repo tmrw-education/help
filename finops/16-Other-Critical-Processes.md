@@ -100,6 +100,10 @@ Month-end processing in GEMS covers the tasks required to close out a financial 
 
 ![Revenue Recognition Processing 1](./99-Images/revenue_recognition_processing_1.png)
 
+![Revenue Recognition Processing 2](./99-Images/revenue_recognition_processing_2.png)
+
+![Revenue Recognition Processing 3](./99-Images/revenue_recognition_processing_3.png)
+
 ---
 
 ## Recognise a Specific Invoice
@@ -120,5 +124,9 @@ Month-end processing in GEMS covers the tasks required to close out a financial 
 > **Note:** *After posting, click **Audit trail** to verify the journal entry was posted, then click **Voucher transaction** to review the posted voucher.*
 
 ![Recognise a Specific Invoice 1](./99-Images/recognise_a_specific_invoice_1.png)
+
+![Recognise a Specific Invoice 2](./99-Images/recognise_a_specific_invoice_2.png)
+
+![Recognise a Specific Invoice 3](./99-Images/recognise_a_specific_invoice_3.png)
 
 ---
