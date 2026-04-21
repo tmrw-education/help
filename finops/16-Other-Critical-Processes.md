@@ -34,9 +34,10 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
 3. Open the **Account** column filter.
-4. Enter the student's account number in the **Account** field using the *contains* filter operator.
-5. Click **Orders**.
-6. Click **All sales orders**.
+4. Enter the student's account number in the **Account** field using the *contains* filter.
+5. Click **Sell**.
+6. Click **Orders**.
+7. Click **All sales orders**.
 
 > **Note:** *This displays all sales orders for the student, including open proforma invoices awaiting confirmation.*
 
@@ -49,7 +50,7 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 > **Note:** *The system sends the proforma invoice to the fee payer using the print management destination configured for the school. No manual distribution is required.*
 
-13. Click **Close**.
+13. Click **Back**.
 
 ![Generate Proforma Invoice Document 1](./99-Images/generate_proforma_invoice_document_1.png)
 
@@ -59,8 +60,8 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
-3. Filter for the student and click **Orders**.
-4. Click **All sales orders** and open the relevant sales order.
+3. Filter for the student and click **Sell**.
+4. Open **Orders**, click **All sales orders** and open the relevant sales order.
 5. On the Action Pane, click **Sell**.
 6. Under **Journals**, click **Sales order confirmation**.
 7. Select the latest version of the confirmation.
@@ -80,7 +81,8 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 2. Expand **Sales orders** ▸ **Order confirmation** and click **Confirm sales order**.
 3. Click **Select**.
 4. Add a filter for **Fee and charge interval**.
-5. Enter the **billing cycle year** to filter for the proforma invoices to be generated.
+5. Click **Ok**.
+6. Enter the **billing cycle year** to filter for the proforma invoices to be generated.
 
 > **Note:** *The system lists all open proforma invoices (sales orders) matching the selected billing cycle.*
 
