@@ -204,6 +204,8 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ![Advance Discount Simulation](./99-Images/advance_discount_simulation_3.png)
 
+---
+
 #### Fee Refunds
 
 Fee refunds of credit balances are processed when a student's account holds an excess credit that needs to be returned to the fee payer. Staff create a customer payment journal using the refund journal type, select the student account, identify the credit invoice through the settle transactions function, and configure the financial dimensions for both the fee head and the offset bank account. Once the journal is posted — or approved through workflow if applicable — the refund is recorded against the student's account and the credit balance is cleared.
