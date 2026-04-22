@@ -14,13 +14,14 @@ Staff concessions allow the school to apply fee reductions to students who are d
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Charges setup** and click **Auto charges**.
-3. Click **New** in the toolbar.
-4. Enter the **Charges code** and **Description**.
+3. Change the **Level** to **Line**.
+4. Click **New** in the toolbar.
+5. Enter the **Charge description**.
 
 > **Note:** *Create one charge code per concession type — for example, a separate code for commercial concessions and for staff concessions.*
 
-5. Configure the required charge settings for the concession type.
-6. Click **Save**.
+6. Configure the required charge settings for the concession type.
+7. Click **Save**.
 
 ![Setup Charge Code 1](./99-Images/setup_charge_code_1.png)
 
