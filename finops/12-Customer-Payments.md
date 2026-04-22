@@ -142,6 +142,68 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
 
 ---
 
+#### Advance Payment
+
+Advance payment allows a school to collect fees for future term invoices before they are due, with the system automatically calculating and applying any applicable advance discounts based on configured discount policies. Staff process advance payments through the Cashier Receipt form, selecting the co-branded payment method to trigger the discount calculation. Once posted, the system generates a prepayment invoice for each term covered by the payment, alongside the receipt journal. A simulation tool is also available for staff to calculate the projected discount for a given amount without completing a payment transaction — this is useful when a fee payer wants to understand their discount entitlement before committing to payment.
+
+---
+
+## Advance Payment
+
+> **Note:** *Before processing an advance payment, confirm that the Advanced Discount Policy is configured for the relevant fee and charge interval, and that a proforma invoice has already been generated for the student.*
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
+2. Expand **Payments** and click **Cashier Receipt**.
+3. Click **New** to create a new cashier receipt.
+4. Enter the **student account** in the **Customer** field.
+5. Under **Method of Payment**, enable the **Co-branded** option.
+6. Select the **co-branded method of payment** from the dropdown.
+
+> **Note:** *Enabling the Co-branded option activates the Calculate Discount button. Advance discounts can only be applied when this option is selected.*
+
+7. Enter the **total amount** to be paid.
+
+> **Note:** *To pay 3 terms, enter the combined total of all 3 term invoice amounts. To pay 2 terms, enter the combined total of 2 term invoice amounts. The discount rate applied is determined by the number of terms the entered amount covers.*
+
+8. Enter the **sale order number** in the **Payment Reference** field.
+9. Click **Calculate Discount**.
+
+> **Note:** *The system automatically populates the discount rate and discount amount based on the Advanced Discount Policy configuration for the number of terms being paid.*
+
+10. Click **Post**.
+11. Select your **receipt options** and click **OK**.
+12. Navigate back to the **sale order** for the student and click **Refresh**.
+13. Under **Invoice**, click **Prepayment Invoice**.
+
+> **Note:** *The system generates and posts one prepayment invoice per term covered by the payment. For example, paying 3 terms generates 3 prepayment invoices.*
+
+14. Open **Modules** ▸ **Accounts Receivable** ▸ **Customers**.
+15. Open the **customer record** and click **Transactions**.
+
+> **Note:** *Posted transactions include 1 receipt/payment transaction and one prepayment invoice per term paid.*
+
+![Advance Payment Cashier Receipt](./99-Images/advance_payment_cashier_receipt_1.png)
+
+![Advance Payment Prepayment Invoices](./99-Images/advance_payment_prepayment_invoices_2.png)
+
+---
+
+## Advance Discount Simulation
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiry and Report** and click **Advanced Discount Policy**.
+3. Enter the **student account** in the **Customer** field.
+4. Select the **co-branded method of payment** from the **Method of Payment** dropdown.
+5. Enter the **amount** to simulate.
+
+> **Note:** *Enter the actual proforma invoice amount, or a dummy amount large enough to cover the proforma invoice, to see the applicable discount. Enter a single term amount, a two-term total, or the full period total to compare discount rates.*
+
+6. Click **Simulate**.
+
+> **Note:** *The system displays the discount rate and amount that would apply if the fee payer made an advance payment for the entered amount. This tool does not create a transaction — it is for calculation and agreement purposes only.*
+
+![Advance Discount Simulation](./99-Images/advance_discount_simulation_3.png)
+
 #### Fee Refunds
 
 Fee refunds of credit balances are processed when a student's account holds an excess credit that needs to be returned to the fee payer. Staff create a customer payment journal using the refund journal type, select the student account, identify the credit invoice through the settle transactions function, and configure the financial dimensions for both the fee head and the offset bank account. Once the journal is posted — or approved through workflow if applicable — the refund is recorded against the student's account and the credit balance is cleared.
