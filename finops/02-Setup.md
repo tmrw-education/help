@@ -73,21 +73,20 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 
 ## Non-Tuition Item Price Setup 
 
-**WIP** (needs screenshots)
-
 1. From the **FNO dashboard**, open **Modules** ▸ **Sales and marketing**.
 2. Expand **Prices and discounts** and click **Trade agreement journals**.
 3. Click **New** to create a new trade agreement journal.
 4. In the **Name** field, select the **standard journal name** (without academic attributes enabled).
 5. Click **Lines**.
-6. In the **Item** field, select the **non-tuition fee item** (e.g., ID card).
-7. Enter the **Start date** and **End date**.
-8. Enter the **price** in the currency field.
-9. Click **Post**.
+6. Complete the required fields.
+7. Click **Add products** and repeat step 6 for each item.
+8. Click **Post**.
 
 > **Note:** *Non-tuition items such as ID cards use a standard trade agreement. Academic attributes are not required and should not be selected for these items.*
 
 ![Fee Structure Setup Non-Tuition Item 1](./99-Images/fee_structure_setup_non_tuition_item_1.png)
+
+![Fee Structure Setup Non-Tuition Item 2](./99-Images/fee_structure_setup_non_tuition_item_2.png)
 
 ---
 
