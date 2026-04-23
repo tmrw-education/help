@@ -172,15 +172,8 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 10. Click **Post**.
 11. Select your **receipt options** and click **OK**.
-12. Navigate back to the **sale order** for the student and click **Refresh**.
-13. Under **Invoice**, click **Prepayment Invoice**.
 
-> **Note:** *The system generates and posts one prepayment invoice per term covered by the payment. For example, paying 3 terms generates 3 prepayment invoices.*
-
-14. Open **Modules** ▸ **Accounts Receivable** ▸ **Customers**.
-15. Open the **customer record** and click **Transactions**.
-
-> **Note:** *Posted transactions include 1 receipt/payment transaction and one prepayment invoice per term paid.*
+> **Note:** *The system generates and posts one prepayment invoice per term covered by the payment. For example, paying 3 terms generates 3 prepayment invoices. Posted transactions include 1 receipt/payment transaction and one prepayment invoice per term paid.*
 
 ![Advance Payment Cashier Receipt](./99-Images/advance_payment_cashier_receipt_1.png)
 
