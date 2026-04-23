@@ -8,7 +8,7 @@ This section covers the two main methods for processing fee payments from custom
 
 
 #### In-Person (Over-the-Counter)
-Over-the-counter payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff access the Over the Counter Payment form, select the fee payer, choose the payment method such as cash or credit card, enter the amount, and mark the invoices the payment should be applied to. If the amount paid exceeds the invoice total, the system records the excess as an advance payment. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
+Over-the-counter payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff can process a payment using the Over the Counter Payment form — selecting the fee payer, entering the amount, and allocating it to open invoices — or through the Cashier Receipt form when paying outstanding overdue invoices directly. If a payment exceeds the invoice total, the system records the excess as an advance. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
 
 ---
 
@@ -33,6 +33,27 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
+## Over-the-Counter Processing – Outstanding Payment
+ 
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
+2. Expand **Payments** and click **Cashier receipt**.
+3. Click **+ Cashier receipt** to create a new cashier receipt journal.
+4. Enter the **student account** in the **Customer** field.
+> **Note:** *The description field auto-populates based on the selected account but can be edited if required.*
+ 
+5. In the invoices panel on the right, tick the **invoice** to be paid.
+6. Select the **method of payment** from the **Method of payment** dropdown.
+7. Enter the **outstanding amount**.
+8. Enter a value in the **Payment reference** field if required.
+9. Click **Post** in the Action Pane.
+10. Enable the **Print receipt** toggle.
+11. Click **OK** to generate and issue the posted payment receipt.
+    
+![Over-the-Counter Processing Outstanding Payment 1](./99-Images/over_the_counter_processing_outstanding_payment_1.png)
+
+![Over-the-Counter Processing Outstanding Payment 2](./99-Images/over_the_counter_processing_outstanding_payment_2.png)
+
+---
 
 #### Scheduled Credit Card
 Scheduled credit card processing is used to handle bulk fee payments via credit card for a defined period. Staff create a new customer payment journal, generate a payment proposal for the relevant date range and payment method, and review the invoices returned. Selected invoices are transferred to the payment journal, and the system then requests authorisation from the payment service provider. If authorisation is successful, the transactions are posted and marked as complete. If any lines fail authorisation, they are removed automatically and must be manually reviewed or retried. This process allows the school to efficiently manage large volumes of credit card payments in a single batch.
