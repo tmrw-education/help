@@ -271,3 +271,41 @@ Cancel Receipt is used when a posted customer payment needs to be reversed. Staf
 ![Cancel Receipt 3](./99-Images/cancel_receipt_3.png)
 
 ---
+
+#### Cheque Returns
+
+When a customer cheque is returned due to insufficient funds, staff must reverse the original cheque payment, apply the NSF (non-sufficient funds) fee, and post the resulting accounting entries. The process begins by locating the dishonoured payment in the student's transaction history, reversing it using the NSF payment option, entering a reason code, and then posting the system-generated journal. Once posted, the reversal and associated fee entries are recorded against the student's account.
+
+---
+
+## Cancel Cheque – Insufficient Funds
+
+1. Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**.
+2. Filter for the student using the **Account** column filter or by name.
+3. Click **Transactions**.
+4. In **Customer transactions**, locate the **Cheque Payment** line for the dishonoured cheque.
+5. Select the payment row.
+6. Click **Reverse** in the action ribbon.
+7. Select **NSF payment** from the dropdown.
+
+> **Note:** *Selecting NSF payment triggers the reversal of the original cheque transaction and initiates the NSF fee entry.*
+
+8. Click **OK** on the confirmation prompt.
+9. In the **Cancel payment** window, select a **Reason code**.
+
+> **Note:** *Select the reason code that matches the return reason, for example, *Cheque returned – insufficient funds*.*
+
+10. Click **OK**.
+11. Navigate to **Modules** ▸ **Accounts receivable** ▸ **Payments** ▸ **Customer payment journal**.
+12. Enable **Show user-created only**.
+13. Locate and select the journal created for the NSF reversal.
+14. Click **Lines**.
+15. Click **Post**.
+
+![Cancel Cheque Insufficient Funds 1](./99-Images/cancel_cheque_insufficient_funds_1.png)
+
+![Cancel Cheque Insufficient Funds 2](./99-Images/cancel_cheque_insufficient_funds_2.png)
+
+![Cancel Cheque Insufficient Funds 3](./99-Images/cancel_cheque_insufficient_funds_3.png)
+
+![Cancel Cheque Insufficient Funds 4](./99-Images/cancel_cheque_insufficient_funds_4.png)
