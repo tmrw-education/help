@@ -241,3 +241,33 @@ The miscellaneous receipt function allows cashiers to record incoming payments t
 ![Cashier Receipt Miscellaneous Receipt 2](./99-Images/cashier_receipt_miscellaneous_receipt_2.png)
 
 ---
+
+#### Cancel Receipt
+
+Cancel Receipt is used when a posted customer payment needs to be reversed. Staff locate the student's transaction record, initiate a reversal, and select a cancellation reason. The system reverses the original payment entry and updates the student's account accordingly.
+
+---
+
+## Cancel Receipt
+
+1. Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**.
+2. Filter the list to locate the required student.
+3. Click **Customer** on the Action Pane.
+4. Click **Transactions**.
+5. Select the transaction.
+6. Click **Reverse**.
+7. Click **Cancel payment**.
+8. Select the **reversal date** in the date picker.
+
+> **Note:** *The reversal date cannot be set prior to the original posting date.*
+
+9. Select a value from the **Reason code** dropdown.
+10. Click **OK**.
+
+![Cancel Receipt 1](./99-Images/cancel_receipt_1.png)
+
+![Cancel Receipt 2](./99-Images/cancel_receipt_2.png)
+
+![Cancel Receipt 3](./99-Images/cancel_receipt_3.png)
+
+---
