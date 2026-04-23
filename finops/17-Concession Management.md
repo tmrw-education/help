@@ -51,3 +51,57 @@ Staff concessions allow the school to apply fee reductions to students who are d
 ![Set Up Staff Concession Code 1](./99-Images/set_up_staff_concession_code_1.png)
 
 ---
+
+#### Importing Scholarship and Discount Data
+ 
+The scholarship and discount details import process allows bulk entry of scholarship and discount records into the system using the Microsoft Excel add-in. Rather than creating records one at a time in the interface, users download a pre-configured Excel template connected to the GEMS data entity, populate or update records directly in the spreadsheet, and publish back to the system. The system validates each row on publish and flags any errors in red for correction before re-publishing. This method is particularly useful when setting up large volumes of records at the start of an enrolment period or applying a bulk change across multiple students.
+ 
+---
+ 
+## Scholarship and Discount Details Import Through Excel Add-in
+ 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports** ▸ **Fee schedules** and click **Scholarship and discount details**.
+3. Click **Open in Microsoft Office** in the toolbar.
+4. Select **TMRW Student scholarship discount entity (AKN)**.
+5. Click **Download**.
+> **Note:** *An Excel file will download to your computer. The file contains the data entity template pre-configured for the scholarship and discount records.*
+ 
+6. Open the downloaded Excel file.
+7. Click **Enable Editing** and open in the desktop.
+> **Note:** *Wait for the Excel add-in to complete sign-in before proceeding. The add-in connects to the GEMS environment to read and write data.*
+ 
+8. Click **Design** in the add-in connection panel (bottom-right corner).
+9. Click the **Edit** button (pencil icon) next to the entity.
+10. Double-click each field in the **Available fields** list to move all fields across to the selected fields.
+11. Click **Update**.
+12. Click **Yes** in the confirmation prompt.
+13. Click **Done**.
+14. Click **Refresh** in the add-in panel.
+> **Note:** *Refreshing pulls the latest data from the system into the spreadsheet, including any records already saved.*
+
+15. Enter new records in the rows below the existing data, or copy existing rows and edit the details as required.
+> **Note:** *Do not modify or delete existing records unless a change to those records is specifically required. Altering existing rows will overwrite the data in the system on publish.*
+ 
+16. Click **Publish** in the add-in panel.
+> **Note:** *The system validates each row before saving. Rows that fail validation are highlighted in red text. Correct the flagged data and click Publish again to resubmit.*
+ 
+17. Confirm that all records have been accepted and are visible in the **Scholarships and discounts** master.
+
+![Scholarship And Discount Details Import Through Excel Add-in 1](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_1.png)
+
+![Scholarship And Discount Details Import Through Excel Add-in 2](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_2.png)
+
+![Scholarship And Discount Details Import Through Excel Add-in 3](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_3.png)
+
+![Scholarship And Discount Details Import Through Excel Add-in 4](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_4.png)
+
+![Scholarship And Discount Details Import Through Excel Add-in 5](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_5.png)
+
+![Scholarship And Discount Details Import Through Excel Add-in 6](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_6.png)
+
+![Scholarship And Discount Details Import Through Excel Add-in 7](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_7.png)
+
+![Scholarship And Discount Details Import Through Excel Add-in 8](./99-Images/scholarship_and_discount_details_import_through_excel_add_in_8.png)
+
+---
