@@ -238,4 +238,6 @@ The miscellaneous receipt function allows cashiers to record incoming payments t
 
 ![Cashier Receipt Miscellaneous Receipt 1](./99-Images/cashier_receipt_miscellaneous_receipt_1.png)
 
+![Cashier Receipt Miscellaneous Receipt 2](./99-Images/cashier_receipt_miscellaneous_receipt_2.png)
+
 ---
