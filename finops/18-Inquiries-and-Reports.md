@@ -17,3 +17,7 @@
 4. Define the duration in the **As on** field. 
 5. Click **Show data**. 
 6. Review the data. 
+
+![Number of siblings by family report 1](./99-Images/number_of_siblings_by_family_report_1.png)
+
+---
