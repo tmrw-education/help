@@ -19,16 +19,21 @@ When a student withdraws from the school and requests a transfer certificate, a 
 6. In the **Create invoice by using the default values from** field, select **Free text invoice template**.
 7. Click **OK**.
 8. In the **Description** field, enter a value.
-9. Select the **Lines** tab and set the **Financial dimension**.
-10. Select the **Header** tab and set the **Financial dimension**.
+9. Scroll down and expand the **Line details** tab.
+10. Open **Financial dimension line**.
+11. Set the **Financial dimension**.
 
 > **Note:** *Select Curriculum, School Levels, and Year Group. The Fee Head field is auto-populated based on the free text invoice template setup.*
 
-11. Click **Post**.
-12. In the **Batch processing** field, select **No**.
-13. Click **OK**.
-14. Close the page.
+12. Click **Post**.
+13. In the **Batch processing** field, select **No**.
+14. Click **OK**.
+15. Close the page.
 
 ![Transfer Certificate 1](./99-Images/transfer_certificate_1.png)
+
+![Transfer Certificate 2](./99-Images/transfer_certificate_2.png)
+
+![Transfer Certificate 3](./99-Images/transfer_certificate_3.png)
 
 ---
