@@ -55,6 +55,26 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
+## Over-the-Counter Processing – Pre-Admission Fees Payment
+ 
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
+2. Expand **Payments** and click **Cashier receipt**.
+3. Click **+ Cashier receipt** in the toolbar to create a new cashier receipt journal.
+4. In the **Customer** field, select the student account for the pre-admission fee payment.
+5. In the **Description** field, enter a description for the transaction.
+6. Open the **Pre-admission fee** section, tick the **Mark** checkbox to select the prepayment invoice.
+7. In the **Method of payment** field, select the payment method.
+8. In the **Amount** field, enter the pre-admission fee amount.
+9. Click **Post**.
+10. Enable the **Print receipt** toggle to preview the posted receipt.
+11. Click **OK** to post the journal.
+    
+![Over-the-Counter Processing Pre-Admission Fees Payment 1](./99-Images/over_the_counter_processing_outstanding_payment_1.png)
+
+![Over-the-Counter Processing Pre-Admission Fees Payment 1](./99-Images/over_the_counter_processing_pre_admission_fees_payment_1.png)
+
+---
+
 #### Scheduled Credit Card
 Scheduled credit card processing is used to handle bulk fee payments via credit card for a defined period. Staff create a new customer payment journal, generate a payment proposal for the relevant date range and payment method, and review the invoices returned. Selected invoices are transferred to the payment journal, and the system then requests authorisation from the payment service provider. If authorisation is successful, the transactions are posted and marked as complete. If any lines fail authorisation, they are removed automatically and must be manually reviewed or retried. This process allows the school to efficiently manage large volumes of credit card payments in a single batch.
 
