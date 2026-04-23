@@ -154,7 +154,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
 2. Expand **Payments** and click **Cashier Receipt**.
-3. Click **New** to create a new cashier receipt.
+3. Click **+ Cashier reciept** to create a new cashier receipt.
 4. Enter the **student account** in the **Customer** field.
 5. Under **Method of Payment**, enable the **Co-branded** option.
 6. Select the **co-branded method of payment** from the dropdown.
@@ -175,16 +175,18 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 > **Note:** *The system generates and posts one prepayment invoice per term covered by the payment. For example, paying 3 terms generates 3 prepayment invoices. Posted transactions include 1 receipt/payment transaction and one prepayment invoice per term paid.*
 
-![Advance Payment Cashier Receipt](./99-Images/advance_payment_cashier_receipt_1.png)
+![Advance Payment Cashier Receipt 1](./99-Images/advance_payment_cashier_receipt_1.png)
 
-![Advance Payment Prepayment Invoices](./99-Images/advance_payment_prepayment_invoices_2.png)
+![Advance Payment Cashier Receipt 2](./99-Images/advance_payment_cashier_receipt_2.png)
+
+![Advance Payment Cashier Receipt 3](./99-Images/advance_payment_cashier_receipt_3.png)
 
 ---
 
 ## Advance Discount Simulation
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Inquiry and Report** and click **Advanced Discount Policy**.
+2. Expand **Inquiry and Report**, **Co-branded transactions** and click **Advanced Discount Policy**.
 3. Enter the **student account** in the **Customer** field.
 4. Select the **co-branded method of payment** from the **Method of Payment** dropdown.
 5. Enter the **amount** to simulate.
@@ -195,7 +197,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 > **Note:** *The system displays the discount rate and amount that would apply if the fee payer made an advance payment for the entered amount. This tool does not create a transaction — it is for calculation and agreement purposes only.*
 
-![Advance Discount Simulation](./99-Images/advance_discount_simulation_3.png)
+![Advance Discount Simulation](./99-Images/advance_discount_simulation_1.png)
 
 ---
 
