@@ -44,7 +44,7 @@ With student data confirmed and fee schedule templates in place, the system is r
 
 ---
 
-## Generate the Sales Order Batch
+## Fee Schedule Batches
 
 > **Note:** *Before running this batch, confirm that each student has an academic enrolment record with the correct fee and charge interval, and that at least one active fee schedule template exists for the target academic year. The fee and charge interval is the key field linking students, templates, and the batch job.*
 
