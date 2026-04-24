@@ -1,5 +1,7 @@
 # Debtor Management
 
+The Debtor Management module covers the student and fee payer record management that underpins accurate fee generation. It includes verifying that each student has the correct academic year, enrolment dates, and sibling order assigned before any fee batch is run, and confirming that financial responsibility percentages across all fee payers on a student's account total 100. It also covers the setup of split financial responsibility, allowing schools to define default billing percentages across multiple fee payers such as parents or guardians. Any errors in this data at the debtor level flow directly through to generated invoices, making this a critical step before running any billing cycle.
+
 ---
 
 #### Student Master
