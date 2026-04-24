@@ -5,7 +5,7 @@ This section covers fee adjustments for students who start after the official te
 ---
 
 
-#### New Students
+#### Joining Students
 When a student begins their enrolment after the official term start date, it would be inequitable to charge them the full term fee. The pro rata adjustment feature addresses this by calculating the fee based on the actual number of school days the student will attend within the term. To enable this, the Pro rata field on the relevant tuition fee item must be activated, and the student's enrolment effective date must be updated to reflect their actual start date. When the fee generation batch is run, the system uses these dates to automatically calculate and apply a reduced fee, ensuring the student is only charged for the days they are present.
 
 
@@ -13,6 +13,7 @@ When a student begins their enrolment after the official term start date, it wou
 
 ## Enable Pro Rata Adjustments
 
+> **Note:** *Ensure the **Pro rata joining** option on the fee item matches the policy configured in Fee schedule parameters. See [Fee Schedule Parameters (GEMS)](../02-Setup.md#fee-schedule-parameters-gems) — step 8.*
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Expand **Products** and click **Released products**.
 3. Locate and select the **tuition fee item** (e.g., FS1) that will be subject to pro rata adjustment.
@@ -60,7 +61,7 @@ When a student begins their enrolment after the official term start date, it wou
 ---
 
 
-#### Exiting Students
+#### Leaving Students
 When a student leaves the school before the end of a term, any fees already invoiced for the remaining days need to be adjusted and refunded. The system handles this through the Calculate fee and charge adjustment task, where staff enter the student's last day at school. The system then calculates the number of remaining school days and generates an adjustment sales order with a negative quantity representing the days to be refunded. Staff review the adjustment to confirm the quantity and net refund amount are correct before the refund is processed, ensuring the student's account is accurately reconciled upon departure.
 
 
@@ -68,6 +69,7 @@ When a student leaves the school before the end of a term, any fees already invo
 
 ## Enable Pro Rata Adjustments
 
+> **Note:** *Ensure the **Pro rata leaving** option on the fee item matches the policy configured in Fee schedule parameters. See [Fee Schedule Parameters (GEMS)](../02-Setup.md#fee-schedule-parameters-gems) — step 9.*
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Expand **Products** and click **Released products**.
 3. Locate and select the **tuition fee item** (e.g., FS1) that will be subject to pro rata adjustment.
