@@ -430,3 +430,7 @@ The student ledger provides a consolidated view of a student's financial activit
 ![Student Ledger 2](./99-Images/student_ledger_2.png)
 
 ---
+
+## Fee Structure - Price Changes
+
+---
