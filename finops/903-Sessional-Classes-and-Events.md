@@ -11,15 +11,6 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 
 ---
 
-## Create Fee Categories
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Fee categories**.
-3. Click **New** in the top toolbar.
-4. Complete the columns to create new fee categories.
-5. Click **Save**.
-
-![Create Fee Categories Creation 1](./99-Images/create_fee_categories_creation_1.png)
 
 ---
 
