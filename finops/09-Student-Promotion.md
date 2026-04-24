@@ -14,7 +14,30 @@
 
 ---
 
+#### Financial Check Setup
+ 
+The financial check setup defines the outstanding fee balance threshold used when the student management system polls Finance & Operations to determine whether a student is cleared for reenrolment. Thresholds are configured by fee head (dimension value), meaning the system can apply different acceptable balance limits depending on the type of fee. When a reenrolment check is triggered, the student's outstanding balance for each fee head is compared against the configured threshold. If the balance exceeds the threshold for any configured fee head, the student does not receive financial clearance.
+ 
+---
+ 
 ## Financial Check Setup
+ 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Fee schedule parameters**.
+3. In the **General** tab.
+4. Expand the **Financial dimension** section.
+5. Click **+ New** in the threshold table.
+6. Enter the **Threshold limit**.
+> **Note:** *The threshold limit is a monetary amount. If a student's outstanding balance for a given fee head meets or exceeds this amount, the student will not receive financial clearance for reenrolment.*
+ 
+7. Select the **Dimension value** from the dropdown.
+> **Note:** *The dimension value represents the fee head (fee type) against which the outstanding balance will be evaluated. The Description field defaults from the selected fee head.*
+ 
+8. Repeat steps 5–7 for each fee head that requires a threshold.
+9. Click **Save**.
+> **Note:** *When the student management system requests reenrolment clearance, it checks the student's outstanding balance by fee head against each configured threshold. A student is only financially cleared if their balance for every configured fee head is below the threshold.*
+ 
+![Financial Check Setup 1](./99-Images/financial_check_setup_1.png)
 
 ---
 
