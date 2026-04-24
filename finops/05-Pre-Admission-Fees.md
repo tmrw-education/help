@@ -74,11 +74,101 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 ---
 
+#### Refunding Deposits
+Enrolment deposits are designed to be refundable under certain circumstances, but they can also be forfeited if a student does not proceed with enrolment. This section covers both scenarios. When a refund is required, staff select the deposit, choose the refund bank account, and process the transaction through the journal. When a deposit is to be forfeited, the same selection process applies, but the forfeit action is used instead. In both cases, only deposits with a status of Received or Partial are eligible for processing, ensuring that incomplete or unsettled deposits are not actioned prematurely.
+
+---
+
+## Forfeiting Deposits
+
+> **Note:** *Only deposits with Status = Received or Partial is eligible to be forfeited.*
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
+3. Click **Pre-admission deposits**.
+4. When the deposit criteria window opens, click **OK** to view all deposits.
+5. **Check** the deposit to be forfeited from the far-left column.
+6. Click **Forfeit** in the toolbar.
+7. In the dialog box on the right, choose whether to **Preview** or **disable** the toggle to post automatically.
+8. Click **OK**.
+9. To preview, click the **Forfeit journal number**.
+10. Open the journal by clicking **Lines** in the toolbar.
+11. Review the transaction, select the credit line using the **checkbox**, and click **Post**.
+12. Click **Save** in the toolbar.                                                           
+13. Review the transaction.
+14. Select the credit line using the **checkbox** and click **Post**.
+15. Click **Save** in the toolbar.
+
+![Forfeiting Deposits Creation 1](./99-Images/forfeiting_deposits_creation_1.png)
+
+![Forfeiting Deposits Creation 2](./99-Images/forfeiting_deposits_creation_2.png)
+
+![Forfeiting Deposits Creation 3](./99-Images/forfeiting_deposits_creation_3.png)
+
+![Forfeiting Deposits Creation 4](./99-Images/forfeiting_deposits_creation_4.png)
+
+![Forfeiting Deposits Creation 5](./99-Images/forfeiting_deposits_creation_5.png)
+
+![Forfeiting Deposits Creation 6](./99-Images/forfeiting_deposits_creation_6.png)
+
+---
+
 ## Refunding Deposits
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
+3. Click **Pre-admission deposits**.
+4. When the deposit criteria window opens, click **OK** to view all deposits.
+5. **Check** the deposit to be refunded from the far-left column.
+6. Click **Refund** in the toolbar.
+7. In the dialog box on the right, choose the **Bank account** for the refund.
+8. Choose whether to **Preview** or disable the toggle to post automatically. Click **OK**.
+9. To preview, click the **Refund journal number**.
+10. Open the journal by selecting the refund journal and clicking **Lines** in the toolbar. 
+11. Review the refund, select the credit line using the **checkbox**, and click **Post**.
+12. Review the transaction.
+13. Select the credit line using the **checkbox**, and click **Post**.
+14. Click **Save** in the toolbar.
+
+![Refunding Deposits Creation 1](./99-Images/refunding_deposits_creation_1.png)
+
+![Refunding Deposits Creation 2](./99-Images/refunding_deposits_creation_2.png)
+
+![Refunding Deposits Creation 3](./99-Images/refunding_deposits_creation_3.png)
+
+![Refunding Deposits Creation 4](./99-Images/refunding_deposits_creation_4.png)
+
+![Refunding Deposits Creation 5](./99-Images/refunding_deposits_creation_5.png)
+
+![Refunding Deposits Creation 6](./99-Images/refunding_deposits_creation_6.png)
+
+![Refunding Deposits Creation 7](./99-Images/refunding_deposits_creation_7.png)
 
 ---
 
 ## Cancel Enrolment Deposit or Fee
+
+#### Reversing Unpaid Fees
+There are situations where a posted enrolment fee or deposit needs to be reversed, such as when a fee was created in error or circumstances have changed before payment was received. This process allows staff to cancel a posted record by selecting it from the pre-admission fees list and applying a reverse posting date. The reversal creates an offsetting entry in the system, effectively cancelling the original transaction and restoring the record to a neutral state without permanently deleting any audit history.
+
+
+---
+
+## Reverse Enrolment Deposit or Fee
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
+3. Click **All pre-admission fees**.
+4. To filter the view by Posted entries, click the **Status column**.
+5. Select **Posted**.
+6. Select the **enrolment deposit or fee** using the checkbox on the far-left column.
+7. Click **Cancel** in the toolbar.
+8. In the dialog box on the right, choose the **Reverse posting date.**
+9. Click OK. 
+
+![Reverse Enrolment Deposit Or Fee Creation 1](./99-Images/reverse_enrolment_deposit_or_fee_creation_1.png)
+
+![Reverse Enrolment Deposit Or Fee Creation 2](./99-Images/reverse_enrolment_deposit_or_fee_creation_2.png)
 
 ---
 
@@ -164,103 +254,5 @@ Once enrolment fees and deposits have been created and posted, payments can be p
 ![Pre Admission Enrolment Fee Payment Process Creation 3](./99-Images/pre_admission_enrolment_fee_payment_process_creation_3.png)
 
 ![Pre Admission Enrolment Fee Payment Process Creation 4](./99-Images/pre_admission_enrolment_fee_payment_process_creation_4.png)
-
----
-
-#### Refundable Deposit
-Enrolment deposits are designed to be refundable under certain circumstances, but they can also be forfeited if a student does not proceed with enrolment. This section covers both scenarios. When a refund is required, staff select the deposit, choose the refund bank account, and process the transaction through the journal. When a deposit is to be forfeited, the same selection process applies, but the forfeit action is used instead. In both cases, only deposits with a status of Received or Partial are eligible for processing, ensuring that incomplete or unsettled deposits are not actioned prematurely.
-
-
----
-
-## Forfeiting Deposits
-
-> **Note:** *Only deposits with Status = Received or Partial is eligible to be forfeited.*
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
-3. Click **Pre-admission deposits**.
-4. When the deposit criteria window opens, click **OK** to view all deposits.
-5. **Check** the deposit to be forfeited from the far-left column.
-6. Click **Forfeit** in the toolbar.
-7. In the dialog box on the right, choose whether to **Preview** or **disable** the toggle to post automatically.
-8. Click **OK**.
-9. To preview, click the **Forfeit journal number**.
-10. Open the journal by clicking **Lines** in the toolbar.
-11. Review the transaction, select the credit line using the **checkbox**, and click **Post**.
-12. Click **Save** in the toolbar.                                                           
-13. Review the transaction.
-14. Select the credit line using the **checkbox** and click **Post**.
-15. Click **Save** in the toolbar.
-
-![Forfeiting Deposits Creation 1](./99-Images/forfeiting_deposits_creation_1.png)
-
-![Forfeiting Deposits Creation 2](./99-Images/forfeiting_deposits_creation_2.png)
-
-![Forfeiting Deposits Creation 3](./99-Images/forfeiting_deposits_creation_3.png)
-
-![Forfeiting Deposits Creation 4](./99-Images/forfeiting_deposits_creation_4.png)
-
-![Forfeiting Deposits Creation 5](./99-Images/forfeiting_deposits_creation_5.png)
-
-![Forfeiting Deposits Creation 6](./99-Images/forfeiting_deposits_creation_6.png)
-
----
-
-## Refunding Deposits
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
-3. Click **Pre-admission deposits**.
-4. When the deposit criteria window opens, click **OK** to view all deposits.
-5. **Check** the deposit to be refunded from the far-left column.
-6. Click **Refund** in the toolbar.
-7. In the dialog box on the right, choose the **Bank account** for the refund.
-8. Choose whether to **Preview** or disable the toggle to post automatically. Click **OK**.
-9. To preview, click the **Refund journal number**.
-10. Open the journal by selecting the refund journal and clicking **Lines** in the toolbar. 
-11. Review the refund, select the credit line using the **checkbox**, and click **Post**.
-12. Review the transaction.
-13. Select the credit line using the **checkbox**, and click **Post**.
-14. Click **Save** in the toolbar.
-
-![Refunding Deposits Creation 1](./99-Images/refunding_deposits_creation_1.png)
-
-![Refunding Deposits Creation 2](./99-Images/refunding_deposits_creation_2.png)
-
-![Refunding Deposits Creation 3](./99-Images/refunding_deposits_creation_3.png)
-
-![Refunding Deposits Creation 4](./99-Images/refunding_deposits_creation_4.png)
-
-![Refunding Deposits Creation 5](./99-Images/refunding_deposits_creation_5.png)
-
-![Refunding Deposits Creation 6](./99-Images/refunding_deposits_creation_6.png)
-
-![Refunding Deposits Creation 7](./99-Images/refunding_deposits_creation_7.png)
-
----
-
-#### Reversing Unpaid Fees
-There are situations where a posted enrolment fee or deposit needs to be reversed, such as when a fee was created in error or circumstances have changed before payment was received. This process allows staff to cancel a posted record by selecting it from the pre-admission fees list and applying a reverse posting date. The reversal creates an offsetting entry in the system, effectively cancelling the original transaction and restoring the record to a neutral state without permanently deleting any audit history.
-
-
----
-
-## Reverse Enrolment Deposit or Fee
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
-3. Click **All pre-admission fees**.
-4. To filter the view by Posted entries, click the **Status column**.
-5. Select **Posted**.
-6. Select the **enrolment deposit or fee** using the checkbox on the far-left column.
-7. Click **Cancel** in the toolbar.
-8. In the dialog box on the right, choose the **Reverse posting date.**
-9. Click OK. 
-
-![Reverse Enrolment Deposit Or Fee Creation 1](./99-Images/reverse_enrolment_deposit_or_fee_creation_1.png)
-
-![Reverse Enrolment Deposit Or Fee Creation 2](./99-Images/reverse_enrolment_deposit_or_fee_creation_2.png)
-
 
 ---
