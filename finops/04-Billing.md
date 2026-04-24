@@ -107,7 +107,48 @@ With student data confirmed and fee schedule templates in place, the system is r
 
 ---
 
+#### Post Fee Invoice and Settle Deposit
+After fee invoices have been generated and reviewed, they need to be formally posted to create the financial transactions in the system. This is done by selecting the relevant fee schedule batch and initiating the post, either directly or as a background job for large volumes. Once posted, the batch status updates from Active to Invoice. At this point, the system also automatically matches any received enrolment deposits to the corresponding invoices, settling them against the posted amounts. Staff should confirm that deposit statuses update from Received to Settled to ensure the reconciliation has completed correctly.
+
+
+---
+
 ## Post Fee Invoices (GEMS)
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Fee schedule batches** and click **All fee schedule batches**.
+3. Click on the **Fee schedule batch number** you want to post (status must be Active).
+4. Click **Post** in the toolbar.
+5. Choose the **Posting date** (e.g., end of June).
+6. Decide whether to:
+   - Post directly, or
+   - Run as a background job (recommended for large batches).
+7. If running in the background, submit and wait for processing.
+8. When complete, the batch status changes from Active to Invoice, and invoices are generated.
+
+![Post Fee Invoices Creation 1](./99-Images/post_fee_invoices_creation_1.png)
+
+![Post Fee Invoices Creation 2](./99-Images/post_fee_invoices_creation_2.png)
+
+![Post Fee Invoices Creation 3](./99-Images/post_fee_invoices_creation_3.png)
+
+---
+
+## Settle Enrolment Deposits
+
+1. From **Modules** ▸ **Academic Management ▸ Inquiries and reports** ▸ **Pre-admission fees**.
+2. Click **Pre-admission deposits**.
+3. Click **OK** in the dialog.
+4. Click on the enrolment deposit **Sales order** you want to review.
+5. Review deposits with status **received** (indicating payment).
+6. After posting, the system automatically matches these deposits to invoices.
+7. Confirm the deposit status changes from received to **settled**.
+
+![Settle Enrolment Deposits Creation 1](./99-Images/settle_enrolment_deposits_creation_1.png)
+
+![Settle Enrolment Deposits Creation 2](./99-Images/settle_enrolment_deposits_creation_2.png)
+
+![Settle Enrolment Deposits Creation 3](./99-Images/settle_enrolment_deposits_creation_3.png)
 
 ---
 
