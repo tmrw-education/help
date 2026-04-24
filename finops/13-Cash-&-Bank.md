@@ -1,5 +1,7 @@
 # Cash & Bank
 
+Cash & Bank covers the day-end procedures and bank reconciliation processes required to close out daily transactions accurately. Staff consolidate individual deposit slips created across the day into a single deposit slip by payment method, generate a combined deposit slip report for banking purposes, and verify the resulting entries against the bank account transaction view. These procedures ensure that cash received through counter payments and other channels is correctly recorded and reconciled at the close of each business day.
+
 ---
 
 #### Day-End Procedures
