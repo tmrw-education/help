@@ -96,7 +96,33 @@ Before fees can be generated, processed, or settled across the platform, the fee
 
 ---
 
+#### Sibling Order
+The sibling discount feature allows the school to automatically apply fee reductions based on how many children from the same family are currently enrolled. To make this work, each student needs to be assigned a sibling order number that reflects their position within the family, with the eldest being 1, the second child being 2, and so on. These numbers are then mapped to customer price and discount groups, which are in turn linked to trade agreements that define the discount percentage for each sibling position. Once this configuration is complete and the trade agreement is posted, the system applies the correct discount automatically when fee invoices are generated.
+
+---
+
 ## Sibling Order Setup
+
+> **Note:** *For each possible child in a family, assign a sibling order number (e.g., 1 for first child, 2 for second, up to your maximum, such as 9). Use 0 for students who are not yet current (e.g., future students or those transitioning between programs).*
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Sibling order**.
+3. Click **New** to create sibling order entries.
+4. In the first column enter the **sibling order number** and in the second column, enter the **description**.
+5. Click **Save**.
+6. Go back to **Modules** ▸ **Sales and marketing**.
+7. Expand **Prices and discounts** and click **Customer price/discount groups**.
+8. In the Show field, change the value to **Line discount group**.
+9. Click **New** to assign the correct sibling order and complete the following columns:
+   - Enter the sibling order number in the Price groups column (e.g., 1, 2, 3).
+   - Name the entry in the next column (e.g., First Child, Second Child).
+   - In the Sibling column, use the dropdown and match this with the sibling order.
+10. Repeat as many times as required.
+11. Click **Save**.
+    
+![Sibling Order Setup Creation 1](./99-Images/sibling_order_setup_creation_1.png)
+
+![Sibling Order Setup Creation 2](./99-Images/sibling_order_setup_creation_2.png)
 
 ---
 
