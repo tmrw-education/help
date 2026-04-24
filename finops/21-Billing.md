@@ -401,3 +401,7 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 ![Advance Tax Invoice upon Request 5](./99-Images/advance_tax_invoice_upon_request_5.png)
 
 ---
+
+## Book Sales
+
+---
