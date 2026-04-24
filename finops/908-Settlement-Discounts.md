@@ -11,18 +11,6 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 
 ---
 
-## Configuring Discount Setup
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
-2. Expand **Payment setup** and click **Cash discounts**.
-3. Click **New** to add a discount.
-4. Enter the **Cash Discount** code.
-5. Enter a **Description**.
-6. Specify either a **Discount Percentage or a Fixed Discount Amount**.
-7. Assign the **Main Account** where the discount will be posted.
-8. Click **Save**.
-
-![Configuring Discount Setup](./99-Images/configuring_discount_setup_1.png)
 
 ---
 
