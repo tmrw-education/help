@@ -1,5 +1,7 @@
 # Student Promotion
 
+Student Promotion manages the financial checks and processes that occur when students move between academic years. It covers how the system automatically polls outstanding fee balances during reenrolment periods and blocks students from progressing if they exceed a configured threshold. Staff can review blocked students, arrange payment with families, and apply financial check overrides with an audit reason where a payment arrangement is in place. The module ensures that financial obligations are reviewed and resolved before reenrolment invitations are issued.
+
 ---
 
 ## Update Student Enrolment Dates
