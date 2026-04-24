@@ -96,6 +96,28 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
+## Over-the-Counter Processing – Over Payment
+ 
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
+2. Expand **Payments** and click **Cashier receipt**.
+3. Click **+ Cashier receipt** to create a new cashier receipt journal.
+4. Enter the **student account** in the **Customer** field.
+5. In the invoices panel on the right, tick the **invoice** to be paid.
+6. In the **Method of payment** field, select the payment method.
+7. In the **Amount** field, enter an amount greater than the invoice total.
+8. Enter a value in the **Payment reference** field if required.
+> **Note:** *After saving, the excess amount appears in the **Overpayment** field. This allows the cashier to review and correct the amount before posting if the overpayment was entered in error.*
+ 
+9. Click **Post**.
+10. Enable the **Print receipt** toggle if a copy of the posted receipt is required.
+11. Click **OK**.
+    
+![Over-the-Counter Processing Over Payment 1](./99-Images/over_the_counter_processing_outstanding_payment_1.png)
+
+![Over-the-Counter Processing Over Payment 1](./99-Images/over_the_counter_processing_over_payment_1.png)
+
+---
+
 #### Scheduled Credit Card
 Scheduled credit card processing is used to handle bulk fee payments via credit card for a defined period. Staff create a new customer payment journal, generate a payment proposal for the relevant date range and payment method, and review the invoices returned. Selected invoices are transferred to the payment journal, and the system then requests authorisation from the payment service provider. If authorisation is successful, the transactions are posted and marked as complete. If any lines fail authorisation, they are removed automatically and must be manually reviewed or retried. This process allows the school to efficiently manage large volumes of credit card payments in a single batch.
 
