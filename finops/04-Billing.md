@@ -173,6 +173,20 @@ After fee invoices have been generated and reviewed, they need to be formally po
 
 ## Split Billing Fee Schedule Templates
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Fee schedules** and click **All fee schedules**.
+3. Click **New** to create a new template (e.g., Split billing override template).
+4. Set the **billing interval** (e.g., termly).
+5. Enable the **early payment discount** option if required.
+6. In the **Fee schedule lines** section, click **Add line**.
+7. Choose the **Product name** (e.g., Tuition fee).
+8. Enable **Conditions** and click Condition in the toolbar.
+9. Set the **Criteria** for any necessary conditions (e.g., applies to current academic year students).
+10. Add any other **fee items** required (e.g., Building Fund Fee item, which can be set to apply to all students without conditions).
+11. Click **Save**.
+
+![Create Split Billing Fee Schedule Template](./99-Images/create_split_billing_fee_schedule_template_1.png)
+
 ---
 
 ## Split Billing Configuration Percent by Fee Items
