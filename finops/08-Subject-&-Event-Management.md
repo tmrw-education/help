@@ -1,5 +1,9 @@
 # Subject & Event Management
 
+This section covers the setup and invoicing of fee-generating activities such as excursions, music lessons, and other events. It includes creating fee categories, subject and event codes, assigning fee categories to items, enrolling students into sessional classes and events, enabling session-based invoicing, and processing adjustments when session numbers change after invoices have been generated.
+
+---
+
 #### Subject and Event Name Creation
 Before students can be enrolled in sessional classes or events and invoiced accordingly, the system needs to have the correct fee categories, subject codes, and event names configured. Fee categories classify the type of activity, while subject and event codes provide the unique identifiers the system uses to link students to specific classes or events. Each entry needs to be marked as active before it can be used in fee processing. Early payment discount options can also be set at this stage if applicable. This setup work is a prerequisite for all subsequent sessional class and event invoicing.
 
