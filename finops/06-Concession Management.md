@@ -115,6 +115,21 @@ This section covers the configuration and application of staff concessions and o
 
 ![Scholarship And Discount Approval Process Creation 3](./99-Images/scholarship_and_discount_approval_process_creation_3.png)
 
+## Approving or Rejecting Scholarships and Discounts
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Scholarships and discounts**.
+3. Select a **scholarship or discount** by checking the circle to the left of the item.
+4. Click **General** in the toolbar.
+5. Choose **Students** under the Students tab.
+6. Select the student whose **scholarship/discount requires approval**.
+7. Click the Approval dropdown and choose **Approve or Reject**.
+8. Click **Save**.
+
+![Approving Or Rejecting Scholarships And Discounts Creation 1](./99-Images/approving_or_rejecting_scholarships_and_discounts_creation_1.png)
+
+![Approving Or Rejecting Scholarships And Discounts Creation 2](./99-Images/approving_or_rejecting_scholarships_and_discounts_creation_2.png)
+
 ---
 
 ## View Scholarship & Discounts for Students via the Scholarship & Discounts details table
