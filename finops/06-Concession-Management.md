@@ -1,6 +1,6 @@
 # Concession Management
 
-This section covers the configuration and application of staff concessions and other concession types within the fee management system. It includes setting up charge codes in the auto charges table, creating discount codes linked to those charge codes, recording concession entitlements against students in the dedicated concession tables, generating estimated concession amounts, and applying those concessions to new and existing sale orders.
+Concession Management handles the configuration and application of scholarships, discounts, and staff concessions across the fee management system. Scholarship and discount codes are created, linked to fee items and students, and moved through an approval workflow before taking effect. Staff concessions are managed through dedicated charge codes in the auto charges table, with separate discount codes configured for each concession type. Applied discounts can be reviewed directly against fee schedule batches once invoices are generated. For high-volume setup, bulk import of scholarship and discount records is supported through the Microsoft Excel add-in.
 
 ---
 
