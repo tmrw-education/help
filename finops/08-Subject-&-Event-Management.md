@@ -1,6 +1,6 @@
 # Subject & Event Management
 
-This section covers the setup and invoicing of fee-generating activities such as excursions, music lessons, and other events. It includes creating fee categories, subject and event codes, assigning fee categories to items, enrolling students into sessional classes and events, enabling session-based invoicing, and processing adjustments when session numbers change after invoices have been generated.
+Subject & Event Management handles the setup and invoicing of fee-generating activities including excursions, music lessons, and other school events. Fee categories, subject and event codes, and event fee schedule templates are configured before students are enrolled into sessional classes or events. Invoicing can be set to charge a flat fee or calculated based on the number of sessions attended using session-based invoicing. Where session numbers change after invoices have been generated, the module supports adjustment processing to keep student accounts accurate. Enrolment cancellations are also managed here.
 
 ---
 
