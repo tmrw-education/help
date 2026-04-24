@@ -54,7 +54,7 @@ Adjust for Session-Based Invoicing
 
 ---
 
-Sessiona Class & Event Enrolment Cancellation
+Sessionl Class & Event Enrolment Cancellation
 
 ---
 
