@@ -1,5 +1,7 @@
 # Revenue Recognition
 
+Revenue Recognition manages the month-end process of recognising deferred revenue in line with the school's billing and deferral schedule configuration. It allows finance staff to run recognition processing across all eligible deferral schedules for a given period using the Periodic tasks batch process, or to process recognition for a single invoice directly from the Deferral schedules list. Correct configuration of cutoff dates and transaction dates ensures that revenue is posted to the appropriate general ledger accounts for the period being closed.
+
 ---
 
 #### Month End Processing
