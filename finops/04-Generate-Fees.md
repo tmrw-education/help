@@ -106,45 +106,6 @@ Accurate fee generation depends entirely on the quality of the data held against
 
 ---
 
-## Fee Schedule Templates
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Fee schedules** and click **All fee schedules**.
-3. Click **New** in the toolbar.
-4. Set **Customer type** to **Student**.
-5. Enter a **Description**.
-6. Select the **Fee and charge interval**.
-   > **Note:** *The fee and charge interval determines which students and terms the system targets when generating invoices. Start and end dates populate automatically based on this selection.*
-7. Click **+ Add line** under **Fee schedule lines**.
-8. Select the **Item number**.
-9. Select the **Unit**.
-   > **Note:** *The unit must match the unit used when setting up the item price in the trade agreement.*
-10. Enable **Quantity** if the system should use the quantity from the fee and charge interval rather than the template.
-    > **Note:** *Enable this for items charged monthly. Leave disabled for items charged once per year.*
-11. Enable **Consolidate all periods** if all terms should be consolidated into one sales order line.
-    > **Note:** *Enable this for recurring items such as tuition fees. Leave disabled for one-off items such as ID card fees.*
-12. Set **Apply to** to **Student account**.
-13. If the item should only apply to students who meet specific criteria, enable **Condition**.
-14. Click **Condition** in the toolbar.
-15. Select the **Field** and enter the required value in the **Criteria** column.
-16. Click **OK**.
-    > **Note:** *Use conditions when the school has different fee structures for different student types. Items without conditions apply to all students.*
-17. Repeat steps 7–16 for each additional fee item.
-18. To set up revenue recognition, click **Deferral** in the toolbar.
-19. Enable the **Deferral** option for each term.
-20. Select the **Deferral template** for the number of months to allocate revenue across.
-    > **Note:** *If a revenue recognition date is set in the fee and charge interval, the system automatically populates the deferral start date.*
-21. Click **Ok**.
-22. Click **Save**.
-
-![Create Fee Schedule Templates 1](./99-Images/create_fee_schedule_templates_1.png)
-
-![Create Fee Schedule Templates 2](./99-Images/create_fee_schedule_templates_2.png)
-
-![Create Fee Schedule Templates 3](./99-Images/create_fee_schedule_templates_3.png)
-
----
-
 ## Event Template Setup
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
@@ -158,70 +119,6 @@ Accurate fee generation depends entirely on the quality of the data held against
 9. Click **Save**.
 
 ![Create Fee Schedule Templates Creation 7](./99-Images/create_fee_schedule_templates_creation_7.png)
-
----
-
-#### Create Fee Invoices
-With student data confirmed and fee schedule templates in place, the system is ready to generate fee invoices through a batch process. Staff navigate to the Generate Sales Order Batch Processing task and configure the run by setting the fee generation and posting dates, selecting the posting option, choosing whether to consolidate invoices by item, and filtering for the relevant student cohort and fee schedule templates. For large groups, the batch can be run in the background to avoid performance issues. Once complete, the system generates sales orders for all selected students, which can then be reviewed before posting.
-
----
-
-## Generate the Sales Order Batch
-
-> **Note:** *Before running this batch, confirm that each student has an academic enrolment record with the correct fee and charge interval, and that at least one active fee schedule template exists for the target academic year. The fee and charge interval is the key field linking students, templates, and the batch job.*
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Periodic tasks** and click **Generate sale order batch processing**.
-3. Set the **Fee generation date**.
-   > **Note:** *Set this to the start date of the academic year or the start date of the fee charge interval.*
-4. Set the **Posting date**.
-   > **Note:** *The posting date is only required if using the Post invoice automatically option. Leave blank if creating open sale orders for manual review.*
-5. Select the **Posting option**:
-   - *Create sale orders* — generates open sales orders for review before posting.
-   - *Post invoice automatically* — creates and posts invoices in a single step.
-6. Select the **Fee and charge interval**.
-   > **Note:** *This filters which students are included. Only students whose academic enrolment record contains this interval will be picked up by the batch.*
-7. Enter a **Batch description**.
-8. Select the **Fee schedule template number**, or leave blank to include all active templates.
-9. In **Records to include**, **filter** certain criteria if running for a specific cohort, students, academic year, etc.
-    > **Note:** *Leave this blank to run the batch across all eligible students for the selected interval.*
-10. Click **OK** to submit the batch job.
-11. Wait for the batch job to complete.
-12. Open **Modules** ▸ **Academic Management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
-    > **Note:** *The system generates a new batch number for each run. All sales orders created in that batch are listed under the batch number.*
-13. Click the **batch number** to review all generated sales orders.
-
-> **Note:** *The system reuses an existing deposit sales order if the student has already paid an enrolment deposit, inserting the fee items into that order. If no deposit has been paid, a new sales order is created automatically. The sales order type is set to Fee Generation to distinguish it from other order types.*
-
-![Run The Generate Sale Order Batch 1](./99-Images/run_the_generate_sale_order_batch_1.png)
-
-![Run The Generate Sale Order Batch 2](./99-Images/run_the_generate_sale_order_batch_2.png)
-
-![Run The Generate Sale Order Batch 3](./99-Images/run_the_generate_sale_order_batch_3.png)
-
----
-
-## Post Sale Order Invoices by Term
-
-> **Note:** *Invoices are not posted in a single run. Each term is posted separately by scheduling a batch job filtered to the relevant period name. If the school has three terms, three separate batch jobs are required.*
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Periodic tasks** and click **Post sale order invoice**.
-3. Set the **Posting date** for the term being posted.
-4. Enable **Split invoice by item**.
-   > **Note:** *With this option enabled, the system generates a separate invoice for each line item within the term. For example, if a student has two items in Term 1, two invoices are created.*
-5. In **Records to include**, set the **Period name** filter to the term being posted (e.g., *Term 1*).
-   > **Note:** *The system looks up all open sales order lines where the period name matches this filter and posts only those lines. This is how term-by-term invoice posting is controlled.*
-6. Expand **Run in the background** and enable **Batch processing**.
-7. Click **OK** to submit.
-8. Wait for the batch job to complete.
-9. Open **Modules** ▸ **Academic Management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
-10. Open the relevant batch and confirm that the status of each posted line has changed to **Invoice**.
-11. Repeat steps 2–10 for each remaining term.
-
-![Post Sale Order Invoices By Term 1](./99-Images/post_sale_order_invoices_by_term_1.png)
-
-![Post Sale Order Invoices By Term 2](./99-Images/post_sale_order_invoices_by_term_2.png)
 
 ---
 
