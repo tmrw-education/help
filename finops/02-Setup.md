@@ -1,6 +1,6 @@
 # Setup
 
-Before fees can be generated, processed, or settled across the platform, the fee schedule parameters must be configured correctly. These settings control how transactions are posted, which journals are used for different payment types, how financial dimensions are applied, how pro rata adjustments behave, and how the system integrates with related modules. This setup is typically completed once during initial configuration and revisited when new functionality is enabled or organisational settings change.
+Before fees can be generated, processed, or settled across the platform, a range of foundational settings must be configured correctly. This section covers the full scope of that setup work, including fee schedule parameters, fee and charge intervals, gender and academic year configuration, visa types, split billing percentages, fee categories, payment option setup, curriculum and stream configuration, advanced discount policies, deposit policies, sibling order and trade agreement setup, non-tuition item pricing, and the linkage of tuition fee items to academic years. Most of this configuration is completed once during initial implementation and revisited when new functionality is enabled or organisational settings change.
 
 ---
 
