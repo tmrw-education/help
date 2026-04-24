@@ -58,3 +58,5 @@ The intercompany transfer process is used when a student moves from one school t
 ![Transfer Customer Credit Balance 1](./99-Images/transfer_customer_credit_balance_1.png)
 
 ---
+
+## Intercompany Transaction in case of Monthend Fee Concession Transfers
