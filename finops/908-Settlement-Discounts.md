@@ -14,15 +14,7 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 
 ---
 
-## Assigning Discounts to Products / Fees
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
-2. Expand **Products** and click **Released products**.
-3. Select a relevant **fee item** (e.g., tuition, music lesson, sport class).
-4. Under the **Sell** section, assign the relevant discount code and percentage or amount using the **Early payment discount** dropdown.
-5. Click **Save**.
-
-![Assiging Discounts to Products / Fees](./99-Images/assiging_discounts_to_products_1.png)
 
 ---
 
