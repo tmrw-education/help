@@ -15,23 +15,7 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 
 ---
 
-## Scholarship and Discount Approval Process
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and **click Scholarships and discounts**.
-3. Select a **scholarship or discount** by checking the circle to the left of the item.
-4. Click **General** in the toolbar.
-5. Choose **Students** under the Students tab.
-6. Select the **student record** in Draft status that requires approval.
-7. Click the **Approval dropdown** in the toolbar and choose **Report as ready**.
-8. The status changes to Under Review.
-9. Click **Save**.
-
-![Scholarship And Discount Approval Process Creation 1](./99-Images/scholarship_and_discount_approval_process_creation_1.png)
-
-![Scholarship And Discount Approval Process Creation 2](./99-Images/scholarship_and_discount_approval_process_creation_2.png)
-
-![Scholarship And Discount Approval Process Creation 3](./99-Images/scholarship_and_discount_approval_process_creation_3.png)
 
 ---
 
