@@ -364,3 +364,40 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 ![Fee Structure Setup Trade Agreement 3](./99-Images/fee_structure_setup_trade_agreement_3.png)
 
 ---
+
+#### Tax Invoices
+ 
+The advance tax invoice feature allows staff to generate a tax invoice against a fee payer's open proforma invoice before full payment is received. This is typically used when a family requests a formal tax invoice ahead of settlement, for example for employer reimbursement or government funding purposes. Staff locate the student account, access the relevant sales order, apply the prepayment invoice against the open term invoice, assign the advance tax invoice request category, and post the record. The system then generates the invoice, which can be printed and provided to the fee payer.
+ 
+---
+ 
+## Advance Tax Invoice upon Request
+ 
+1. Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**.
+2. Open the **Account** column filter.
+3. Enter the student's account number in the **Account** field using the *contains* filter operator.
+4. Open **Sell** and click **Orders** in the Action Pane.
+5. Click **All sales orders** to locate the open proforma invoice.
+6. Click **Invoice** in the Action Pane.
+7. Click **Add prepayment invoice**.
+8. Select the **Mark** checkbox to confirm the selection.
+
+> **Note:** *If you are invoicing for a partial amount only, enter the amount in the Amount to invoice field before proceeding.*
+ 
+9. In the **Sales category** field, enter or select *Advance tax invoice request category*.
+10. Click **Post**.
+11. Click **Prepayment invoice**.
+12. Click **Show or hide controls** if necessary.
+13. Click **Print**.
+
+![Advance Tax Invoice upon Request 1](./99-Images/advance_tax_invoice_upon_request_1.png)
+
+![Advance Tax Invoice upon Request 2](./99-Images/advance_tax_invoice_upon_request_2.png)
+
+![Advance Tax Invoice upon Request 3](./99-Images/advance_tax_invoice_upon_request_3.png)
+
+![Advance Tax Invoice upon Request 4](./99-Images/advance_tax_invoice_upon_request_4.png)
+
+![Advance Tax Invoice upon Request 5](./99-Images/advance_tax_invoice_upon_request_5.png)
+
+---
