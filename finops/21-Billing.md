@@ -1,4 +1,50 @@
-# Pro Rata Adjustments
+#Billing
+
+## Fee Schedule Templates
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Fee schedules** and click **All fee schedules**.
+3. Click **New** in the toolbar.
+4. Set **Customer type** to **Student**.
+5. Enter a **Description**.
+6. Select the **Fee and charge interval**.
+   > **Note:** *The fee and charge interval determines which students and terms the system targets when generating invoices. Start and end dates populate automatically based on this selection.*
+7. Click **+ Add line** under **Fee schedule lines**.
+8. Select the **Item number**.
+9. Select the **Unit**.
+   > **Note:** *The unit must match the unit used when setting up the item price in the trade agreement.*
+10. Enable **Quantity** if the system should use the quantity from the fee and charge interval rather than the template.
+    > **Note:** *Enable this for items charged monthly. Leave disabled for items charged once per year.*
+11. Enable **Consolidate all periods** if all terms should be consolidated into one sales order line.
+    > **Note:** *Enable this for recurring items such as tuition fees. Leave disabled for one-off items such as ID card fees.*
+12. Set **Apply to** to **Student account**.
+13. If the item should only apply to students who meet specific criteria, enable **Condition**.
+14. Click **Condition** in the toolbar.
+15. Select the **Field** and enter the required value in the **Criteria** column.
+16. Click **OK**.
+    > **Note:** *Use conditions when the school has different fee structures for different student types. Items without conditions apply to all students.*
+17. Repeat steps 7–16 for each additional fee item.
+18. To set up revenue recognition, click **Deferral** in the toolbar.
+19. Enable the **Deferral** option for each term.
+20. Select the **Deferral template** for the number of months to allocate revenue across.
+    > **Note:** *If a revenue recognition date is set in the fee and charge interval, the system automatically populates the deferral start date.*
+21. Click **Ok**.
+22. Click **Save**.
+
+![Create Fee Schedule Templates 1](./99-Images/create_fee_schedule_templates_1.png)
+
+![Create Fee Schedule Templates 2](./99-Images/create_fee_schedule_templates_2.png)
+
+![Create Fee Schedule Templates 3](./99-Images/create_fee_schedule_templates_3.png)
+
+---
+
+
+
+
+---
+
+## Pro Rata Adjustments
 
 This section covers fee adjustments for students who start after the official term date or leave before the term ends. For new students, it explains how to enable pro rata on fee items and update enrolment dates so the system calculates fees based on actual study days. For exiting students, it covers running the fee and charge adjustment task and reviewing the resulting sales order to confirm the correct refund amount.
 
