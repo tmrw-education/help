@@ -12,43 +12,7 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 
 
 
----
 
-## Linking Scholarships and Discounts to Fee Items
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Scholarships and discounts**.
-3. Select a **scholarship or discount** by checking the circle to the left of the item.
-4. Click **General** in the toolbar.
-5. Choose **Items** under the Fees tab.
-6. Click **New** to create a new item.
-7. Enter the required details.
-8. Click **Save**.
-
-![Linking Scholarships And Discounts To Fee Items Creation 1](./99-Images/linking_scholarships_and_discounts_to_fee_items_creation_1.png)
-
-![Linking Scholarships And Discounts To Fee Items Creation 2](./99-Images/linking_scholarships_and_discounts_to_fee_items_creation_2.png)
-
----
-
-## Linking Scholarships and Discounts to Students
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Scholarships and discounts**.
-3. Select a **scholarship or discount** by checking the circle to the left of the item.
-4. Click **General** in the toolbar.
-5. Choose **Students** under the Students tab.
-6. Click **New** to create a new record.
-7. Complete the following columns to link a scholarship or discount to a student:
-   - Choose a student from the **Student Account** dropdown.
-     *Note: The Student Name, Code, and Scholarship/Discount Name will prepopulate.*
-   - Choose whether to apply a **percentage or total discount** amount.
-   - Set the **start and expiration date**.
-8. Click **Save**.
-
-![Linking Scholarships And Discounts To Students Creation 1](./99-Images/linking_scholarships_and_discounts_to_students_creation_1.png)
-
-![Linking Scholarships And Discounts To Students Creation 2](./99-Images/linking_scholarships_and_discounts_to_students_creation_2.png)
 ---
 
 ## Scholarship and Discount Approval Process
