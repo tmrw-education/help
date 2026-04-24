@@ -8,7 +8,8 @@ This section covers the two main methods for processing fee payments from custom
 
 
 #### In-Person (Over-the-Counter)
-Over-the-counter payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff can process a payment using the Over the Counter Payment form — selecting the fee payer, entering the amount, and allocating it to open invoices — or through the Cashier Receipt form when paying outstanding overdue invoices directly. If a payment exceeds the invoice total, the system records the excess as an advance. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
+ 
+Over-the-counter payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff can process a payment using the Over the Counter Payment form — selecting the fee payer, entering the amount, and allocating it to open invoices — or through the Cashier Receipt form when paying outstanding overdue invoices directly. The Cashier Receipt form also supports post-dated cheque entry, allowing staff to record a cheque with a future maturity date, link it to a specific student account, and capture issuing bank details before posting. If a payment exceeds the invoice total, the system records the excess as an advance. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
 
 ---
 
@@ -115,6 +116,38 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 ![Over-the-Counter Processing Over Payment 1](./99-Images/over_the_counter_processing_outstanding_payment_1.png)
 
 ![Over-the-Counter Processing Over Payment 1](./99-Images/over_the_counter_processing_over_payment_1.png)
+
+---
+
+## Over-the-Counter Processing – Post-Dated Cheques
+ 
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
+2. Expand **Payments** and click **Cashier receipt**.
+3. Click **+ Cashier receipt** to create a new cashier receipt journal.
+4. In the **Customer** field, select the student account.
+5. On the right-hand side, mark the **payment** to be applied.
+6. In the **Method of payment** field, select *Cheque*.
+7. Enter the **amount** in the amount field.
+8. Enter the payment reference in the **Payment reference** field if required.
+9. Click **Check details**.
+> **Note:** *The Check details button becomes active only when the Method of payment is set to Cheque.*
+ 
+10. Enable the **Postdated check** toggle.
+11. Enter the cheque maturity date in the **Maturity date** field.
+12. Enter the date the cheque was received in the **Received date** field.
+13. Enter the cheque number in the **Check number** field.
+14. Enter the name of the cashier who collected the cheque in the **Cashier** field.
+15. Select the customer's bank in the **Issuing bank** field.
+16. Click **OK**.
+17. Click **Post** on the action pane.
+18. Enable the **Print receipt** toggle to print the posted payment receipt.
+19. Click **OK** to post the journal.
+
+![Over-the-Counter Processing Post-Dated Cheques 1](./99-Images/over_the_counter_processing_outstanding_payment_1.png)
+ 
+![Over-the-Counter Processing Post-Dated Cheques 1](./99-Images/over_the_counter_processing_post_dated_cheques_1.png)
+
+![Over-the-Counter Processing Post-Dated Cheques 2](./99-Images/over_the_counter_processing_post_dated_cheques_2.png)
 
 ---
 
