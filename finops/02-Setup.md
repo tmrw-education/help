@@ -32,45 +32,6 @@ Before fees can be generated, processed, or settled across the platform, the fee
 
 ---
 
-#### Fee Structure Setup
-
-Fee structure setup defines the price applied to tuition fee items and other school fee items using trade agreements. Schools may have one or two tuition fee items depending on whether they apply different fee structures for new and existing students. Each tuition fee item requires two prices per academic attribute combination — a monthly price used when generating fee invoices, and an annual price used when calculating enrolment deposits. Once prices are configured, tuition fee items must be linked to the relevant academic year so the system knows which item and price to use during deposit calculations. Non-tuition items such as ID cards use a standard trade agreement without academic attributes.
-
----
-
-## Fee Structure Setup
-
-> **Note:** *Each academic attribute combination (academic year + curriculum + stream) requires two trade agreement lines: one with a monthly unit and one with an annual unit. The monthly price drives fee invoice generation; the annual price drives deposit calculations.*
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
-2. Expand **Products** and click **Released Products**.
-3. Search for and open the **tuition fee item** to review before setting up the price.
-4. Open **Modules** ▸ **Sales and marketing**.
-5. Expand **Prices and discounts** and click **Trade agreement journals**.
-6. Click **New** to create a new trade agreement journal.
-7. In the **Name** field, select the **academic journal name**.
-
-> **Note:** *Selecting the academic journal name enables the Academic attributes flag. This differentiates academic pricing from standard pricing and allows prices to be set by academic year, curriculum, and stream.*
-
-8. Click **Lines** to open the journal lines.
-9. Complete the columns to create a new trade monthly agreement.
-10. **Copy** the line for the same academic attribute combination.
-11. In the **Unit** field, select *Annual*.
-12. Enter the **annual price** in the currency field.
-13. Repeat steps 8–12 for each additional academic attribute combination (academic year, curriculum, and stream).
-
-> **Note:** *All attribute combinations used in fee generation must have a trade agreement line. If any combination is missing a price, the system will not generate a price for that combination.*
-
-14. Click **Post** to complete the trade agreement setup.
-
-![Fee Structure Setup Trade Agreement 1](./99-Images/fee_structure_setup_trade_agreement_1.png)
-
-![Fee Structure Setup Trade Agreement 2](./99-Images/fee_structure_setup_trade_agreement_2.png)
-
-![Fee Structure Setup Trade Agreement 3](./99-Images/fee_structure_setup_trade_agreement_3.png)
-
----
-
 ## Non-Tuition Item Price Setup 
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Sales and marketing**.
