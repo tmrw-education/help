@@ -6,6 +6,14 @@ This section covers the two main methods for processing fee payments from custom
 
 ---
 
+## Cancel or Amend Payment Plans
+
+---
+
+## View Payment Plan Details
+
+---
+
 
 #### In-Person (Over-the-Counter)
  
@@ -248,6 +256,26 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ---
 
+## Configure Early Payment Discount Setup
+
+---
+
+## Assigning Early Payment Discounts to Products / Fees
+
+---
+
+## Bulk Updating Early Payment Discounts on Invoices
+
+---
+
+## Controlling Discount Eligibility Based on Payment
+
+---
+
+## Processing Payments with Discounts
+
+---
+
 #### Fee Refunds
 
 Fee refunds of credit balances are processed when a student's account holds an excess credit that needs to be returned to the fee payer. Staff create a customer payment journal using the refund journal type, select the student account, identify the credit invoice through the settle transactions function, and configure the financial dimensions for both the fee head and the offset bank account. Once the journal is posted — or approved through workflow if applicable — the refund is recorded against the student's account and the credit balance is cleared.
@@ -286,6 +314,22 @@ Fee refunds of credit balances are processed when a student's account holds an e
 ![Fee Refunds of Credit Balances 4](./99-Images/fee_refunds_of_credit_balances_4.png)
 
 ![Fee Refunds of Credit Balances 5](./99-Images/fee_refunds_of_credit_balances_5.png)
+
+---
+
+## Collection Letter Setup
+
+---
+
+## Generate 3 letters and the Suspension 
+
+---
+
+## Excel Upload for Excluding Students
+
+---
+
+## Fee Advances Ageing
 
 ---
 
