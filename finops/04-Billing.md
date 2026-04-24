@@ -1,5 +1,7 @@
 # Billing
 
+The Billing module manages the end-to-end process of generating and posting fee invoices for students. It covers the creation of fee schedule templates that define what is charged and when, running batch jobs to generate sales orders across a student cohort, posting invoices by term, and handling adjustments for students who join or leave mid-term through pro rata calculations. The module also supports split billing configurations, proforma invoice generation and distribution, advance tax invoice requests, fee structure pricing through trade agreements, and student ledger reporting.
+
 ## Fee Schedule Templates
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
