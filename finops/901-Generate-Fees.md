@@ -43,19 +43,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 
 ---
 
-## Event Template Setup
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Fee schedules** and click on **All fee schedules**.
-3. Click **New** in the toolbar to create the fee invoice.
-4. Enter details in **Description** (e.g., Event template).
-5. Choose the **Billing interval**.
-6. Click **+ Add line**.
-7. Complete the required fields for each line.
-8. Add **conditions** if required.
-9. Click **Save**.
-
-![Create Fee Schedule Templates Creation 7](./99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
 
