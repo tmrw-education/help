@@ -1,5 +1,23 @@
 # Student Promotion
 
+---
+
+## Update Student Enrolment Dates
+
+---
+
+## Release
+
+---
+
+## Overriding of Fee Override in case of Re-Enrolment / Promotion / Report Release
+
+---
+
+## Financial Check Setup
+
+---
+
 #### Transfer Certificate
 
 When a student withdraws from the school and requests a transfer certificate, a free text invoice for the transfer certificate fee is raised in Finance & Operations. In a live environment, this is initiated by the customer experience team contacting the finance office, who then creates and posts the invoice. The process uses a pre-configured free text invoice template (TCINV) to ensure the correct fee head and line details are applied automatically.
