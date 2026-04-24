@@ -1,6 +1,23 @@
-# Concessions
+# Concession Management
 
 This section covers the configuration and application of staff concessions and other concession types within the fee management system. It includes setting up charge codes in the auto charges table, creating discount codes linked to those charge codes, recording concession entitlements against students in the dedicated concession tables, generating estimated concession amounts, and applying those concessions to new and existing sale orders.
+
+---
+
+## Setup Scholarship & Discount Codes
+
+## Linking Scholarship & Discounts to Students
+
+## Scholarship & Discount Approval Process
+
+## View Scholarship & Discounts for Students via the Scholarship & Discounts details table
+
+## View Approved Scholarship & Discount Fees
+
+## Sibling Discount Policy (GEMS)
+
+## Sibling Discount Policy
+
 
 ---
 
@@ -49,6 +66,10 @@ Staff concessions allow the school to apply fee reductions to students who are d
 9. Click **Save**.
 
 ![Set Up Staff Concession Code 1](./99-Images/set_up_staff_concession_code_1.png)
+
+---
+
+## Bulk Upload of Concessions
 
 ---
 
