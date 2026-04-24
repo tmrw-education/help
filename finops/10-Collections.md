@@ -1,5 +1,7 @@
 # Collections
 
+The Collections module covers the full range of payment processing and receipt management functions available to finance staff. It includes setting up and applying payment plans for instalment arrangements, processing in-person payments through over-the-counter and cashier receipt forms, handling post-dated cheques and overpayments, scheduling bulk credit card payment runs, processing advance payments with discount calculations, managing early payment discounts, issuing fee refunds of credit balances, recording miscellaneous receipts, reversing posted payments, and handling dishonoured cheques.
+
 ## Customer Payments
 
 This section covers the two main methods for processing fee payments from customers. Over-the-counter processing allows staff to manually enter and post payments made in person, allocate them to invoices, and issue receipts. Scheduled credit card processing covers generating payment proposals, selecting and authorising invoices for credit card payment, and posting completed transactions in bulk.
