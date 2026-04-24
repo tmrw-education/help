@@ -235,3 +235,93 @@ When a student leaves the school before the end of a term, any fees already invo
 
 ---
 
+#### Proforma Invoice Generation
+
+Proforma invoices are generated from confirmed sales orders and sent to fee payers before a formal tax invoice is issued. Once fee schedules have been run and sales orders created, staff can confirm individual orders manually for a single student, or process all open proforma invoices in bulk for a billing cycle. Both methods trigger the print management destination configured in the system, which automatically distributes the proforma document to the fee payer. If a proforma invoice needs to be resent or reprinted, staff can regenerate it from the confirmed sales order without creating a new order.
+
+---
+
+## Generate Proforma Invoice Document
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Students** and click **All students**.
+3. Open the **Account** column filter.
+4. Enter the student's account number in the **Account** field using the *contains* filter.
+5. Click **Sell**.
+6. Click **Orders**.
+7. Click **All sales orders**.
+
+> **Note:** *This displays all sales orders for the student, including open proforma invoices awaiting confirmation.*
+
+8. Select the sales order to confirm.
+9. On the Action Pane, click **Sell**.
+10. Click **Confirm sales order**.
+11. Set the **Print confirmation** field to *Yes*.
+12. Set the **Use print management destination** field to *Yes*.
+13. Click **OK**.
+
+> **Note:** *The system sends the proforma invoice to the fee payer using the print management destination configured for the school. No manual distribution is required.*
+
+14. Click **Back**.
+
+![Generate Proforma Invoice Document 1](./99-Images/generate_proforma_invoice_document_1.png)
+
+![Generate Proforma Invoice Document 2](./99-Images/generate_proforma_invoice_document_2.png)
+
+![Generate Proforma Invoice Document 3](./99-Images/generate_proforma_invoice_document_3.png)
+
+![Generate Proforma Invoice Document 4](./99-Images/generate_proforma_invoice_document_4.png)
+
+---
+
+## Regenerate Proforma Invoice Document
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Students** and click **All students**.
+3. Filter for the student and click **Sell**.
+4. Open **Orders**, click **All sales orders** and open the relevant sales order.
+5. On the Action Pane, click **Sell**.
+6. Under **Journals**, click **Sales order confirmation**.
+7. Select the latest version of the confirmation.
+8. Click **Preview/Print**.
+9. Click **Use print management**.
+10. Click **Close**.
+
+> **Note:** *This regenerates and resends the proforma invoice without creating a new sales order or confirmation record.*
+
+![Regenerate Proforma Invoice Document 1](./99-Images/regenerate_proforma_invoice_document_1.png)
+
+![Regenerate Proforma Invoice Document 2](./99-Images/regenerate_proforma_invoice_document_2.png)
+
+---
+
+## Generate Proforma Invoices in Bulk
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Sales and Marketing**.
+2. Expand **Sales orders** ▸ **Order confirmation** and click **Confirm sales order**.
+3. Click **Select**.
+4. **Add** a filter for **Fee and charge interval**.
+5. Click **Ok**.
+6. Enter the **billing cycle year** to filter for the proforma invoices to be generated.
+
+> **Note:** *The system lists all open proforma invoices (sales orders) matching the selected billing cycle.*
+
+6. Enable **Print confirmation**.
+7. Enable **Use print management destination**.
+8. Click **OK** to generate and send the documents immediately.
+
+> **Note:** *If there are a large number of sales orders, processing may take several minutes. Use the Batch option in step 9 to run in the background instead.*
+
+9. To run as a scheduled batch job instead, click **Batch**.
+10. Enable **Batch processing**.
+11. Click **OK**.
+
+> **Note:** *The system automatically emails each proforma invoice to the fee payer as an attachment once the batch completes.*
+
+![Generate Proforma Invoices In Bulk 1](./99-Images/generate_proforma_invoices_in_bulk_1.png)
+
+![Generate Proforma Invoices In Bulk 2](./99-Images/generate_proforma_invoices_in_bulk_2.png)
+
+![Generate Proforma Invoices In Bulk 3](./99-Images/generate_proforma_invoices_in_bulk_3.png)
+
+---
