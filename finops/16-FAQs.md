@@ -28,6 +28,156 @@
 
 ---
 
+## Setup
+
+🔴 **Problem:** A sibling discount is not applying to a student's invoice.
+
+🟡 **Cause:** The sibling order number may not be assigned to the student record, the trade agreement may not have been posted, or the line discount group has not been linked to the tuition fee item.
+
+🟢 **Solution:** Confirm the student's sibling order number is set under General in their student record. Verify the trade agreement has been posted and that the Line discount group on the relevant released products is set to the Sibling discount trade agreement.
+
+---
+
+🔴 **Problem:** The wrong discount percentage is applying to a sibling.
+
+🟡 **Cause:** The sibling order number assigned to the student does not match the correct discount group in the trade agreement.
+
+🟢 **Solution:** Review the student's sibling order number and compare it against the Customer price/discount groups setup under **Sales and marketing** ▸ **Prices and discounts**. Correct any mismatches and rerun the sales order batch.
+
+---
+
+🔴 **Problem:** A sibling discount is applying to a student who should not be receiving one.
+
+🟡 **Cause:** The student may have been assigned a sibling order number of 2 or higher when they should have been assigned 0 (not current) or 1 (eldest/only child).
+
+🟢 **Solution:** Navigate to the student's record, open the General section, and check the Sibling field. Update the sibling order number to the correct value. If the student has no siblings currently enrolled, set the value to 1 or 0 per your school's configuration.
+
+---
+
+🔴 **Problem:** The payment schedule is not appearing in the Payment plan dropdown when applied to a fee payer.
+
+🟡 **Cause:** The payment schedule may not have been linked to a payment option under Academic Management ▸ Setup ▸ Payment option setup.
+
+🟢 **Solution:** Navigate to **Setup** ▸ **Payment option setup**, confirm the payment plan has been created and linked to the correct payment schedule, and ensure the start and end dates are valid.
+
+---
+
+🔴 **Problem:** The financial check threshold is not blocking students as expected during reenrolment.
+
+🟡 **Cause:** The threshold limit may not have been configured for the relevant fee head, or the dimension value assigned to the threshold does not match the fee head on the student's outstanding invoices.
+
+🟢 **Solution:** Navigate to **Academic Management** ▸ **Setup** ▸ **Fee schedule parameters** and review the thresholds configured under the Financial dimension section. Confirm the Dimension value for each threshold matches the fee head on the student's outstanding transactions.
+
+---
+
+## Debtor Management
+
+🔴 **Problem:** Student details are incorrect when generating fees (e.g., wrong academic year or enrolment dates).
+
+🟡 **Cause:** The student's record has not been updated prior to fee generation.
+
+🟢 **Solution:** Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**, open the student record, and update the academic year, effective date, and expiration date before running the fee generation batch.
+
+---
+
+🔴 **Problem:** The student's academic year is still showing the previous year.
+
+🟡 **Cause:** The student's Current academic year field has not been updated after promotion or reenrolment.
+
+🟢 **Solution:** Open the student record in **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**, confirm the Current academic year under Enrolment details, and update it if required before running fee generation.
+
+---
+
+🔴 **Problem:** A student's Paid percentage total in the Relationships section does not equal 100.
+
+🟡 **Cause:** Split billing percentages have not been assigned or were entered incorrectly across the fee payers linked to the student.
+
+🟢 **Solution:** Navigate to the student record and scroll to the Relationships section. Adjust the paid percentages for each listed fee payer so the combined total equals 100.00 before running any fee generation batch.
+
+---
+
+## Billing
+
+🔴 **Problem:** Fee invoices are not being generated for some students.
+
+🟡 **Cause:** The student may not be included in the customer filter, or the fee schedule template may not have been selected in the batch.
+
+🟢 **Solution:** When running the Generate Sales Order Batch Processing task, confirm that the correct customer academic year is selected under Records to include (Customers) and the correct fee schedule template is selected under Records to include (Fee schedule templates).
+
+---
+
+🔴 **Problem:** Invoices are created but not posted.
+
+🟡 **Cause:** The Create sale orders posting option was selected instead of Post invoice automatically, requiring a manual posting step.
+
+🟢 **Solution:** Navigate to **Accounts receivable** ▸ **Sales orders** ▸ **All sales orders** and manually post the invoices from there.
+
+---
+
+🔴 **Problem:** The fee generation reconciliation report shows fewer students than expected.
+
+🟡 **Cause:** Some students may have been excluded by the customer filter, or their records may not meet the conditions set in the fee schedule template.
+
+🟢 **Solution:** Review the customer filter applied during batch processing and confirm all students are assigned to the correct academic year and meet any template conditions.
+
+---
+
+🔴 **Problem:** Invoices are being generated for the wrong students or academic year.
+
+🟡 **Cause:** The Fee and charge interval selected in the batch does not match the intervals configured on the relevant students' academic enrolment records.
+
+🟢 **Solution:** Confirm the Fee and charge interval in the Generate Sales Order Batch Processing task matches the interval configured on each student's academic enrolment record. Only students with a matching interval will be picked up by the batch.
+
+---
+
+🔴 **Problem:** Term 2 or Term 3 invoices are not posting separately from Term 1.
+
+🟡 **Cause:** The Post Sale Order Invoice batch may not have been filtered by period name, causing all terms to post together or not at all.
+
+🟢 **Solution:** When running the Post Sale Order Invoice batch, set the Period name filter to the specific term being posted (e.g., Term 1, Term 2). Each term must be run as a separate batch job.
+
+---
+
+🔴 **Problem:** A new fee schedule template is not applying conditions correctly to a student cohort.
+
+🟡 **Cause:** The condition on the fee schedule template line may be referencing the wrong field or criteria value, or the condition may not have been enabled.
+
+🟢 **Solution:** Open the fee schedule template, select the relevant line, and click Condition in the toolbar. Confirm the field and criteria value are correct. If the item should apply to all students, ensure Condition is not enabled.
+
+---
+
+🔴 **Problem:** The split billing percentages are not applying correctly to a student's invoice.
+
+🟡 **Cause:** The split percent by fee items configuration may have been set up after the sales orders were already generated, meaning existing invoices are unaffected.
+
+🟢 **Solution:** Set up the split configuration before running the sales order generation. For existing invoices, delete the sales order and rerun the Generate Sales Order Batch Processing task after the split configuration is in place.
+
+---
+
+🔴 **Problem:** The total paid percentage for fee payers does not equal 100.
+
+🟡 **Cause:** The split percentages assigned to each fee payer in the student's Relationships section have not been configured correctly.
+
+🟢 **Solution:** Navigate to the student record, scroll to the Relationships section, and adjust the paid percentages so that the total equals 100.00 before generating invoices.
+
+---
+
+🔴 **Problem:** A new student is being charged the full term fee instead of a pro rata amount.
+
+🟡 **Cause:** The Pro rata field on the tuition fee item has not been enabled, or the student's effective date has not been updated to reflect their actual start date.
+
+🟢 **Solution:** Confirm the Pro rata field on the released product is set to any option except None. Then navigate to the student's academic enrolment record and update the Effective date to the student's actual start date before rerunning the fee generation batch.
+
+---
+
+🔴 **Problem:** An exiting student's refund amount appears incorrect.
+
+🟡 **Cause:** The student's last day at school may have been entered incorrectly when running the Calculate fee and charge adjustment task.
+
+🟢 **Solution:** Review the sales order adjustment and confirm the Quantity column shows a negative value reflecting the correct number of remaining school days. If incorrect, rerun the Calculate fee and charge adjustment task with the correct leaving date.
+
+---
+
 ## Pre-Admission Fees
 
 🔴 **Problem:** The Pre-Admission Types page is not visible in the menu.
@@ -70,49 +220,7 @@
 
 ---
 
-## Generate Fees
-
-🔴 **Problem:** Student details are incorrect when generating fees (e.g., wrong academic year or enrolment dates).
-
-🟡 **Cause:** The student's record has not been updated prior to fee generation.
-
-🟢 **Solution:** Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**, open the student record, and update the academic year, effective date, and expiration date before running the fee generation batch.
-
----
-
-🔴 **Problem:** A scholarship or discount is not applying to a student's invoice.
-
-🟡 **Cause:** The scholarship or discount may not have been approved, linked to the correct fee items, or the student's record may not have been linked.
-
-🟢 **Solution:** Confirm the scholarship or discount status is Approved. Verify it is linked to the correct fee items under the General tab and that the student has been added under the Students tab with valid effective and expiration dates.
-
----
-
-🔴 **Problem:** Fee invoices are not being generated for some students.
-
-🟡 **Cause:** The student may not be included in the customer filter, or the fee schedule template may not have been selected in the batch.
-
-🟢 **Solution:** When running the Generate Sales Order Batch Processing task, confirm that the correct customer academic year is selected under Records to include (Customers) and the correct fee schedule template is selected under Records to include (Fee schedule templates).
-
----
-
-🔴 **Problem:** Invoices are created but not posted.
-
-🟡 **Cause:** The Create sale orders posting option was selected instead of Post invoice automatically, requiring a manual posting step.
-
-🟢 **Solution:** Navigate to **Accounts receivable** ▸ **Sales orders** ▸ **All sales orders** and manually post the invoices from there.
-
----
-
-🔴 **Problem:** The fee generation reconciliation report shows fewer students than expected.
-
-🟡 **Cause:** Some students may have been excluded by the customer filter, or their records may not meet the conditions set in the fee schedule template.
-
-🟢 **Solution:** Review the customer filter applied during batch processing and confirm all students are assigned to the correct academic year and meet any template conditions.
-
----
-
-## Scholarships and Discounts
+## Concession Management
 
 🔴 **Problem:** A new scholarship or discount cannot be saved.
 
@@ -138,6 +246,30 @@
 
 ---
 
+🔴 **Problem:** A scholarship or discount is not applying to a student's invoice after approval.
+
+🟡 **Cause:** The scholarship or discount may not have been linked to the correct fee items, or the student's record may not have been linked with valid effective and expiration dates.
+
+🟢 **Solution:** Confirm the scholarship or discount is linked to the correct fee items under the General tab and that the student has been added under the Students tab with valid effective and expiration dates.
+
+---
+
+🔴 **Problem:** Published rows in the Excel add-in import are highlighted in red and not saving.
+
+🟡 **Cause:** One or more fields in the row contain invalid or missing data that failed the system's validation on publish.
+
+🟢 **Solution:** Review the highlighted rows and correct any flagged fields. Common causes include missing required fields, incorrect date formats, or student account numbers that do not exist in the system. Click Publish again after correcting the data.
+
+---
+
+🔴 **Problem:** The Excel add-in is not connecting to the GEMS environment after downloading the template.
+
+🟡 **Cause:** The add-in may not have completed sign-in, or the connection to the environment has timed out.
+
+🟢 **Solution:** Wait for the Excel add-in to finish sign-in before clicking Design or Refresh. If the connection fails, close and reopen the file, enable editing, and allow the add-in to reconnect before proceeding.
+
+---
+
 ## Visa Management
 
 🔴 **Problem:** A new visa type cannot be created manually.
@@ -156,7 +288,7 @@
 
 ---
 
-## Sessional Classes & Events
+## Subject & Event Management
 
 🔴 **Problem:** A sessional class or event fee is not generating for a student.
 
@@ -182,85 +314,55 @@
 
 ---
 
-## Sibling Discounts
+## Student Promotion
 
-🔴 **Problem:** A sibling discount is not applying to a student's invoice.
+🔴 **Problem:** A student is blocked from reenrolment but their fee balance appears to be within the expected threshold.
 
-🟡 **Cause:** The sibling order number may not be assigned to the student record, the trade agreement may not have been posted, or the line discount group has not been linked to the tuition fee item.
+🟡 **Cause:** The financial check threshold may not have been configured correctly for the relevant fee head, or the dimension value assigned to the threshold does not match the fee head on the student's outstanding invoices.
 
-🟢 **Solution:** Confirm the student's sibling order number is set under General in their student record. Verify the trade agreement has been posted and that the Line discount group on the relevant released products is set to the Sibling discount trade agreement.
-
----
-
-🔴 **Problem:** The wrong discount percentage is applying to a sibling.
-
-🟡 **Cause:** The sibling order number assigned to the student does not match the correct discount group in the trade agreement.
-
-🟢 **Solution:** Review the student's sibling order number and compare it against the Customer price/discount groups setup under **Sales and marketing** ▸ **Prices and discounts**. Correct any mismatches and rerun the sales order batch.
+🟢 **Solution:** Navigate to **Academic Management** ▸ **Setup** ▸ **Fee schedule parameters** and review the thresholds configured under the Financial dimension section. Confirm the Dimension value for each threshold matches the fee head on the student's outstanding transactions.
 
 ---
 
-## Split Bill Override
+🔴 **Problem:** A financial check override was applied but the student's status has not updated to Reenrolment open.
 
-🔴 **Problem:** The split billing percentages are not applying correctly to a student's invoice.
+🟡 **Cause:** The system poll that checks financial clearance has not yet run since the override was applied.
 
-🟡 **Cause:** The split percent by fee items configuration may have been set up after the sales orders were already generated, meaning existing invoices are unaffected.
-
-🟢 **Solution:** Set up the split configuration before running the sales order generation. For existing invoices, delete the sales order and rerun the Generate Sales Order Batch Processing task after the split configuration is in place.
+🟢 **Solution:** The override takes effect on the next system poll, not immediately. Confirm the override has been saved on the student record and wait for the next scheduled poll. If the status does not update after the poll, contact your system administrator.
 
 ---
 
-🔴 **Problem:** The total paid percentage for fee payers does not equal 100.
+🔴 **Problem:** Financial check overrides from a previous promotion cycle are still active on student records.
 
-🟡 **Cause:** The split percentages assigned to each fee payer in the student's Relationships section have not been configured correctly.
+🟡 **Cause:** Overrides were not cleared at the start of the new academic year.
 
-🟢 **Solution:** Navigate to the student record, scroll to the Relationships section, and adjust the paid percentages so that the total equals 100.00 before generating invoices.
-
----
-
-## Pro Rata Adjustments
-
-🔴 **Problem:** A new student is being charged the full term fee instead of a pro rata amount.
-
-🟡 **Cause:** The Pro rata field on the tuition fee item has not been enabled, or the student's effective date has not been updated to reflect their actual start date.
-
-🟢 **Solution:** Confirm the Pro rata field on the released product is set to any option except None. Then navigate to the student's academic enrolment record and update the Effective date to the student's actual start date before rerunning the fee generation batch.
+🟢 **Solution:** Navigate to **All students**, add the Financial check override column using Insert field, and clear overrides either individually by unchecking the checkbox per student, or in bulk by exporting to Excel, clearing the values, and importing the file back.
 
 ---
 
-🔴 **Problem:** An exiting student's refund amount appears incorrect.
+🔴 **Problem:** A transfer certificate invoice is not posting correctly.
 
-🟡 **Cause:** The student's last day at school may have been entered incorrectly when running the Calculate fee and charge adjustment task.
+🟡 **Cause:** The Financial dimension fields on the invoice line may not have been set, or the TCINV template was not selected when creating the free text invoice.
 
-🟢 **Solution:** Review the sales order adjustment and confirm the Quantity column shows a negative value reflecting the correct number of remaining school days. If incorrect, rerun the Calculate fee and charge adjustment task with the correct leaving date.
-
----
-
-## Payment Schedule
-
-🔴 **Problem:** A payment schedule is not appearing in the Payment plan dropdown when applied to a fee payer.
-
-🟡 **Cause:** The payment schedule may not have been linked to a payment option under Academic Management ▸ Setup ▸ Payment option setup.
-
-🟢 **Solution:** Navigate to **Setup** ▸ **Payment option setup**, confirm the payment plan has been created and linked to the correct payment schedule, and ensure the start and end dates are valid.
+🟢 **Solution:** When creating the transfer certificate invoice, confirm the TCINV template is selected in the New from template dialog. After the invoice is created, expand Line details, open Financial dimension line, and set the required dimensions (Curriculum, School Levels, Year Group) before posting.
 
 ---
 
-🔴 **Problem:** An invoice is not splitting into instalments after a payment plan is applied.
-
-🟡 **Cause:** The payment plan may not have been applied and confirmed correctly, or the invoice was generated before the payment plan was set up.
-
-🟢 **Solution:** Follow the Apply Payment Plan to Fee Payer steps in full, including selecting the invoice, previewing, and confirming. If the invoice was generated prior to the payment plan setup, the plan may need to be applied and the invoice re-split.
-
----
-
-## Customer Payments
+## Collections
 
 🔴 **Problem:** An over-the-counter payment is not allocating to the correct invoice.
 
 🟡 **Cause:** The invoice checkbox may not have been marked before posting the payment.
 
 🟢 **Solution:** Before clicking Post, ensure the correct invoices are checked in the payment form. If the payment has already been posted without allocation, review the advance payment and manually settle it against the correct invoice.
+
+---
+
+🔴 **Problem:** A cashier receipt was posted without selecting the correct invoice, and the payment is sitting as an unallocated advance.
+
+🟡 **Cause:** The invoice was not marked before posting, so the payment was recorded as an advance rather than applied to the outstanding balance.
+
+🟢 **Solution:** Locate the student's account in **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**, click Customer in the Action Pane, then click Transactions to view the advance. Manually settle the advance against the correct invoice.
 
 ---
 
@@ -280,21 +382,41 @@
 
 ---
 
-## Fee Payer Statements
+🔴 **Problem:** A post-dated cheque is not appearing in the system after entry.
 
-🔴 **Problem:** A fee payer statement is generating with no data.
+🟡 **Cause:** The Postdated check toggle may not have been enabled in the Check details window, or the cheque was not posted after entry.
 
-🟡 **Cause:** The date range selected may not include any transactions, or the filter may be pointing to the wrong account.
-
-🟢 **Solution:** Confirm the start and end dates cover the correct statement period. Open the Records to include section and verify the correct fee payer account has been selected in the filter.
+🟢 **Solution:** When processing a post-dated cheque via Cashier Receipt, ensure the Method of payment is set to Cheque, click Check details, enable the Postdated check toggle, enter the maturity date and other required fields, and post the journal.
 
 ---
 
-## Settlement Discounts
+🔴 **Problem:** An overpayment was posted by mistake and needs to be corrected before the receipt is issued.
+
+🟡 **Cause:** An amount exceeding the invoice total was entered in the Amount field, and the excess was recorded as an overpayment.
+
+🟢 **Solution:** Before clicking Post, review the Overpayment field that appears after saving. If the overpayment was entered in error, correct the amount in the Amount field before proceeding to post.
+
+---
+
+🔴 **Problem:** An advance payment discount has not been calculated when processing a co-branded payment.
+
+🟡 **Cause:** The Co-branded option may not have been enabled in the Cashier Receipt form, or the Advanced Discount Policy has not been configured for the relevant fee and charge interval.
+
+🟢 **Solution:** Confirm the Advanced Discount Policy is configured for the relevant fee and charge interval. When processing the payment, ensure the Co-branded option is enabled before selecting the method of payment. The Calculate Discount button only activates when Co-branded is enabled.
+
+---
+
+🔴 **Problem:** An invoice is not splitting into instalments after a payment plan is applied.
+
+🟡 **Cause:** The payment plan may not have been applied and confirmed correctly, or the invoice was generated before the payment plan was set up.
+
+🟢 **Solution:** Follow the Apply Payment Plan to Fee Payer steps in full, including selecting the invoice, previewing, and confirming. If the invoice was generated prior to the payment plan setup, the plan may need to be applied and the invoice re-split.
+
+---
 
 🔴 **Problem:** A cash discount is not applying when a payment is processed.
 
-🟡 **Cause:** The payment date may be after the discount due date, or the Use cash discounts setting may not be enabled in Accounts Receivable parameters.
+🟡 **Cause:** The payment date may be after the discount due date, or the Early payment discount eligibility setting has not been configured correctly.
 
 🟢 **Solution:** Ensure the payment date is set before the discount due date when settling transactions. Confirm the Early payment discount eligibility setting is correctly configured under **Academic Management** ▸ **Setup** ▸ **Fee schedule parameter**.
 
@@ -313,3 +435,77 @@
 🟡 **Cause:** The date range entered in the Update early payment discount task may not have captured the correct invoices, or the early payment date was not set correctly.
 
 🟢 **Solution:** Rerun the **Update early payment discount** task with the correct date range and early payment date. Then navigate to **Accounts receivable** ▸ **Invoices** ▸ **Open Customer Invoices** to confirm discounts have been applied.
+
+---
+
+🔴 **Problem:** An early payment discount has been assigned to a product but is not appearing on generated invoices.
+
+🟡 **Cause:** The Update early payment discount batch task may not have been run after the discount was assigned to the product.
+
+🟢 **Solution:** Navigate to **Academic Management** ▸ **Periodic tasks** and run the **Update early payment discount** task for the relevant date range and fee payers. Confirm discounts appear on open invoices in **Accounts receivable** ▸ **Invoices** ▸ **Open Customer Invoices**.
+
+---
+
+## Inquiries and Reports
+
+🔴 **Problem:** A fee payer statement is generating with no data.
+
+🟡 **Cause:** The date range selected may not include any transactions, or the filter may be pointing to the wrong account.
+
+🟢 **Solution:** Confirm the start and end dates cover the correct statement period. Open the Records to include section and verify the correct fee payer account has been selected in the filter.
+
+---
+
+## Cash & Bank
+
+🔴 **Problem:** Open deposit slips are still showing after the end-of-day consolidation was run.
+
+🟡 **Cause:** The Consolidate deposit slip task may not have been filtered by the correct Method of payment, or the date range did not capture all transactions from the day.
+
+🟢 **Solution:** Return to **Modules** ▸ **Accounts receivable** ▸ **Workspaces** ▸ **Customer payments** and rerun the Consolidate deposit slip task, ensuring the correct date range and Method of payment filter are applied. Verify that the consolidated slip appears and that individual slips no longer show under Open deposit slips.
+
+---
+
+🔴 **Problem:** The end-of-day deposit total does not match the expected cash received for the day.
+
+🟡 **Cause:** One or more individual payments may not have been posted before the consolidation was run, or a payment was posted with the wrong method of payment.
+
+🟢 **Solution:** Review the open deposit slips for the date in question and confirm all payments for the day have been posted. Check that each payment was recorded against the correct method of payment. Re-consolidate if needed after correcting any errors.
+
+---
+
+## Intercompany Transactions
+
+🔴 **Problem:** A credit balance transfer cannot be completed for a student moving between schools.
+
+🟡 **Cause:** The student may have advanced tax invoices still outstanding, or the Destination school field on the student record has not been populated by the CE system.
+
+🟢 **Solution:** Cancel any outstanding advanced tax invoices before attempting the transfer. Confirm the Destination school field is populated under Other Information on the student record. If the field is blank, verify the transfer has been initiated in CE and that the integration is functioning correctly.
+
+---
+
+🔴 **Problem:** The intercompany transfer journals are not generating in both schools after a transfer is confirmed.
+
+🟡 **Cause:** The intercompany channel setup may not have been completed in either the originating or destination school, or the Party ID does not match across both companies.
+
+🟢 **Solution:** Confirm the intercompany journal setup has been completed in both schools under **Academic Management** ▸ **Setup** ▸ **Intercompany journal**. Verify that the student's Party ID is identical in both the originating and destination school's records, as the system uses this to match accounts across companies.
+
+---
+
+## Revenue Recognition
+
+🔴 **Problem:** Revenue recognition processing is posting journal entries to the wrong period.
+
+🟡 **Cause:** The Override transaction date field may not have been set to Yes, or the Transaction date entered does not match the last day of the period being closed.
+
+🟢 **Solution:** When running Recognition processing, set Override transaction date to Yes and enter the last day of the relevant month in both the Cutoff date and Transaction date fields.
+
+---
+
+🔴 **Problem:** The recognition processing preview is returning no lines for the current period.
+
+🟡 **Cause:** Deferral schedules may not have been configured for the relevant fee items, or all eligible lines may have already been recognised for the period.
+
+🟢 **Solution:** Navigate to **Subscription billing** ▸ **Revenue and expense deferrals** ▸ **All deferral schedules** and confirm deferral schedules exist for the relevant invoices. If schedules exist but lines have already been recognised, no further action is required for that period.
+
+---
