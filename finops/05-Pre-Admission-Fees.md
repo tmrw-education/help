@@ -1,6 +1,6 @@
 # Pre‑Admission Fees
 
-This section covers the end-to-end process for managing fees before a student is formally enrolled. It includes setting up pre-admission transaction types and posting logic, manually adding application fees, enrolment fees, and deposits, processing payments over the counter, handling deposit refunds and forfeits, and reversing posted fees when required.
+Pre-Admission Fees manages the financial side of the enrolment journey before a student is formally admitted. It covers the configuration of transaction types and posting logic for application fees, enrolment fees, and deposits, as well as manual fee entry for schools where the CE integration is not yet active. Counter payment processing, deposit refunds and forfeits, fee reversals, and the approval workflow for concession types are all handled here. Bulk scholarship and discount data can also be imported using the Excel add-in when large volumes of records need to be set up at once.
 
 ---
 
