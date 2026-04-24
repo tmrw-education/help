@@ -4,6 +4,10 @@ Before fees can be generated, processed, or settled across the platform, the fee
 
 ---
 
+## Fee Schedule Parameters (Product)
+
+---
+
 ## Fee Schedule Parameters (GEMS)
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
@@ -29,6 +33,82 @@ Before fees can be generated, processed, or settled across the platform, the fee
 ![Fee Schedule Parameters GEMS 3](./99-Images/fee_schedule_parameters_gems_3.png)
 
 ![Fee Schedule Parameters GEMS 4](./99-Images/fee_schedule_parameters_gems_4.png)
+
+---
+
+## Fee & Charge Interval Setup
+
+---
+
+## Gender Setup
+
+---
+
+## Academic Year (Product)
+
+---
+
+## Academic Year (GEMS)
+
+---
+
+## Visa Types
+
+---
+
+## Split Percent by Fee Item
+
+---
+
+## Fee Categories
+
+---
+
+## Payment Option Setup
+
+---
+
+## Curriculum
+
+---
+
+## Intercompany Journal (GEMS)
+
+---
+
+## Advanced Discount Policy (GEMS)
+
+---
+
+## Stream
+
+---
+
+## Deposit Policy
+
+---
+
+## Sibling Order Setup
+
+---
+
+## Pre-Admission Posting Setup
+
+---
+
+## Customer Intergration Mapping
+
+---
+
+## Fee Type
+
+---
+
+## Reciept Intercompany Mapping
+
+---
+
+## Fee Master Template to Sync Items to CE
 
 ---
 
