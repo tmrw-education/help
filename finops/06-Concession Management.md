@@ -6,6 +6,16 @@ This section covers the configuration and application of staff concessions and o
 
 ## Setup Scholarship & Discount Codes
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Scholarships and discounts**.
+3. Click **New** in the toolbar.
+4. Complete the columns to create a new scholarship or discount.
+5. Click **Save**.
+
+![Create A New Scholarship Or Discount Creation 1](./99-Images/create_a_new_scholarship_or_discount_creation_1.png)
+
+---
+
 ## Scholarship and Discount Setup
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
