@@ -17,21 +17,6 @@ By default, a student's fees are divided between fee payers according to the spl
 
 ---
 
-## Configure Split Percent by Fee Items
 
-> **Note:** *Split configuration applies only when sales order generation occurs after split setup; otherwise, older invoices unaffected.*
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Split percent by fee items**.
-3. Click **New** to create a new record for a student.
-4. Complete the following columns to configure split payment per payee:
-   - Search and select a **student**.
-   - Select the specific **fee item to override** (e.g., Building Fund Fee).
-   - Assign the **custom split percentages** for each payer (e.g., Dad 60%, Mom 40%).
-   - Specify the **effective and expiration dates** for this split configuration.
-5. Repeat these steps for the other payer.
-6. Click **Save**.
-
-![Configure Split Percent by Fee Items](./99-Images/configure_split_percent_by_fee_items_1.png)
 
 ---
