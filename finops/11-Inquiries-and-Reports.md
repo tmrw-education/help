@@ -1,3 +1,9 @@
+# Inquiry & Reports
+
+The Inquiries and Reports module provides finance and administration staff with access to key student and family financial data within Academic Management. It includes reports for identifying the eldest child in a family, calculating the number of siblings per family, and viewing other student and family-level financial information used to support sibling discount processing and fee payer management.
+
+---
+
 ## Eldest Child in Family 
 
 1. From the **FNO dashboard**, open **Modules ▸ Academic Management**. 
