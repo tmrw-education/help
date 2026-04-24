@@ -113,6 +113,21 @@ With student data confirmed and fee schedule templates in place, the system is r
 
 ## Reconcile Sales Orders
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Fee schedule batches** and select **All fee schedule batches**.
+3. Click the relevant **Fee schedule batch number** to view details.
+4. Open **Fee generation reconciliation report** to check:
+   - How many fee payer accounts were included.
+   - How many students were included.
+5. To export data, right-click the **Fee payer name** column header and select **Export all rows**.
+6. In the dialog, click **Download** to export to Excel or SSRS for further validation if needed.
+
+![Reconcile The Generated Sales Orders Creation 1](./99-Images/reconcile_the_generated_sales_order_creation_1.png)
+
+![Reconcile The Generated Sales Orders Creation 2](./99-Images/reconcile_the_generated_sales_orders_creation_2.png)
+
+![Reconcile The Generated Sales Orders Creation 3](./99-Images/reconcile_the_generated_sales_orders​_creation_3.png)
+
 ---
 
 ## Split Billing Fee Schedule Templates
