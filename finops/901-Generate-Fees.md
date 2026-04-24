@@ -35,46 +35,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 
 ---
 
-## Scholarship and Discount Setup
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Scholarships and discounts**.
-3. Click **New** in the top toolbar.
-4. Complete the following fields:
-   - Enter or create a code in the **Code column**.
-   - Enter the scholarship or discount name in the **Name column**.
-   - Check the **Active** and **Approval boxes**.
-   - Assign or create the approval group in the **User group** column.
-     *Note: To assign an existing group, select it from the dropdown.*
-5. To create a new group, if necessary, right-click the dropdown arrow, select **View details**, then click **New**.
-6. Enter a **Name** for the group and then select the **User group**.
-7. Click **Add / remove users**.
-8. Search for and select the **approvers**.
-9. Click **Add to group** and go **back**.
-10. Select the new **User group** and click **Save**.
-11. Select the **scholarship or discount** you created.
-12. Go to the **General tab** and click **Items** under Fees.
-13. Click **New** and select the relevant fees; repeat as needed.
-14. Click **Save** and go back.
-15. Go to the **General tab** and click **Students**.
-16. Click **New** and add the student.
-17. Enter the discount amount under **Discount %**.
-18. Enter the **Effective date** and **Expiration date**.
-19. From the **Approval dropdown**, select **Report as ready**.
-20. Repeat to fully approve by selecting **Approve**.
-21. Click **Save**.
-
-![Scholarship And Discount Setup Creation 1](./99-Images/scholarship_and_discount_setup_creation_1.png)
-
-![Scholarship And Discount Setup Creation 2](./99-Images/scholarship_and_discount_setup_creation_2.png)
-
-![Scholarship And Discount Setup Creation 3](./99-Images/scholarship_and_discount_setup_creation_3.png)
-
-![Scholarship And Discount Setup Creation 4](./99-Images/scholarship_and_discount_setup_creation_4.png)
-
-![Scholarship And Discount Setup Creation 5](./99-Images/scholarship_and_discount_setup_creation_5.png)
-
-![Scholarship And Discount Setup Creation 6](./99-Images/scholarship_and_discount_setup_creation_6.png)
 
 ---
 
