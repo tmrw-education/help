@@ -103,6 +103,18 @@ With student data confirmed and fee schedule templates in place, the system is r
 
 ---
 
+## Generate Proforma Sales Orders
+
+---
+
+## Post Fee Invoices (GEMS)
+
+---
+
+## Reconcile Sales Orders
+
+---
+
 ## Pro Rata Adjustments
 
 This section covers fee adjustments for students who start after the official term date or leave before the term ends. For new students, it explains how to enable pro rata on fee items and update enrolment dates so the system calculates fees based on actual study days. For exiting students, it covers running the fee and charge adjustment task and reviewing the resulting sales order to confirm the correct refund amount.
