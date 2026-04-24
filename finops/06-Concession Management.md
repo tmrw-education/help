@@ -134,6 +134,33 @@ This section covers the configuration and application of staff concessions and o
 
 ## View Scholarship & Discounts for Students via the Scholarship & Discounts details table
 
+## View Scholarships and Discounts for a Student
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Students** and click **All Students**.
+3. Search for and select the **student**.
+4. Click the **Academic tab** in the toolbar.
+5. Under Related information, click **Scholarship and discounts**.
+6. Use the **checkbox to filter by activity**.
+
+![View Scholarships And Discounts For A Student Creation 1](./99-Images/view_scholarships_and_discounts_for_a_student_creation_1.png)
+
+![View Scholarships And Discounts For A Student Creation 2](./99-Images/view_scholarships_and_discounts_for_a_student_creation_2.png)
+
+---
+
+## View Approved Scholarship and Discount Fees
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Fee schedule batches** and click **All fee schedule batches**.
+3. Search for the **fee record** you want to view.
+4. Open the **fee record**.
+5. Under Sales order lines, scroll to the right to view the **discount amount** applied.
+
+![View Approved Scholarship And Discount Fees Creation 1](./99-Images/view_approved_scholarship_and_discount_fees_creation_1.png)
+
+![View Approved Scholarship And Discount Fees Creation 2](./99-Images/view_approved_scholarship_and_discount_fees_creation_2.png)
+
 ---
 
 ## View Approved Scholarship & Discount Fees
