@@ -1,6 +1,6 @@
 # Visa Management
 
-This section outlines how to manage student visa information within the Academic Management system. It includes creating new visa types, viewing visa details on individual student records, and generating a report of all students with active visas. It notes that visa entries are typically created automatically via the CE integration rather than manually.
+Visa Management keeps student visa records accurate and accessible within the Academic Management system. While visa entries are typically created automatically through the CE integration, staff can also create and maintain visa types manually when required. Visa details are viewable directly on individual student records, and a dedicated report provides a full list of students with active visas across the school. Keeping this information current supports compliance obligations and gives the school a clear picture of its international student cohort.
 
 ---
 
