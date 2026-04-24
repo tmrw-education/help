@@ -383,6 +383,14 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Controlling Discount Eligibility Based on Payment
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Fee schedule parameter**.
+3. Choose whether to enable or disable **Early payment discount eligibility**.
+4. Click **Save**.
+   > Note: *If unchecked, the discount applies even if only one invoice is paid. If checked, the discount applies only if all due invoices are paid together.*
+
+![Controlling Discount Eligibility Based on Payment](./99-Images/controlling_discount_eligibility_based_on_payment_1.png)
+
 ---
 
 ## Processing Payments with Discounts
