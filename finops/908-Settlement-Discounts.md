@@ -18,19 +18,7 @@ Settlement discounts, also known as early payment or cash discounts, incentivise
 
 ---
 
-## Bulk Updating Discounts on Invoices
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Periodic tasks** and click **Update early payment discount**.
-3. Enter the **date range** for invoices to include, or **filter for a single fee payer** or run for all.
-4. Set the **Early payment date** for the selected invoices.
-5. Click **OK** to run the process.
-6. Go to **Accounts receivable** ▸ **Invoices** ▸ **Open Customer Invoices**.
-7. Filter by **fee payer and/or date range** to confirm discounts and due dates are updated on invoices.
-
-![Bulk Updating Discounts on Invoices 1](./99-Images/bulk_update_discounts_on_invoices_1.png)
-
-![Bulk Updating Discounts on Invoices 2](./99-Images/bulk_update_discounts_on_invoices_2.png)
 
 ---
 
