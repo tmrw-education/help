@@ -9,7 +9,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 ---
 
-## Pre-Admission Type Creation
+## Pre-Admission Type Setup
 
 1. From the FNO dashboard, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Pre‑admission fees**.
@@ -39,6 +39,46 @@ Before any pre-admission fees can be processed, the system needs to be configure
 ![Setup Posting Logic For Each Transaction Type Creation 1](./99-Images/setup_posting_logic_for_each_transaction_type_creation_1.png)
 ![Setup Posting Logic For Each Transaction Type Creation 2](./99-Images/setup_posting_logic_for_each_transaction_type_creation_2.png)
 ![Setup Posting Logic For Each Transaction Type Creation 3](./99-Images/setup_posting_logic_for_each_transaction_type_creation_3.png)
+
+---
+
+## All Pre-Admission Fee Tables
+
+---
+
+## Pre-Admission Deposits Table
+
+---
+
+## Pre-Admission Deposits Held
+
+---
+
+## Application Fee Waiver
+
+---
+
+## Application / Registration Fee Process via Cashier
+
+---
+
+## Enrolment Deposit Process - Online
+
+---
+
+## Enrolment Deposit Process - Over-the-Counter
+
+---
+
+## Adhoc Forfeiting Deposits
+
+---
+
+## Refunding Deposits
+
+---
+
+## Cancel Enrolment Deposit or Fee
 
 ---
 
