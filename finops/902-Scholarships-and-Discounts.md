@@ -10,15 +10,7 @@ Scholarships and discounts allow the school to apply financial reductions to ind
 
 ---
 
-## Create a new Scholarship or Discount
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Scholarships and discounts**.
-3. Click **New** in the toolbar.
-4. Complete the columns to create a new scholarship or discount.
-5. Click **Save**.
-
-![Create A New Scholarship Or Discount Creation 1](./99-Images/create_a_new_scholarship_or_discount_creation_1.png)
 
 ---
 
