@@ -24,6 +24,8 @@
 
 ![Post Fee Invoices 3](./99-Images/post_fee_invoices_3.png)
 
+![Post Fee Invoices 4](./99-Images/post_fee_invoices_4.png)
+
 9. Navigate to **Modules ▸ Academic Management ▸ Periodic Tasks ▸ Post sales order invoice**.
 
 10. Expand **Records to include**.
@@ -40,13 +42,13 @@
 
 16. Enter a date in the **Posting date** field, then click **OK**.
 
-![Post Fee Invoices 4](./99-Images/post_fee_invoices_4.png)
-
 ![Post Fee Invoices 5](./99-Images/post_fee_invoices_5.png)
 
 ![Post Fee Invoices 6](./99-Images/post_fee_invoices_6.png)
 
 ![Post Fee Invoices 7](./99-Images/post_fee_invoices_7.png)
+
+![Post Fee Invoices 8](./99-Images/post_fee_invoices_8.png)
 
 17. Return to **Modules ▸ Academic Management ▸ Students ▸ All students**.
 
@@ -66,6 +68,6 @@
 
 25. Expand **View**, then select **GEMS VAT invoice**.
 
-![Post Fee Invoices 8](./99-Images/post_fee_invoices_8.png)
-
 ![Post Fee Invoices 9](./99-Images/post_fee_invoices_9.png)
+
+![Post Fee Invoices 10](./99-Images/post_fee_invoices_10.png)
