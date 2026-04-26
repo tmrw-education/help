@@ -60,11 +60,10 @@
 4. Select **Students**.
 5. Select the student record, then expand **Approval** in the Action Pane.
 6. Select **Report as ready**.
+   > **Note:** *The report status will update to Under Review. The record will move to the Approver user group for approval.*
 
-> **Note:** *The report status will update to Under Review. The record will move to the Approver user group for approval.*
+![Scholarship_and_Discount_Approval_Process_1](./99-Images/scholarship_and_discount_approval_process_1.png)
 
-![Scholarship_and_Discount_Approval_Process_1] (./99-Images/scholarship_and_discount_approval_process_1.png)
-
-![Scholarship_and_Discount_Approval_Process_2] (./99-Images/scholarship_and_discount_approval_process_2.png)
+![Scholarship_and_Discount_Approval_Process_2](./99-Images/scholarship_and_discount_approval_process_2.png)
 
 ---
