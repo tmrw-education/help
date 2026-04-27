@@ -75,3 +75,28 @@
 ![Scholarship_and_Discount_Approval_Process_2](./99-Images/scholarship_and_discount_approval_process_2.png)
 
 ---
+
+
+## Linking Scholarships and Discounts to Students
+
+1. Navigate to **Modules ▸ Academic Management ▸ Setup ▸ Scholarships and discounts**.
+2. Select **Commercial concession**.
+3. Click **General** in the Action Pane.
+4. Select **Students**.
+5. Click **New** to add a new detail.
+6. In the **Student account** field, select the relevant student from the dropdown.
+
+![Linking_Scholarships_and_Discounts_to_Students_1](./99-Images/linking_scholarships_and_discounts_to_students_1.png)
+
+7. Complete the **Discount %**, **Effective date**, and **Expiration date** fields.
+
+![Linking_Scholarships_and_Discounts_to_Students_2](./99-Images/linking_scholarships_and_discounts_to_students_2.png)
+
+8. Navigate to **Modules ▸ Academic Management ▸ All students**.
+9. Select the newly added student record.
+10. Click **Academic** in the Action Pane.
+11. Under **Related information**, select **Scholarships and discounts** to view the record.
+
+![Linking_Scholarships_and_Discounts_to_Students_3](./99-Images/linking_scholarships_and_discounts_to_students_3.png)
+
+---
