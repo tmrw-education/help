@@ -140,6 +140,14 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Curriculum
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click on **Curriculum**.
+3. Click **New** in the toolbar to create a new curriculum.
+4. Choose the **Curriculum** option from the dropdown (e.g., AM).
+5. Enter details in the **Description** field.
+6. Select the **Curriculum dimension** from the dropdown.
+7. Click **Save**.
+
 ---
 
 ## Intercompany Journal (GEMS)
@@ -151,6 +159,12 @@ Before fees can be generated, processed, or settled across the platform, a range
 ---
 
 ## Stream
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click on **Stream**.
+3. Enter details in the **Stream** column.
+4. Enter details in the **Description** column.
+5. Click **Save**.
 
 ---
 
