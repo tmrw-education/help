@@ -258,6 +258,19 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Fee Type
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup**, then expand **Cashier receipt**.
+3. Click **Fee type**. Review the list of existing fee types to avoid creating duplicates.
+4. Click **New** in the toolbar.
+
+> *Condition: Perform this step only if the required fee type does not exist.*
+
+5. Enter a value in the **Fee type** field (e.g., Security deposit, Transport).
+6. Enter the required information for each column in the table as needed by your organization.
+7. Click **Save**.
+
+> **Note:** The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. The system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.
+
 ---
 
 ## Receipt Intercompany Mapping
