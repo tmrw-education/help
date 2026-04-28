@@ -170,6 +170,16 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Deposit Policy
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click on **Deposit policy**.
+3. Click **New** in the toolbar to create a deposit policy record.
+4. Select the **Deposit type** from the dropdown (e.g., Percent or Fixed).
+5. Enter the **Value** amount in the column section for the selected deposit type.
+6. Repeat steps 4-6 for each deposit type you need to set up.
+7. Click **Save**.
+
+> **Note:** If using the percentage deposit type, the percentage is calculated from the tuition fee linked to the selected academic year.
+
 ---
 
 #### Sibling Order
