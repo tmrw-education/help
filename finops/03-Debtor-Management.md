@@ -10,7 +10,7 @@ Accurate fee generation depends entirely on the quality of the data held against
 
 ---
 
-## Check Student Details
+## Check Student Master
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
