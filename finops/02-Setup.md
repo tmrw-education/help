@@ -42,7 +42,6 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Gender Setup
 
-
 1. Navigate to **Modules ▸ Academic Management ▸ Setup ▸ Gender setup**.
 2. Click **New**.
 3. Enter a value in the **Gender** field.
