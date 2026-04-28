@@ -62,27 +62,28 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Fee & Charge Interval Setup
 
-1. From the FNO dashboard, open Modules ▸ Academic Management.
-2. Expand Setup and click on Fee and Charge Interval.
-3. Click New in the toolbar to create a new interval.
-4. Enter details in Fee generation interval ID (e.g., 2025-2026).
-5. Enter details in the Description field.
-6. Enter the Start date and End date for the school academic year. (interval or billing cycle)
-7. Choose the Period option from the dropdown (e.g., Month, Week) based on the school's pricing method.
-8. Enter the Number of intervals to specify how many invoices will be generated in the academic year (e.g., 3 for termly fees, or 10 for monthly). This should match the school's billing frequency. (billing cycle)
-9. Click Generate in the toolbar to create the periods.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click on **Fee and Charge Interval**.
+3. Click **New** in the toolbar to create a new interval.
+4. Enter details in **Fee generation interval ID** (e.g., 2025-2026).
+5. Enter details in the **Description** field.
+6. Enter the **Start date** and **End date** for the school academic year (billing cycle).
+7. **Choose the Period option** from the dropdown (e.g., Month, Week) based on the school’s pricing method.
+8. Enter the **Number of intervals** to specify how many invoices will be generated in the academic year (e.g., 3 for termly fees, or 10 for monthly). This should match the school’s billing frequency.
+9. Click **Generate** in the toolbar to create the periods.
 10. For each period:
-    - a. Enter details in Period description.
-    - b. Enter the Start date and End date.
-    - c. Click Update unit quantity so the system calculates the number of months or weeks within the period.
-      > **Note:** The number appears in the Unit quantity field and can be edited to remove the decimal.
-    - d. Enter the Due date to define when payment is expected.
-    - e. Enter the Revenue recognition date if required for deferral.
 
-    > **Note:** *The due dates and revenue recognition dates will be reflected in related sales orders and reports.*
-11. Click Weeks in the Periods toolbar, then click the Generate button to automatically populate the weeks' start and end dates for each period. This is only required for pro-rata joining and leaving policies.
-12. Click Months in the Periods toolbar, then click the Generate button to automatically populate the months' start and end dates for each period.
-13. Validate entered data for accuracy, then click Save.
+    a. Enter details in **Period description**.
+    b. Enter the **Start date** and **End date**.
+    c. Click **Update unit quantity** so the system calculates the number of months or weeks within the period.
+       *Note: The number appears in the Unit quantity field and can be edited to remove the decimal.*
+    d. Enter the **Due date** to define when payment is expected.
+    e. Enter the **Revenue recognition date** if required for deferral.
+       *Note: The due dates and revenue recognition dates will be reflected in related sales orders and reports.*
+12. Click **Weeks** in the Periods toolbar, then click the **Generate** button to automatically populate the weeks’ start and end dates for each period. This is only required for pro-rata joining and leaving policies.
+13. Click **Months** in the Periods toolbar, then click the **Generate** button to automatically populate the months’ start and end dates for each period.
+14. Validate entered data for accuracy, then click **Save**.
+    
 
 ---
 
