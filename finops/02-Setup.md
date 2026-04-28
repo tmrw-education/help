@@ -232,7 +232,21 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Receipt Intercompany Mapping
 
----
+1. From the FNO dashboard, open Modules ▸ Academic Management.
+2. Expand Setup, then expand Cashier receipt.
+3. Click Receipt intercompany mapping.
+4. Click New in the toolbar.
+5. Select the Method of payment from the dropdown (e.g., CobOn).
+   > **Note:** Choose method of payment that has an intercompany journal with the destination school.
+6. Select the Destination school from the dropdown.
+7. Set the Account type and the Account fields based on the entry posting in the original cashier receipt:
+   - a. If the Account type is Ledger, the Account is Main
+   - b. If the Account type is Bank, the Account is Bank account
+8. Select a value in the Intercompany journal field.
+9. Click Save.
+
+> **Note:** When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.---
+
 
 ## Fee Master Template to Sync Items to CE
 
