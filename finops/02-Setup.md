@@ -67,8 +67,18 @@ Before fees can be generated, processed, or settled across the platform, a range
 3. Click **New** in the top toolbar.
 4. Complete the columns to create new fee categories.
 5. Click **Save**.
+6. Link these fees to the product master by navigating to **Modules ▸ Product information management ▸ Products ▸ Released products**.
+7. Use the **Item number** filter to search for the added fee categories.  
+   > **Note:** Categories related to Academic Management start with the letters **AM**.
+8. Select the category, then scroll down and expand the **Sell** tab.
+9. Locate **Activity ▸ Fee category**.
+10. Ensure the fee aligns with the category it will be billed as.
 
 ![Create Fee Categories Creation 1](./99-Images/create_fee_categories_creation_1.png)
+
+![Create Fee Categories Creation 2](./99-Images/create_fee_categories_creation_2.png)
+
+![Create Fee Categories Creation 3](./99-Images/create_fee_categories_creation_3.png)
 
 ---
 
@@ -166,7 +176,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ---
 
-## Customer Intergration Mapping
+## Customer Integration Mapping
 
 ---
 
@@ -174,7 +184,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ---
 
-## Reciept Intercompany Mapping
+## Receipt Intercompany Mapping
 
 ---
 
