@@ -19,7 +19,7 @@ Before fees can be generated, processed, or settled across the platform, a range
     - Select **Yes** when posting financial transactions directly to the **student account**​
 5. Click the **Integrations** tab.​
 6. Select the **Relationship type** field, select **Financial responsibility**, then **Sibling**.​
-   > **Note:** *Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.*​
+   > **Note:** *Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.* ​
 7. Select the **ID value** that matches the configured relationship type.​
 8. Click the **Pro rata adjustment** tab.​
 9. Select the **Pro rata adjustment joining** option.​
