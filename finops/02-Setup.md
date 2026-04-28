@@ -6,6 +6,29 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Fee Schedule Parameters (Product)
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.​
+2. Expand **Setup** and click **Fee schedule parameters**.​
+3. On the **General** tab, expand each section and complete the fields based on your school’s requirements. This includes:​
+   - Deposit handling journals for refund and forfeit​
+   - Payment journals for online, over-the-counter, miscellaneous​
+   - User group permissions for generated sales orders​
+   - Staff concession cancellation and adjustment setup​
+   > **Note:** *All journals used in this setup must already exist in the system. The selected user group controls who can edit generated sales orders. Staff concession settings apply when a staff contract ends.​*
+4. In **Financial activities to Student**:​
+   - Select **No** when posting financial transactions to the **Fee payer account**​
+   - Select **Yes** when posting financial transactions directly to the **student account**​
+5. Click the **Integrations** tab.​
+6. Select the **Relationship type** field, select **Financial responsibility**, then **Sibling**.​
+   > **Note:** *Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.*​
+7. Select the **ID value** that matches the configured relationship type.​
+8. Click the **Pro rata adjustment** tab.​
+9. Select the **Pro rata adjustment joining** option.​
+10. Select the **Pro rata adjustment leaving** option.​
+11. Select the **Leaving date** option:​
+   - *Last day attended* — use when the school manages the leaving date as LDA.​
+   - *Expiration date* — use when the school manages the leaving date as the expiration date in the Academic enrolment table.​
+12. Click the **Number sequences** tab and confirm all number sequences are set up for all references.​
+13. Click **Save**.
 
 ---
 
