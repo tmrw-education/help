@@ -73,7 +73,7 @@ Before fees can be generated, processed, or settled across the platform, a range
     - d. Enter the Due date to define when payment is expected.
     - e. Enter the Revenue recognition date if required for deferral.
 
-    > **Note:** The due dates and revenue recognition dates will be reflected in related sales orders and reports.
+    > **Note:** *The due dates and revenue recognition dates will be reflected in related sales orders and reports.*
 11. Click Weeks in the Periods toolbar, then click the Generate button to automatically populate the weeks' start and end dates for each period. This is only required for pro-rata joining and leaving policies.
 12. Click Months in the Periods toolbar, then click the Generate button to automatically populate the months' start and end dates for each period.
 13. Validate entered data for accuracy, then click Save.
@@ -115,7 +115,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 5. Click **Save**.
 6. Link these fees to the product master by navigating to **Modules ▸ Product information management ▸ Products ▸ Released products**.
 7. Use the **Item number** filter to search for the added fee categories.  
-   > **Note:** Categories related to Academic Management start with the letters **AM**.
+   > **Note:** *Categories related to Academic Management start with the letters AM.*
 8. Select the category, then scroll down and expand the **Sell** tab.
 9. Locate **Activity ▸ Fee category**.
 10. Ensure the fee aligns with the category it will be billed as.
