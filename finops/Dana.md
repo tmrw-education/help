@@ -64,7 +64,7 @@
 2. Select the student to apply the scholarship or discount.
 3. In the Action Pane, open the **General** tab and click **Generate concession**.
 
-![View_Approved_Scholarship_and_Discount_Fees_1](./99-Images/view_approved_scholarships_and_discount_fees_1.png)
+![View_Approved_Scholarship_and_Discount_Fees_1](./99-Images/view_approved_scholarship_and_discount_fees_1.png)
 
 4. Select the **Fee and Charge Interval** from the dropdown and click **OK**.
 5. Open the **Concession** tab to view the estimated discount.
@@ -73,7 +73,7 @@
 8. Select the required **Fee Schedule Template**.
 9. In the **Records to include** section, select **Filter**.
 
-![View_Approved_Scholarship_and_Discount_Fees_2](./99-Images/view_approved_scholarships_and_discount_fees_2.png)
+![View_Approved_Scholarship_and_Discount_Fees_2](./99-Images/view_approved_scholarship_and_discount_fees_2.png)
 
 10. In the **Student account** field, enter the **Student ID** and select **OK**.
 11. Select **OK** to generate the Fee Schedule Batch.
@@ -82,7 +82,7 @@
 14. Select the **Sales Order** hyperlink to open the sales order.
 15. At line level, expand **Financials** and select **Maintain Charges**.
 
-![View_Approved_Scholarship_and_Discount_Fees_3](./99-Images/view_approved_scholarships_and_discount_fees_3.png)
+![View_Approved_Scholarship_and_Discount_Fees_3](./99-Images/view_approved_scholarship_and_discount_fees_3.png)
 
 16. Confirm that the discount is displayed on the charges page.
 17. In the Sales Order Action Pane, select **Totals** to verify that the total charges reflect the applied discount.
