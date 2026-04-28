@@ -6,24 +6,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Fee Schedule Parameters (Product)
 
-1. From the FNO dashboard, open Modules ▸ Academic Management.
-2. Expand Inquiries and reports, then expand Pre‑admission fees.
-3. Click All pre‑admission fees.
-4. Apply the student account filter and paste the account number.
-5. Select the row of the application to waive.
-6. Click Edit in the toolbar.
-7. Check the "waive" box in the Waive column.
-8. Click Save.
-9. Click Cancel in the toolbar.
-10. Select a Reversing posting date.
-11. Click Ok, then refresh the page to see the updated status.
-
-> **Note:** System auto-handles cancellation based on fee status:
-> • Application fee created (no sales order) ▸ status cancelled
-> • Application fee created (sales order and prepayment invoice created) ▸ cancels sales order
-> • Application fee paid (customer payment posted) ▸ reverses prepayment invoice and cancels sales order
-> • Application fee posted (sales order invoice posted) ▸ system creates and posts sales order credit note
-
+- From the    **FNO dashboard**, open **Modules** ▸ **Academic Management**.- Expand    **Setup** and click **Fee schedule parameters**.- On the    **General** tab, expand each section and complete the fields based on your school's requirements. This includes: Deposit handling journals for refund and forfeit, Payment journals (online, over-the-counter, miscellaneous), User group permissions for generated sales orders, Staff concession cancellation and adjustment setup.**Note:** All journals used in this setup must already exist in the system. The selected user group controls who can edit generated sales orders. Staff concession settings apply when a staff contract ends.4. In **Financial activities to Student:** select **No** when posting financial transactions to the **Fee payer account**     select **Yes** when posting financial transactions directly to the **student account**5. Click the **Integrations** tab.6. Select the **Relationship type** field, select **Financial responsibility**, then **Sibling**.**Note:** Financial responsibility _is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations._7. Select the **ID value** that matches the configured relationship type.8. Click the **Pro rata adjustment** tab.9. Select the **Pro rata adjustment joining** option.10. Select the **Pro rata adjustment leaving** option.11. Select the **Leaving date** option:- **_Last day attended_** — use when the school manages the leaving date as LDA.- **_Expiration date_** — use when the school manages the leaving date as the expiration date in the Academic enrolment table.12. Click the **Number sequences** tab and confirm all number sequences are set up for all references.13. Click **Save**.
 ---
 
 ## Fee Schedule Parameters (GEMS)
