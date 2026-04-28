@@ -13,14 +13,18 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 1. From the FNO dashboard, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Pre‑admission fees**.
-3. Click **Pre‑admission types**.
+3. Click **Pre‑admission types**. *Tip: Review the existing types to avoid creating duplicates*.
 4. Click **New** in the toolbar.
-5. In **Transaction type**, enter *Application fee*.
-6. In **Description**, enter *Application fee*.
-7. Repeat to create Enrolment fee and Enrolment deposit, entering these in both **Transaction type** and **Description**.
-8. Click **Save**.
+5. In **Pre-admission type**, enter a value (e.g, *Application fee*, *Enrolment fee*).
+6. In **Description**, enter a value (e.g, *Application fee*, *Enrolment fee*).
+7. To create an Enrolment deposit:
 
-![Pre-Admission Type Creation](./99-Images/pre_admission_type_creation_1.png)
+      a. Enter Enrolment deposit in both **Pre-admission type** and **Description**.
+
+      b. Select the **Deposit** check box.
+
+> **Note:** The deposit check box is only selected when the pre-admission type represents a deposit.
+8. Click **Save**.
 
 ---
 
