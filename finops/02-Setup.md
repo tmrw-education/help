@@ -296,6 +296,28 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Fee Master Template to Sync Items to CE
 
+> **Note:** This setup creates a fee master list template that determines the fee items synced from D365 F&O to CE for inclusion in student offer letters.
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup**, then click **Fee master list template**.
+3. Click **New** in the toolbar.
+4. Enter values in the **Code** and **Name** fields.
+5. Enter the date in the **Effective date** field.
+6. In Products section, click **+ Add** in the toolbar.
+7. Select an **Item number** from the dropdown to sync the selected fee item to D365 CE.
+8. Set Quantity to 1 in the **Quantity** field.
+9. Select annual option in the **Unit** field.
+10. In the **Switch view** field, select **All**, then select your template row.
+11. Click **Save**.
+
+> **Note:** Next steps show how to assign to the Academic year.
+
+12. Go back to **Modules** ▸ **Academic Management**.
+13. Expand **Setup**, then click **Academic year**.
+14. Select the **Academic year** row. Then select the **Fee master list** code from the dropdown.
+15. Repeat step 14 for each academic year.
+16. Click **Save**.
+
 ---
 
 ## Non-Tuition Item Price Setup 
