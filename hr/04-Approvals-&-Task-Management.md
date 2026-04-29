@@ -1,4 +1,4 @@
-## Approvals and Tasks Workspace
+# Approvals and Tasks Workspace
 
 The Approvals and Tasks workspace is accessible from the ESS portal and serves as the central location where employees and managers can view, action, and track all pending approvals and assigned tasks.
 
