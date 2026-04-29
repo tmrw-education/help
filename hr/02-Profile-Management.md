@@ -95,6 +95,15 @@ Navigation buttons at the bottom of the sub-tab allow you to:
 - **Next** – saves and moves to the next sub-tab.
 - **Skip** – moves to the next sub-tab without saving changes.
 
+1. Navigate to your **Full Profile** and click the **Personal contacts** tab.
+2. Click **Add New Personal Contact**.
+3. Enter the relevant details.
+4. If required, mark the contact as an **Emergency contact** or **Beneficiary**.
+5. If marked as a benficiary, enter the date range and choose if the contact is the primary beneficiary.
+6. Click **Next**.
+7. Work your way down the dependent tabs filling out the required informaiton.
+8. Click **Save** once complete.
+
 ### Dependent Details Sub-Tab
 
 This sub-tab records additional attributes for dependents, including gender, date of birth, and specific conditions such as student status, disability, or order eligibility. Fields such as **Full-Time Student** are particularly important for processes like tuition fee or transport concession eligibility.
@@ -119,10 +128,10 @@ Employees can update their profile photo directly from the ESS home screen. Clic
 
 ### Uploading a Profile Image
 
-1. From the **ESS home page**, click your **profile image** or the image placeholder.
-2. In the window that opens, click **Choose File** and select the image from your device.
-3. Click **Submit** to send for approval.
-4. Navigate to **Employee Self Service** ▸ **Edit Personal Details** ▸ **Image** to monitor the approval status.
+1. Navigate to your **Full Profile**.
+2. Click **Change profile image**.
+3. Select an image from your device and click **Open**.
+4. You will recieve a notification in the bottom right of your screen saying approved and waiting for approval.
 
 ---
 
