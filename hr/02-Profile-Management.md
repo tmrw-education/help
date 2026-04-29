@@ -1,4 +1,4 @@
-## Profile Management Overview
+# Profile Management
 
 When you first access the ESS portal, you are presented with a profile summary view showing key information such as your name, position, reporting manager, staff ID, personal number, organisational details, and years of service. From this overview, you can navigate to your full profile by clicking the **View Full Profile** button.
 
