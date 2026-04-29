@@ -273,6 +273,21 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Pre-Admission Posting Setup
 
+1. From the FNO dashboard, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup**, then expand **Pre‑admission fees**.
+3. Click **Pre‑admission posting**.
+4. Click **New** in the toolbar to create a pre-admission posting entry.
+5. Select a value in **Pre-admission type** (e.g., Application fee, Enrolment fee).
+6. Select a value in **Account entry** (e.g., Sales order, Free text invoice, General journal).
+7. Select a value in **Posting profile**. 
+8. Select a value in **Receipt jouranl name** that applies to online payments for this admission type.
+9. Select a unique value in **Sales category**. Do not use the same sales category for multiple pre-admission types.
+10. Select a value in **Item number**. This is required only for application or registration fees.
+11. Click **New** to add another pre-admission type, such as Enrolment Deposit or Re-enrolment Deposit.
+12. Enter the required values for each column in the table.
+> **Note:** *For Enrolment Deposit and Re-enrolment Deposit types, do not select an item number. The system generates an open sales order header for fee generation.* 
+13. Click **Save**.
+
 ---
 
 ## Customer Integration Mapping
