@@ -55,7 +55,9 @@ Address changes are applied immediately and are reflected in the back-end Dynami
 1. Navigate to your **Full Profile** and click the **Address** tab.
 2. To add a new address, click **Add New Address** and complete the fields: description, purpose, street, city, and country.
 3. To mark an address as primary, select it and enable the **Primary Residence** toggle.
-4. To delete a non-primary address, select it and click **Delete**, then confirm by clicking **Submit**.
+4. To update an address, click the **pencil** icon and make the required changes.
+5. Click the **Submit** button to save your changes.
+6. To delete a non-primary address, select it and click **Delete**, then confirm by clicking **Submit**.
    > **Note:** *You cannot delete your primary address. Assign another address as primary first.*
 
 ---
