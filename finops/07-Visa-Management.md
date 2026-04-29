@@ -17,7 +17,10 @@ Managing student visa information within F&O ensures the school maintains accura
 2. Expand **Setup** and click **Visa types**.
 3. Click **New** in the toolbar.
 4. Complete the columns to create a new Visa type.
-5. Click **Save**.
+5. Select **Full fee paying** if the student is not subsidised and must pay the full tuition fee.
+6. Clear the **Active** box if the visa is no longer valid. 
+7. Click **Save**.
+> **Note:** The visa setup must match in D365 CE.
 
 ![Create New Visa Type Creation 1](./99-Images/create_new_visa_type_creation_1.png)
 
