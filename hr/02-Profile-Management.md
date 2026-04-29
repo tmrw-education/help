@@ -6,45 +6,22 @@ The full profile is organised into a series of tabs, each handling a specific ca
 
 ---
 
-## Identification Management
+## Profile Image
 
-The Identification Management section allows employees to record and maintain their official identification documents, including passports, Emirates IDs, labour cards, and visas. Each record captures the document type, document number, issuing authority, and validity dates.
+Employees can update their profile photo directly from the ESS home screen. Click the profile image icon on the home page to open the image upload window and select the image you wish to use. The image submission is routed through an approval workflow and will remain pending until approved by HR or your line manager.
 
-When a document is approaching its expiry, a warning label — **Expiring Soon** — appears on the relevant tab, and a notification is also surfaced through the notification bell at the top of the screen. Only the current active identification document is displayed by default to avoid confusion from historical records.
+### Uploading a Profile Image
 
-Any new identification record or update submitted through ESS is routed through an approval workflow and will remain in a **Pending** status until it has been reviewed and approved by HR.
-
-### Recording an Identification Document
-
-1. Navigate to your **Full Profile** and click the **Identification** tab.
-2. Click **Add New** to create a new identification record.
-3. Select the **Identification type** from the dropdown list (e.g., Passport, Emirates ID, Labour Card).
-4. Enter the **Identification number**, **issuing authority**, and **valid from / expiry dates**.
-5. Click the **Choose file** button to upload a copy of the identification.
-6. Click **Submit** to send the record for approval.
-7. The record status will show as **Pending** until approved by HR.
-   > **Note:** *Once submitted, you can view the record but cannot make further changes until it has been processed.*
+1. Navigate to your **Full Profile**.
+2. Click **Change profile image**.
+3. Select an image from your device and click **Open**.
+4. You will recieve a notification in the bottom right of your screen saying approved and waiting for approval.
 
 ---
 
-## DEWA / Ejari Information
+## Address
 
-This section allows employees to record and maintain their DEWA (Dubai Electricity and Water Authority) account and Ejari tenancy registration details, which are required for certain housing and utility-related HR processes.
-
-### Adding DEWA / Ejari Information
-
-1. Navigate to your **Full Profile** and click the **Identification** tab.
-2. Click **Add New** to create a new identification record.
-3. Choose DEWA/ Ejari from the **Identification type** dropdown list.
-4. Complete the required fields.
-5. Click the **Choose file** button to upload a copy of the DEWA/ Ejari documentation.
-6. Click **Submit** to save the information.
-
----
-
-## Address Management
-
-The Address Management tab allows employees to maintain their residential and other address details, including description, purpose, street, city, and country or region.
+The Address tab allows employees to maintain their residential and other address details, including description, purpose, street, city, and country or region.
 
 One address must always be designated as your **Primary Residence**. The primary address is pinned to the top of the list for easy access. Note that a primary address cannot be deleted directly — you must first designate another address as primary before the original can be removed.
 
@@ -122,22 +99,64 @@ Identification documents for the dependent are recorded here, including document
 
 ---
 
-## Profile Image
+## Identification
 
-Employees can update their profile photo directly from the ESS home screen. Click the profile image icon on the home page to open the image upload window and select the image you wish to use. The image submission is routed through an approval workflow and will remain pending until approved by HR or your line manager.
+The Identification section allows employees to record and maintain their official identification documents, including passports, Emirates IDs, labour cards, and visas. Each record captures the document type, document number, issuing authority, and validity dates.
 
-### Uploading a Profile Image
+When a document is approaching its expiry, a warning label — **Expiring Soon** — appears on the relevant tab, and a notification is also surfaced through the notification bell at the top of the screen. Only the current active identification document is displayed by default to avoid confusion from historical records.
 
-1. Navigate to your **Full Profile**.
-2. Click **Change profile image**.
-3. Select an image from your device and click **Open**.
-4. You will recieve a notification in the bottom right of your screen saying approved and waiting for approval.
+Any new identification record or update submitted through ESS is routed through an approval workflow and will remain in a **Pending** status until it has been reviewed and approved by HR.
+
+### Recording an Identification Document
+
+1. Navigate to your **Full Profile** and click the **Identification** tab.
+2. Click **Add New** to create a new identification record.
+3. Select the **Identification type** from the dropdown list (e.g., Passport, Emirates ID, Labour Card).
+4. Enter the **Identification number**, **issuing authority**, and **valid from / expiry dates**.
+5. Click the **Choose file** button to upload a copy of the identification.
+6. Click **Submit** to send the record for approval.
+7. The record status will show as **Pending** until approved by HR.
+   > **Note:** *Once submitted, you can view the record but cannot make further changes until it has been processed.*
 
 ---
 
-## Screening
+## DEWA / Ejari Information
 
-The Screening section displays compliance and pre-employment screening checks associated with your employee profile. Visibility of specific screening items is configured by HR to show only the checks that are relevant to you. This section is read-only for most employees; only items explicitly designated for employee action will be available to update.
+This section allows employees to record and maintain their DEWA (Dubai Electricity and Water Authority) account and Ejari tenancy registration details, which are required for certain housing and utility-related HR processes.
+
+### Adding DEWA / Ejari Information
+
+1. Navigate to your **Full Profile** and click the **Identification** tab.
+2. Click **Add New** to create a new identification record.
+3. Choose DEWA/ Ejari from the **Identification type** dropdown list.
+4. Complete the required fields.
+5. Click the **Choose file** button to upload a copy of the DEWA/ Ejari documentation.
+6. Click **Submit** to save the information.
+
+---
+
+## Payment Information
+
+The Payment Information section allows employees to maintain their bank details for payroll processing. The information captured includes bank name, account name, account number, and IBAN.
+
+At any given time, only **one payment method** can be marked as **Active**. This is the account to which salary payments will be made. Inactive accounts are retained in the system for historical reference but are filtered from the employee's default view in ESS.
+
+Any changes to payment method details are subject to a duplicate IBAN check and are intended to be routed through an approval workflow before becoming active.
+
+### Adding or Updating a Payment Method
+
+1. Navigate to your **Full Profile** and click the **Payment information** tab.
+2. Click **Add new payment method** to enter a new bank account.
+3. Complete the required fields.
+4. Set the account to **Active**.
+5. Click **Submit**.
+   > **Note:** *Only one account can be active at a time. If you are replacing an existing bank account, the previous account will be marked as inactive once the new one is approved.*
+
+---
+
+## Screenings
+
+The Screenings section displays compliance and pre-employment screening checks associated with your employee profile. Visibility of specific screening items is configured by HR to show only the checks that are relevant to you. This section is read-only for most employees; only items explicitly designated for employee action will be available to update.
 
 ### View screenings
 
@@ -202,9 +221,9 @@ The Professional Experience tab allows employees to record their employment hist
 
 ---
 
-## Subject Management
+## Subjects
 
-The Subject Management tab allows employees to declare the subjects they are qualified or available to teach. Subjects are selected using a subject ID or description, and one subject can be marked as the primary subject. Subject submissions are routed through the approval workflow and remain pending until approved.
+The Subjects tab allows employees to declare the subjects they are qualified or available to teach. Subjects are selected using a subject ID or description, and one subject can be marked as the primary subject. Subject submissions are routed through the approval workflow and remain pending until approved.
 
 ### Adding a Subject
 
@@ -283,21 +302,3 @@ The Skills Management section allows employees to view, maintain, and filter the
 
 ---
 
-## Payment Information
-
-The Payment Information section allows employees to maintain their bank details for payroll processing. The information captured includes bank name, account name, account number, and IBAN.
-
-At any given time, only **one payment method** can be marked as **Active**. This is the account to which salary payments will be made. Inactive accounts are retained in the system for historical reference but are filtered from the employee's default view in ESS.
-
-Any changes to payment method details are subject to a duplicate IBAN check and are intended to be routed through an approval workflow before becoming active.
-
-### Adding or Updating a Payment Method
-
-1. Navigate to your **Full Profile** and click the **Payment information** tab.
-2. Click **Add new payment method** to enter a new bank account.
-3. Complete the required fields.
-4. Set the account to **Active**.
-5. Click **Submit**.
-   > **Note:** *Only one account can be active at a time. If you are replacing an existing bank account, the previous account will be marked as inactive once the new one is approved.*
-
----
