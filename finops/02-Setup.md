@@ -215,23 +215,23 @@ The sibling discount feature allows the school to automatically apply fee reduct
 > **Note:** *For each possible child in a family, assign a sibling order number (e.g., 1 for first child, 2 for second, up to your maximum, such as 9). Use 0 for students who are not yet current (e.g., future students or those transitioning between programs).*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Sibling order**.
+2. Expand **Setup and Sibling setup**, then click **Sibling order**.
 3. Click **New** to create sibling order entries.
-4. In the first column enter the **sibling order number** and in the second column, enter the **description**.
-5. Click **Save**.
-6. Go back to **Modules** ▸ **Sales and marketing**.
-7. Expand **Prices and discounts** and click **Customer price/discount groups**.
-8. In the Show field, change the value to **Line discount group**.
-9. Click **New** to assign the correct sibling order and complete the following columns:
+    > **Note:** *Add a new record only if your school needs more sibling positions than the ones already listed.*
+4. Enter a unique number in **Sibling discount order** column (e.g, 11). Follow your school's sequencing convetion. 
+5. Enter the **Sibling order** description (e.g., 11 sibling). Use the same pattern as existing records.
+6. Click **Save**.
+7. Go back to **Modules** ▸ **Sales and marketing**.
+8. Expand **Prices and discounts** and click **Customer price/discount groups**.
+9. In the Show field, change the value to **Line discount group**.
+10. Click **New** to assign the correct sibling order and complete the following columns:
    - Enter the sibling order number in the Price groups column (e.g., 1, 2, 3).
    - Name the entry in the next column (e.g., First Child, Second Child).
    - In the Sibling column, use the dropdown and match this with the sibling order.
-10. Repeat as many times as required.
-11. Click **Save**.
+11. Repeat as many times as required.
+12. Click **Save**.
     
-![Sibling Order Setup Creation 1](./99-Images/sibling_order_setup_creation_1.png)
 
-![Sibling Order Setup Creation 2](./99-Images/sibling_order_setup_creation_2.png)
 
 ---
 
