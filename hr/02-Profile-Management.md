@@ -33,10 +33,12 @@ This section allows employees to record and maintain their DEWA (Dubai Electrici
 
 ### Adding DEWA / Ejari Information
 
-1. Navigate to your **Full Profile** and click the **DEWA / Ejari** tab.
-2. Click **Add New** to enter your details.
-3. Complete the required fields, including account reference numbers and relevant dates.
-4. Click **Submit** to save the information.
+1. Navigate to your **Full Profile** and click the **Identification** tab.
+2. Click **Add New** to create a new identification record.
+3. Choose DEWA/ Ejari from the **Identification type** dropdown list.
+4. Complete the required fields.
+5. Click the **Choose file** button to upload a copy of the DEWA/ Ejari documentation.
+6. Click **Submit** to save the information.
 
 ---
 
