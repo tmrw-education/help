@@ -289,7 +289,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 5. Select a value in **Pre-admission type** (e.g., Application fee, Enrolment fee).
 6. Select a value in **Account entry** (e.g., Sales order, Free text invoice, General journal).
 7. Select a value in **Posting profile**. 
-8. Select a value in **Receipt jouranl name** that applies to online payments for this admission type.
+8. Select a value in **Receipt journal name** that applies to online payments for this admission type.
 9. Select a unique value in **Sales category**. Do not use the same sales category for multiple pre-admission types.
 10. Select a value in **Item number**. This is required only for application or registration fees.
 11. Click **New** to add another pre-admission type, such as Enrolment Deposit or Re-enrolment Deposit.
@@ -309,14 +309,13 @@ The sibling discount feature allows the school to automatically apply fee reduct
 2. Expand **Setup**, then expand **Cashier receipt**.
 3. Click **Fee type**. Review the list of existing fee types to avoid creating duplicates.
 4. Click **New** in the toolbar.
-
 > *Condition: Perform this step only if the required fee type does not exist.*
-
 5. Enter a value in the **Fee type** field (e.g., Security deposit, Transport).
-6. Enter the required information for each column in the table as needed by your organization.
+6. Enter the required information for each column in the table as needed by your organisation.
 7. Click **Save**.
+    > **Note:** *The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. The system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.*
 
-> **Note:** The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. The system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.
+![Fee_Type_1](./99-Images/fee_type_1.png)
 
 ---
 
@@ -327,23 +326,23 @@ The sibling discount feature allows the school to automatically apply fee reduct
 3. Click **Receipt intercompany mapping**.
 4. Click **New** in the toolbar.
 5. Select the **Method of payment** from the dropdown (e.g., CobOn).
-
-> **Note:** Choose method of payment that has an intercompany journal with the destination school.
-
+    > **Note:** *Choose the method of payment that has an intercompany journal with the destination school.*
 6. Select the **Destination school** from the dropdown.
 7. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
    - If the **Account type** is Ledger, the **Account** is Main
    - If the **Account type** is Bank, the **Account** is Bank account
 8. Select a value in **Intercompany journal** field.
 9. Click **Save**.
+    
+  > **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
 
-> **Note:** When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.
+![Receipt_Intercompany_Mapping_1](./99-Images/receipt_intercompany_mapping_1.png)
 
 ---
 
 ## Fee Master Template to Sync Items to CE
 
-> **Note:** This setup creates a fee master list template that determines the fee items synced from D365 F&O to CE for inclusion in student offer letters.
+> **Note:** *This setup creates a fee master list template that determines the fee items synced from D365 F&O to CE for inclusion in student offer letters.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then click **Fee master list template**.
@@ -356,14 +355,16 @@ The sibling discount feature allows the school to automatically apply fee reduct
 9. Select annual option in the **Unit** field.
 10. In the **Switch view** field, select **All**, then select your template row.
 11. Click **Save**.
-
-> **Note:** Next steps show how to assign to the Academic year.
-
+    > **Note:** *Next steps show how to assign to the Academic year.*
 12. Go back to **Modules** ▸ **Academic Management**.
 13. Expand **Setup**, then click **Academic year**.
 14. Select the **Academic year** row. Then select the **Fee master list** code from the dropdown.
 15. Repeat step 14 for each academic year.
 16. Click **Save**.
+
+![Fee_Master_Template_to_Sync_Items_to_CE_1](./99-Images/fee_master_template_to_sync_items_to_ce_1.png)
+
+![Fee_Master_Template_to_Sync_Items_to_CE_2](./99-Images/fee_master_template_to_sync_items_to_ce_2.png)
 
 ---
 
