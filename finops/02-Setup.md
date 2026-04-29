@@ -30,6 +30,10 @@ Before fees can be generated, processed, or settled across the platform, a range
 12. Click the **Number sequences** tab and confirm all number sequences are set up for all references.​
 13. Click **Save**.
 
+![Fee_Schedule_Parameters_1](./99-Images/fee_schedule_parameters_(product)_1.png)
+
+![Fee_Schedule_Parameters_2](./99-Images/fee_schedule_parameters_(product)_2.png)
+
 ---
 
 ## Fee Schedule Parameters (GEMS)
@@ -68,8 +72,8 @@ Before fees can be generated, processed, or settled across the platform, a range
 4. Enter details in **Fee generation interval ID** (e.g., 2025-2026).
 5. Enter details in the **Description** field.
 6. Enter the **Start date** and **End date** for the school academic year (billing cycle).
-7. **Choose the Period option** from the dropdown (e.g., Month, Week) based on the school’s pricing method.
-8. Enter the **Number of intervals** to specify how many invoices will be generated in the academic year (e.g., 3 for termly fees, or 10 for monthly). This should match the school’s billing frequency.
+7. **Choose the Period option** from the dropdown (e.g. Month, Week) based on the school’s pricing method.
+8. Enter the **Number of intervals** to specify how many invoices will be generated in the academic year (e.g. 3 for termly fees, or 10 for monthly). This should match the school’s billing frequency.
 9. Click **Generate** in the toolbar to create the periods.
 10. For each period:
     - Enter details in **Period description**.
@@ -82,6 +86,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 11. Click **Weeks** in the Periods toolbar, then click the **Generate** button to automatically populate the weeks’ start and end dates for each period. This is only required for pro-rata joining and leaving policies.
 12. Click **Months** in the Periods toolbar, then click the **Generate** button to automatically populate the months’ start and end dates for each period.
 13. Validate entered data for accuracy, then click **Save**.
+
 
 
 ---
@@ -97,6 +102,24 @@ Before fees can be generated, processed, or settled across the platform, a range
 ---
 
 ## Academic Year (Product)
+
+1. Navigate to **Modules ▸ Academic Management ▸ Setup ▸ Academic year**.
+2. Click **New**.  
+   > **Note:** *The **Sequence order** will be automatically filled in.*
+3. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
+4. Click **Save**.
+5. Select **Tuition fee items** from the Action Pane.
+6. Click **New**.
+7. Select **Tuition fee** from the **Item number** field.
+8. Enter **Year** in the **Unit** field.
+9. Close the page.
+10. To check, navigate to **Academic Management ▸ Students ▸ All students**.
+11. Select a student from the list to see which grade they are enrolled in.
+> **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
+
+![Academic_Year_1](./99-Images/academic_year_(product)_1.png)
+
+![Academic_Year_2](./99-Images/academic_year_(product)_2.png)
 
 ---
 
