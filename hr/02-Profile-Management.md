@@ -139,6 +139,19 @@ Employees can update their profile photo directly from the ESS home screen. Clic
 
 The Screening section displays compliance and pre-employment screening checks associated with your employee profile. Visibility of specific screening items is configured by HR to show only the checks that are relevant to you. This section is read-only for most employees; only items explicitly designated for employee action will be available to update.
 
+### View screenings
+
+1. Navigate to your **Full Profile** and click the **Screenings** tab.
+2. Review your screenings within the tab and click on them to see more details.
+
+### Add Screenings
+   > Note: You may not have permission to add new screenings.
+
+1. Navigate to your **Full Profile** and click the **Screenings** tab.
+2. Click **Add new screwening** button.
+3. Enter relevant details.
+4. Click **Submit**.
+
 ---
 
 ## Education
@@ -151,16 +164,22 @@ Any new qualification submitted is routed through an approval workflow and will 
 
 1. Navigate to your **Full Profile** and click the **Education** tab.
 2. Click **Add New Qualification**.
-3. Select the **qualification type** (e.g., Master's, Bachelor's) and enter the **field of study** and **institution name**.
-4. Enter the **start date**, **completion status**, and **duration**.
-5. Click **Submit** to send for approval.
-6. The status will display as **In Review** until your manager or HR approves the record.
+3. Select the **Education** type (e.g., Master's, Bachelor's) and complete the relevant information.
+4. Click **Choose file** to upload your certificate and transcripts.
+5. Cick **Next**.
+6. Complete the remaining tabs if required.
+7. Click **Submit** to send for approval.
 
 ---
 
 ## References
 
 The References tab allows employees to record details of professional references, including referee name, organisation, and relationship. Like the Education section, any reference submitted is sent through the approval workflow and remains pending until approved.
+
+1. Navigate to your **Full Profile** and click the **References** tab.
+2. Click **Add new reference**.
+3. Enter the required information.
+4. Click **Submit** to send for approval.
 
 ---
 
@@ -178,7 +197,7 @@ The Professional Experience tab allows employees to record their employment hist
 
 1. Navigate to your **Full Profile** and click the **Professional Experience** tab.
 2. Click **Add New Experience**.
-3. Complete the fields: **job title**, **organisation**, **start and end dates**, and **responsibilities**.
+3. Enter the required information
 4. Click **Submit** to send for approval.
 
 ---
@@ -217,6 +236,9 @@ The hierarchy displays employee photos (where available), names, and reporting r
 
 > **Note:** *The initial load of the hierarchy may take a few seconds. Once loaded, navigation between levels is immediate.*
 
+1. From the **ESS home page**, navigate to **Org chart**.
+2. Click on individuals in the org chart to navigate.
+
 ---
 
 ## Certifications
@@ -234,9 +256,14 @@ Employees will also receive expiry notifications through the notification bell o
 
 ### Viewing All Certificates
 
-1. From the **ESS home page**, locate the **Certificates** tile showing your certificate summary.
+1. From the **ESS home page**, locate the **Skills & performance** tile.
 2. Click **View All Certificates** to open the full list.
 3. Review the status of each certificate and take action on any that are expiring or expired.
+4. Click **Add new certificate** to create a new certificate record.
+5. Choose the **Certificate** type.
+6. Enter the relevant details.
+7. Click **Choose file** to upload the certificate.
+8. Click **Submit**.
 
 ---
 
@@ -246,31 +273,31 @@ The Skills Management section allows employees to view, maintain, and filter the
 
 ### Adding a Skill
 
-1. Navigate to your **Full Profile** and click the **Skills** tab.
-2. Click **Add New Skill**.
-3. Search for the skill by entering a keyword (e.g., "communication") or select from the dropdown list.
-4. Select the **proficiency level** from the available options.
-5. Enter the **date acquired** and **years of experience**.
-6. Click **Submit** to send for approval.
-7. The skill will appear in a **Pending Approval** state until reviewed by your manager or HR.
+1. Navigate to your **Full Profile** and click the **Skills & performance** tile.
+2. Click **View skills**.
+3. Review the status of each skill and take action on any that are expiring or expired.
+4. Click **Add new skill** to create a new skill record.
+5. Choose the **Skill** type.
+6. Enter the relevant details.
+7. Click **Submit**.
 
 ---
 
-## Bank Account
+## Payment Information
 
-The Bank Account section allows employees to maintain their bank details for payroll processing. The information captured includes bank name, account name, account number, and IBAN.
+The Payment Information section allows employees to maintain their bank details for payroll processing. The information captured includes bank name, account name, account number, and IBAN.
 
-At any given time, only **one bank account** can be marked as **Active**. This is the account to which salary payments will be made. Inactive accounts are retained in the system for historical reference but are filtered from the employee's default view in ESS.
+At any given time, only **one payment method** can be marked as **Active**. This is the account to which salary payments will be made. Inactive accounts are retained in the system for historical reference but are filtered from the employee's default view in ESS.
 
-Any changes to bank account details are subject to a duplicate IBAN check and are intended to be routed through an approval workflow before becoming active.
+Any changes to payment method details are subject to a duplicate IBAN check and are intended to be routed through an approval workflow before becoming active.
 
-### Adding or Updating a Bank Account
+### Adding or Updating a Payment Method
 
-1. Navigate to your **Full Profile** and click the **Payment Methods** tab.
-2. Click **Add New** to enter a new bank account.
-3. Complete the required fields: **bank name**, **account name**, **account number**, and **IBAN**.
-4. Set the account status to **Active**.
-5. Click **Submit** to send for approval.
+1. Navigate to your **Full Profile** and click the **Payment information** tab.
+2. Click **Add new payment method** to enter a new bank account.
+3. Complete the required fields.
+4. Set the account to **Active**.
+5. Click **Submit**.
    > **Note:** *Only one account can be active at a time. If you are replacing an existing bank account, the previous account will be marked as inactive once the new one is approved.*
 
 ---
