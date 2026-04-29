@@ -1,3 +1,5 @@
+# Onboarding
+
 ## Onboarding Checklist
 
 When a new employee joins the organisation, an onboarding checklist is automatically applied to their profile. The checklist contains a series of tasks that must be completed by various parties — including the employee, their manager, IT, HR, and other support teams — as part of the onboarding process.
