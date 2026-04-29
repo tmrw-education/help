@@ -72,22 +72,24 @@ Before fees can be generated, processed, or settled across the platform, a range
 4. Enter details in **Fee generation interval ID** (e.g., 2025-2026).
 5. Enter details in the **Description** field.
 6. Enter the **Start date** and **End date** for the school academic year (billing cycle).
-7. **Choose the Period option** from the dropdown (e.g. Month, Week) based on the school’s pricing method.
+7. **Choose the Period option** from the dropdown (e.g., Month, Week) based on the school’s pricing method.
 8. Enter the **Number of intervals** to specify how many invoices will be generated in the academic year (e.g. 3 for termly fees, or 10 for monthly). This should match the school’s billing frequency.
 9. Click **Generate** in the toolbar to create the periods.
 10. For each period:
     - Enter details in **Period description**.
     - Enter the **Start date** and **End date**.
     - Click **Update unit quantity** so the system calculates the number of months or weeks within the period.
-      > *Note: The number appears in the Unit quantity field and can be edited to remove the decimal.*
+      > **Note:** *The number appears in the Unit quantity field and can be edited to remove the decimal.*
     - Enter the **Due date** to define when payment is expected.
     - Enter the **Revenue recognition date** if required for deferral.
-      > *Note: The due dates and revenue recognition dates will be reflected in related sales orders and reports.*
+      > **Note:** *The due dates and revenue recognition dates will be reflected in related sales orders and reports.*
 11. Click **Weeks** in the Periods toolbar, then click the **Generate** button to automatically populate the weeks’ start and end dates for each period. This is only required for pro-rata joining and leaving policies.
 12. Click **Months** in the Periods toolbar, then click the **Generate** button to automatically populate the months’ start and end dates for each period.
 13. Validate entered data for accuracy, then click **Save**.
 
+![Fee_and_Charge_Interval_Setup_1](./99-Images-fee_and_charge_interval_setup_1.png)
 
+![Fee_and_Charge_Interval_Setup_2](./99-Images-fee_and_charge_interval_setup_2.png)
 
 ---
 
@@ -171,6 +173,8 @@ Before fees can be generated, processed, or settled across the platform, a range
 6. Select the **Curriculum dimension** from the dropdown.
 7. Click **Save**.
 
+![Curriculum_1](./99-Images/curriculum_1.png)
+
 ---
 
 ## Intercompany Journal (GEMS)
@@ -185,9 +189,12 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click on **Stream**.
-3. Enter details in the **Stream** column.
-4. Enter details in the **Description** column.
-5. Click **Save**.
+3. Click **New**.
+4. Enter details in the **Stream** column.
+5. Enter details in the **Description** column.
+6. Click **Save**.
+
+![Stream_1](./99-Images/stream_1.png)
 
 ---
 
@@ -196,12 +203,14 @@ Before fees can be generated, processed, or settled across the platform, a range
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click on **Deposit policy**.
 3. Click **New** in the toolbar to create a deposit policy record.
-4. Select the **Deposit type** from the dropdown (e.g., Percent or Fixed).
-5. Enter the **Value** amount in the column section for the selected deposit type.
-6. Repeat steps 4-6 for each deposit type you need to set up.
-7. Click **Save**.
+4. In **Pre-admission type** select the appropriate deposit from the dropdown.
+5. Select the **Deposit type** from the dropdown (e.g., Percent or Fixed).
+6. Enter the **Value** amount in the column section for the selected deposit type.
+7. Repeat steps 4-6 for each deposit type you need to set up.
+8. Click **Save**.
+    > **Note:** *If using the percentage deposit type, the percentage is calculated from the tuition fee linked to the selected academic year.*
 
-> **Note:** If using the percentage deposit type, the percentage is calculated from the tuition fee linked to the selected academic year.
+![Deposit_Policy_1](./99-Images/deposit_policy_1.png)
 
 ---
 
