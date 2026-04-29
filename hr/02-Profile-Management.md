@@ -71,7 +71,7 @@ Contact information changes are applied immediately without an approval workflow
 ### Adding a Contact Record
 
 1. Navigate to your **Full Profile** and click the **Contact Information** tab.
-2. Click **Add New Contact**.
+2. Click **Add New Contact**, or click the **pencil** icon to edit.
 3. Select the **contact type** (e.g., phone, email).
 4. Enter the relevant details, such as the phone number or email address.
 5. Select the **purpose** (e.g., home, local) and indicate whether this is your **primary contact**.
