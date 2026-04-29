@@ -87,9 +87,9 @@ Before fees can be generated, processed, or settled across the platform, a range
 12. Click **Months** in the Periods toolbar, then click the **Generate** button to automatically populate the months’ start and end dates for each period.
 13. Validate entered data for accuracy, then click **Save**.
 
-![Fee_and_Charge_Interval_Setup_1](./99-Images-fee_and_charge_interval_setup_1.png)
+![Fee_and_Charge_Interval_Setup_1](./99-Images/fee_and_charge_interval_setup_1.png)
 
-![Fee_and_Charge_Interval_Setup_2](./99-Images-fee_and_charge_interval_setup_2.png)
+![Fee_and_Charge_Interval_Setup_2](./99-Images/fee_and_charge_interval_setup_2.png)
 
 ---
 
@@ -117,7 +117,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 9. Close the page.
 10. To check, navigate to **Academic Management ▸ Students ▸ All students**.
 11. Select a student from the list to see which grade they are enrolled in.
-> **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
+    > **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
 
 ![Academic_Year_1](./99-Images/academic_year_(product)_1.png)
 
@@ -227,7 +227,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 2. Expand **Setup and Sibling setup**, then click **Sibling order**.
 3. Click **New** to create sibling order entries.
     > **Note:** *Add a new record only if your school needs more sibling positions than the ones already listed.*
-4. Enter a unique number in **Sibling discount order** column (e.g, 11). Follow your school's sequencing convetion. 
+4. Enter a unique number in **Sibling discount order** column (e.g, 11). Follow your school's sequencing convention. 
 5. Enter the **Sibling order** description (e.g., 11 sibling). Use the same pattern as existing records.
 6. Click **Save**.
 7. Go back to **Modules** ▸ **Sales and marketing**.
