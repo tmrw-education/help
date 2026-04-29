@@ -18,10 +18,11 @@ Any new identification record or update submitted through ESS is routed through 
 
 1. Navigate to your **Full Profile** and click the **Identification** tab.
 2. Click **Add New** to create a new identification record.
-3. Select the **document type** from the dropdown list (e.g., Passport, Emirates ID, Labour Card).
-4. Enter the **document number**, **issuing authority**, and **valid from / expiry dates**.
-5. Click **Submit** to send the record for approval.
-6. The record status will show as **Pending** until approved by HR.
+3. Select the **Identification type** from the dropdown list (e.g., Passport, Emirates ID, Labour Card).
+4. Enter the **Identification number**, **issuing authority**, and **valid from / expiry dates**.
+5. Click the **Choose file** button to upload a copy of the identification.
+6. Click **Submit** to send the record for approval.
+7. The record status will show as **Pending** until approved by HR.
    > **Note:** *Once submitted, you can view the record but cannot make further changes until it has been processed.*
 
 ---
