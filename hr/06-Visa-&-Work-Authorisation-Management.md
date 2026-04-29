@@ -1,3 +1,5 @@
+# Visa & Work Authorisation Management
+
 ## Visa Information Management
 
 The Visa Information Management module allows HR and PRO (Public Relations Officer) teams to configure, record, and track visa and labour card information for employees. The module includes both a setup section (for reference data) and an employee-level recording section.
