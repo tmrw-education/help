@@ -108,6 +108,24 @@ Enrolment officer must manually push the student record to register it in the st
 
 ## Enrolment Deposit Process - Online
 
+### Overview
+Registration fees are automatically generated and posted when a student's enrolment status is prospective and the enrolment application is registered in the student management system.
+
+> **Note:**  
+When a record syncs, the system auto-creates a registration fee request.
+
+1. From the FNO dashboard, open **Modules ▸ Academic Management**.
+2. Expand **Inquiries and reports**, then expand **Pre‑admission fees**.
+3. Click **All pre‑admission fees**.
+4. Search by **Student's name** or **account**.
+5. Verify registration fee entry exists.
+6. Click **Sales order** in **Document number** under **General** tab.  
+   > **Note:** *Some schools call the record an **Application fee***.
+7. Click **Receipt journal** under **Payment** tab.  
+   > **Note:** The receipt is automatically created after online payment.
+8. Select **Post** in **Show** dropdown.
+9. Click **Line** in the toolbar to view the registration fee posting
+
 ---
 
 ## Enrolment Deposit Process - Over-the-Counter
