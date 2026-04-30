@@ -19,7 +19,6 @@ When an item is submitted by an employee and routed through a workflow, it appea
 3. Click on a record to open the full detail view.
 4. Review the submitted information.
 5. Click **Approve** to accept the change, or **Reject** to decline it.
-6. The employee's record is updated immediately upon approval, and the status reflects the outcome in their ESS profile.
 
 ---
 
