@@ -17,8 +17,9 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 4. Fill out the following fields to create a subject or event:
    - Enter or create a code in the **Code column**.
    - Enter the **subject or event name**.
-   - Select the correct **Category** from the dropdown.
+   - Select the correct **Category** from the dropdown. Verify the **Type** field is auto-filled.
    - Check **Active**.
+   - Select the **Item number** from the dropdown. 
 5. Click **Save**.
 6. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 7. Expand **Inquiries and reports** ▸ **Fee schedules**.
