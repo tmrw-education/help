@@ -212,7 +212,7 @@ After fee invoices have been generated and reviewed, they need to be formally po
 
 ## Split Billing Configuration Percent by Fee Items
 
-> **Note:** *Split configuration applies only when sales order generation occurs after split setup; otherwise, older invoices unaffected.*
+> **Note:** *Split configuration applies only to sales orders generated after the setup is saved; Older invoices are not affected.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Split percent by fee items**.
@@ -222,7 +222,7 @@ After fee invoices have been generated and reviewed, they need to be formally po
    - Select the specific **fee item to override** (e.g., Building Fund Fee).
    - Assign the **custom split percentages** for each payer (e.g., Dad 60%, Mom 40%).
    - Specify the **effective and expiration dates** for this split configuration.
-5. Repeat these steps for the other payer.
+5. Repeat step 4 for the other payer.
 6. Click **Save**.
 
 ![Configure Split Percent by Fee Items](./99-Images/configure_split_percent_by_fee_items_1.png)
