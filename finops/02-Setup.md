@@ -303,6 +303,22 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Customer Integration Mapping
 
+1. Navigate to **Modules Academic Management ▸ Setup ▸ Integration ▸ Report type**. 
+2. Click **New**. 
+3. Fill in the **Record type** and **Description fields**. 
+4. Click **Save** and close the page. 
+5. Navigate to **Modules Academic Management ▸ Setup ▸ Integration ▸ Customer integration mapping**. 
+6. Click **New**. 
+7. Select the **Record type** from the dropdown. 
+    > **Note:** *The Record type description should fill in automatically.* 
+8. In the **Customer type** field, select between Student and Fee payer. 
+9. Select the appropriate **Customer group** from the dropdown. 
+10. Click **Save**.
+
+![Customer_Integration_Mapping_1](./99-Images/customer_integration_mapping_1.png)
+
+![Customer_Integration_Mapping_2](./99-Images/customer_integration_mapping_2.png)
+
 ---
 
 ## Fee Type
