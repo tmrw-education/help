@@ -171,6 +171,14 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Payment Option Setup
 
+1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Payment option setup**.
+2. Click **New**.
+3. Select the **Payment plan** from the dropdown.
+4. Fill in the **Payment option** and **Description** fields.
+    >**Note:** *Once saved, there will be a copy on the Customer master or the Student master*
+5. Click **Save**.
+
+![Payment_Option_Setup_1](./99-Images/payment_option_stup_1.png)
 ---
 
 ## Curriculum
