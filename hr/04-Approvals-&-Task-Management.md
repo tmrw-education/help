@@ -28,12 +28,13 @@ The delegation feature allows a user to assign their approval responsibilities t
 
 ### Creating a Delegation
 
-1. From the **ESS portal** or **Dynamics 365**, navigate to your **Approval Settings**.
-2. Select **Delegation** and click **New**.
-3. Enter the **name of the delegate** (the person who will act on your behalf).
-4. Set the **start date** and **end date** for the delegation period.
-5. Select the **scope** of the delegation (e.g., all approvals, or specific workflow types).
-6. Click **Save** to activate the delegation.
+1. From the **ESS portal**, navigate to **Approval delegations**.
+3. Click **Add delegation**.
+4. Enter the **name of the delegate** (the person who will act on your behalf).
+5. Set the **start date** and **end date** for the delegation period.
+6. Select the **scope** of the delegation (e.g., all approvals, or specific workflow types).
+7. Check **Enable delegation** to activate the delegation.
+8. Click **Submit**.
 
 > **Note:** *Delegations are time-bound and will expire automatically at the end date specified.*
 
