@@ -131,6 +131,16 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Visa Types
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Visa types**.
+3. Click **New** in the toolbar.
+4. Complete the columns to create a new Visa type.
+5. Select **Full fee paying** if the student is not subsidised and must pay the full tuition fee.
+6. Clear the **Active** box if the visa is no longer valid. 
+7. Click **Save**.
+
+![Visa_Types_1](./99-Images/visa_types_1.png)
+
 ---
 
 ## Split Percent by Fee Item
