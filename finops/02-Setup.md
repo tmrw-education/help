@@ -179,6 +179,22 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Intercompany Journal (GEMS)
 
+1. Navigate to **Academic Management ▸ Setup ▸ Cashier Receipt ▸ Receipt intercompany mapping**.
+2. Click **New**.
+3. Select the **Method of payment** from the dropdown.
+    > **Note:** *Choose the method of payment that has an Intercompany journal with the other schools.*
+4. Select the **Destination school** from the dropdown.
+    > **Note:** *The selected school will have an Intercompany journal when the cashier journal is posted.*
+5. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
+   - If the **Account type** is Ledger, select Main in the **Account** field
+   - If the **Account type** is Bank, select Bank account in the **Account** field
+6. Select a value in the **Intercompany journal** field.
+7. Click **Save**.
+    
+  > **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
+
+![Intercompany_Journal_(GEMS)_1](./99-Images/intercompany_journal_(gems)_1.png)
+
 ---
 
 ## Advance Discount Policy (GEMS)
@@ -363,7 +379,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 7. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
    - If the **Account type** is Ledger, the **Account** is Main
    - If the **Account type** is Bank, the **Account** is Bank account
-8. Select a value in **Intercompany journal** field.
+8. Select a value in the **Intercompany journal** field.
 9. Click **Save**.
     
   > **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
