@@ -130,6 +130,30 @@ When a record syncs, the system auto-creates a registration fee request.
 
 ## Enrolment Deposit Process - Over-the-Counter
 
+
+### Overview
+This process explains manual counter receipting of enrolment deposit fees.  
+The student's record is received from the student management system, and payment made in person.  
+The student must be registered as a prospective student.
+
+> **Note:**  
+Enrolment officer must manually push the student record to register it in the student management system and enable payment processing.
+
+1. From the FNO dashboard, open **Modules ▸ Accounts receivable**.
+2. Expand **Payments**.
+3. Click **Cashier receipt**.
+4. Select the **Journal batch number** (student).
+5. Click **+Cashier receipt** in the toolbar to create a new cashier receipt.
+6. Under **Pre-admission** tab, verify registration fee ready. Check **Mark** box.
+7. Under **Method of payment and invoice marking**, select **Method of payment** from the dropdown.
+8. Enter a value in the **Amount** field.
+9. Select the bank details in **Payment account**.
+10. Enter **Payment reference**. Ensure the payment reference is accurate for reconciliation purposes.  
+    > **Note:** *Verify the payment has been allocated to the registration fee*.
+11. Click **Post** in the toolbar to finalize the cashier receipt.
+12. Print or Email the receipt as needed.
+13. Click **Ok**.
+
 ---
 
 ## Adhoc Forfeiting Deposits
