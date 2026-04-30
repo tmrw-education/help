@@ -181,7 +181,30 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ---
 
-## Advanced Discount Policy (GEMS)
+## Advance Discount Policy (GEMS)
+
+1. Navigate to **Academic Management ▸ Setup ▸ Advance discount policy**.
+2. Click **New**.
+3. Type a value in the **Policy code** field.
+4. Enter or select a value from the **Fee and charges interval** dropdown.
+    > **Note:** *Select the billing cycle that applies to this policy.*
+5. Click the **General** tab.
+    >**Note:** *The **Fee and charges interval** field will fill automatically.*
+6. In the **Period name** field, select the relevant time period.
+    > **Note:** *More than one time period may be selected in this field.*
+7. Click **Select**.
+8. Return to the **Overview** tab.
+9. In the **Charges code** field, select **Advance Discount**.
+10. Enter the discount value into the **Discount** field.
+11. In the **From date** and **To date** fields, enter the time period that the advance discount will be applied.
+12. Complete the **Description** field for reporting reference.
+13. Click **Save**.
+
+![Advance_Discount_Policy_(GEMS)_1](./99-Images/advance_discount_policy_(gems)_1.png)
+
+![Advance_Discount_Policy_(GEMS)_2](./99-Images/advance_discount_policy_(gems)_2.png)
+
+![Advance_Discount_Policy_(GEMS)_3](./99-Images/advance_discount_policy_(gems)_3.png)
 
 ---
 
@@ -206,7 +229,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 4. In **Pre-admission type** select the appropriate deposit from the dropdown.
 5. Select the **Deposit type** from the dropdown (e.g., Percent or Fixed).
 6. Enter the **Value** amount in the column section for the selected deposit type.
-7. Repeat steps 4-6 for each deposit type you need to set up.
+7. Repeat steps 3-6 for each deposit type you need to set up.
 8. Click **Save**.
     > **Note:** *If using the percentage deposit type, the percentage is calculated from the tuition fee linked to the selected academic year.*
 
@@ -294,7 +317,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Customer Integration Mapping
 
-1. Navigate to **Modules Academic Management ▸ Setup ▸ Integration ▸ Report type**. 
+1. Navigate to **Modules ▸ Academic Management ▸ Setup ▸ Integration ▸ Report type**. 
 2. Click **New**. 
 3. Fill in the **Record type** and **Description fields**. 
 4. Click **Save** and close the page. 
