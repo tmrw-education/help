@@ -6,6 +6,11 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 
 ## Customer Write-back
 
+
+---
+
+## Customer Bulk Write-off
+
 > **Note**: Ageing definitions, reason codes, and posting accounts must already be configured.
 
 1. From the FNO dashboard, open **Modules** ▸ Credit and Collections**.
@@ -25,10 +30,6 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 15. Click **Post** to finalize the write-off.
 
 > **Note:**: If workflow is not enabled, post the journal directly.
-
----
-
-## Customer Bulk Write-off
 
 ---
 
