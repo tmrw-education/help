@@ -228,7 +228,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 3. Click **New** to create sibling order entries.
     > **Note:** *Add a new record only if your school needs more sibling positions than the ones already listed.*
 4. Enter a unique number in **Sibling discount order** column (e.g, 11). Follow your school's sequencing convention. 
-5. Enter the **Sibling order** description (e.g., 11 sibling). Use the same pattern as existing records.
+5. Enter the **Sibling order** description (e.g., 11th Child). Use the same pattern as existing records.
 6. Click **Save**.
 7. Go back to **Modules** ▸ **Sales and marketing**.
 8. Expand **Prices and discounts** and click **Customer price/discount groups**.
@@ -294,8 +294,10 @@ The sibling discount feature allows the school to automatically apply fee reduct
 10. Select a value in **Item number**. This is required only for application or registration fees.
 11. Click **New** to add another pre-admission type, such as Enrolment Deposit or Re-enrolment Deposit.
 12. Enter the required values for each column in the table.
-> **Note:** *For Enrolment Deposit and Re-enrolment Deposit types, do not select an item number. The system generates an open sales order header for fee generation.* 
+    > **Note:** *For Enrolment Deposit and Re-enrolment Deposit types, do not select an item number. The system generates an open sales order header for fee generation.* 
 13. Click **Save**.
+
+![Pre-admission_Posting_Setup_1](./99-Images/pre-admission_posting_setup_1.png)
 
 ---
 
@@ -309,7 +311,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 2. Expand **Setup**, then expand **Cashier receipt**.
 3. Click **Fee type**. Review the list of existing fee types to avoid creating duplicates.
 4. Click **New** in the toolbar.
-> *Condition: Perform this step only if the required fee type does not exist.*
+    > **Condition:** *Perform this step only if the required fee type does not exist.*
 5. Enter a value in the **Fee type** field (e.g., Security deposit, Transport).
 6. Enter the required information for each column in the table as needed by your organisation.
 7. Click **Save**.
