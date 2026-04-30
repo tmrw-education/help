@@ -59,6 +59,25 @@ Before any pre-admission fees can be processed, the system needs to be configure
 ---
 
 ## Application Fee Waiver
+> **Note:** This process explains how to waive or cancel an application fee at any pre-admission stage, before or after the payment is posted.
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports**, then expand **Pre‑admission fees**.
+3. Click **All pre‑admission fees**.
+4. Apply the **student account** filter and **paste** the account number.
+5. **Select** the row of the application to waive.
+6. Click **Edit** in the toolbar.
+7. Check the “waive” box in the **Waive** column.
+8. Click **Save**.
+9. Click **Cancel** in the toolbar.
+10. Select a **Reversing posting date**.
+11. Click **Ok**, then refresh the page to see the updated status.
+
+> **Note:** *System auto-handles cancellation based on fee status:*
+> - *Application fee created (no sales order) ▸ status cancelled*
+> - *Application fee created (sales order and prepayment invoice created) ▸ cancels sales order*
+> - *Application fee paid (customer payment posted) ▸ reverses prepayment invoice and cancels sales order*
+> - *Application fee posted (sales order invoice posted) ▸ system creates and posts sales order credit note*
 
 ---
 
