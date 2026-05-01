@@ -538,6 +538,20 @@ The student ledger provides a consolidated view of a student's financial activit
 
 ---
 
-## Fee Structure - Price Changes
-
+## Fee Structure - Price Changes (WIP)
+1. Open **Modules** ▸ **Academic Management**.
+2. Expand **Students** and click **All Students**.
+3. Filter by student **Account** number. 
+  > **Note:** *The student must have an existing sales order with at least one posted invoice and one open term.
+4. Open the student's **Sales** order.
+5. Review the sales order lines to confirm which terms are inoiced and which are still open.
+6. Go to **Product management** then **Released products**.
+7. Find the tuition fee item for the student.
+8. Open **Sales** then **Sales price**.
+9. Filter by academic year or (school, curriculum) to find and select the fee line.
+10. Click Edit selected lines.
+11. 
+ 
+10. Click **OK** to generate the report.
+  > **Note:** *Enabling this toggle hides both advance invoice and prepayment invoice lines from the generated report, producing a simplified statement view.*
 ---
