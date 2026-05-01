@@ -476,7 +476,24 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ---
 
-## Collection Letter Setup
+## Collection Letter Setup 
+WIP
+1. From the **FNO dashboard**, open **Modules** ▸ **Credit and Collection**.
+2. Expand **Collection letters** and click **Set up collection letter sequence**.
+3. Click **Add** to create a new collection letter.
+4. In the **Type** field, select *collection letter type* (e.g., First Reminder).
+5. Enter a **Description**. 
+6. 
+7. 
+8. Repeat steps 3-6 to add additional letters (e.g., Second Reminder, Suspension Letter).
+9. Enter any additional fees or fines if applicable.
+  >**Note**: *Leave fields blank if no fees or fines apply*. 
+10. Click **Save**.
+11. Go to **Form Notes** section.
+12. Enter the note text to print on each collection letter:
+   - complete the fields for student account, student ID, and outstanding amount where  relevant.
+   - repeat the steps for each letter type.
+13. Click **Save**.
 
 ---
 
