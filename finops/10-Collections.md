@@ -62,7 +62,7 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 14. Click **Save** and go back.
 15. Open **Modules** ▸ **Academic management** ▸ **Payment Plan**.
 16. Click **Payment plan details**.
-17. Change the filter to **Show all** if needed.
+17. Change the filter to **Show All** if needed.
 20. Select the invoice.
 21. Click **Invoices** from toolbar.
 22. Click **Split invoice details** from toolbar to verify the invoices were split correctly.
@@ -83,7 +83,7 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 8. Click **View payment plan** under **Payment plan**.
 9. Choose 1 or more invoices checkbox.
 10. Amend the payment plan by clicking **Merge invoice** in toolbar.
->**Note**: *Merge invoice is only available when split invoices already exist.*
+    >**Note**: *Merge invoice is only available when split invoices already exist.*
 11. Click **Yes** to confirm.
 12. Click **Save**.
 
@@ -91,27 +91,26 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 
 ## View Payment Plan Details
 
->**Note**: This process attaches a payment plan to a student record and splits eligible fee invoices into installments in Dynamics 365 Finance. This is used when a fee payer requests to pay student fees in multiple installments. 
+>**Note**: This process attaches a payment plan to a student record and splits eligible fee invoices into installments in Dynamics 365 Finance. This is used when a fee payer requests to pay student fees in multiple installments.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
-2. Expand **Student** and click **All Students**.
-3. In student record, open **Payment default**.
+2. Expand **Students** and click **All Students**.
+3. In student record, open **Payment defaults**.
 4. Select the required **Payment plan**.
 5. Click **Save**.
 6. Click **Academic** tab from the toolbar.
 7. Click **Update payment plan** under **Payment plan**.
 8. Select the open invoices that need to be split.
-  >**Note**: *Only unpaid invoices can be split.*
+   >**Note**: *Only unpaid invoices can be split.*
 9. Click **Preview**.
 10. Update the due dates in the available fields, if changes are needed.
-   >**Note**: *Merge invoice is only available when split invoices already exist.*
-11. Click **Yes** to confirm.
-12. Go to **Academic Management** ▸ **Payment plan** ▸ **Payment plan details**.
-
-
-
-
+11. Click **Yes** to confirm and split invoice into installments.
+12. Go back to **Academic** ▸ **Payment plan** ▸ **View payment plan**.
+13. Change the filter to **Show Approved** to review the split invoices.
+14. Click **Invoices** to view all invoices linked to the payment plan.
+17. Click **Split invoice detail** to view the installment breakdown for each invoice.
+    
 ---
-
 
 #### In-Person (Over-the-Counter)
  
