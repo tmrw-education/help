@@ -250,7 +250,8 @@ The hierarchy displays employee photos (where available), names, and reporting r
 > **Note:** *The initial load of the hierarchy may take a few seconds. Once loaded, navigation between levels is immediate.*
 
 1. From the **ESS home page**, navigate to **Org chart**.
-2. Click on individuals in the org chart to navigate.
+2. Mouse over an individuals name to view their details.
+3. Click on individuals in the org chart to navigate.
 
 ---
 
