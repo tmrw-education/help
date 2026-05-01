@@ -484,17 +484,17 @@ Fee refunds of credit balances are processed when a student's account holds an e
 4. Select **Collection letter code** from the dropdown(e.g., First Reminder).
 5. Enter a **Description**. 
 6. Enter the number of **Days** after the invoice due date when the letter should be sent.
-  >**Note**: *This value controls when the reminder is triggered after the due date*.
+     >**Note**: *This value controls when the reminder is triggered after the due date*.
 7. Repeat steps 3-6 to add additional letters (e.g., Second Reminder, Suspension Letter).
 8. Enter any additional fees or fines if applicable.
-  >**Note**: *Leave fields blank if no fees or fines apply*.
+     >**Note**: *Leave fields blank if no fees or fines apply*.
 9. Click **Save**.
 10. Go to **Modules** ▸ **Credit and Collections**.
 11. Expand **Forms** and click **Form notes**.
-11. In Form note section, enter the note text to print on each collection letter.
+12. In Form note section, enter the note text to print on each collection letter.
    - includes information for student account, student ID, and outstanding amount if needed.
    - adjust tone and urgency based on the reminder stage.
-12. Click **Save**.
+13. Click **Save**.
 
 ---
 
@@ -505,7 +505,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
 3. Expand **Parameters** section, and select the **Collection letter** from the dropdown.
 4. Enter the **Collection letter date**.
 5. Expand **Records to include** section and enter the **Customer account** if you want to generate letters for one account only.  
-   >**Note:** *Leave this field blank to generate letters for all eligible accounts.*
+     >**Note:** *Leave this field blank to generate letters for all eligible accounts.*
 6. Click **OK** to generate the collection letter.
 7. Go to **Modules** ▸ **Credit and collections ▸ Collection letter ▸ Review and process collection letters**.
 8. Select the newly created collection letter.
@@ -516,7 +516,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
 13. Click **OK**.
 14. Review the printed letter for accuracy.
 15. Repeat all the steps for the next letter in the sequence, if required.  
-    >**Note:** *Use the next collection letter code and the correct date according to your escalation schedule*.
+      >**Note:** *Use the next collection letter code and the correct date according to your escalation schedule*.
 
 ---
 
