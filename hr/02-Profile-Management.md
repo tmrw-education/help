@@ -202,12 +202,6 @@ The References tab allows employees to record details of professional references
 
 ---
 
-## NC Checklist
-
-The NC (New Colleague) Checklist displays compliance or competency tasks assigned to an employee by HR. Employees can view and update their assigned tasks, and any submissions follow the configured approval workflow. This tab is only visible where tasks have been specifically assigned by HR for employee action.
-
----
-
 ## Professional Experience
 
 The Professional Experience tab allows employees to record their employment history, including previous job titles, organisations, and responsibilities. All updates are submitted through an approval workflow and remain pending until approved.
