@@ -499,25 +499,24 @@ Fee refunds of credit balances are processed when a student's account holds an e
 ---
 
 ## Generate 3 letters and the Suspension 
-**WIP**
 
-1. Go to **Credit and collections ▸ Collection letter ▸ Create collection letters**.
-2. Select the transaction types to include.
-3. **Tip:** Use the invoice filter or customer filter to limit the results to a specific student or customer.
-4. Select the **Collection letter type**.
-5. Enter the **Collection letter date**.
-6. Enter the **Customer ID** or **student account**, if you want to generate letters for one account only.  
-   **Condition:** Leave this field blank to generate letters for all eligible accounts.
-7. Click **OK** to generate the collection letter.
-8. Go to **Credit and collections ▸ Collection letter ▸ Review and process collection letters**.
-9. Select the newly created collection letter.
-10. Review the letter details, including overdue amounts and related transactions.
-11. Click **Print** and select **Collection letter note** to generate the report.
-12. Enter the required posting or cutoff date when prompted.
-13. Review the printed letter for accuracy.
-14. Click **Post** to finalize the collection letter.
-15. Repeat the process for the next letter in the sequence, if required.  
-    **Condition:** Use the next collection letter code and the correct date according to your escalation schedule.
+1. From the **FNO dashboard**, open **Modules** ▸ **Credit and Collections**.
+2. Expand **Collection letter**  then click **Create collection letters**.
+3. Expand **Parameters** section, and select the **Collection letter** from the dropdown.
+4. Enter the **Collection letter date**.
+5. Expand **Records to include** section and enter the **Customer account** if you want to generate letters for one account only.  
+   >**Note:** *Leave this field blank to generate letters for all eligible accounts.*
+6. Click **OK** to generate the collection letter.
+7. Go to **Modules** ▸ **Credit and collections ▸ Collection letter ▸ Review and process collection letters**.
+8. Select the newly created collection letter.
+9. Review the letter details, including overdue amounts and related transactions.
+10. Click **Post** to finalize the collection letter.
+11. Click **Print** and select **Collection letter note** to generate the letter report.
+12. In **Postings were considered until** field, enter the required posting date.
+13. Click **OK**.
+14. Review the printed letter for accuracy.
+15. Repeat all the steps for the next letter in the sequence, if required.  
+    >**Note:** *Use the next collection letter code and the correct date according to your escalation schedule*.
 
 ---
 
