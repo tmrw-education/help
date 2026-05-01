@@ -43,11 +43,12 @@ School-specific task rules are set up in Dynamics 365 by HR or the system admini
 
 ### Configuring a School-Specific Checklist Task (Administrator)
 
-1. From **Dynamics 365**, navigate to **Task Management** ▸ **Onboarding Checklists**.
-2. Open the relevant checklist and select the task to configure.
-3. Click **Edit**.
-4. In the **Legal Entity** field, select the school(s) this task applies to.
-5. To add a dependency, click **Set Dependency** and select the task that must be completed first.
-6. Click **Save** to apply the configuration.
+1. From the **HR dashboard**, open **Modules** ▸ **Human Resources**.
+2. Expand **Task management** and click **Onboarding checklists**.
+3. Select a **Checklist**.
+4. Click **Edit**.
+5. In the **Company** field, select the school(s) this task applies to.
+6. To add a dependency, click **Set Dependency** and select the task that must be completed first.
+7. Click **Save** to apply the configuration.
 
 ---
