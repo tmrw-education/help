@@ -17,7 +17,7 @@ Each task displays:
 2. Locate the relevant onboarding task in your list.
 3. Open the task to view its details and any dependencies.
 4. Once the task is ready to be actioned, update the **status** to reflect completion.
-5. Click **Save** to record the update.
+5. Click **Confirm** to record the update.
 
 ---
 
