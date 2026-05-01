@@ -6,7 +6,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Fee Schedule Parameters (Product)
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.​
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.​
 2. Expand **Setup** and click **Fee schedule parameters**.​
 3. On the **General** tab, expand each section and complete the fields based on your school’s requirements. This includes:​
     - Deposit handling journals for refund and forfeit​
@@ -38,7 +38,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Fee Schedule Parameters (GEMS)
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click **Fee schedule parameters**.
 3. On the **General** tab, expand each section and complete the fields based on your school's requirements.
 4. Click the **Integrations** tab.
@@ -66,7 +66,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Fee & Charge Interval Setup
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click on **Fee and Charge Interval**.
 3. Click **New** in the toolbar to create a new interval.
 4. Enter details in **Fee generation interval ID** (e.g., 2025-2026).
@@ -95,7 +95,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Gender Setup
 
-1. Navigate to **Modules ▸ Academic Management ▸ Setup ▸ Gender setup**.
+1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Gender setup**.
 2. Click **New**.
 3. Enter a value in the **Gender** field.
 4. Enter the name in the **Name** field.
@@ -105,7 +105,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Academic Year (Product)
 
-1. Navigate to **Modules ▸ Academic Management ▸ Setup ▸ Academic year**.
+1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Academic year**.
 2. Click **New**.  
    > **Note:** *The **Sequence order** will be automatically filled in.*
 3. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
@@ -115,7 +115,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 7. Select **Tuition fee** from the **Item number** field.
 8. Enter **Year** in the **Unit** field.
 9. Close the page.
-10. To check, navigate to **Academic Management ▸ Students ▸ All students**.
+10. To check, navigate to **Academic management ▸ Students ▸ All students**.
 11. Select a student from the list to see which grade they are enrolled in.
     > **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
 
@@ -131,7 +131,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Visa Types
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click **Visa types**.
 3. Click **New** in the toolbar.
 4. Complete the columns to create a new Visa type.
@@ -145,18 +145,61 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Split Percent by Fee Item
 
+> **Note:** *Prepare the student account number first.*
+
+1. Navigate to **Modules** ▸ **Academic management** ▸ **Fee schedules** ▸ **All fee schedules**.
+2. Click **New**.
+3. Add a **Description** into the field (e.g., Split Billing)
+4. Select the **Billing interval** from the dropdown.
+5. If applicable, enable **Early payment discount**.
+6. In **Fee schedule lines** add a line by clicking **+ Add line**.
+7. In the **Item number** field, select a fee item from the dropdown (e.g., Tuition fee).
+8. Select the **Condition** field.
+9. Define the condition by clicking **Condition** in the line above.
+10. Select the condition and add the **Criteria** and click **OK**.
+11. Add another line by clicking **+ Add line**.
+12. In the **Item number** field, select a different fee item from the dropdown (e.g., Building fund fee).
+    > **Note:** *There is no need to set a condition for Building fund fee, it is preset.*
+13. Click **Save**.
+14. Navigate to **Modules** ▸ **Academic management** ▸ **Setup** ▸ **Split percent by fee items**.
+15. Add a **New** record.
+16. Identify the student either by using the filter function from the **Student account** field or the **Student name** field.
+17. Select **Building fund fee** in the **Fee item** field.
+18. Select the fee payer from the **Fee payer account** dropdown.
+19. Input the percentage in **Paid percentage**.
+    > **Note:** *The payment amount should differ from the amount in the student setup.
+20. Add the **Effective date** and **Expiration date**.
+21. Add a **New** line.
+22. Repeat steps 17-20 with a different payer and the remaining percentage.
+23. Click **Save**.
+24. To generate a Sale audit for the student, navigate to **Modules** ▸ **Academic management** ▸ **Periodic tasks** ▸ **Generate sales order batch processing**.
+25. Add the **batch description** to include the student's name.
+26. Expand **Records to include (Customers)**.
+27. Select the **Filter**.
+28. In the **Field**, select **Student account**.
+29. Fill in the **Criteria** with the student account number. Click **OK**.
+30. Expand **Records to Include (Fee schedule templates)**.
+31. Select the **Filter**.
+32. Select the fee schedule number (split billing override template) from the **Criteria** dropdown.
+33. In **Run in the background**, select **Yes** below **Batch processing**.
+34. Click **OK**.
+35. To validate, navigate to **Modules** ▸ **Academic management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
+36. Select the **Fee schedule batch number** to view the fee items with a different split percentage.
+
+!
+
 ---
 
 ## Fee Categories
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click **Fee categories**.
 3. Click **New** in the top toolbar.
 4. Complete the columns to create new fee categories.
 5. Click **Save**.
 6. Link these fees to the product master by navigating to **Modules ▸ Product information management ▸ Products ▸ Released products**.
 7. Use the **Item number** filter to search for the added fee categories.  
-   > **Note:** *Categories related to Academic Management start with the letters AM.*
+   > **Note:** *Categories related to Academic management start with the letters AM.*
 8. Select the category, then scroll down and expand the **Sell** tab.
 9. Locate **Activity ▸ Fee category**.
 10. Ensure the fee aligns with the category it will be billed as.
@@ -183,7 +226,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Curriculum
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click on **Curriculum**.
 3. Click **New** in the toolbar to create a new curriculum.
 4. Choose the **Curriculum** option from the dropdown (e.g., AM).
@@ -197,7 +240,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Intercompany Journal (GEMS)
 
-1. Navigate to **Academic Management ▸ Setup ▸ Cashier Receipt ▸ Receipt intercompany mapping**.
+1. Navigate to **Academic management ▸ Setup ▸ Cashier Receipt ▸ Receipt intercompany mapping**.
 2. Click **New**.
 3. Select the **Method of payment** from the dropdown.
     > **Note:** *Choose the method of payment that has an Intercompany journal with the other schools.*
@@ -217,7 +260,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Advance Discount Policy (GEMS)
 
-1. Navigate to **Academic Management ▸ Setup ▸ Advance discount policy**.
+1. Navigate to **Academic management ▸ Setup ▸ Advance discount policy**.
 2. Click **New**.
 3. Type a value in the **Policy code** field.
 4. Enter or select a value from the **Fee and charges interval** dropdown.
@@ -244,7 +287,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Stream
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click on **Stream**.
 3. Click **New**.
 4. Enter details in the **Stream** column.
@@ -257,7 +300,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Deposit Policy
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click on **Deposit policy**.
 3. Click **New** in the toolbar to create a deposit policy record.
 4. In **Pre-admission type** select the appropriate deposit from the dropdown.
@@ -280,7 +323,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 > **Note:** *For each possible child in a family, assign a sibling order number (e.g., 1 for first child, 2 for second, up to your maximum, such as 9). Use 0 for students who are not yet current (e.g., future students or those transitioning between programs).*
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup and Sibling setup**, then click **Sibling order**.
 3. Click **New** to create sibling order entries.
     > **Note:** *Add a new record only if your school needs more sibling positions than the ones already listed.*
@@ -330,7 +373,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Pre-Admission Posting Setup
 
-1. From the FNO dashboard, open **Modules** ▸ **Academic Management**.
+1. From the FNO dashboard, open **Modules** ▸ **Academic management**.
 2. Expand **Setup**, then expand **Pre‑admission fees**.
 3. Click **Pre‑admission posting**.
 4. Click **New** in the toolbar to create a pre-admission posting entry.
@@ -351,11 +394,11 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Customer Integration Mapping
 
-1. Navigate to **Modules ▸ Academic Management ▸ Setup ▸ Integration ▸ Report type**. 
+1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type**. 
 2. Click **New**. 
 3. Fill in the **Record type** and **Description fields**. 
 4. Click **Save** and close the page. 
-5. Navigate to **Modules Academic Management ▸ Setup ▸ Integration ▸ Customer integration mapping**. 
+5. Navigate to **Modules Academic management ▸ Setup ▸ Integration ▸ Customer integration mapping**. 
 6. Click **New**. 
 7. Select the **Record type** from the dropdown. 
     > **Note:** *The Record type description should fill in automatically.* 
@@ -371,7 +414,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Fee Type
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup**, then expand **Cashier receipt**.
 3. Click **Fee type**. Review the list of existing fee types to avoid creating duplicates.
 4. Click **New** in the toolbar.
@@ -387,7 +430,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Receipt Intercompany Mapping
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup**, then expand **Cashier receipt**.
 3. Click **Receipt intercompany mapping**.
 4. Click **New** in the toolbar.
@@ -410,7 +453,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 > **Note:** *This setup creates a fee master list template that determines the fee items synced from D365 F&O to CE for inclusion in student offer letters.*
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup**, then click **Fee master list template**.
 3. Click **New** in the toolbar.
 4. Enter values in the **Code** and **Name** fields.
@@ -422,7 +465,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 10. In the **Switch view** field, select **All**, then select your template row.
 11. Click **Save**.
     > **Note:** *Next steps show how to assign to the Academic year.*
-12. Go back to **Modules** ▸ **Academic Management**.
+12. Go back to **Modules** ▸ **Academic management**.
 13. Expand **Setup**, then click **Academic year**.
 14. Select the **Academic year** row. Then select the **Fee master list** code from the dropdown.
 15. Repeat step 14 for each academic year.
@@ -457,7 +500,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 > **Note:** *This step is required for enrolment deposit calculations. The system uses this link to identify which item is the tuition fee item and look up the correct annual price from the trade agreement.*
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click **Academic year**.
 3. Select the relevant **academic year** record.
 4. Click **Tuition fee items**.
