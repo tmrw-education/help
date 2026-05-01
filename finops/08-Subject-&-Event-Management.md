@@ -125,7 +125,7 @@ Once the subject and event codes are in place, students can be registered into s
 ![Adjust For Session Based Invoicing Creation 2](./99-Images/adjust_for_session_based_invoicing_creation_2.png)
 ---
 
-## Sessionl Class & Event Enrolment Cancellation
+## Sessional Class & Event Enrolment Cancellation
 
 ---
 
