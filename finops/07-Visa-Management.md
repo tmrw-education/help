@@ -4,12 +4,6 @@ Visa Management keeps student visa records accurate and accessible within the Ac
 
 ---
 
-
-#### Student Visa Management
-Managing student visa information within F&O ensures the school maintains accurate records of each student's visa status and type. While visa entries are typically created automatically through the integration with the CE system, this section also covers how to manually create visa types when required. Staff can view visa details directly on a student's record and run a report to see all students with active visas across the school. Keeping this information current is important for compliance purposes and for ensuring the school has a clear picture of its international student cohort.
-
----
-
 ## Visa Details on Students
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
