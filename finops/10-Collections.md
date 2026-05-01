@@ -35,10 +35,10 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 3. Click **New** to create a new payment option.
 4. Complete the following fields to create they payment option:
    - Select the required **payment plan**.
-   - Enter an option name.
-   - Enter a description.
-   - Set the start and end dates for the payment plan.
-5. Click Save.
+   - Enter an **Option name**.
+   - Enter a **Description**.
+   - Set the **Start and End dates** for the payment plan.
+5. Click **Save**.
 
 ![Apply the Payment Schedule to Payment Plans](./99-Images/apply_the_payment_schedule_to_payment_plans_1.png)
 
