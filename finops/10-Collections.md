@@ -479,6 +479,23 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ---
 
+## Generate Fee Statements
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports**, then expand **Fee payer statement report**.
+3. Click **Fee payer account statement**.
+4. Enter the **start and end dates** for the statement period you want to generate.
+5. Decide whether to show **payment options** on the statement by selecting the appropriate option.
+6. Open the **Records to include** section and click **Filter** to choose the specific account for which you want to generate the statement.
+7. Click **OK** to generate the statement for the selected account.
+8. Review the completed statement and distribute it to the fee payer as required.
+
+![Generate Fee Statements 1](./99-Images/generate_fee_statements_1.png)
+
+![Generate Fee Statements 2](./99-Images/generate_fee_statements_2.png)
+
+---
+
 #### Miscellaneous Receipts
 
 The miscellaneous receipt function allows cashiers to record incoming payments that are not linked to a specific student invoice or customer account. This is used when funds are received for ad hoc items such as event fees, lost property charges, or sundry income. The cashier enters the payment details, selects a fee type to determine the correct general ledger coding, and posts the transaction. An optional receipt can be printed at the time of posting.
