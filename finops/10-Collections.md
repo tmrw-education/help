@@ -46,29 +46,27 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 
 ## Apply Payment Plan to Fee Payer
 
-**WIP**
-
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Fee payer** and click **All fee payers**.
-3. Choose and **click** on a customer account number.
+3. Choose and **click** on a Fee payer account.
 4. Expand **Payment defaults** section.
 5. Click **edit** from the toolbar.
 6. Choose a **Method of payment**.
 7. Select the **Payment plan** dropdown and choose the payment plan to apply.
-8. Click academic tab from toolbar.
-9. Click update payment plan.
+8. Click **Academic** tab from toolbar.
+9. Click **Update payment plan**.
 10. Choose 1 or more invoices checkbox.
-11. Click preview in bottom left.
-12. Review and click back.
-13. Click yes in bottom left.
-14. Click save and go back.
-15. Click academic tab from toolbar.
-16. Click view payment plan.
-17. Change filter to show all.
-18. Select the invoice.
-19. Click invoices from toolbar.
-20. Click split invoice details from toolbar., see that they are split.
-21. Click cancel.
+11. Click **Preview** in bottom left to review the split invoices.
+12. Review the details and click **Back**.
+13. Click **Yes** in bottom left, if prompted. 
+14. Click **Save** and go back.
+15. Open **Modules** ▸ **Academic management** ▸ **Payment Plan**.
+16. Click **Payment plan details**.
+17. Change the filter to **Show all** if needed.
+20. Select the invoice.
+21. Click **Invoices** from toolbar.
+22. Click **Split invoice details** from toolbar to verify the invoices were split correctly.
+23. Click **Cancel** to exit. 
 
 ---
 
