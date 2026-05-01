@@ -72,19 +72,20 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 
 ## Cancel or Amend Payment Plans
 
-**WIP**
-
+>**Note**: The payment plan must already be assigned to the fee payer account before it can be removed. 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Fee payer** and click **All fee payers**.
 3. Choose and **click** on a customer account number.
-4. To cancel the payment plan, delete the payment plan from the box.
-5. Click save.
-6. Click academic tab from toolbar.
-7. Click view payment plan.
-8. Choose 1 or more invoices checkbox.
-9. Amend the payment plan by clicking merge invoice in toolbar.
-10. Click yes.
-11. Click save.
+4. To cancel the payment plan, click **Edit** in **Payment defaults**.
+5. Clear the **Payment plan** field.
+6. Click **Save**.
+7. Click **Academic** tab from toolbar.
+8. Click **View payment plan** under **Payment plan**.
+9. Choose 1 or more invoices checkbox.
+10. Amend the payment plan by clicking **Merge invoice** in toolbar.
+>**Note**: *Merge invoice is only available when split invoices already exist.*
+11. Click **Yes** to confirm.
+12. Click **Save**.
 
 ---
 
