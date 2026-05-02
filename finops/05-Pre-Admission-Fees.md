@@ -13,18 +13,22 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 1. From the FNO dashboard, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Pre‑admission fees**.
-3. Click **Pre‑admission types**. *Tip: Review the existing types to avoid creating duplicates*.
-4. Click **New** in the toolbar.
-5. In **Pre-admission type**, enter a value (e.g, *Application fee*, *Enrolment fee*).
-6. In **Description**, enter a value (e.g, *Application fee*, *Enrolment fee*).
-7. To create an Enrolment deposit:
+3. Click **Pre‑admission types**.
 
-      a. Enter Enrolment deposit in both **Pre-admission type** and **Description**.
+>**Note:** *Review the existing types to avoid creating duplicates*.
 
-      b. Select the **Deposit** check box.
+5. Click **New** in the toolbar.
+6. In **Pre-admission type**, enter a value (e.g, *Application fee*, *Enrolment fee*).
+7. In **Description**, enter a value (e.g, *Application fee*, *Enrolment fee*).
+8. To create an Enrolment deposit:
+      - Enter Enrolment deposit in both **Pre-admission type** and **Description**.
+      - Select the **Deposit** check box.
 
-> **Note:** The deposit check box is only selected when the pre-admission type represents a deposit.
+> **Note:** *The deposit check box is only selected when the pre-admission type represents a deposit.*
+
 8. Click **Save**.
+
+![Pre-Admission Type Setup 1](./99-Images/pre_admission_type_setup_1.png)
 
 ---
 
@@ -40,8 +44,11 @@ Before any pre-admission fees can be processed, the system needs to be configure
 8. Click **New** in the toolbar to create the Enrolment Deposit entry.
 9. Set values for each of the columns in the table.
 10. Click **Save**.
+
 ![Setup Posting Logic For Each Transaction Type Creation 1](./99-Images/setup_posting_logic_for_each_transaction_type_creation_1.png)
+
 ![Setup Posting Logic For Each Transaction Type Creation 2](./99-Images/setup_posting_logic_for_each_transaction_type_creation_2.png)
+
 ![Setup Posting Logic For Each Transaction Type Creation 3](./99-Images/setup_posting_logic_for_each_transaction_type_creation_3.png)
 
 ---
@@ -59,6 +66,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 ---
 
 ## Application Fee Waiver
+
 > **Note:** This process explains how to waive or cancel an application fee at any pre-admission stage, before or after the payment is posted.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
@@ -111,8 +119,7 @@ Enrolment officer must manually push the student record to register it in the st
 ### Overview
 Registration fees are automatically generated and posted when a student's enrolment status is prospective and the enrolment application is registered in the student management system.
 
-> **Note:**  
-When a record syncs, the system auto-creates a registration fee request.
+> **Note:** *When a record syncs, the system auto-creates a registration fee request.*
 
 1. From the FNO dashboard, open **Modules ▸ Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Pre‑admission fees**.
@@ -120,9 +127,13 @@ When a record syncs, the system auto-creates a registration fee request.
 4. Search by **Student's name** or **account**.
 5. Verify registration fee entry exists.
 6. Click **Sales order** in **Document number** under **General** tab.  
-   > **Note:** *Some schools call the record an **Application fee***.
+
+> **Note:** *Some schools call the record an **Application fee***.
+> 
 7. Click **Receipt journal** under **Payment** tab.  
-   > **Note:** The receipt is automatically created after online payment.
+
+> **Note:** *The receipt is automatically created after online payment.*
+
 8. Select **Post** in **Show** dropdown.
 9. Click **Line** in the toolbar to view the registration fee posting
 
@@ -136,8 +147,7 @@ This process explains manual counter receipting of enrolment deposit fees.
 The student's record is received from the student management system, and payment made in person.  
 The student must be registered as a prospective student.
 
-> **Note:**  
-Enrolment officer must manually push the student record to register it in the student management system and enable payment processing.
+> **Note:** *Enrolment officer must manually push the student record to register it in the student management system and enable payment processing.*
 
 1. From the FNO dashboard, open **Modules ▸ Accounts receivable**.
 2. Expand **Payments**.
@@ -149,7 +159,9 @@ Enrolment officer must manually push the student record to register it in the st
 8. Enter a value in the **Amount** field.
 9. Select the bank details in **Payment account**.
 10. Enter **Payment reference**. Ensure the payment reference is accurate for reconciliation purposes.  
-    > **Note:** *Verify the payment has been allocated to the registration fee*.
+
+> **Note:** *Verify the payment has been allocated to the registration fee*.
+
 11. Click **Post** in the toolbar to finalize the cashier receipt.
 12. Print or Email the receipt as needed.
 13. Click **Ok**.
@@ -273,10 +285,12 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 4. Click **New** in the toolbar.
 5. Enter the required information for each column in the table.
 6. Click **Post** in the toolbar.
-   *Note: The status updates from Created to Paid once the payment is successful.*
+
+>**Note:** *The status updates from Created to Paid once the payment is successful.*
+
 7. Click **Save**.
 
-> **Tip:** *Under any date and time value, user can type letter "t" then hit Enter to input today date value.*
+> **Note:** *Under any date and time value, user can type letter "t" then hit Enter to input today date value.*
 
 ![Manually Adding Application Fee Records](./99-Images/manually_adding_application_fee_records_creation_1.png)
 
@@ -290,7 +304,9 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 4. Click **New** in the toolbar.
 5. Enter the required information for each column in the table.
 6. Click **Post** in the toolbar.
-   *Note: The status updates from Created to Posted.*
+
+>**Note:** *The status updates from Created to Posted.*
+
 7. Click **Save**.
 
 ![Manually Adding Enrolment Fee Records](./99-Images/manually_adding_enrolment_fee_records_creation_2.png)
@@ -305,7 +321,9 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 4. Click **New** in the toolbar.
 5. Enter the required information for each column in the table.
 6. Click **Post** in the toolbar.
-   *Note: The status updates from Created to Posted.*
+
+>**Note:** *The status updates from Created to Posted.*
+
 7. Click **Save**.
 
 ![Manually Adding Enrolment Deposit Records](./99-Images/manually_adding_enrolment_deposit_records_creation_3.png)
