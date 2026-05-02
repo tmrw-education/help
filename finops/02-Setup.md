@@ -47,16 +47,18 @@ Before fees can be generated, processed, or settled across the platform, a range
 3. On the **General** tab, expand each section and complete the fields based on your school's requirements.
 4. Click the **Integrations** tab.
 5. Select the **Relationship type**.
-   > **Note:** *Relationship type = Sibling is used for brother/sister relationships and for calculating sibling order.*
-6. Select the **ID**.
-7. Click the **Pro rata adjustment** tab.
-8. Select the **Pro rata adjustment joining** option.
-9. Select the **Pro rata adjustment leaving** option.
-10. Select the **Leaving date** option:
+
+> **Note:** *Relationship type = Sibling is used for brother/sister relationships and for calculating sibling order.*
+
+7. Select the **ID**.
+8. Click the **Pro rata adjustment** tab.
+9. Select the **Pro rata adjustment joining** option.
+10. Select the **Pro rata adjustment leaving** option.
+11. Select the **Leaving date** option:
     - *Last day attended* — use when the school manages the leaving date as LDA.
     - *Expiration date* — use when the school manages the leaving date as the expiration date in the Academic enrolment table.
-11. Click the **Number sequences** tab and confirm all number sequences are set up for all references.
-12. Click **Save**.
+12. Click the **Number sequences** tab and confirm all number sequences are set up for all references.
+13. Click **Save**.
 
 ![Fee Schedule Parameters GEMS 1](./99-Images/fee_schedule_parameters_gems_1.png)
 
@@ -83,10 +85,8 @@ Before fees can be generated, processed, or settled across the platform, a range
     - Enter details in **Period description**.
     - Enter the **Start date** and **End date**.
     - Click **Update unit quantity** so the system calculates the number of months or weeks within the period.
-      > **Note:** *The number appears in the Unit quantity field and can be edited to remove the decimal.*
     - Enter the **Due date** to define when payment is expected.
     - Enter the **Revenue recognition date** if required for deferral.
-      > **Note:** *The due dates and revenue recognition dates will be reflected in related sales orders and reports.*
 11. Click **Weeks** in the Periods toolbar, then click the **Generate** button to automatically populate the weeks’ start and end dates for each period. This is only required for pro-rata joining and leaving policies.
 12. Click **Months** in the Periods toolbar, then click the **Generate** button to automatically populate the months’ start and end dates for each period.
 13. Validate entered data for accuracy, then click **Save**.
@@ -119,7 +119,7 @@ Academic year setup defines the academic calendar structure used across the plat
 1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Academic year**.
 2. Click **New**.
 
-   > **Note:** *The **Sequence order** will be automatically filled in.*
+> **Note:** *The **Sequence order** will be automatically filled in.*
 
 4. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
 5. Click **Save**.
@@ -131,7 +131,7 @@ Academic year setup defines the academic calendar structure used across the plat
 11. To check, navigate to **Academic management ▸ Students ▸ All students**.
 12. Select a student from the list to see which grade they are enrolled in.
 
-    > **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
+> **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
 
 ![Academic_Year_1](./99-Images/academic_year_(product)_1.png)
 
@@ -193,32 +193,36 @@ Academic year setup defines the academic calendar structure used across the plat
 10. Select the condition and add the **Criteria** and click **OK**.
 11. Add another line by clicking **+ Add line**.
 12. In the **Item number** field, select a different fee item from the dropdown (e.g., Building fund fee).
-    > **Note:** *There is no need to set a condition for Building fund fee, it is preset.*
-13. Click **Save**.
-14. Navigate to **Modules** ▸ **Academic management** ▸ **Setup** ▸ **Split percent by fee items**.
-15. Add a **New** record.
-16. Identify the student either by using the filter function from the **Student account** field or the **Student name** field.
-17. Select **Building fund fee** in the **Fee item** field.
-18. Select the fee payer from the **Fee payer account** dropdown.
-19. Input the percentage in **Paid percentage**.
-    > **Note:** *The payment amount should differ from the amount in the student setup.
-20. Add the **Effective date** and **Expiration date**.
-21. Add a **New** line.
-22. Repeat steps 17-20 with a different payer and the remaining percentage.
-23. Click **Save**.
-24. To generate a Sale audit for the student, navigate to **Modules** ▸ **Academic management** ▸ **Periodic tasks** ▸ **Generate sales order batch processing**.
-25. Add the **batch description** to include the student's name.
-26. Expand **Records to include (Customers)**.
-27. Select the **Filter**.
-28. In the **Field**, select **Student account**.
-29. Fill in the **Criteria** with the student account number. Click **OK**.
-30. Expand **Records to Include (Fee schedule templates)**.
-31. Select the **Filter**.
-32. Select the fee schedule number (split billing override template) from the **Criteria** dropdown.
-33. In **Run in the background**, select **Yes** below **Batch processing**.
-34. Click **OK**.
-35. To validate, navigate to **Modules** ▸ **Academic management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
-36. Select the **Fee schedule batch number** to view the fee items with a different split percentage.
+
+> **Note:** *There is no need to set a condition for Building fund fee, it is preset.*
+
+14. Click **Save**.
+15. Navigate to **Modules** ▸ **Academic management** ▸ **Setup** ▸ **Split percent by fee items**.
+16. Add a **New** record.
+17. Identify the student either by using the filter function from the **Student account** field or the **Student name** field.
+18. Select **Building fund fee** in the **Fee item** field.
+19. Select the fee payer from the **Fee payer account** dropdown.
+20. Input the percentage in **Paid percentage**.
+
+> **Note:** *The payment amount should differ from the amount in the student setup.
+
+22. Add the **Effective date** and **Expiration date**.
+23. Add a **New** line.
+24. Repeat steps 17-20 with a different payer and the remaining percentage.
+25. Click **Save**.
+26. To generate a Sale audit for the student, navigate to **Modules** ▸ **Academic management** ▸ **Periodic tasks** ▸ **Generate sales order batch processing**.
+27. Add the **batch description** to include the student's name.
+28. Expand **Records to include (Customers)**.
+29. Select the **Filter**.
+30. In the **Field**, select **Student account**.
+31. Fill in the **Criteria** with the student account number. Click **OK**.
+32. Expand **Records to Include (Fee schedule templates)**.
+33. Select the **Filter**.
+34. Select the fee schedule number (split billing override template) from the **Criteria** dropdown.
+35. In **Run in the background**, select **Yes** below **Batch processing**.
+36. Click **OK**.
+37. To validate, navigate to **Modules** ▸ **Academic management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
+38. Select the **Fee schedule batch number** to view the fee items with a different split percentage.
 
 !
 
@@ -232,8 +236,10 @@ Academic year setup defines the academic calendar structure used across the plat
 4. Complete the columns to create new fee categories.
 5. Click **Save**.
 6. Link these fees to the product master by navigating to **Modules ▸ Product information management ▸ Products ▸ Released products**.
-7. Use the **Item number** filter to search for the added fee categories.  
-   > **Note:** *Categories related to Academic management start with the letters AM.*
+7. Use the **Item number** filter to search for the added fee categories.
+
+> **Note:** *Categories related to Academic management start with the letters AM.*
+
 8. Select the category, then scroll down and expand the **Sell** tab.
 9. Locate **Activity ▸ Fee category**.
 10. Ensure the fee aligns with the category it will be billed as.
@@ -252,8 +258,10 @@ Academic year setup defines the academic calendar structure used across the plat
 2. Click **New**.
 3. Select the **Payment plan** from the dropdown.
 4. Fill in the **Payment option** and **Description** fields.
-    >**Note:** *Once saved, there will be a copy on the Customer master or the Student master*
-5. Click **Save**.
+
+>**Note:** *Once saved, there will be a copy on the Customer master or the Student master*
+
+6. Click **Save**.
 
 ![Payment_Option_Setup_1](./99-Images/payment_option_setup_1.png)
 ---
@@ -277,16 +285,20 @@ Academic year setup defines the academic calendar structure used across the plat
 1. Navigate to **Academic management ▸ Setup ▸ Cashier Receipt ▸ Receipt intercompany mapping**.
 2. Click **New**.
 3. Select the **Method of payment** from the dropdown.
-    > **Note:** *Choose the method of payment that has an Intercompany journal with the other schools.*
-4. Select the **Destination school** from the dropdown.
-    > **Note:** *The selected school will have an Intercompany journal when the cashier journal is posted.*
-5. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
+
+> **Note:** *Choose the method of payment that has an Intercompany journal with the other schools.*
+
+5. Select the **Destination school** from the dropdown.
+
+> **Note:** *The selected school will have an Intercompany journal when the cashier journal is posted.*
+
+6. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
    - If the **Account type** is Ledger, select Main in the **Account** field
    - If the **Account type** is Bank, select Bank account in the **Account** field
-6. Select a value in the **Intercompany journal** field.
-7. Click **Save**.
+7. Select a value in the **Intercompany journal** field.
+8. Click **Save**.
     
-  > **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
+> **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
 
 ![Intercompany_Journal_(GEMS)_1](./99-Images/intercompany_journal_(gems)_1.png)
 
@@ -298,18 +310,21 @@ Academic year setup defines the academic calendar structure used across the plat
 2. Click **New**.
 3. Type a value in the **Policy code** field.
 4. Enter or select a value from the **Fee and charges interval** dropdown.
-    > **Note:** *Select the billing cycle that applies to this policy.*
+
+> **Note:** *Select the billing cycle that applies to this policy.*
+
 5. Click the **General** tab.
-    >**Note:** *The **Fee and charges interval** field will fill automatically.*
 6. In the **Period name** field, select the relevant time period.
-    > **Note:** *More than one time period may be selected in this field.*
-7. Click **Select**.
-8. Return to the **Overview** tab.
-9. In the **Charges code** field, select **Advance Discount**.
-10. Enter the discount value into the **Discount** field.
-11. In the **From date** and **To date** fields, enter the time period that the advance discount will be applied.
-12. Complete the **Description** field for reporting reference.
-13. Click **Save**.
+
+> **Note:** *More than one time period may be selected in this field.*
+
+8. Click **Select**.
+9. Return to the **Overview** tab.
+10. In the **Charges code** field, select **Advance Discount**.
+11. Enter the discount value into the **Discount** field.
+12. In the **From date** and **To date** fields, enter the time period that the advance discount will be applied.
+13. Complete the **Description** field for reporting reference.
+14. Click **Save**.
 
 ![Advance_Discount_Policy_(GEMS)_1](./99-Images/advance_discount_policy_(gems)_1.png)
 
@@ -342,7 +357,8 @@ Academic year setup defines the academic calendar structure used across the plat
 6. Enter the **Value** amount in the column section for the selected deposit type.
 7. Repeat steps 3-6 for each deposit type you need to set up.
 8. Click **Save**.
-    > **Note:** *If using the percentage deposit type, the percentage is calculated from the tuition fee linked to the selected academic year.*
+
+> **Note:** *If using the percentage deposit type, the percentage is calculated from the tuition fee linked to the selected academic year.*
 
 ![Deposit_Policy_1](./99-Images/deposit_policy_1.png)
 
@@ -360,7 +376,9 @@ The sibling discount feature allows the school to automatically apply fee reduct
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup and Sibling setup**, then click **Sibling order**.
 3. Click **New** to create sibling order entries.
-    > **Note:** *Add a new record only if your school needs more sibling positions than the ones already listed.*
+
+> **Note:** *Add a new record only if your school needs more sibling positions than the ones already listed.*
+
 4. Enter a unique number in **Sibling discount order** column (e.g, 11). Follow your school's sequencing convention. 
 5. Enter the **Sibling order** description (e.g., 11th Child). Use the same pattern as existing records.
 6. Click **Save**.
@@ -382,18 +400,20 @@ The sibling discount feature allows the school to automatically apply fee reduct
    - Change **Product code** type to Group.
    - Set **Item relation** to Sibling discount.
 7.  In Details, set the policy **start and end date**.
-     > **Note:** *Leave the end date blank to run the discount indefinitely.*
-8. Enter the discount amount in **Discount percentage 1** (e.g., 10.00 for 10%).
-9. Click **New** to add the second child discount; repeat these steps as needed.
-10. Click **Save**.
-11. Click **Post** to activate the trade agreement policy.
-12. Go back to **Modules** ▸ **Product information management**.
-13. Expand **Products** and click **Released products**.
-14. Open each **line** related to tuition.
-15. On the next screen, expand the **Sell** section.
-16. Scroll down to the **Line discount group** dropdown and choose the Sibling discount trade agreement.
-17. Click **Save**.
-18. Repeat for other tuition fee items.
+
+>**Note:** *Leave the end date blank to run the discount indefinitely.*
+
+9. Enter the discount amount in **Discount percentage 1** (e.g., 10.00 for 10%).
+10. Click **New** to add the second child discount; repeat these steps as needed.
+11. Click **Save**.
+12. Click **Post** to activate the trade agreement policy.
+13. Go back to **Modules** ▸ **Product information management**.
+14. Expand **Products** and click **Released products**.
+15. Open each **line** related to tuition.
+16. On the next screen, expand the **Sell** section.
+17. Scroll down to the **Line discount group** dropdown and choose the Sibling discount trade agreement.
+18. Click **Save**.
+19. Repeat for other tuition fee items.
 
 ![Trade Agreement Creation 1](./99-Images/trade_agreement_creation_1.png)
 
@@ -419,8 +439,10 @@ The sibling discount feature allows the school to automatically apply fee reduct
 10. Select a value in **Item number**. This is required only for application or registration fees.
 11. Click **New** to add another pre-admission type, such as Enrolment Deposit or Re-enrolment Deposit.
 12. Enter the required values for each column in the table.
-    > **Note:** *For Enrolment Deposit and Re-enrolment Deposit types, do not select an item number. The system generates an open sales order header for fee generation.* 
-13. Click **Save**.
+
+> **Note:** *For Enrolment Deposit and Re-enrolment Deposit types, do not select an item number. The system generates an open sales order header for fee generation.*
+
+14. Click **Save**.
 
 ![Pre-admission_Posting_Setup_1](./99-Images/pre-admission_posting_setup_1.png)
 
@@ -435,10 +457,12 @@ The sibling discount feature allows the school to automatically apply fee reduct
 5. Navigate to **Modules Academic management ▸ Setup ▸ Integration ▸ Customer integration mapping**. 
 6. Click **New**. 
 7. Select the **Record type** from the dropdown. 
-    > **Note:** *The Record type description should fill in automatically.* 
-8. In the **Customer type** field, select between Student and Fee payer. 
-9. Select the appropriate **Customer group** from the dropdown. 
-10. Click **Save**.
+
+> **Note:** *The Record type description should fill in automatically.*
+
+9. In the **Customer type** field, select between Student and Fee payer. 
+10. Select the appropriate **Customer group** from the dropdown. 
+11. Click **Save**.
 
 ![Customer_Integration_Mapping_1](./99-Images/customer_integration_mapping_1.png)
 
@@ -452,11 +476,14 @@ The sibling discount feature allows the school to automatically apply fee reduct
 2. Expand **Setup**, then expand **Cashier receipt**.
 3. Click **Fee type**. Review the list of existing fee types to avoid creating duplicates.
 4. Click **New** in the toolbar.
-    > **Condition:** *Perform this step only if the required fee type does not exist.*
-5. Enter a value in the **Fee type** field (e.g., Security deposit, Transport).
-6. Enter the required information for each column in the table as needed by your organisation.
-7. Click **Save**.
-    > **Note:** *The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. The system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.*
+
+> **Condition:** *Perform this step only if the required fee type does not exist.*
+
+6. Enter a value in the **Fee type** field (e.g., Security deposit, Transport).
+7. Enter the required information for each column in the table as needed by your organisation.
+8. Click **Save**.
+
+> **Note:** *The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. The system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.*
 
 ![Fee_Type_1](./99-Images/fee_type_1.png)
 
@@ -469,15 +496,17 @@ The sibling discount feature allows the school to automatically apply fee reduct
 3. Click **Receipt intercompany mapping**.
 4. Click **New** in the toolbar.
 5. Select the **Method of payment** from the dropdown (e.g., CobOn).
-    > **Note:** *Choose the method of payment that has an intercompany journal with the destination school.*
-6. Select the **Destination school** from the dropdown.
-7. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
+
+> **Note:** *Choose the method of payment that has an intercompany journal with the destination school.*
+
+7. Select the **Destination school** from the dropdown.
+8. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
    - If the **Account type** is Ledger, the **Account** is Main
    - If the **Account type** is Bank, the **Account** is Bank account
-8. Select a value in the **Intercompany journal** field.
-9. Click **Save**.
+9. Select a value in the **Intercompany journal** field.
+10. Click **Save**.
     
-  > **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
+> **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
 
 ![Receipt_Intercompany_Mapping_1](./99-Images/receipt_intercompany_mapping_1.png)
 
@@ -498,12 +527,14 @@ The sibling discount feature allows the school to automatically apply fee reduct
 9. Select annual option in the **Unit** field.
 10. In the **Switch view** field, select **All**, then select your template row.
 11. Click **Save**.
-    > **Note:** *Next steps show how to assign to the Academic year.*
-12. Go back to **Modules** ▸ **Academic management**.
-13. Expand **Setup**, then click **Academic year**.
-14. Select the **Academic year** row. Then select the **Fee master list** code from the dropdown.
-15. Repeat step 14 for each academic year.
-16. Click **Save**.
+
+> **Note:** *Next steps show how to assign to the Academic year.*
+
+13. Go back to **Modules** ▸ **Academic management**.
+14. Expand **Setup**, then click **Academic year**.
+15. Select the **Academic year** row. Then select the **Fee master list** code from the dropdown.
+16. Repeat step 14 for each academic year.
+17. Click **Save**.
 
 ![Fee_Master_Template_to_Sync_Items_to_CE_1](./99-Images/fee_master_template_to_sync_items_to_ce_1.png)
 
