@@ -13,14 +13,16 @@ Before fees can be generated, processed, or settled across the platform, a range
     - Payment journals for online, over-the-counter, miscellaneous​
     - User group permissions for generated sales orders​
     - Staff concession cancellation and adjustment setup​
-   > **Note:** *All journals used in this setup must already exist in the system. The selected user group controls who can edit generated sales orders. Staff concession settings apply when a staff contract ends.​*
+
+> **Note:** *All journals used in this setup must already exist in the system. The selected user group controls who can edit generated sales orders. Staff concession settings apply when a staff contract ends.​*
+
 4. In **Financial activities to Student**:​
     - Select **No** when posting financial transactions to the **Fee payer account**​
     - Select **Yes** when posting financial transactions directly to the **student account**​
 5. Click the **Integrations** tab.​
 6. Select the **Relationship type** field, select **Financial responsibility**, then **Sibling**.​
 
-   > **Note:** *Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.* ​
+> **Note:** *Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.* ​
 
 8. Select the **ID value** that matches the configured relationship type.​
 9. Click the **Pro rata adjustment** tab.​
