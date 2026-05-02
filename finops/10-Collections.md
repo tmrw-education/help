@@ -53,20 +53,31 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 5. Click **edit** from the toolbar.
 6. Choose a **Method of payment**.
 7. Select the **Payment plan** dropdown and choose the payment plan to apply.
-8. Click **Academic** tab from toolbar.
-9. Click **Update payment plan**.
-10. Choose 1 or more invoices checkbox.
-11. Click **Preview** in bottom left to review the split invoices.
-12. Review the details and click **Back**.
-13. Click **Yes** in bottom left, if prompted. 
-14. Click **Save** and go back.
-15. Open **Modules** ▸ **Academic management** ▸ **Payment Plan**.
-16. Click **Payment plan details**.
-17. Change the filter to **Show All** if needed.
-20. Select the invoice.
-21. Click **Invoices** from toolbar.
-22. Click **Split invoice details** from toolbar to verify the invoices were split correctly.
-23. Click **Cancel** to exit. 
+8. Click **Save**.
+9. Click **Academic** tab from toolbar.
+10. Click **Update payment plan**.
+11. Choose 1 or more invoices checkbox.
+12. Click **Preview** in bottom left to review the split invoices.
+13. Review the details and click **Back**.
+14. Click **Yes** in bottom left, if prompted. 
+15. Click **Save**.
+16. Open **Modules** ▸ **Academic management** ▸ **Inquiries and reports**.
+17. Expand **Payment Plan**, click **Payment plan details**.
+18. Change the filter to **Show All** if needed.
+19. Select the invoice.
+20. Click **Invoices** from toolbar.
+21. Click **Split invoice details** from toolbar to verify the invoices were split correctly.
+22. Click **Cancel** to exit. 
+
+![apply_payment_plan_to_fee_payer 1](./99-Images/apply_payment_plan_to_fee_payer_1.png)
+
+![apply_payment_plan_to_fee_payer 2](./99-Images/apply_payment_plan_to_fee_payer_2.png)
+
+![apply_payment_plan_to_fee_payer 3](./99-Images/apply_payment_plan_to_fee_payer_3.png)
+
+![apply_payment_plan_to_fee_payer 4](./99-Images/apply_payment_plan_to_fee_payer_4.png)
+
+![apply_payment_plan_to_fee_payer 5](./99-Images/apply_payment_plan_to_fee_payer_5.png)
 
 ---
 
