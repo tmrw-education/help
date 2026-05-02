@@ -499,21 +499,30 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Credit and Collections**.
 2. Expand **Collection letters** and click **Set up collection letter sequence**.
-3. Click **+Add** to create a new collection letter.
+3. Click **+ Add** to create a new collection letter.
 4. Select **Collection letter code** from the dropdown(e.g., First Reminder).
 5. Enter a **Description**. 
 6. Enter the number of **Days** after the invoice due date when the letter should be sent.
-     >**Note**: *This value controls when the reminder is triggered after the due date*.
-7. Repeat steps 3-6 to add additional letters (e.g., Second Reminder, Suspension Letter).
-8. Enter any additional fees or fines if applicable.
-     >**Note**: *Leave fields blank if no fees or fines apply*.
+
+>**Note**: *This value controls when the reminder is triggered after the due date*.
+
+7. Enter any additional fees or fines if applicable.
+8. Repeat steps 3-6 to add additional letters (e.g., Second Reminder, Suspension Letter).
+
+>**Note**: *Leave fields blank if no fees or fines apply*.
+
 9. Click **Save**.
 10. Go to **Modules** ▸ **Credit and Collections**.
-11. Expand **Forms** and click **Form notes**.
-12. In Form note section, enter the note text to print on each collection letter.
+11. Expand **Setup** and **Forms**.
+12. Click on **Form notes**.
+13. In Form note section, enter the note text to print on each collection letter.
    - includes information for student account, student ID, and outstanding amount if needed.
    - adjust tone and urgency based on the reminder stage.
 13. Click **Save**.
+
+![Collection Letter Setup 1](./99-Images/collection_letter_setup_1.png)
+
+![Collection Letter Setup 2](./99-Images/collection_letter_setup_2.png)
 
 ---
 
