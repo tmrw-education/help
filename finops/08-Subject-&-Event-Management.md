@@ -53,6 +53,11 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 ![Create Fee Schedule Templates Creation 7](./99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
+#### Event Registration and Invoicing
+
+Before students can be registered for sessional classes or events, each event record requires a deferral date to be set so the system knows when to recognise the associated revenue. Once the event is configured, staff can enrol students directly from the Sessional Class and Event Details form. In most cases, registration is handled automatically through Parent Connect or an equivalent app; however, where a parent or guardian registers in person at the school counter, staff complete the enrolment manually and generate the invoice from within the system. Once posted, the charge is held as deferred revenue until the event date, at which point the system automatically transfers it to the main revenue account.
+
+---
 
 ## Sessional Class and Event Enrolment
 
@@ -75,6 +80,55 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 ![Sessional Class And Event Enrolment Creation 1](./99-Images/sessional_class_and_event_enrolment_creation_1.png)
 
 ![Sessional Class And Event Enrolment Creation 2](./99-Images/sessional_class_and_event_enrolment_creation_2.png)
+
+---
+
+## Set the Deferral Date
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Subject and event names**.
+3. Locate and select the relevant **event record**.
+4. Click **Deferrals**.
+5. Enable **Deferred**.
+6. Set the **Deferral date** to the event date.
+
+> **Note:** *The deferral date determines when revenue is recognised. Once the event occurs, revenue moves automatically from the deferral account to the main revenue account.*
+
+5. Click **Ok**.
+
+![Set The Deferral Date Creation 1](./99-Images/set_the_deferral_date_creation_1.png)
+
+---
+
+## Over-the-Counter Registration and Invoice Generation
+
+> **Note:** *Student event registration is typically completed by the student or parent via Parent Connect or an equivalent app, which automatically creates the enrolment record. Use this process only when a parent or guardian is registering in person at the school counter.*
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports** ▸ **Fee schedules** and click **Sessional class and event details**.
+3. Click **New** in the toolbar.
+4. Select the **Student account** to register for the event.
+5. Select the **Event code** from the dropdown.
+6. Enter the **number of sessions**.
+7. Enter the **price**.
+8. Enter the **Effective date** and **Expiration date** for the registration period.
+9. Click **Save**.
+10. Click **Generate invoice** in the toolbar.
+
+> **Note:** *Clicking Generate invoice creates a sales order in the system with a deferral schedule attached. The system records the charge as deferred revenue until the event date.*
+
+11. Open the **General** tab.
+12. Click the **Sales order** hyperlink in the toolbar or header to view the order details.
+13. Click **Invoice** to view the posted invoice.
+14. Click **Voucher** to view the posted accounting voucher.
+
+![Counter Registration And Invoice Generation Creation 1](./99-Images/counter_registration_and_invoice_generation_1.png)
+
+![Counter Registration And Invoice Generation Creation 2](./99-Images/counter_registration_and_invoice_generation_2.png)
+
+![Counter Registration And Invoice Generation Creation 3](./99-Images/counter_registration_and_invoice_generation_3.png)
+
+![Counter Registration And Invoice Generation Creation 4](./99-Images/counter_registration_and_invoice_generation_4.png)
 
 ---
 
