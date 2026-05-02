@@ -21,16 +21,6 @@ Before students can be enrolled in sessional classes or events and invoiced acco
    - Check **Active**.
    - Select the **Item number** from the dropdown. 
 5. Click **Save**.
-6. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-7. Expand **Inquiries and reports** ▸ **Fee schedules**.
-8. Click **Sessional class and event details**.
-9. Click **New** in the toolbar.
-10. Fill out the following fields to assign a student to the subject or event:
-    - Add the student under **Student account**.
-    - Add the **code** for the sessional class or event.
-    - Enter **Session numbers** if required (leave 0 for single sessions).
-    - Enter the **Effective date and Expiration date**.
-11. Click **Save**.
 
 ![Subject And Event Name Setup Creation 1](./99-Images/subject_and_event_name_setup_creation_1.png)
 
