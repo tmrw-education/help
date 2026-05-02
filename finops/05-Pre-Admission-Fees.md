@@ -93,30 +93,43 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 ---
 
+## Application / Registration Fee Process via Online
+
+---
+
+#### Cashier Receipting
+
+Registration fees can be receipted over the counter when a fee payer makes payment in person at the school. When a student record syncs from the student management system with a status of Prospective and Registered, the system automatically creates a registration fee document ready for payment. Before processing the cashier receipt, the enrolment officer must manually push the record through to Registered status in the student management system. Staff then access the Cashier Receipt form under Accounts Receivable to process and post the payment.
+
 ## Application / Registration Fee Process via Cashier
 
-### Overview
-This process explains manual counter receipting of student registration or application fees.  
-The student record is received from the student management system, and payment made in person. The student must be registered as a prospective student.
+> **Note:** *The enrolment officer must manually push the student record to Registered status in the student management system before the fee can be receipted over the counter.*
 
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
+2. Expand **Payments** and click **Cashier receipt**.
+3. Click **New cashier receipt** in the toolbar.
+4. Select the **student name** from the fee payer list.
+5. Click the **Pre-admissions** tab.
+6. Locate the registration fee entry and tick the **Mark** checkbox.
 
-> **Note:**  
-Enrolment officer must manually push the student record to register it in the student management system and enable payment processing.
+> **Note:** *The registration fee document is created automatically when the student record syncs from the student management system.*
 
-1. From the FNO dashboard, open **Modules ▸ Accounts receivable**.
-2. Expand **Payments**.
-3. Click **Cashier receipt**.
-4. Select the student's name (e.g., Farah).
-5. Click **+Cashier receipt** in the toolbar to create a new cashier receipt.
-6. Under **Pre-admission** tab, verify registration fee ready. Check **Mark** box.
-7. Under **Method of payment and invoice marking**, select **Method of payment** from the dropdown.
-8. Enter a value in the **Amount** field.
-9. Select the bank details in **Payment account**.
-10. Enter **Payment reference**. Ensure the payment reference is accurate for reconciliation purposes.  
-    > **Note:** *Verify the payment has been allocated to the registration fee.*
-11. Click **Post** in the toolbar to finalize the cashier receipt.
-12. Print or Email the receipt as needed.
-13. Click **Ok**.
+7. Select the **Method of payment** from the dropdown.
+8. Enter the amount in the **Amount** field.
+9. Select the deposit account in the **Payment account** field.
+10. Enter a value in the **Payment reference** field.
+11. Verify the fee is fully allocated in the allocations summary.
+12. Click **Post** in the toolbar.
+13. Select your receipt delivery option:
+    - *Print receipt* — prints a physical copy for the fee payer.
+    - *Email receipt* — sends the receipt to the fee payer's email address on file.
+14. Click **OK**.
+
+> **Note:** *Once posted, the receipt journal flows back to the student management system, allowing the enrolment record to proceed to the next stage.*
+
+![Application Registration Fee Cashier 1](./99-Images/application_registration_fee_cashier_1.png)
+
+---
 
 ## Enrolment Deposit Process - Online
 
