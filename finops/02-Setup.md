@@ -179,52 +179,20 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ## Split Percent by Fee Item
 
-> **Note:** *Prepare the student account number first.*
+>**Note:** *Split configuration applies only when sales order generation occurs after split setup; otherwise, older invoices unaffected.*
 
-1. Navigate to **Modules** ▸ **Academic management** ▸ **Fee schedules** ▸ **All fee schedules**.
-2. Click **New**.
-3. Add a **Description** into the field (e.g., Split Billing)
-4. Select the **Billing interval** from the dropdown.
-5. If applicable, enable **Early payment discount**.
-6. In **Fee schedule lines** add a line by clicking **+ Add line**.
-7. In the **Item number** field, select a fee item from the dropdown (e.g., Tuition fee).
-8. Select the **Condition** field.
-9. Define the condition by clicking **Condition** in the line above.
-10. Select the condition and add the **Criteria** and click **OK**.
-11. Add another line by clicking **+ Add line**.
-12. In the **Item number** field, select a different fee item from the dropdown (e.g., Building fund fee).
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
+2. Expand **Setup** and click **Split percent by fee items**.
+3. Click **New**.
+4. Complete the following columns to configure the split payment per payee:
+    - Search and select a **Student**.
+    - Select the specific **fee item to override** (e.g., Building Fund Fee)
+    - Assign the **custom split percentages** for each payer (e.g., Dad 60%, Mum 40%)
+    - Specify the **effective and expiration dates** for this split configuration.
+5. Repeat these steps for the other payer.
+6. Click **Save**.
 
-> **Note:** *There is no need to set a condition for Building fund fee, it is preset.*
-
-14. Click **Save**.
-15. Navigate to **Modules** ▸ **Academic management** ▸ **Setup** ▸ **Split percent by fee items**.
-16. Add a **New** record.
-17. Identify the student either by using the filter function from the **Student account** field or the **Student name** field.
-18. Select **Building fund fee** in the **Fee item** field.
-19. Select the fee payer from the **Fee payer account** dropdown.
-20. Input the percentage in **Paid percentage**.
-
-> **Note:** *The payment amount should differ from the amount in the student setup.
-
-22. Add the **Effective date** and **Expiration date**.
-23. Add a **New** line.
-24. Repeat steps 17-20 with a different payer and the remaining percentage.
-25. Click **Save**.
-26. To generate a Sale audit for the student, navigate to **Modules** ▸ **Academic management** ▸ **Periodic tasks** ▸ **Generate sales order batch processing**.
-27. Add the **batch description** to include the student's name.
-28. Expand **Records to include (Customers)**.
-29. Select the **Filter**.
-30. In the **Field**, select **Student account**.
-31. Fill in the **Criteria** with the student account number. Click **OK**.
-32. Expand **Records to Include (Fee schedule templates)**.
-33. Select the **Filter**.
-34. Select the fee schedule number (split billing override template) from the **Criteria** dropdown.
-35. In **Run in the background**, select **Yes** below **Batch processing**.
-36. Click **OK**.
-37. To validate, navigate to **Modules** ▸ **Academic management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
-38. Select the **Fee schedule batch number** to view the fee items with a different split percentage.
-
-!
+![Split Percent by Fee Item_1](./99-Images/configure_split_percent_by_fee_items_1.png)
 
 ---
 
