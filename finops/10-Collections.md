@@ -517,25 +517,36 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ---
 
-## Generate 3 letters and the Suspension 
+## Generate 3 Letters and the Suspension 
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Credit and Collections**.
 2. Expand **Collection letter**  then click **Create collection letters**.
 3. Expand **Parameters** section, and select the **Collection letter** from the dropdown.
 4. Enter the **Collection letter date**.
 5. Expand **Records to include** section and enter the **Customer account** if you want to generate letters for one account only.  
-     >**Note:** *Leave this field blank to generate letters for all eligible accounts.*
+
+>**Note:** *Leave this field blank to generate letters for all eligible accounts.*
+
 6. Click **OK** to generate the collection letter.
 7. Go to **Modules** ▸ **Credit and collections ▸ Collection letter ▸ Review and process collection letters**.
-8. Select the newly created collection letter.
+8. Open the newly created collection letter.
 9. Review the letter details, including overdue amounts and related transactions.
-10. Click **Post** to finalize the collection letter.
+10. Click **Post** to finalise the collection letter.
 11. Click **Print** and select **Collection letter note** to generate the letter report.
 12. In **Postings were considered until** field, enter the required posting date.
 13. Click **OK**.
 14. Review the printed letter for accuracy.
 15. Repeat all the steps for the next letter in the sequence, if required.  
-      >**Note:** *Use the next collection letter code and the correct date according to your escalation schedule*.
+
+>**Note:** *Use the next collection letter code and the correct date according to your escalation schedule*.
+
+![Generate 3 Letters and the Suspension 1](./99-Images/generate_3_letters_and_the_suspension_1.png)
+
+![Generate 3 Letters and the Suspension 2](./99-Images/generate_3_letters_and_the_suspension_2.png)
+
+![Generate 3 Letters and the Suspension 3](./99-Images/generate_3_letters_and_the_suspension_3.png)
+
+![Generate 3 Letters and the Suspension 4](./99-Images/generate_3_letters_and_the_suspension_4.png)
 
 ---
 
