@@ -521,7 +521,7 @@ The student ledger provides a consolidated view of a student's financial activit
 
 ## Student Ledger
 
-1. Open **Modules** ▸ **Academic Management**.
+1. From the **FNO dashboard**, open **Modules**.
 2. Expand **Students** and click **All Students**.
 3. Select the **student** for whom the ledger is required.
 4. Click **Collect** on the Action Pane.
@@ -540,34 +540,44 @@ The student ledger provides a consolidated view of a student's financial activit
 
 ## Fee Structure - Price Changes
 
-1. Open **Modules** ▸ **Academic Management**.
-2. Expand **Students** and click **All Students**.
-3. Filter by student **Account** number. 
-  > **Note:** *The student must have an existing sales order with at least one posted invoice and one open term.*
-4. Open the student's **Sales** order.
-5. Review the sales order lines to confirm which terms are invoiced and which remain open.
-6. Go to **Product information management** ▸ **Products** ▸ **Released products**. 
-7. Filter by **Product name** and select the student's tuition fee item.
-8. Click on **Sales price**.
-9. Filter by **Company**, **Academic year**, **Curiculum**, and **Stream** to find the relevant fee line.
-10. Select the fee line and click **Edit selected lines**.
-11. Enter **Name** (e.g., Academic scale price).
-12. Enter a **Description** for the price update (e.g., Fee increase).
-13. Click **OK**.
-14. Enter the new **Sales price**.
-   >**Note**: *If annual pricing is used for deposit calculations, update the yearly price field instead.*
-15. Enter the **From date** for when the new price should take effect.
-16. Click **Post**.
-17. Return to the fee item and verify the updated price for the intended academic year and curriculum.
->**Note**: The steps below shows how to update the pro forma invoice:
-18. Go to **Modules** ▸ **Academic Management**.
-19. Expand **Periodic Tasks** and click **Recalculate Open Sales Order**.
-20. Filter for the relevnat student or sales order number.
-21. In **Parameters**, toggle **Yes** in **Recalculate sales price**.
-22. In **Records to include**, filter **Student account** or enter a particular **Sales order**.
-  >**Note**: *You can filter for group of students or whole cycle for fee and charge interval.*
-23. Click **OK**.
-24. Return to the sales order and **refresh** the page to confirm that future terms show the updated price.
+1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
+2. Expand **Products** and click **Released Products**.
+3. Filter by **Product name** and select the student's tuition fee item.
+4. Open **Sell** from the toolbar.
+5. Click on **Sales price**.
+6. Filter by **Company**, **Academic year**, **Curiculum**, and **Stream** to find the relevant fee line.
+7. Select the fee line.
+8. Click **Edit selected lines**.
+9. Enter **Name** (e.g., Academic scale price).
+10. Enter a **Description** for the price update (e.g., Fee increase).
+11. Click **OK**.
+12. Enter the new **Sales price**.
 
+>**Note**: *If annual pricing is used for deposit calculations, update the yearly price field instead.*
+
+13. Enter the **From date** for when the new price should take effect.
+14. Click **Post**.
+15. Return to the fee item and verify the updated price for the intended academic year and curriculum.
+
+>**Note**: The steps below shows how to update the pro forma invoice:
+
+16. Go to **Modules** ▸ **Academic Management**.
+17. Expand **Periodic Tasks** and click **Recalculate Open Sales Order**.
+18. Filter for the relevnat student or sales order number.
+19. In **Parameters**, toggle **Yes** in **Recalculate sales price**.
+20. In **Records to include**, filter **Student account** or enter a particular **Sales order**.
+
+>**Note**: *You can filter for group of students or whole cycle for fee and charge interval.*
+
+21. Click **OK**.
+22. Return to the sales order and **refresh** the page to confirm that future terms show the updated price.
+
+![Fee Structure - Price Changes 1](./99-Images/fee_structure_price_changes_1.png)
+
+![Fee Structure - Price Changes 2](./99-Images/fee_structure_price_changes_2.png)
+
+![Fee Structure - Price Changes 3](./99-Images/fee_structure_price_changes_3.png)
+
+![Fee Structure - Price Changes 4](./99-Images/fee_structure_price_changes_4.png)
 
 ---
