@@ -101,22 +101,32 @@ Before fees can be generated, processed, or settled across the platform, a range
 4. Enter the name in the **Name** field.
 
 ![Gender_Setup_1](./99-Images/gender_setup_1.png)
+
+---
+
+#### Academic Year
+ 
+Academic year setup defines the academic calendar structure used across the platform and must align with the configuration in the student management system, as finance is downstream from both. Each academic year record is assigned a sequence number, a shared academic year ID, and an optional school-specific description. Year group financial dimensions are linked to each record to automate accounting transactions. Once the academic year is created, tuition fees for re-enrolment and enrolment deposits are attached so the system can look up the correct fees during the deposit process. Where a school has students eligible for a different fee structure — such as foundation students — both fee structures are added at this stage.
+
 ---
 
 ## Academic Year (Product)
 
 1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Academic year**.
-2. Click **New**.  
+2. Click **New**.
+
    > **Note:** *The **Sequence order** will be automatically filled in.*
-3. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
-4. Click **Save**.
-5. Select **Tuition fee items** from the Action Pane.
-6. Click **New**.
-7. Select **Tuition fee** from the **Item number** field.
-8. Enter **Year** in the **Unit** field.
-9. Close the page.
-10. To check, navigate to **Academic management ▸ Students ▸ All students**.
-11. Select a student from the list to see which grade they are enrolled in.
+
+4. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
+5. Click **Save**.
+6. Select **Tuition fee items** from the Action Pane.
+7. Click **New**.
+8. Select **Tuition fee** from the **Item number** field.
+9. Enter **Year** in the **Unit** field.
+10. Close the page.
+11. To check, navigate to **Academic management ▸ Students ▸ All students**.
+12. Select a student from the list to see which grade they are enrolled in.
+
     > **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
 
 ![Academic_Year_1](./99-Images/academic_year_(product)_1.png)
@@ -126,6 +136,26 @@ Before fees can be generated, processed, or settled across the platform, a range
 ---
 
 ## Academic Year (GEMS)
+ 
+> **Note:** *Academic year IDs must match the setup in the student management system. The sequence number controls the order used for future billing calculations.*
+ 
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
+2. Expand **Setup** and click **Academic year**.
+3. Click **New** in the toolbar.
+4. Enter the next **sequence number** in order.
+5. Complete the remainder of the fields in the row.
+6. Click **Save**.
+7. Highlight the **academic year** record.
+8. Click **Tuition fees** in the toolbar.
+9. Add the **re-enrolment deposit fee** and **enrolment deposit fee** items.
+10. If the school has students eligible for an alternative fee structure (e.g., foundation students), add the **additional tuition fee** item.
+11. Click **Save**.
+
+![Academic Year GEMS Setup 1](./99-Images/academic_year_gems_setup_1.png)
+
+![Academic Year GEMS Setup 2](./99-Images/academic_year_gems_setup_2.png)
+
+![Academic Year GEMS Setup 3](./99-Images/academic_year_gems_setup_3.png)
 
 ---
 
