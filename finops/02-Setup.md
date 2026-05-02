@@ -19,16 +19,18 @@ Before fees can be generated, processed, or settled across the platform, a range
     - Select **Yes** when posting financial transactions directly to the **student account**​
 5. Click the **Integrations** tab.​
 6. Select the **Relationship type** field, select **Financial responsibility**, then **Sibling**.​
+
    > **Note:** *Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.* ​
-7. Select the **ID value** that matches the configured relationship type.​
-8. Click the **Pro rata adjustment** tab.​
-9. Select the **Pro rata adjustment joining** option.​
-10. Select the **Pro rata adjustment leaving** option.​
-11. Select the **Leaving date** option:​
+
+8. Select the **ID value** that matches the configured relationship type.​
+9. Click the **Pro rata adjustment** tab.​
+10. Select the **Pro rata adjustment joining** option.​
+11. Select the **Pro rata adjustment leaving** option.​
+12. Select the **Leaving date** option:​
     - *Last day attended* — use when the school manages the leaving date as LDA.​
     - *Expiration date* — use when the school manages the leaving date as the expiration date in the Academic enrolment table.​
-12. Click the **Number sequences** tab and confirm all number sequences are set up for all references.​
-13. Click **Save**.
+13. Click the **Number sequences** tab and confirm all number sequences are set up for all references.​
+14. Click **Save**.
 
 ![Fee_Schedule_Parameters_1](./99-Images/fee_schedule_parameters_(product)_1.png)
 
