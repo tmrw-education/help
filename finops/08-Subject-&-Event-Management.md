@@ -161,9 +161,39 @@ Once the subject and event codes are in place, students can be registered into s
 ![Adjust For Session Based Invoicing Creation 1](./99-Images/adjust_for_session_based_invoicing_creation_1.png)
 
 ![Adjust For Session Based Invoicing Creation 2](./99-Images/adjust_for_session_based_invoicing_creation_2.png)
+
 ---
 
-## Sessional Class & Event Enrolment Cancellation
+#### Cancelling a Sessional Class or Event Enrolment
+
+When a student's enrolment in a sessional class or event needs to be cancelled after invoicing, the cancellation is performed directly in GEMS via the Sessional class and event details form. Accessing the form allows staff to review the full enrolment record — including the event code, student account, and invoice status — before initiating the cancellation. Once confirmed, the system automatically generates a credit note to reverse the original invoice, with the resulting sales order showing a negative quantity and amount. Full details of the cancellation are recorded in the journal section for audit purposes.
+
+---
+
+## Sessional Class and Event Enrolment Cancellation
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Inquiries and reports**, then expand **Fee schedules**.
+3. Click **Sessional class and event details**.
+4. Locate the enrolment record for the student and event you want to cancel.
+5. Click **Cancel** in the toolbar.
+6. A confirmation prompt will appear. Click **Yes** to proceed.
+7. The system generates a **credit note** to reverse the original invoice.
+
+> **Note:** *The credit note is recorded in the journal section with the same sales order details as the original invoice. The quantity and total price on the reversed sales order will appear as negative values.*
+
+8. To view the credit note sales order, click the **General** tab.
+9. Click the **Document number** link.
+10. To view the posted voucher, click **Invoice**.
+11. Then click **Voucher**.
+
+![Sessional Class And Event Enrolment Cancellation 1](./99-Images/sessional_class_and_event_enrolment_cancellation_1.png)
+
+![Sessional Class And Event Enrolment Cancellation 2](./99-Images/sessional_class_and_event_enrolment_cancellation_2.png)
+
+![Sessional Class And Event Enrolment Cancellation 3](./99-Images/sessional_class_and_event_enrolment_cancellation_3.png)
+
+![Sessional Class And Event Enrolment Cancellation 4](./99-Images/sessional_class_and_event_enrolment_cancellation_4.png)
 
 ---
 
