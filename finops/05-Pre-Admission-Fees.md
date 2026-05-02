@@ -72,7 +72,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Pre‑admission fees**.
 3. Click **All pre‑admission fees**.
-4. Apply the **student account** filter and **paste** the account number.
+4. Search for or filter **student account**.
 5. **Select** the row of the application to waive.
 6. Click **Edit** in the toolbar.
 7. Check the “waive” box in the **Waive** column.
@@ -86,6 +86,10 @@ Before any pre-admission fees can be processed, the system needs to be configure
 > - *Application fee created (sales order and prepayment invoice created) ▸ cancels sales order*
 > - *Application fee paid (customer payment posted) ▸ reverses prepayment invoice and cancels sales order*
 > - *Application fee posted (sales order invoice posted) ▸ system creates and posts sales order credit note*
+
+![Application Fee Waiver 1](./99-Images/application_fee_waiver_1.png)
+
+![Application Fee Waiver 2](./99-Images/application_fee_waiver_2.png)
 
 ---
 
