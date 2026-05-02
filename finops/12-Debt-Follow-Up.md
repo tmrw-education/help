@@ -26,7 +26,7 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 11. Go to **Modules** ▸ **General Ledger** ▸ **Journal entries** ▸ **General journals**.
 12. Locate and review the new journal.
 13. Submit the journal for workflow approval, if required.
-14. Click **Post** to finalize the write-off.
+14. Click **Post** to finalise the write-off.
 
 > **Note:**: If workflow is not enabled, post the journal directly.
 
@@ -35,6 +35,8 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 ![Customer Bulk Write-off 2](./99-Images/customer_bulk_write_off_2.png)
 
 ![Customer Bulk Write-off 3](./99-Images/customer_bulk_write_off_3.png)
+
+![Customer Bulk Write-off 4](./99-Images/customer_bulk_write_off_4.png)
 
 ---
 
