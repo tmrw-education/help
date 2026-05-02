@@ -108,25 +108,22 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 
 ## View Payment Plan Details
 
->**Note**: This process attaches a payment plan to a student record and splits eligible fee invoices into installments in Dynamics 365 Finance. This is used when a fee payer requests to pay student fees in multiple installments.
-
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Students** and click **All Students**.
-3. In student record, open **Payment defaults**.
-4. Select the required **Payment plan**.
-5. Click **Save**.
-6. Click **Academic** tab from the toolbar.
-7. Click **Update payment plan** under **Payment plan**.
-8. Select the open invoices that need to be split.
-   >**Note**: *Only unpaid invoices can be split.*
-9. Click **Preview**.
-10. Update the due dates in the available fields, if changes are needed.
-11. Click **Yes** to confirm and split invoice into installments.
-12. Go back to **Academic** ▸ **Payment plan** ▸ **View payment plan**.
-13. Change the filter to **Show Approved** to review the split invoices.
-14. Click **Invoices** to view all invoices linked to the payment plan.
-17. Click **Split invoice detail** to view the installment breakdown for each invoice.
-    
+3. Select the student record.
+4. Click the **Academic** tab from the toolbar.
+5. Click **Veiw payment plan**.
+6. Change the filter to **all** to review the payment plans.
+7. Select a payment plan record.
+8. Click **Invoices** to view all invoices linked to the payment plan.
+9. Click **Split invoice detail** to view the instalment breakdown for each invoice.
+
+![View Payment Plan Details 1](./99-Images/view_payment_plan_details_1.png)
+
+![View Payment Plan Details 2](./99-Images/view_payment_plan_details_2.png)
+
+![View Payment Plan Details 3](./99-Images/view_payment_plan_details_3.png)
+
 ---
 
 #### In-Person (Over-the-Counter)
