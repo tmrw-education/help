@@ -24,9 +24,10 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 9. Confirm the **Posting account**.
 10. Click **OK** to create the write-off journal.
 11. Go to **Modules** ▸ **General Ledger** ▸ **Journal entries** ▸ **General journals**.
-12. Locate and review the new journal.
-13. Submit the journal for workflow approval, if required.
-14. Click **Post** to finalise the write-off.
+12. Locate and open the new journal.
+13. Review the new journal.
+14. Submit the journal for workflow approval, if required.
+15. Click **Post** to finalise the write-off.
 
 > **Note:**: If workflow is not enabled, post the journal directly.
 
