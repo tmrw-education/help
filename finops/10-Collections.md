@@ -584,6 +584,38 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ---
 
+#### Cashier Receipt
+
+The cashier receipt process allows staff to receive and record fee payments on behalf of any school within the group, regardless of which school the student is enrolled at. Staff select the relevant company and student, mark the invoice to be paid, enter the payment details, and post the transaction. Once posted, the record is flagged in the system as a Pay at Any School transaction, providing a clear audit identifier for intercompany receipting.
+
+---
+
+## Cashier Receipt – Pay at Any School
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
+2. Expand **Payments** and click **Cashier receipt report**.
+3. Click **+ Cashier receipt** to create a new cashier receipt journal.
+4. In the **Company** field, select the school receiving the payment.
+5. In the **Customer** field, select the student the payment is being received for.
+6. Mark the **invoice** to be paid.
+7. Select the **Method of payment** from the dropdown.
+8. Enter the **Amount**.
+
+> **Note:** *The **Payment account** field autofills based on the method of payment selected.*
+
+9. Enter the **Payment reference**.
+10. On the action pane, click **Post**.
+11. Enable the **Print receipt** toggle if a receipt is required.
+12. Click **OK** to post the transaction.
+
+> **Note:** *Once posted, the **Pay at Any School** column on the header is ticked. This flag identifies the record as a Pay at Any School transaction.*
+
+![Cashier Receipt Pay at Any School 1](./99-Images/cashier_receipt_pay_at_any_school_1.png)
+
+![Cashier Receipt Pay at Any School 2](./99-Images/cashier_receipt_pay_at_any_school_2.png)
+
+---
+
 #### Miscellaneous Receipts
 
 The miscellaneous receipt function allows cashiers to record incoming payments that are not linked to a specific student invoice or customer account. This is used when funds are received for ad hoc items such as event fees, lost property charges, or sundry income. The cashier enters the payment details, selects a fee type to determine the correct general ledger coding, and posts the transaction. An optional receipt can be printed at the time of posting.
