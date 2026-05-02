@@ -542,29 +542,31 @@ The student ledger provides a consolidated view of a student's financial activit
 1. Open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All Students**.
 3. Filter by student **Account** number. 
-  > **Note:** *The student must have an existing sales order with at least one posted invoice and one open term.
+  > **Note:** *The student must have an existing sales order with at least one posted invoice and one open term.*
 4. Open the student's **Sales** order.
 5. Review the sales order lines to confirm which terms are invoiced and which are still open.
-6. Go to **Product management** then **Released products**.
-7. Find the tuition fee item for the student.
-8. Open **Sales** then **Sales price**.
-9. Filter by academic year or (school, curriculum) to find and select the fee line.
+6. Go to **Product information management** ▸ **Products** ▸ **Released products**. 
+7. Filter by **Product name** and select the tuition fee item for the student.
+8. Click on **Sales price**.
+9. Apply filters to **Company**, **Academic year**, **Curiculum**, and **Stream** columns to find and select the fee line.
 10. Click **Edit selected lines**.
 11. Enter **Name** (e.g., Academic scale price).
 12. Enter a **Description** for the price update (e.g., Fee increase).
 13. Click **OK**.
-14. Enter the new **Sales price**. Note: If your process uses annual pricing, update the yearly price field.  
-15. Update the **Start date** to define when the new price beecomes effective.
+14. Enter the new **Sales price**.
+   >**Note**: *If your process uses annual pricing, update the yearly price field.*
+15. Enter the date in **From date** column to define when the new price becomes effective.
 16. Click **Post**.
 17. Return to the fee item to verify the updated price is active for the intended academic year and curriculum.
+>**Note**: The steps below shows how to update the pro forma invoice:
 18. Go to **Modules** ▸ **Academic Management**.
 19. Expand **Periodic Tasks** and click **Recalculate Open Sales Order**.
 20. Filter for the relevnat student or sales order number.
-21. Clear any reverse or exclusion filters so only the intended sales order is included.
-22. Run the recalculation.
-23. Return to the sales order and refresh the page to confirm that future terms show the updated price.
+21. In **Parameters**, toggle **Yes** in **Recalculate sales price**.
+22. Expand **Records to include** and filter **Student account** or enter a particular **Sales order**.
+  >**Note**: *You can filter for group of students or whole cycle for fee and charge interval.*
+23. Click **OK**.
+24. Return to the sales order and refresh the page to confirm that future terms show the updated price.
 
- 
-10. Click **OK** to generate the report.
-  > **Note:** *Enabling this toggle hides both advance invoice and prepayment invoice lines from the generated report, producing a simplified statement view.*
+
 ---
