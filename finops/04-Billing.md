@@ -538,35 +538,36 @@ The student ledger provides a consolidated view of a student's financial activit
 
 ---
 
-## Fee Structure - Price Changes (WIP)
+## Fee Structure - Price Changes
+
 1. Open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All Students**.
 3. Filter by student **Account** number. 
   > **Note:** *The student must have an existing sales order with at least one posted invoice and one open term.*
 4. Open the student's **Sales** order.
-5. Review the sales order lines to confirm which terms are invoiced and which are still open.
+5. Review the sales order lines to confirm which terms are invoiced and which remain open.
 6. Go to **Product information management** ▸ **Products** ▸ **Released products**. 
-7. Filter by **Product name** and select the tuition fee item for the student.
+7. Filter by **Product name** and select the student's tuition fee item.
 8. Click on **Sales price**.
-9. Apply filters to **Company**, **Academic year**, **Curiculum**, and **Stream** columns to find and select the fee line.
-10. Click **Edit selected lines**.
+9. Filter by **Company**, **Academic year**, **Curiculum**, and **Stream** to find the relevant fee line.
+10. Select the fee line and click **Edit selected lines**.
 11. Enter **Name** (e.g., Academic scale price).
 12. Enter a **Description** for the price update (e.g., Fee increase).
 13. Click **OK**.
 14. Enter the new **Sales price**.
-   >**Note**: *If your process uses annual pricing, update the yearly price field.*
-15. Enter the date in **From date** column to define when the new price becomes effective.
+   >**Note**: *If annual pricing is used for deposit calculations, update the yearly price field instead.*
+15. Enter the **From date** for when the new price should take effect.
 16. Click **Post**.
-17. Return to the fee item to verify the updated price is active for the intended academic year and curriculum.
+17. Return to the fee item and verify the updated price for the intended academic year and curriculum.
 >**Note**: The steps below shows how to update the pro forma invoice:
 18. Go to **Modules** ▸ **Academic Management**.
 19. Expand **Periodic Tasks** and click **Recalculate Open Sales Order**.
 20. Filter for the relevnat student or sales order number.
 21. In **Parameters**, toggle **Yes** in **Recalculate sales price**.
-22. Expand **Records to include** and filter **Student account** or enter a particular **Sales order**.
+22. In **Records to include**, filter **Student account** or enter a particular **Sales order**.
   >**Note**: *You can filter for group of students or whole cycle for fee and charge interval.*
 23. Click **OK**.
-24. Return to the sales order and refresh the page to confirm that future terms show the updated price.
+24. Return to the sales order and **refresh** the page to confirm that future terms show the updated price.
 
 
 ---
