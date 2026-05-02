@@ -69,34 +69,40 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 21. Click **Split invoice details** from toolbar to verify the invoices were split correctly.
 22. Click **Cancel** to exit. 
 
-![apply_payment_plan_to_fee_payer 1](./99-Images/apply_payment_plan_to_fee_payer_1.png)
+![Apply Payment Plan to Fee Payer 1](./99-Images/apply_payment_plan_to_fee_payer_1.png)
 
-![apply_payment_plan_to_fee_payer 2](./99-Images/apply_payment_plan_to_fee_payer_2.png)
+![Apply Payment Plan to Fee Payer 2](./99-Images/apply_payment_plan_to_fee_payer_2.png)
 
-![apply_payment_plan_to_fee_payer 3](./99-Images/apply_payment_plan_to_fee_payer_3.png)
+![Apply Payment Plan to Fee Payer 3](./99-Images/apply_payment_plan_to_fee_payer_3.png)
 
-![apply_payment_plan_to_fee_payer 4](./99-Images/apply_payment_plan_to_fee_payer_4.png)
+![Apply Payment Plan to Fee Payer 4](./99-Images/apply_payment_plan_to_fee_payer_4.png)
 
-![apply_payment_plan_to_fee_payer 5](./99-Images/apply_payment_plan_to_fee_payer_5.png)
+![Apply Payment Plan to Fee Payer 5](./99-Images/apply_payment_plan_to_fee_payer_5.png)
 
 ---
 
 ## Cancel or Amend Payment Plans
 
->**Note**: The payment plan must already be assigned to the fee payer account before it can be removed. 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Fee payer** and click **All fee payers**.
 3. Choose and **click** on a customer account number.
-4. To cancel the payment plan, click **Edit** in **Payment defaults**.
-5. Clear the **Payment plan** field.
-6. Click **Save**.
-7. Click **Academic** tab from toolbar.
-8. Click **View payment plan** under **Payment plan**.
-9. Choose 1 or more invoices checkbox.
-10. Amend the payment plan by clicking **Merge invoice** in toolbar.
-    >**Note**: *Merge invoice is only available when split invoices already exist.*
-11. Click **Yes** to confirm.
-12. Click **Save**.
+4. To cancel the payment plan, click **Edit** in the toolbar
+5. Expand **Payment defaults**.
+6. Clear the **Payment plan** field.
+7. Click **Save**.
+8. Click **Academic** tab from toolbar.
+9. Click **View payment plan**.
+10. Choose 1 or more invoices checkbox.
+11. Amend the payment plan by clicking **Merge invoice** in toolbar.
+
+>**Note**: *Merge invoice is only available when split invoices already exist.*
+
+12. Click **Yes** to confirm.
+13. Click **Save**.
+
+![Cancel or Amend Payment Plans 1](./99-Images/apply_payment_plan_to_fee_payer_1.png)
+
+![Cancel or Amend Payment Plans 2](./99-Images/cancel_or_amend_payment_plans_2.png)
 
 ---
 
