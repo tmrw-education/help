@@ -192,7 +192,40 @@ Concession Management handles the configuration and application of scholarships,
 
 ---
 
+#### Sibling Discount Configuration
+
+The sibling discount policy allows each school to define the discount rates applied to students based on their position within a family. Policies are school-specific and configured once unless the school's concession rules change. The system supports three student types — new students, existing students from existing families, and existing students from new families — and each can carry a different discount rate. Once configured, the policy works in conjunction with the sibling order assigned to each student and the fee items marked as eligible for a sibling discount to automatically apply the correct discount when fees are generated. No manual discount application is required after setup.
+
+---
+
 ## Sibling Discount Policy (GEMS)
+
+> **Note:** *This setup is school-specific and must be completed in each school. The sibling discount policy is typically a one-time configuration unless the school's discount rules change.*
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
+2. Expand **Setup** and click **Sibling setup**.
+3. Click **Sibling discount policy**.
+4. Click **Add** to create a new policy entry.
+5. Enter the **sibling order number** for the child position (e.g., 3 for third child).
+
+> **Note:** *Use the sibling order numbers configured in the Sibling Order setup. Only current students carry an active sibling order; future and past students default to 0.*
+
+6. Enter a descriptive **name** for the policy entry.
+
+> **Note:** *The description is read by the GEMS parent experience app (PXP) agent. Write it clearly so it is unambiguous — for example, "Third child — new student" or "Third child — existing family, existing student".*
+
+7. Select the **student type** for this entry:
+   - *New student* — applies to students with no prior enrolment history at the school.
+   - *Existing family, existing student* — applies to students already enrolled and from a family already registered in the system.
+   - *Existing family only* — applies to students from a known family but without an existing enrolment record.
+8. Select the **line discount group** to link this policy entry to the correct trade agreement.
+
+> **Note:** *Line discount groups are configured separately. Refer to the Sibling Order setup process for details on creating and mapping discount groups.*
+
+9. Repeat steps 4–9 for each sibling position and student type combination required by the school's policy.
+10. Click **Save**.
+
+![Sibling Discount Policy Creation 1](./99-Images/sibling_discount_policy_creation_1.png)
 
 ---
 
