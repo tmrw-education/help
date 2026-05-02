@@ -16,20 +16,25 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 1. From the FNO dashboard, open **Modules** ▸ **Credit and Collections**.
 2. Expand **Setup** then click **Aging period definitions**.
 3. Review the ageing criteria and identify the overdue customers or transactions.
-4. Select the transactions to write off.
-5. Go back to **Credit and Collections**, expand **Workspaces**, then click **Customer credit and collections**. 
-6. Click **Write Off**.
-7. Enter the **Write Off Date**.
-8. Select the **Reason Code**.
-9. Enter a **Description**.
-10. Confirm the **Posting account**.
-11. Click **OK** to create the write-off journal.
-12. Go to **Modules** ▸ **General Ledger** ▸ **Journal entries** ▸ **General journals**.
-13. Locate and review the new journal.
-14. Submit the journal for workflow approval, if required.
-15. Click **Post** to finalize the write-off.
+4. Go back to **Credit and Collections**, expand **Workspaces**, then click **Customer credit and collections**. 
+5. Click **Write Off**.
+6. Enter the **Write Off Date**.
+7. Select the **Reason Code**.
+8. Enter a **Description**.
+9. Confirm the **Posting account**.
+10. Click **OK** to create the write-off journal.
+11. Go to **Modules** ▸ **General Ledger** ▸ **Journal entries** ▸ **General journals**.
+12. Locate and review the new journal.
+13. Submit the journal for workflow approval, if required.
+14. Click **Post** to finalize the write-off.
 
 > **Note:**: If workflow is not enabled, post the journal directly.
+
+![Customer Bulk Write-off 1](./99-Images/customer_bulk_write_off_1.png)
+
+![Customer Bulk Write-off 2](./99-Images/customer_bulk_write_off_2.png)
+
+![Customer Bulk Write-off 3](./99-Images/customer_bulk_write_off_3.png)
 
 ---
 
