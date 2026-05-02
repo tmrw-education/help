@@ -95,6 +95,37 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 ## Application / Registration Fee Process via Online
 
+When a student record arrives from the student management system with an enrolment status of *Prospective* and an enrolment application status of *Registered*, the system automatically generates a registration fee request. No manual intervention is required to create the fee or the receipt — both are triggered by the student management system sending a payment link to the fee payer. Once payment is received, D365 automatically posts the receipt. This process covers how to verify the fee was created and confirm the receipt has been posted.
+
+> **Note:** *The registration fee is automatically created when the student record syncs from the student management system with an enrolment status of Prospective and application status of Registered.
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
+2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
+3. Click **All pre-admission fees**.
+4. Search for the student by name or account number.
+5. Click the **General** tab.
+6. Click the link in the **Document number** field to open the sales order for the registration fee.
+7. Locate the student's registration fee record.
+8. Click **Back**.
+9. Click the **Payment** tab.
+10. Click the link in the **Reciept journal** field.
+11. Locate the student's reciept journal record.
+
+> **Note:** *The receipt is created automatically once the fee payer completes payment via the payment link sent by the student management system. No manual posting is required.*
+
+12. Verify the receipt status shows as **Posted**.
+13. Click **Lines** in the toolbar to view the posting detail for the registration fee.
+
+![Application Registration Fee Process Online 1](./99-Images/application_registration_fee_process_online_1.png)
+
+![Application Registration Fee Process Online 2](./99-Images/application_registration_fee_process_online_2.png)
+
+![Application Registration Fee Process Online 3](./99-Images/application_registration_fee_process_online_3.png)
+
+![Application Registration Fee Process Online 4](./99-Images/application_registration_fee_process_online_4.png)
+
+![Application Registration Fee Process Online 5](./99-Images/application_registration_fee_process_online_5.png)
+
 ---
 
 #### Cashier Receipting
@@ -133,8 +164,7 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 
 ## Enrolment Deposit Process - Online
 
-### Overview
-Registration fees are automatically generated and posted when a student's enrolment status is prospective and the enrolment application is registered in the student management system.
+When a fee payer completes an enrolment deposit payment via the payment link sent by the student management system, D365 automatically receives and posts the receipt. No manual cashier processing is required. This process covers how to verify the deposit was received and confirm the receipt has been posted.
 
 > **Note:** *When a record syncs, the system auto-creates a registration fee request.*
 
