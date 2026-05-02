@@ -24,8 +24,6 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 
 ![Subject And Event Name Setup Creation 1](./99-Images/subject_and_event_name_setup_creation_1.png)
 
-![Subject And Event Name Setup Creation 2](./99-Images/subject_and_event_name_setup_creation_2.png)
-
 ---
 
 ## Create Subject and Event Codes
