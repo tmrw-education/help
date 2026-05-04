@@ -230,6 +230,7 @@ Academic year setup defines the academic calendar structure used across the plat
 6. Click **Save**.
 
 ![Payment_Option_Setup_1](./99-Images/payment_option_setup_1.png)
+
 ---
 
 ## Curriculum
