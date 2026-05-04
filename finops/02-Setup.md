@@ -233,7 +233,9 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ---
 
-## Curriculum
+## Curriculum (GEMS)
+
+> **Note:** *Curriculum codes must be as per student management system.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click on **Curriculum**.
