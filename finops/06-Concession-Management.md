@@ -6,7 +6,8 @@ Concession Management handles the configuration and application of scholarships,
 
 ## Setup Scholarship & Discount Codes
 
-> **Note:** The charge code must already exist before completing this setup. 
+> **Note:** *The charge code must already exist before completing this setup.*
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Scholarships and discounts**.
 3. Click **New** in the toolbar.
@@ -27,7 +28,9 @@ Concession Management handles the configuration and application of scholarships,
    - Enter the scholarship or discount name in the **Name column**.
    - Check the **Active** and **Approval boxes**.
    - Assign or create the approval group in the **User group** column.
-     *Note: To assign an existing group, select it from the dropdown.*
+
+> **Note:** *To assign an existing group, select it from the dropdown.*
+
 5. To create a new group, if necessary, right-click the dropdown arrow, select **View details**, then click **New**.
 6. Enter a **Name** for the group and then select the **User group**.
 7. Click **Add / remove users**.
@@ -87,9 +90,11 @@ Concession Management handles the configuration and application of scholarships,
 6. Click **New** to create a new record.
 7. Complete the following columns to link a scholarship or discount to a student:
    - Choose a student from the **Student Account** dropdown.
-     *Note: The Student Name, Code, and Scholarship/Discount Name will prepopulate.*
    - Choose whether to apply a **percentage or total discount** amount.
    - Set the **start and expiration date**.
+
+> **Note:** *The Student Name, Code, and Scholarship/ Discount Name will prepopulate.*
+
 8. Click **Save**.
 
 ![Linking Scholarships And Discounts To Students Creation 1](./99-Images/linking_scholarships_and_discounts_to_students_creation_1.png)
@@ -115,6 +120,8 @@ Concession Management handles the configuration and application of scholarships,
 ![Scholarship And Discount Approval Process Creation 2](./99-Images/scholarship_and_discount_approval_process_creation_2.png)
 
 ![Scholarship And Discount Approval Process Creation 3](./99-Images/scholarship_and_discount_approval_process_creation_3.png)
+
+---
 
 ## Approving or Rejecting Scholarships and Discounts
 
@@ -298,10 +305,12 @@ The scholarship and discount details import process allows bulk entry of scholar
 3. Click **Open in Microsoft Office** in the toolbar.
 4. Select **TMRW Student scholarship discount entity (AKN)**.
 5. Click **Download**.
+
 > **Note:** *An Excel file will download to your computer. The file contains the data entity template pre-configured for the scholarship and discount records.*
  
 6. Open the downloaded Excel file.
 7. Click **Enable Editing** and open in the desktop.
+
 > **Note:** *Wait for the Excel add-in to complete sign-in before proceeding. The add-in connects to the GEMS environment to read and write data.*
  
 8. Click **Design** in the add-in connection panel (bottom-right corner).
@@ -311,12 +320,15 @@ The scholarship and discount details import process allows bulk entry of scholar
 12. Click **Yes** in the confirmation prompt.
 13. Click **Done**.
 14. Click **Refresh** in the add-in panel.
+
 > **Note:** *Refreshing pulls the latest data from the system into the spreadsheet, including any records already saved.*
 
 15. Enter new records in the rows below the existing data, or copy existing rows and edit the details as required.
+
 > **Note:** *Do not modify or delete existing records unless a change to those records is specifically required. Altering existing rows will overwrite the data in the system on publish.*
  
 16. Click **Publish** in the add-in panel.
+
 > **Note:** *The system validates each row before saving. Rows that fail validation are highlighted in red text. Correct the flagged data and click Publish again to resubmit.*
  
 17. Confirm that all records have been accepted and are visible in the **Scholarships and discounts** master.
