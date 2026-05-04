@@ -310,6 +310,7 @@ Academic year setup defines the academic calendar structure used across the plat
 3. Click **New**.
 4. Enter details in the **Stream** column.
 5. Enter details in the **Description** column.
+  >**Note**: *Use the same naming and description format as the student management system to keep the setup consistent across both systems.*
 6. Click **Save**.
 
 ![Stream_1](./99-Images/stream_1.png)
