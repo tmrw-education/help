@@ -26,18 +26,6 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 
 ---
 
-## Create Subject and Event Codes
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Subject and event names**.
-3. Click **New** in the top toolbar.
-4. Complete the columns to create codes for subjects and events.
-5. Click **Save**.
-
-![Create Subject And Event Codes Creation 1](./99-Images/create_subject_and_event_codes_creation_1.png)
-
----
-
 ## Event Template Setup
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
