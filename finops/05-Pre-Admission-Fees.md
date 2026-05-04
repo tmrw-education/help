@@ -185,7 +185,7 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 8. Click **OK**.
 9. To preview, click the **Forfeit journal number**.
 10. Open the journal by clicking **Lines** in the toolbar.
-11. Review the transaction, select the credit line using the **checkbox**, and click **Post**.
+11. Select the credit line using the **checkbox**, review or edit the VAT as required, and click **Post**.
 12. Click **Save** in the toolbar.                                                           
 13. Review the transaction.
 14. Select the credit line using the **checkbox** and click **Post**.
