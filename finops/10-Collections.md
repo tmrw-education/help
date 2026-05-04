@@ -217,7 +217,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 5. In the **Description** field, enter a description for the transaction.
 6. In the invoices panel on the right, tick the **Mark** checkbox to select the activity fee invoice.
 7. In the **Method of payment** field, select the payment method.
-8. In the **Amount** field, enter the activity fee amount.A
+8. In the **Amount** field, enter the activity fee amount.
 9. In the **Payment reference** field, enter the payment reference, if required.
 10. Click **Post** in the Action Pane.
 11. Enable the **Print receipt** toggle to preview the posted payment receipt.
