@@ -48,3 +48,12 @@
 ![Post Fee Invoices 10](./99-Images/post_fee_invoices_10.png)
 
 ---
+
+   >**Note:** *After posting, the system will create an Advance Tax Invoice. The following steps show how to print the advance tax invoice from the customer record in D365 F&O.*
+12. Navigate to **Modules** ▸ **Credit and collections** ▸ **Customers** ▸ **All customers**.
+13. Open the relevant customer record.
+14. Click **Collect** ▸ **Invoices** ▸ **Invoice journal**.
+15. Locate the **Advance tax invoice** created for the fee head (document type = Advance/FTI).
+16. Open the **invoice record**.
+17. From the Action Pane, click **Print** ▸ **Tax invoice** (which uses the FTI template).
+18. Select the required print options and print or preview the invoice.
