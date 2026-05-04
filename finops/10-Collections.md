@@ -397,6 +397,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Assigning Early Payment Discounts to Products / Fees
 
+>**Note**: This process is used for Advance Discount Payment – Date Based. 
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Expand **Products** and click **Released products**.
 3. Select a relevant **fee item** (e.g., tuition, music lesson, sport class).
