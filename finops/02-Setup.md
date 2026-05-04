@@ -121,13 +121,13 @@ Academic year setup defines the academic calendar structure used across the plat
 
 > **Note:** *The **Sequence order** will be automatically filled in.*
 
-4. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
-5. Click **Save**.
-6. Select **Tuition fee items** from the Action Pane.
-7. Click **New**.
-8. Select **Tuition fee** from the **Item number** field.
-9. Enter **Year** in the **Unit** field.
-10. Close the page.
+3. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
+4. Click **Save**.
+5. Select **Tuition fee items** from the Action Pane.
+6. Click **New**.
+7. Select **Tuition fee** from the **Item number** field.
+8. Enter **Year** in the **Unit** field.
+9. Close the page.
 
 > **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
 
