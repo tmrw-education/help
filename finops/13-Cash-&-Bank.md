@@ -36,9 +36,10 @@ The day-end procedure ensures that all cash transactions processed throughout th
 16. Expand **Records to include** and click **Filter**.
 17. Enter the **deposit slip number** in the criteria field.
 18. Click **OK** to generate the report.
-19. From the **FNO dashboard**, open **Modules** ▸ **Cash and bank management**.
-20. Click **Bank accounts** and select the relevant **bank account**.
-21. Click **Transactions** to verify the deposit.
+  > **Note:** *The next steps show the process for viewing the consolidated deposit via the bank account.*
+20. From the **FNO dashboard**, open **Modules** ▸ **Cash and bank management**.
+21. Click **Bank accounts** and select the relevant **bank account**.
+22. Click **Transactions** to verify the deposit.
 
 > **Note:** *The consolidated deposit should appear as a single transaction amount for the day, confirming the end-of-day consolidation has been applied correctly.*
 
