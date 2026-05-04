@@ -5,14 +5,14 @@ Collections covers the full range of payment processing and receipt management f
 ---
 
 #### Setup
-Payment schedules allow the school to offer fee payers the option of paying invoices in instalments rather than as a single lump sum. Setting this up involves two steps. First, a payment schedule is created in Accounts Receivable, defining the allocation method, the number of payments, and the frequency. Second, the schedule is linked to a payment option in Academic Management, giving it a name, description, and active date range. Once both are in place, the payment plan can be applied to individual fee payer accounts, and the system will split their invoices into the configured instalments accordingly.
+Payment schedules allow the school to offer fee payers the option to pay invoices in instalments rather than a single lump sum. Setting this up involves two steps. First, a payment schedule is created in Accounts Receivable, defining the allocation method, the number of payments, and the frequency. Second, the schedule is linked to a payment option in Academic Management, giving it a name, description, and active date range. Once both are in place, the payment plan can be applied to individual fee payer accounts, and the system will split their invoices into the configured instalments accordingly.
 
 
 ---
 
 ## Create a New Payment Plan
 
->**Note**: The payment plan setup defines how the offered plans display on the customer statement.
+>**Note**: *The payment plan setup defines how the offered plans display on the customer statement.*
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments setup** and click **Payment schedules**.
 3. Click **New** to create a new payment schedule entry.
@@ -36,7 +36,7 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Payment option setup**.
 3. Click **New** to create a new payment option.
-4. Complete the following fields to create they payment option:
+4. Complete the following fields to create the payment option:
    - Select the required **payment plan**.
    - Enter an **Option name**.
    - Enter a **Description**.
@@ -62,7 +62,7 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 11. Choose 1 or more invoices checkbox.
 12. Click **Preview** in bottom left to review the split invoices.
 13. Review the details and click **Back**.
-14. Click **Yes** in bottom left, if prompted. 
+14. Click **Yes** in the bottom left to proceed with the payment plan or **Back** to cancel.
 15. Click **Save**.
 16. Open **Modules** ▸ **Academic management** ▸ **Inquiries and reports**.
 17. Expand **Payment Plan**, click **Payment plan details**.
