@@ -14,7 +14,7 @@ The intercompany transfer process is used when a student moves from one school t
 4. Select the **Originating company**.
 5. Enter the **Credit account** to be used as the control account for the transfer from the originating school.
 
-   > **Note:** *For the originating school, the transfer posts to the credit side. For the destination school, the transfer posts to the debit side.*
+> **Note:** *For the originating school, the transfer posts to the credit side. For the destination school, the transfer posts to the debit side.*
 
 6. Enter the **Journal** for the originating company.
 7. Enter the **Posting profile** to be used for the transfer transactions.
@@ -22,7 +22,7 @@ The intercompany transfer process is used when a student moves from one school t
 9. Open **Financial dimensions** tab.
 10. Enter the **fee head** or financial dimensions to be defaulted on the transfer journal.
 
-   > **Note:** *Financial dimensions set here are applied automatically to the transfer voucher. This controls how the transfer is reported against fee heads or cost centres.*
+> **Note:** *Financial dimensions set here are applied automatically to the transfer voucher. This controls how the transfer is reported against fee heads or cost centres.*
 
 11. Repeat steps 4-10 for the destination company.
 12. Click **Save**.
@@ -45,7 +45,7 @@ The intercompany transfer process is used when a student moves from one school t
 4. Expand **Other Information**.
 5. Verify the **Destination school** field has been populated by the CE system.
 
-   > **Note:** *The CE system updates the Destination school field in the student master automatically when a transfer is initiated. This field identifies which company the credit balance will be transferred to.*
+> **Note:** *The CE system updates the Destination school field in the student master automatically when a transfer is initiated. This field identifies which company the credit balance will be transferred to.*
 
 6. Open **Academic** in the toolbar.
 7. Click **Transfer**.
@@ -53,10 +53,12 @@ The intercompany transfer process is used when a student moves from one school t
 8. Review the credit balance displayed in the confirmation dialog.
 9. Click **OK** to confirm the transfer.
 
-   > **Note:** *The system automatically generates two transfer journals — one in the originating school to clear the student's credit balance, and one in the destination school to post the corresponding credit to the student's account there.*
+> **Note:** *The system automatically generates two transfer journals — one in the originating school to clear the student's credit balance, and one in the destination school to post the corresponding credit to the student's account there.*
 
 ![Transfer Customer Credit Balance 1](./99-Images/transfer_customer_credit_balance_1.png)
 
 ---
 
 ## Intercompany Transaction in case of Monthend Fee Concession Transfers
+
+---
