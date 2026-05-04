@@ -142,7 +142,9 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 6. Select the **payment method** (e.g., credit card or cash) from the Method of payment column.
 7. Enter the **amount being paid** and select the **payment account** where the funds will be deposited.
 8. **Mark the invoices** the payment should be applied to.
-   > Note: *If the payment exceeds the invoice total, the extra amount is recorded as an advance.*
+
+> Note: *If the payment exceeds the invoice total, the extra amount is recorded as an advance.*
+
 9. The system automatically checks the **Pay in Advance** box if there is an unallocated amount.
 10. Click **Post** to finalise the entry.
 11. The system generates a **unique journal number** for reference.
@@ -159,6 +161,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 2. Expand **Payments** and click **Cashier receipt**.
 3. Click **+ Cashier receipt** to create a new cashier receipt journal.
 4. Enter the **student account** in the **Customer** field.
+
 > **Note:** *The description field auto-populates based on the selected account but can be edited if required.*
  
 5. In the invoices panel on the right, tick the **invoice** to be paid.
@@ -226,6 +229,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 6. In the **Method of payment** field, select the payment method.
 7. In the **Amount** field, enter an amount greater than the invoice total.
 8. Enter a value in the **Payment reference** field if required.
+
 > **Note:** *After saving, the excess amount appears in the **Overpayment** field. This allows the cashier to review and correct the amount before posting if the overpayment was entered in error.*
  
 9. Click **Post**.
@@ -249,6 +253,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 7. Enter the **amount** in the amount field.
 8. Enter the payment reference in the **Payment reference** field if required.
 9. Click **Check details**.
+
 > **Note:** *The Check details button becomes active only when the Method of payment is set to Cheque.*
  
 10. Enable the **Postdated check** toggle.
@@ -289,12 +294,17 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
 9. Click **OK** to run the proposal.
 10. The system displays all invoices due within the selected period. Select the invoices to be paid, or leave unmarked to select all.
 11. Click **Create Payments** to transfer selected invoices to the payment journal.
-    > Note: *Delete any lines with zero or debit amounts, as only payable invoices should remain.*
+
+> Note: *Delete any lines with zero or debit amounts, as only payable invoices should remain.*
+
 12. Enter the **Payment reference** as required.
 13. Click the **Functions** button in the toolbar, then select **Generate Credit Card Payments**.
-    > Note: *The system requests authorisation from the service provider. If successful, the status changes to Approved; if not, a failure message appears, unauthorised lines are deleted and must be manually retired or reviewed.*
+
+> Note: *The system requests authorisation from the service provider. If successful, the status changes to Approved; if not, a failure message appears, unauthorised lines are deleted and must be manually retired or reviewed.*
+
 14. Once authorisation is received, click **Post**.
-    > Note: *The system confirms posting, and the Post button becomes inactive. All transactions are now posted and complete.*
+
+> Note: *The system confirms posting, and the Post button becomes inactive. All transactions are now posted and complete.*
 
 ![Schuedling Credit Card Payments 1](./99-Images/scheduling_credit_card_payments_1.png)
 
@@ -421,7 +431,8 @@ Advance payment allows a school to collect fees for future term invoices before 
 2. Expand **Setup** and click **Fee schedule parameter**.
 3. Choose whether to enable or disable **Early payment discount eligibility**.
 4. Click **Save**.
-   > Note: *If unchecked, the discount applies even if only one invoice is paid. If checked, the discount applies only if all due invoices are paid together.*
+
+> **Note:** *If unchecked, the discount applies even if only one invoice is paid. If checked, the discount applies only if all due invoices are paid together.*
 
 ![Controlling Discount Eligibility Based on Payment](./99-Images/controlling_discount_eligibility_based_on_payment_1.png)
 
@@ -438,11 +449,14 @@ Advance payment allows a school to collect fees for future term invoices before 
 7. Click **Settle transactions**.
 8. Set the **payment date before the discount due date**.
 9. Settle the invoice(s) by clicking **OK**.
-   > Note: *The system automatically applies the discount, reducing the payable amount.*
+
+> **Note:** *The system automatically applies the discount, reducing the payable amount.*
+
 10. Enter **Payment reference**.
 11. **Post** the journal.
 12. Check the **voucher** to confirm the discount was posted.
-    > Note: *Click the three dots in the toolbar and choose All related vouchers to see the discount amount.*
+
+> **Note:** *Click the three dots in the toolbar and choose All related vouchers to see the discount amount.*
 
 ![Processing Payments with Discounts 1](./99-Images/processing_payments_with_discounts_1.png)
 
@@ -481,7 +495,8 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 15. Click **OK**.
 16. Click **Post**.
-    - If a workflow is active, submit the journal for approval and follow the workflow process until the journal is approved before posting.
+
+> **Note:** *If a workflow is active, submit the journal for approval and follow the workflow process until the journal is approved before posting.*
 
 ![Fee Refunds of Credit Balances 1](./99-Images/fee_refunds_of_credit_balances_1.png)
 
@@ -716,3 +731,5 @@ When a customer cheque is returned due to insufficient funds, staff must reverse
 ![Cancel Cheque Insufficient Funds 3](./99-Images/cancel_cheque_insufficient_funds_3.png)
 
 ![Cancel Cheque Insufficient Funds 4](./99-Images/cancel_cheque_insufficient_funds_4.png)
+
+---
