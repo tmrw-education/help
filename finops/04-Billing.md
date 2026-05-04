@@ -613,6 +613,6 @@ The student ledger provides a consolidated view of a student's financial activit
 6. Click **OK**.
 7. Return to the sales order and **refresh** the page to confirm that future terms show the updated price.
 
-![Fee Structure - Price Changes 4](./99-Images/fee_structure_price_changes_4.png)
+![Fee Structure - Recalculate_Sales_Prices 1](./99-Images/fee_structure-recalculate_sales_prices_1.png)
 
 ---
