@@ -128,8 +128,6 @@ Academic year setup defines the academic calendar structure used across the plat
 8. Select **Tuition fee** from the **Item number** field.
 9. Enter **Year** in the **Unit** field.
 10. Close the page.
-11. To check, navigate to **Academic management ▸ Students ▸ All students**.
-12. Select a student from the list to see which grade they are enrolled in.
 
 > **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
 
