@@ -419,6 +419,8 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Customer Integration Mapping
 
+>**Note**: This process defines how customer data is mapped and synchronized between the source system and Dynamics 365 Finance and Opertaions. It also classifies records into the correct customer type, such as Student or Fee payer, based on configuration.
+
 1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type**. 
 2. Click **New**. 
 3. Fill in the **Record type** and **Description fields**. 
@@ -426,12 +428,10 @@ The sibling discount feature allows the school to automatically apply fee reduct
 5. Navigate to **Modules Academic management ▸ Setup ▸ Integration ▸ Customer integration mapping**. 
 6. Click **New**. 
 7. Select the **Record type** from the dropdown. 
-
 > **Note:** *The Record type description should fill in automatically.*
-
-9. In the **Customer type** field, select between Student and Fee payer. 
-10. Select the appropriate **Customer group** from the dropdown. 
-11. Click **Save**.
+8. In the **Customer type** field, select between Student and Fee payer. 
+9. Select the appropriate **Customer group** from the dropdown. 
+10. Click **Save**.
 
 ![Customer_Integration_Mapping_1](./99-Images/customer_integration_mapping_1.png)
 
