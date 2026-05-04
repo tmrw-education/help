@@ -590,24 +590,28 @@ The student ledger provides a consolidated view of a student's financial activit
 14. Click **Post**.
 15. Return to the fee item and verify the updated price for the intended academic year and curriculum.
 
->**Note**: The steps below shows how to update the pro forma invoice:
-
-16. Go to **Modules** ▸ **Academic Management**.
-17. Expand **Periodic Tasks** and click **Recalculate Open Sales Order**.
-18. Filter for the relevnat student or sales order number.
-19. In **Parameters**, toggle **Yes** in **Recalculate sales price**.
-20. In **Records to include**, filter **Student account** or enter a particular **Sales order**.
-
->**Note**: *You can filter for group of students or whole cycle for fee and charge interval.*
-
-21. Click **OK**.
-22. Return to the sales order and **refresh** the page to confirm that future terms show the updated price.
-
 ![Fee Structure - Price Changes 1](./99-Images/fee_structure_price_changes_1.png)
 
 ![Fee Structure - Price Changes 2](./99-Images/fee_structure_price_changes_2.png)
 
 ![Fee Structure - Price Changes 3](./99-Images/fee_structure_price_changes_3.png)
+
+---
+
+## Fee Structure - Recalculate Sales Prices 
+
+>**Note**: *The steps below shows how to update the pro forma invoice.*
+
+1. Go to **Modules** ▸ **Academic Management**.
+2. Expand **Periodic Tasks** and click **Recalculate Open Sales Order**.
+3. Filter for the relevant student or sales order number.
+4. In **Parameters**, toggle **Yes** in **Recalculate sales price**.
+5. In **Records to include**, filter **Student account** or enter a particular **Sales order**.
+
+>**Note**: *You can filter for group of students or whole cycle for fee and charge interval.*
+
+6. Click **OK**.
+7. Return to the sales order and **refresh** the page to confirm that future terms show the updated price.
 
 ![Fee Structure - Price Changes 4](./99-Images/fee_structure_price_changes_4.png)
 
