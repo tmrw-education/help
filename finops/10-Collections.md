@@ -31,6 +31,8 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 
 ## Apply the Payment Schedule to Payment Plans
 
+**Note:** *This process defines and controls the payment options in D365 F&O that are available to parents, and controls valid plans that are displayed on PXP and published on the Customer Statement.*
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Payment option setup**.
 3. Click **New** to create a new payment option.
