@@ -81,6 +81,8 @@ Before students can be registered for sessional classes or events, each event re
 
 ![Sessional Class And Event Enrolment Creation 2](./99-Images/sessional_class_and_event_enrolment_creation_2.png)
 
+---
+
 ## Set the Deferral Date
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
@@ -95,6 +97,8 @@ Before students can be registered for sessional classes or events, each event re
 5. Click **Ok**.
 
 ![Set The Deferral Date Creation 1](./99-Images/set_the_deferral_date_creation_1.png)
+
+---
 
 ## Over-the-Counter Registration and Invoice Generation
 
