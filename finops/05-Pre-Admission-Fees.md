@@ -307,23 +307,6 @@ When the integration between the F&O and CE systems is not yet active, pre-admis
 
 ---
 
-## Manually Adding Enrolment Deposit Records
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
-3. Click **All pre-admission fees**.
-4. Click **New** in the toolbar.
-5. Enter the required information for each column in the table.
-6. Click **Post** in the toolbar.
-
->**Note:** *The status updates from Created to Posted.*
-
-7. Click **Save**.
-
-![Manually Adding Enrolment Deposit Records](./99-Images/manually_adding_enrolment_deposit_records_creation_3.png)
-
----
-
 
 #### Payments
 Once enrolment fees and deposits have been created and posted, payments can be processed directly from the Pre-Admission Fees table. This process is used when a fee payer makes a payment in person at the school's counter, rather than through the Parent Portal (PXP). Staff select the relevant fee or deposit, choose the appropriate bank account, and confirm the payment. The system then updates the record status to reflect that payment has been received, providing an accurate and up-to-date view of each student's financial position prior to enrolment.
