@@ -586,7 +586,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ---
 
-## Generate Fee Statements
+## Generate Fee Statements - In Bulk
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Fee payer statement report**.
