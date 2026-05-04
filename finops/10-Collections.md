@@ -64,13 +64,18 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 13. Review the details and click **Back**.
 14. Click **Yes** in the bottom left to proceed with the payment plan or **Back** to cancel.
 15. Click **Save**.
+   > **Note:** *The following steps show how to view all fee payers on a payment plan.*
 16. Open **Modules** ▸ **Academic management** ▸ **Inquiries and reports**.
 17. Expand **Payment Plan**, click **Payment plan details**.
 18. Change the filter to **Show All** if needed.
 19. Select the invoice.
 20. Click **Invoices** from toolbar.
-21. Click **Split invoice details** from toolbar to verify the invoices were split correctly.
-22. Click **Cancel** to exit. 
+21. Click **Split invoice details** from the toolbar to verify the invoices were split correctly.
+22. Click **Cancel** to exit.
+   > **Note:** *Follow the next steps to view the payment plan directly from the customer.*
+23. Navigate to **Academic management** ▸ **Fee payer** ▸ **All fee payers**.
+24. Select the customer, then click on **Academic** from the Action Pane.
+25. Then under **Payment plan**, select **View payment plan**.
 
 ![Apply Payment Plan to Fee Payer 1](./99-Images/apply_payment_plan_to_fee_payer_1.png)
 
@@ -81,6 +86,8 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 ![Apply Payment Plan to Fee Payer 4](./99-Images/apply_payment_plan_to_fee_payer_4.png)
 
 ![Apply Payment Plan to Fee Payer 5](./99-Images/apply_payment_plan_to_fee_payer_5.png)
+
+![Apply_Payment_Plan_to_Fee_Payer_6](./99-Images/apply_payment_plan_to_fee_payer_6.png)
 
 ---
 
