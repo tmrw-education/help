@@ -12,6 +12,7 @@ Payment schedules allow the school to offer fee payers the option of paying invo
 
 ## Create a New Payment Plan
 
+>**Note**: The payment plan setup defines how the offered plans display on the customer statement.
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments setup** and click **Payment schedules**.
 3. Click **New** to create a new payment schedule entry.
