@@ -4,20 +4,6 @@ Concession Management handles the configuration and application of scholarships,
 
 ---
 
-## Setup Scholarship & Discount Codes
-
-> **Note:** *The charge code must already exist before completing this setup.*
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Setup** and click **Scholarships and discounts**.
-3. Click **New** in the toolbar.
-4. Complete the columns to create a new scholarship or discount.
-5. Click **Save**.
-
-![Create A New Scholarship Or Discount Creation 1](./99-Images/create_a_new_scholarship_or_discount_creation_1.png)
-
----
-
 ## Scholarship and Discount Setup
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
