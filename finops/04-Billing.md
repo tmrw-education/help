@@ -54,7 +54,7 @@ Billing manages the end-to-end process of generating and posting fee invoices fo
 ---
 
 #### Create Fee Invoices
-With student data confirmed and fee schedule templates in place, the system is ready to generate fee invoices through a batch process. Staff navigate to the Generate Sales Order Batch Processing task and configure the run by setting the fee generation and posting dates, selecting the posting option, choosing whether to consolidate invoices by item, and filtering for the relevant student cohort and fee schedule templates. For large groups, the batch can be run in the background to avoid performance issues. Once complete, the system generates sales orders for all selected students, which can then be reviewed before posting.
+With student data confirmed and fee schedule templates in place, the system is ready to generate fee invoices through a batch process. Staff navigate to the Generate Sales Order Batch Processing task and configure the run by setting the fee generation and posting dates, selecting the posting option, choosing whether to consolidate invoices by item, and filtering for the relevant student cohort and fee schedule templates. For large groups, the user can continue working in the system whilst the process runs, or enable tasks to run out of hours. Once complete, the system generates sales orders for all selected students, which can then be reviewed before posting.
 
 ---
 
