@@ -128,8 +128,6 @@ Concession Management handles the configuration and application of scholarships,
 
 ## View Scholarship & Discounts for Students via the Scholarship & Discounts details table
 
-## View Scholarships and Discounts for a Student
-
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All Students**.
 3. Search for and select the **student**.
