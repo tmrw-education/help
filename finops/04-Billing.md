@@ -228,7 +228,7 @@ During enrolment or re‑enrolment, the deposit paid by the parent is recorded i
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Fee schedules** and click **All fee schedules**.
 3. Click **New** to create a new template.
-4. Enter a name in **Fee schedule name** field (e.g., Split billing override template).
+4. Enter a name in the **Fee schedule name** field (e.g., Split billing override template).
 5. Set the **billing interval** (e.g., termly).
 6. Enable the **early payment discount** option if required.
 7. In the **Fee schedule lines** section, click **Add line**.
@@ -287,7 +287,14 @@ When a student begins their enrolment after the official term start date, it wou
 
 ---
 
+#### Using the Student Management system or D365 F&O
+Academic enrolment dates—including start date, end date, academic year, and enrolment status—are maintained in the Student Management System, which serves as the system of record for all academic lifecycle data. D365 F&O is deliberately not used to create or manage these dates directly. Instead, enrolment data is validated, governed, and updated in the student system where academic rules apply. The confirmed enrolment dates are then integrated into D365 F&O to support downstream financial processes, including fee generation, deposit settlement, and revenue recognition. This approach ensures a clear separation of academic ownership from financial processing and avoids duplication or inconsistency across systems.
+
+---
+
 ## Update Student Enrolment Dates
+
+>**Note:** *Critical changes, such as enrolment dates, can only be managed in the Student Management system, not directly in D365 F&O.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All Students**.
