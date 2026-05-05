@@ -136,13 +136,13 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 
 ---
 
-#### In-Person (Over-the-Counter)
+#### Cashier Receipts (Over-the-Counter)
  
-Over-the-counter payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff can process a payment using the Over the Counter Payment form — selecting the fee payer, entering the amount, and allocating it to open invoices — or through the Cashier Receipt form when paying outstanding overdue invoices directly. The Cashier Receipt form also supports post-dated cheque entry, allowing staff to record a cheque with a future maturity date, link it to a specific student account, and capture issuing bank details before posting. If a payment exceeds the invoice total, the system records the excess as an advance. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
+Cashier receipts payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff can process a payment using the Over the Counter Payment form — selecting the fee payer, entering the amount, and allocating it to open invoices — or through the Cashier Receipt form when paying outstanding overdue invoices directly. The Cashier Receipt form also supports post-dated cheque entry, allowing staff to record a cheque with a future maturity date, link it to a specific student account, and capture issuing bank details before posting. If a payment exceeds the invoice total, the system records the excess as an advance. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
 
 ---
 
-## Over-the-Counter Processing
+## Processing
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments** and click **Over the counter payment**.
@@ -165,7 +165,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
-## Over-the-Counter Processing – Outstanding Payment
+## Outstanding Payment
  
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments** and click **Cashier receipt**.
@@ -188,7 +188,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
-## Over-the-Counter Processing – Pre-Admission Fees Payment
+## Pre-Admission Fees Payment
  
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
 2. Expand **Payments** and click **Cashier receipt**.
@@ -208,7 +208,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
-## Over-the-Counter Processing – Activity Invoice Payment
+## Activity Invoice Payment
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
 2. Expand **Payments** and click **Cashier receipt**.
@@ -229,7 +229,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
-## Over-the-Counter Processing – Over Payment
+## Over Payment
  
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments** and click **Cashier receipt**.
@@ -252,7 +252,7 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 
 ---
 
-## Over-the-Counter Processing – Post-Dated Cheques
+## Post-Dated Cheques
  
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments** and click **Cashier receipt**.
@@ -282,6 +282,71 @@ Over-the-counter payment processing is used when a fee payer makes a payment dir
 ![Over-the-Counter Processing Post-Dated Cheques 1](./99-Images/over_the_counter_processing_post_dated_cheques_1.png)
 
 ![Over-the-Counter Processing Post-Dated Cheques 2](./99-Images/over_the_counter_processing_post_dated_cheques_2.png)
+
+---
+
+#### Cashier Receipt - Pay at any School
+
+The pay at any school process allows staff to receive and record fee payments on behalf of any school within the group, regardless of which school the student is enrolled at. Staff select the relevant company and student, mark the invoice to be paid, enter the payment details, and post the transaction. Once posted, the record is flagged in the system as a Pay at Any School transaction, providing a clear audit identifier for intercompany receipting.
+
+---
+
+## Pay at Any School
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
+2. Expand **Payments** and click **Cashier receipt report**.
+3. Click **+ Cashier receipt** to create a new cashier receipt journal.
+4. In the **Company** field, select the school receiving the payment.
+5. In the **Customer** field, select the student the payment is being received for.
+6. Mark the **invoice** to be paid.
+7. Select the **Method of payment** from the dropdown.
+8. Enter the **Amount**.
+
+> **Note:** *The **Payment account** field autofills based on the method of payment selected.*
+
+9. Enter the **Payment reference**.
+10. On the action pane, click **Post**.
+11. Enable the **Print receipt** toggle if a receipt is required.
+12. Click **OK** to post the transaction.
+
+> **Note:** *Once posted, the **Pay at Any School** column on the header is ticked. This flag identifies the record as a Pay at Any School transaction.*
+
+![Cashier Receipt Pay at Any School 1](./99-Images/cashier_receipt_pay_at_any_school_1.png)
+
+![Cashier Receipt Pay at Any School 2](./99-Images/cashier_receipt_pay_at_any_school_2.png)
+
+---
+
+#### Cashier Receipt — Miscellaneous Receipts
+
+The miscellaneous receipt function allows cashiers to record incoming payments that are not linked to a specific student invoice or customer account. This is used when funds are received for ad hoc items such as event fees, lost property charges, or sundry income. The cashier enters the payment details, selects a fee type to determine the correct general ledger coding, and posts the transaction. An optional receipt can be printed at the time of posting.
+
+---
+
+## Miscellaneous Receipt
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
+2. Expand **Payments** and click **Miscellaneous receipt**.
+3. Click **+ Miscellaneous receipt**.
+4. Enter the cashier name in the **Received From** field.
+5. Select the **Method of payment**.
+6. Enter the **Amount**.
+
+> **Note:** *The **Payment account** populates automatically based on the selected method of payment.*
+
+7. Enter the **Payment reference**.
+8. Select a **Fee type** from the dropdown.
+
+> **Note:** *The **Account**, **Description**, and **Sales tax group** fields populate automatically based on the selected fee type.*
+
+9. Enter the amount in the **Credit** field.
+10. Click **Post**.
+11. Enable the **Print receipt** toggle if a printed receipt is required.
+12. Click **OK** to complete the transaction.
+
+![Cashier Receipt Miscellaneous Receipt 1](./99-Images/cashier_receipt_miscellaneous_receipt_1.png)
+
+![Cashier Receipt Miscellaneous Receipt 2](./99-Images/cashier_receipt_miscellaneous_receipt_2.png)
 
 ---
 
@@ -622,71 +687,6 @@ Fee refunds of credit balances are processed when a student's account holds an e
 ![Generate Fee Statements 1](./99-Images/generate_fee_statements_1.png)
 
 ![Generate Fee Statements 2](./99-Images/generate_fee_statements_2.png)
-
----
-
-#### Cashier Receipt
-
-The cashier receipt process allows staff to receive and record fee payments on behalf of any school within the group, regardless of which school the student is enrolled at. Staff select the relevant company and student, mark the invoice to be paid, enter the payment details, and post the transaction. Once posted, the record is flagged in the system as a Pay at Any School transaction, providing a clear audit identifier for intercompany receipting.
-
----
-
-## Cashier Receipt – Pay at Any School
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
-2. Expand **Payments** and click **Cashier receipt report**.
-3. Click **+ Cashier receipt** to create a new cashier receipt journal.
-4. In the **Company** field, select the school receiving the payment.
-5. In the **Customer** field, select the student the payment is being received for.
-6. Mark the **invoice** to be paid.
-7. Select the **Method of payment** from the dropdown.
-8. Enter the **Amount**.
-
-> **Note:** *The **Payment account** field autofills based on the method of payment selected.*
-
-9. Enter the **Payment reference**.
-10. On the action pane, click **Post**.
-11. Enable the **Print receipt** toggle if a receipt is required.
-12. Click **OK** to post the transaction.
-
-> **Note:** *Once posted, the **Pay at Any School** column on the header is ticked. This flag identifies the record as a Pay at Any School transaction.*
-
-![Cashier Receipt Pay at Any School 1](./99-Images/cashier_receipt_pay_at_any_school_1.png)
-
-![Cashier Receipt Pay at Any School 2](./99-Images/cashier_receipt_pay_at_any_school_2.png)
-
----
-
-#### Miscellaneous Receipts
-
-The miscellaneous receipt function allows cashiers to record incoming payments that are not linked to a specific student invoice or customer account. This is used when funds are received for ad hoc items such as event fees, lost property charges, or sundry income. The cashier enters the payment details, selects a fee type to determine the correct general ledger coding, and posts the transaction. An optional receipt can be printed at the time of posting.
-
----
-
-## Cashier Receipt — Miscellaneous Receipt
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
-2. Expand **Payments** and click **Miscellaneous receipt**.
-3. Click **+ Miscellaneous receipt**.
-4. Enter the cashier name in the **Received From** field.
-5. Select the **Method of payment**.
-6. Enter the **Amount**.
-
-> **Note:** *The **Payment account** populates automatically based on the selected method of payment.*
-
-7. Enter the **Payment reference**.
-8. Select a **Fee type** from the dropdown.
-
-> **Note:** *The **Account**, **Description**, and **Sales tax group** fields populate automatically based on the selected fee type.*
-
-9. Enter the amount in the **Credit** field.
-10. Click **Post**.
-11. Enable the **Print receipt** toggle if a printed receipt is required.
-12. Click **OK** to complete the transaction.
-
-![Cashier Receipt Miscellaneous Receipt 1](./99-Images/cashier_receipt_miscellaneous_receipt_1.png)
-
-![Cashier Receipt Miscellaneous Receipt 2](./99-Images/cashier_receipt_miscellaneous_receipt_2.png)
 
 ---
 
