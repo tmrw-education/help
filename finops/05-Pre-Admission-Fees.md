@@ -165,7 +165,9 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 4. Select **Post receipt** from the Action Pane.
 5. Ensure **Preview** is toggled on.
 6. View the sales order by clicking **General**.
-   > **Note:** *The sales order will be available in cashier receipt for payment.*
+
+> **Note:** *The sales order will be available in cashier receipt for payment.*
+
 7. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 8. Expand **Payments** and click **Cashier receipt**.
 9. Click **New cashier receipt** in the toolbar.
