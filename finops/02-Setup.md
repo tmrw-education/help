@@ -442,6 +442,8 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Fee Type
 
+> **Note:** *Fee types define the default general ledger account and tax postings for miscellaneous receipts. Once configured, the system applies these postings automatically, removing the need for manual account selection during processing.*
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup**, then expand **Cashier receipt**.
 3. Click **Fee type**. Review the list of existing fee types to avoid creating duplicates.
