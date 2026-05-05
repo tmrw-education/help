@@ -57,3 +57,15 @@
 16. Open the **invoice record**.
 17. From the Action Pane, click **Print** ▸ **Tax invoice** (which uses the FTI template).
 18. Select the required print options and print or preview the invoice.
+
+---
+
+Then, create the Sales order invoice. This step is automated when the payment is made online. 
+
+1. Navigate to **Academic management** ▸ **Inquiries and reports** ▸ **Pre-admission fees** ▸ **All admission fees**.
+2. Use the **Pre-admission** filter to search for **Application fee**.
+3. Find and select the correct student record.
+4. Select **Post receipt** from the Action Pane.
+5. Ensure **Preview** is toggled on.
+6. View the sales order by clicking **General**.
+   > **Note:** *The sales order will be available in cashier receipt for payment.*
