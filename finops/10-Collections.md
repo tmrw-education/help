@@ -550,8 +550,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 Fee refunds of credit balances are processed when a student's account holds an excess credit that needs to be returned to the fee payer. Staff create a customer payment journal using the refund journal type, select the student account, identify the credit invoice through the settle transactions function, and configure the financial dimensions for both the fee head and the offset bank account. Once the journal is posted — or approved through workflow if applicable — the refund is recorded against the student's account and the credit balance is cleared.
 
 ---
-
-## Fee Refunds of Credit Balances
+## Confirm Bank Account Details
 
 > **Note:** *Confirm a parent's bank details before paying via bank file.*
 
@@ -560,32 +559,37 @@ Fee refunds of credit balances are processed when a student's account holds an e
 3. Select the relevant record.
 4. In the Action Pane, click **Customer**, then under **Setup**, find **Bank accounts**.
 5. Confirm that an active bank account exists and is marked for refunds or payment processing.
-
-   >**Note:** *If no bank account is listed, follow the next steps to add a bank account.*
+> **Note:** *If no bank account is listed, follow the next steps to add a bank account.*
 6. Click **New**. Enter the bank details (bank name, IBAN, SWIFT, currency). Then **Save**.
 7. If necessary, update the existing bank account details. Then **Save**.
 
+![Confirm_Bank_Account_Details_1](./99-Images/confirm_bank_account_details_1.png)
+
+---
+
+## Fee Refunds of Credit Balances
+
    > **Comment:** *Proceed with the refund procedure only after the bank details are confirmed.*
 
-8. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
-9. Expand **Payments** and click **Customer payment journal**.
-10. Click **New**.
-11. In the **Name** field, select *Customer refund journal*.
-12. Click **Lines**.
-13. Complete the required fields.
-14. Click **Settle transactions**.
-15. Locate and select the credit invoice to be refunded.
-16. Select the **Mark** checkbox.
-17. Click **OK**.
-18. Open **Financial dimensions**, click **Account**
-19. In the **Fee head** value field, select the fee head to refund.
-20. Click **OK**.
-21. Open **Financial dimensions**, click **Offset account**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
+2. Expand **Payments** and click **Customer payment journal**.
+3. Click **New**.
+4. In the **Name** field, select *Customer refund journal*.
+5. Click **Lines**.
+6. Complete the required fields.
+7. Click **Settle transactions**.
+8. Locate and select the credit invoice to be refunded.
+9. Select the **Mark** checkbox.
+10. Click **OK**.
+11. Open **Financial dimensions**, click **Account**
+12. In the **Fee head** value field, select the fee head to refund.
+13. Click **OK**.
+14. Open **Financial dimensions**, click **Offset account**.
 
 > **Note:** *The offset account represents the bank account side of the refund transaction and should reflect the CashFlow refund account configured for your school.*
 
-22. Click **OK**.
-23. Click **Post**.
+15. Click **OK**.
+16. Click **Post**.
 
 > **Note:** *If a workflow is active, submit the journal for approval and follow the workflow process until the journal is approved before posting.*
 
