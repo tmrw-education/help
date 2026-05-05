@@ -454,7 +454,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Configure Advance Payment Discount - Date Based
 
->**Note**: In this setup, the discount is calculated based on the payment date only. If payment is received on or before the eligible date, the system applies the predefined discount amount, regardless of the payment method.
+>**Note**: *In this setup, the discount is calculated based on the payment date only. If payment is received on or before the eligible date, the system applies the predefined discount amount, regardless of the payment method.*
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payment setup** and click **Cash discounts**.
 3. Click **New** to add a discount.
