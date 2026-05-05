@@ -90,7 +90,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 ## Application Fee Waiver
 
-> **Note:** This process explains how to waive or cancel an application fee at any pre-admission stage, before or after the payment is posted.
+> **Note:** *This process explains how to waive or cancel an application fee at any pre-admission stage, before or after the payment is posted.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Pre‑admission fees**.
@@ -120,7 +120,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 When a student record arrives from the student management system with an enrolment status of *Prospective* and an enrolment application status of *Registered*, the system automatically generates a registration fee request. No manual intervention is required to create the fee or the receipt — both are triggered by the student management system sending a payment link to the fee payer. Once payment is received, D365 automatically posts the receipt. This process covers how to verify the fee was created and confirm the receipt has been posted.
 
-> **Note:** *The registration fee is automatically created when the student record syncs from the student management system with an enrolment status of Prospective and application status of Registered.
+> **Note:** *The registration fee is automatically created when the student record syncs from the student management system with an enrolment status of Prospective and application status of Registered.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
