@@ -181,6 +181,11 @@ After fee invoices have been generated and reviewed, they need to be formally po
 
 ---
 
+#### Enrolment Deposits
+During enrolment or re‑enrolment, the deposit paid by the parent is recorded in D365 F&O as a customer prepayment and held as an Accounts Receivable (AR) liability specific to the enrolment or re‑enrolment deposit transaction type. When fee generation is run for the relevant academic year, tuition fee invoices are created in AR. The system automatically settles the deposit against those invoices by offsetting the deposit liability against the trade receivable. This reduces the outstanding amount payable by the fee payer, clears the deposit balance (in whole or in part), and leaves any excess deposit as a customer credit. Charge‑in‑advance and subsequent revenue recognition are handled separately in line with standard fee posting and revenue recognition rules.
+
+---
+
 ## Settle Enrolment Deposits
 
 1. From **Modules** ▸ **Academic Management ▸ Inquiries and reports** ▸ **Pre-admission fees**.
