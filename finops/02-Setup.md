@@ -151,10 +151,6 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ![Academic Year Product 2](./99-Images/academic_year_(product)_2.png)
 
-![Academic_Year_1](./99-Images/academic_year_(product)_1.png)
-
-![Academic_Year_2](./99-Images/academic_year_(product)_2.png)
-
 ---
 
 ## Academic Year (GEMS)
