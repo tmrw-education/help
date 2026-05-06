@@ -49,7 +49,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 > **Note:** *For Enrolment Deposit and Re-enrolment Deposit types, do not select an item number. The system generates an open sales order header for fee generation.*
 
-14. Click **Save**.
+13. Click **Save**.
 
 ![Pre-admission_Posting_Setup_1](./99-Images/pre-admission_posting_setup_1.png)
 
