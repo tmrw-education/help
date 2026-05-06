@@ -156,8 +156,8 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 
 > **Note:** *This step is only required when a parent wishes to pay the registration fee over the counter. Typically, when payment is made online, the enrolment record is created automatically in D365 FnO and the sales order invoice is generated and posted without manual intervention. For counter payments, the student management system must first be manually progressed to Registered, after which a user must follow the steps below to create the sales order in readiness for receipting.*
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
-2. Expand **Inquiries and reports** and click **Pre-admission fees**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management** ▸ **Inquiries and reports**.
+2. Expand **Pre-admission fees** and click **All pre-admission fees**.
 3. Filter the **Pre-admission type** column by *Application Fee*.
 4. Filter to locate the correct student record.
 5. Select the record.
