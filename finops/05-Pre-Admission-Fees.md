@@ -317,12 +317,6 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 
 ---
 
-
-#### Enrolment Transactions
-
-
----
-
 ## Manually Adding Application Fee Records
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
