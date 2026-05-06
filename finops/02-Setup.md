@@ -116,20 +116,40 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ## Academic Year (Product)
 
-1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Academic year**.
-2. Click **New**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
+2. Expand **Setup** and click **Academic year**.
+3. Click **New** in the toolbar.
 
-> **Note:** *The **Sequence order** will be automatically filled in.*
+> **Note:** *The **Sequence** number is assigned automatically by the system and determines the order in which grades appear. This field cannot be edited.*
 
-3. Add a **Description** (grade level), **School level dimension**, and **Yeargroup dimension**.
-4. Click **Save**.
-5. Select **Tuition fee items** from the Action Pane.
-6. Click **New**.
-7. Select **Tuition fee** from the **Item number** field.
-8. Enter **Year** in the **Unit** field.
-9. Close the page.
+4. Enter the short code in the **Academic year** field (e.g., *KG1*, *01*, *02*).
 
-> **Note:** *If you select **Academic** from the Action Pane ▸ **Academic enrolments**, you can view all the years or grades the student has been enrolled in at the school.* 
+> **Note:** *This code is used internally and must match the grade code in the student management system.*
+
+5. Enter the full grade name in the **Description** field (e.g., *KG1*, *Grade 1*).
+
+> **Note:** *This description is displayed to users across Academic Management.*
+
+6. Select the applicable code in the **Fee master list** field.
+
+> **Note:** *The Fee master list identifies the fees to be sent to the student management system.*
+
+7. Click **Save**.
+8. Select **Tuition fee items** from the Action Pane.
+9. Click **New**.
+10. Select *Tuition fee* in the **Item number** field.
+
+> **Note:** *This defines the fee item used to calculate enrolment and re-enrolment deposits for students in this academic year.*
+
+11. Enter *Year* in the **Unit** field.
+
+> **Note:** *This indicates the tuition fee is charged on an annual basis.*
+
+12. Close the page.
+
+![Academic Year Product 1](./99-Images/academic_year_(product)_1.png)
+
+![Academic Year Product 2](./99-Images/academic_year_(product)_2.png)
 
 ![Academic_Year_1](./99-Images/academic_year_(product)_1.png)
 
