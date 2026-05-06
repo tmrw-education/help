@@ -12,7 +12,6 @@ Student Promotion manages the financial checks and processes that occur when stu
 
 ---
 
-#### Overriding of Fee Override in case of Re-Enrolment / Promotion / Report Release
 #### Reenrolment & Promotion — Financial Blocking
 
 During pre-promotion activities, the student management system polls Finance & Operations to check each student's outstanding fee balance before sending reenrolment invitations. This check runs automatically, typically in Term 2 and Term 3, and is driven by a threshold amount configured in the fee parameters. If a student's balance exceeds the threshold, the system blocks them from reenrolment and returns a status to the student management system indicating that the invitation should not be sent. A school staff member then contacts the family to arrange payment. Once the balance is cleared and the system polls again, the student's status updates to reenrolment open.
