@@ -64,7 +64,6 @@ Debtor notes are used to record interactions with fee payers — such as phone c
 1. From the **FNO dashboard**, open **Modules** ▸ **Workspaces** ▸ **Collections coordinator**.
 2. Locate the relevant debtor account and click **View customer detail**.
 3. Click the **New activity** dropdown.
-4. Select **Note** from the activity options.
 5. Select the **Event category**.
 6. Select the **Type**.
 7. Enter the **Purpose** of the interaction.
@@ -78,8 +77,10 @@ Debtor notes are used to record interactions with fee payers — such as phone c
 
 > **Note:** *Hover over a note in the events list to preview the note content without opening the full record.*
 
-12. To view the full note history for a customer, click **View customer collections**.
-13. Click the **Notes** tab.
-14. Select **Open and closed** to display all notes, including resolved items.
+12. To view the full note history for a customer, click **View customer**.
+13. Open the **Collect** and click **Collections**.
+14. Click on **Show** in **All activities**.
+15. Select **Open and closed** to display all notes, including resolved items.
+16. Click the **Notes** tab to review.
 
 ![Record Debtor Notes 1](./99-Images/record_debtor_notes_1.png)
