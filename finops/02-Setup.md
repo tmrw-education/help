@@ -145,7 +145,7 @@ Academic year setup defines the academic calendar structure used across the plat
 
 > **Note:** *This indicates the tuition fee is charged on an annual basis.*
 
-12. Close the page.
+12. Click **Save**.
 
 ![Academic Year Product 1](./99-Images/academic_year_(product)_1.png)
 
