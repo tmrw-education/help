@@ -52,3 +52,34 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 ## Bad Debt Provision
 
 ---
+
+#### Debtor Notes
+
+Debtor notes are used to record interactions with fee payers — such as phone calls or promises to pay — directly against the customer's account. Notes can be dated and filtered, and each entry can be reviewed in full detail at any time through the customer collections view.
+
+---
+
+## Record Debtor Notes
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Workspaces** ▸ **Collections coordinator**.
+2. Locate the relevant debtor account and click **View customer detail**.
+3. Click the **New activity** dropdown.
+4. Select **Note** from the activity options.
+5. Select the **Event category**.
+6. Select the **Type**.
+7. Enter the **Purpose** of the interaction.
+8. Enter the details of the interaction in the **Notes** field.
+9. Set the **Date and time** of the interaction.
+
+> **Note:** *The date and time field can be set to a future date to record a scheduled follow-up activity.*
+
+10. Click **Create event**.
+11. Review the created note in the events list on the customer detail screen.
+
+> **Note:** *Hover over a note in the events list to preview the note content without opening the full record.*
+
+12. To view the full note history for a customer, click **View customer collections**.
+13. Click the **Notes** tab.
+14. Select **Open and closed** to display all notes, including resolved items.
+
+![Record Debtor Notes 1](./99-Images/record_debtor_notes_1.png)
