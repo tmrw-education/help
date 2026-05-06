@@ -162,7 +162,7 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 1. Navigate to **Academic management** ▸ **Inquiries and reports** ▸ **Pre-admission fees** ▸ **All admission fees**.
 2. Use the **Pre-admission** filter to search for **Application fee**.
 3. Find and select the correct student record.
-4. Select **Post receipt** from the Action Pane.
+4. Click **Post**.
 5. Ensure **Preview** is toggled on.
 6. View the sales order by clicking **General**.
 
@@ -174,9 +174,6 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 10. Select the **student name** from the fee payer list.
 11. Click the **Pre-admissions** tab.
 12. Locate the registration fee entry and tick the **Mark** checkbox.
-
-> **Note:** *The registration fee document is created automatically when the student record syncs from the student management system.*
-
 13. Select the **Method of payment** from the dropdown.
 14. Enter the amount in the **Amount** field.
 15. Select the deposit account in the **Payment account** field.
