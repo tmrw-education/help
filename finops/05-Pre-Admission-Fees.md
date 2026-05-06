@@ -217,6 +217,8 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 
 ![Application Registration Fee Cashier 3](./99-Images/application_registration_fee_cashier_3.png)
 
+![Application Registration Fee Cashier 4](./99-Images/application_registration_fee_cashier_4.png)
+
 ---
 
 ## Adhoc Forfeiting Deposits
