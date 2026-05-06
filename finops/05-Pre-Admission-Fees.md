@@ -161,7 +161,7 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 3. Filter the **Pre-admission type** column by *Application Fee*.
 4. Filter to locate the correct student record.
 5. Select the record.
-6. Click **Post** in the ribbon.
+6. Click **Post**.
 7. Ensure the **Preview** toggle is set to *Yes*.
 
 > **Note:** *Setting Preview to Yes allows you to review the posting before it is finalised.*
@@ -172,6 +172,10 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 > **Note:** *Once posted, the sales order will be available in Cashier receipt for payment processing.*
 
 ![Manual Post Pre-Admission Fee Record 1](./99-Images/manual_post_pre_admission_fee_record_1.png)
+
+![Manual Post Pre-Admission Fee Record 2](./99-Images/manual_post_pre_admission_fee_record_2.png)
+
+![Manual Post Pre-Admission Fee Record 3](./99-Images/manual_post_pre_admission_fee_record_3.png)
 
 ---
 
