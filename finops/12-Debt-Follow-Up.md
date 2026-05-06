@@ -101,8 +101,7 @@ Debtor notes are used to record interactions with fee payers — such as phone c
 5. Select the **Event category**.
 6. Select the **Type**.
 7. Enter the **Purpose** of the interaction.
-8. Enter the details of the interaction in the **Notes** field.
-9. Set the **Date and time** of the interaction. 
+8. Enter the details of the interaction in the **Notes** field. Set the **Date and time** of the interaction. 
 
 > **Note:** *The date and time field can be set to a future date to record a scheduled follow-up activity.*
 
