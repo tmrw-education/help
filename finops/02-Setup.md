@@ -248,23 +248,20 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ## Intercompany Journal (GEMS)
 
-1. Navigate to **Academic management ▸ Setup ▸ Cashier Receipt ▸ Receipt intercompany mapping**.
-2. Click **New**.
-3. Select the **Method of payment** from the dropdown.
-
-> **Note:** *Choose the method of payment that has an Intercompany journal with the other schools.*
-
-5. Select the **Destination school** from the dropdown.
-
-> **Note:** *The selected school will have an Intercompany journal when the cashier journal is posted.*
-
-6. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
-   - If the **Account type** is Ledger, select Main in the **Account** field
-   - If the **Account type** is Bank, select Bank account in the **Account** field
+1. From the FNO Dashboard, open **Modules** ▸ **Academic management.
+2. Expand **Setup** ▸ **Cashier Receipt** then click **Receipt intercompany mapping**.
+3. Click **New**.
+4. Select a value in the **Method of payment** field.
+  >**Note:** *Choose the method of payment that is configured for intercompany processing with another school.*
+5. Select a value in the **Destination school** field.
+  >**Note:** *The selected school will receive the Intercompany posting.*
+6. Set the **Account type** and the **Account** based on the entry posting in the original cashier receipt:
+   - If the **Account type** is Ledger, Select the Main **Account**
+   - If the **Account type** is Bank, the Bank **Account**
 7. Select a value in the **Intercompany journal** field.
 8. Click **Save**.
     
-> **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
+> **Note:** *When the cashier journal is posted, the selected destination school will have the intercompany journal created based on the configured Method of payment, Account type/Account, and Intercompany journal.*
 
 ![Intercompany_Journal_(GEMS)_1](./99-Images/intercompany_journal_(gems)_1.png)
 
