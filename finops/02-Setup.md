@@ -191,25 +191,6 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ---
 
-## Split Percent by Fee Item
-
->**Note:** *Split configuration applies only when sales order generation occurs after split setup; otherwise, older invoices unaffected.*
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
-2. Expand **Setup** and click **Split percent by fee items**.
-3. Click **New**.
-4. Complete the following columns to configure the split payment per payee:
-    - Search and select a **Student**.
-    - Select the specific **fee item to override** (e.g., Building Fund Fee)
-    - Assign the **custom split percentages** for each payer (e.g., Dad 60%, Mum 40%)
-    - Specify the **effective and expiration dates** for this split configuration.
-5. Repeat these steps for the other payer.
-6. Click **Save**.
-
-![Split Percent by Fee Item_1](./99-Images/configure_split_percent_by_fee_items_1.png)
-
----
-
 ## Fee Categories
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
