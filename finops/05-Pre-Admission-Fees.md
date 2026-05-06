@@ -349,27 +349,3 @@ Once enrolment fees and deposits have been created and posted, payments can be p
 
 
 ---
-
-## Pre-Admission Enrolment Fee Payment Process
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
-3. Click **All pre-admission fees**.
-4. Identify the student by clicking the **Student name** column and using the **filter** to search (e.g., Stuart Little).
-5. **Check** either the Enrolment fee and/or Enrolment deposit from the far-left column.
-6. Click **Post receipt** in the toolbar.
-7. Choose the appropriate **Bank account** from the dropdown.
-8. Decide whether to enable the **preview** option:
-   - If **Enabled**, review payment channels manually before processing.
-   - If **Disabled**, the system posts the payment automatically.
-9. Click **OK** to finalise the payment.
-
-![Pre Admission Enrolment Fee Payment Process Creation 1](./99-Images/pre_admission_enrolment_fee_payment_process_creation_1.png)
-
-![Pre Admission Enrolment Fee Payment Process Creation 2](./99-Images/pre_admission_enrolment_fee_payment_process_creation_2.png)
-
-![Pre Admission Enrolment Fee Payment Process Creation 3](./99-Images/pre_admission_enrolment_fee_payment_process_creation_3.png)
-
-![Pre Admission Enrolment Fee Payment Process Creation 4](./99-Images/pre_admission_enrolment_fee_payment_process_creation_4.png)
-
----
