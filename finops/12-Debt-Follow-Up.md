@@ -78,7 +78,7 @@ Debtor notes are used to record interactions with fee payers — such as phone c
 > **Note:** *Hover over a note in the events list to preview the note content without opening the full record.*
 
 12. To view the full note history for a customer, click **View customer**.
-13. Open the **Collect** and click **Collections**.
+13. Open **Collect** and click **Collections**.
 14. Click on **Show** in **All activities**.
 15. Select **Open and closed** to display all notes, including resolved items.
 16. Click the **Notes** tab to review.
