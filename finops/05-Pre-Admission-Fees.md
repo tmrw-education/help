@@ -319,7 +319,6 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 
 
 #### Enrolment Transactions
-When the integration between the F&O and CE systems is not yet active, pre-admission fee records need to be created manually. This involves navigating to the pre-admission fees area and entering the relevant details for each transaction type, including application fees, enrolment fees, and enrolment deposits. Each record must then be posted to update its status and ensure it is correctly reflected in the system. This process is a temporary measure until the CE integration is fully operational and transactions can flow through automatically.
 
 
 ---
