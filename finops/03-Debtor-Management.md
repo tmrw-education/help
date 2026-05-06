@@ -40,6 +40,8 @@ The student master is based on details created on the enrolment record in the st
 
 ## Student Setup - Financial Responsibility
 
+>**Note:** *If using Fee Payer as a customer and not a student, the financial responsibility is managed in the Student Management system and synchronised to D365 F&O. Below is the process to view this setup in D365 F&O.*
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
 3. Select the **student profile**.
