@@ -569,25 +569,22 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ## Fee Refunds of Credit Balances
 
-   > **Comment:** *Proceed with the refund procedure only after the bank details are confirmed.*
+> **Comment:** *Proceed with the refund procedure only after the bank details are confirmed.*
 
-1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
-2. Expand **Payments** and click **Customer payment journal**.
-3. Click **New**.
-4. In the **Name** field, select *Customer refund journal*.
-5. Click **Lines**.
-6. Complete the required fields.
-7. Click **Settle transactions**.
-8. Locate and select the credit invoice to be refunded.
-9. Select the **Mark** checkbox.
+1. Navigate to **Modules** ▸ **Accounts receivable** ▸ **Payments** ▸ **Customer payment journal**.
+2. Click **New**.
+3. In the **Name** field, select **Customer refund journal**.
+4. Click **Lines**.
+5. In the list, mark the selected row. Select **Student account** in the **Account** field.
+6. Type a value in the **Description field**.
+7. Select the refund method in the **Method of payment** field on the far right.
+8. Click **Settle transactions** above the table to identify the refund invoice.
+9. Find and select the desired invoice. Select the **Mark** checkbox.
 10. Click **OK**.
-11. Open **Financial dimensions**, click **Account**
-12. In the **Fee head** value field, select the fee head to refund.
-13. Click **OK**.
-14. Open **Financial dimensions**, click **Offset account**.
-
-> **Note:** *The offset account represents the bank account side of the refund transaction and should reflect the CashFlow refund account configured for your school.*
-
+11. Above the table, click **Financial dimensions** and select **Account**.
+12. In the **Feehead value** field, select a value, then click **OK**.
+13. Click **Financial dimensions**.
+14. Click on the **Offset account** field, then in the **Cashflow** field, select **Refund**.
 15. Click **OK**.
 16. Click **Post**.
 
@@ -602,6 +599,8 @@ Fee refunds of credit balances are processed when a student's account holds an e
 ![Fee Refunds of Credit Balances 4](./99-Images/fee_refunds_of_credit_balances_4.png)
 
 ![Fee Refunds of Credit Balances 5](./99-Images/fee_refunds_of_credit_balances_5.png)
+
+![Fee Refunds of Credit Balances 6](./99-Images/fee_refunds_of_credit_balances_6.png)
 
 ---
 
