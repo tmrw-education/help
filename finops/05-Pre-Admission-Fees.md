@@ -317,25 +317,6 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 
 ---
 
-## Manually Adding Application Fee Records
-
-1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
-2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
-3. Click **All pre-admission fees**.
-4. Click **New** in the toolbar.
-5. Enter the required information for each column in the table.
-6. Click **Post** in the toolbar.
-
->**Note:** *The status updates from Created to Paid once the payment is successful.*
-
-7. Click **Save**.
-
-> **Note:** *Under any date and time value, user can type letter "t" then hit Enter to input today date value.*
-
-![Manually Adding Application Fee Records](./99-Images/manually_adding_application_fee_records_creation_1.png)
-
----
-
 ## Manually Adding Enrolment Fee Records
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
