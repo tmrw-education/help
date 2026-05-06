@@ -84,3 +84,11 @@ Debtor notes are used to record interactions with fee payers — such as phone c
 16. Click the **Notes** tab to review.
 
 ![Record Debtor Notes 1](./99-Images/record_debtor_notes_1.png)
+
+![Record Debtor Notes 2](./99-Images/record_debtor_notes_2.png)
+
+![Record Debtor Notes 3](./99-Images/record_debtor_notes_3.png)
+
+![Record Debtor Notes 4](./99-Images/record_debtor_notes_4.png)
+
+---
