@@ -69,3 +69,24 @@ Then, create the Sales order invoice. This step is automated when the payment is
 5. Ensure **Preview** is toggled on.
 6. View the sales order by clicking **General**.
    > **Note:** *The sales order will be available in cashier receipt for payment.*
+
+---
+
+## Fee Refunds of Credit Balances
+
+1. Navigate to **Modules** ▸ **Accounts receivable** ▸ **Payments** ▸ **Customer payment journal**.
+2. Click **New**.
+3. In the **Name** field, select **Customer refund journal**.
+4. Click **Lines**.
+5. In the list, mark the selected row. Select **Student account** in the **Account** field.
+6. Type a value in the **Description field**.
+7. Select the refund method in the **Method of payment** field on the far right.
+8. Click **Settle transactions** above the table to identify the refund invoice.
+9. Find and select the desired invoice. Select the **Mark** checkbox.
+10. Click **OK**.
+11. Above the table, click **Financial dimensions** and select **Account**.
+12. In the **Feehead value** field, select a value, then click **OK**.
+13. Click **Financial dimensions**.
+14. Click on the **Offset account** field, then in the **Cashflow** field, select **Refund**.
+15. Click **OK**.
+16. Click **Post**.
