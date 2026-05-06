@@ -150,6 +150,31 @@ When a student record arrives from the student management system with an enrolme
 
 Registration fees can be receipted over the counter when a fee payer makes payment in person at the school. When a student record syncs from the student management system with a status of Prospective and Registered, the system automatically creates a registration fee document ready for payment. Before processing the cashier receipt, the enrolment officer must manually push the record through to Registered status in the student management system. Staff then access the Cashier Receipt form under Accounts Receivable to process and post the payment.
 
+---
+
+## Manual Post — Pre-Admission Fee to Create a Sales Order for Payment via Cashier Receipt
+
+> **Note:** *This step is only required when a parent wishes to pay the registration fee over the counter. Typically, when payment is made online, the enrolment record is created automatically in D365 FnO and the sales order invoice is generated and posted without manual intervention. For counter payments, the student management system must first be manually progressed to Registered, after which a user must follow the steps below to create the sales order in readiness for receipting.*
+
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
+2. Expand **Inquiries and reports** and click **Pre-admission fees**.
+3. Filter the **Pre-admission type** column by *Application Fee*.
+4. Filter to locate the correct student record.
+5. Select the record.
+6. Click **Post** in the ribbon.
+7. Ensure the **Preview** toggle is set to *Yes*.
+
+> **Note:** *Setting Preview to Yes allows you to review the posting before it is finalised.*
+
+8. Click **OK**.
+9. Click the **General** tab to view the created sales order number.
+
+> **Note:** *Once posted, the sales order will be available in Cashier receipt for payment processing.*
+
+![Manual Post Pre-Admission Fee Record 1](./99-Images/manual_post_pre_admission_fee_record_1.png)
+
+---
+
 ## Application / Registration Fee Process via Cashier
 
 > **Note:** *The enrolment officer must manually push the student record to Registered status in the student management system before the fee can be receipted over the counter. Then, create the Sales order invoice. This step is automated when the payment is made online.*
