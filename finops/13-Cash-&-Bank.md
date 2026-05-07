@@ -4,9 +4,6 @@ Cash & Bank covers the day-end procedures and bank reconciliation processes requ
 
 ---
 
-> [!NOTE]
-> The day-end procedure ensures that all cash transactions processed throughout the day are combined into a single deposit slip before being reconciled against the bank statement. Staff access the Customer Payments workspace, consolidate open deposit slips by payment method, and generate a combined deposit slip report for banking. Once the consolidated deposit slip is created, staff can verify the result on the bank account transaction view to confirm the correct amount is reflected.
-
 #### Day-End Procedures
 
 The day-end procedure ensures that all cash transactions processed throughout the day are combined into a single deposit slip before being reconciled against the bank statement. Staff access the Customer Payments workspace, consolidate open deposit slips by payment method, and generate a combined deposit slip report for banking. Once the consolidated deposit slip is created, staff can verify the result on the bank account transaction view to confirm the correct amount is reflected.
