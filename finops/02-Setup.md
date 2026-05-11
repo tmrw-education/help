@@ -430,7 +430,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 8. Select a value in **Tax Item Group** field.
 9. Click **Save**.
 
-> **Note:** *The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. The system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.*
+> **Note:** *The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. When selected, the system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.*
 
 ![Fee_Type_1](./99-Images/fee_type_1.png)
 
