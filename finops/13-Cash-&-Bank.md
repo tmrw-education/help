@@ -56,3 +56,54 @@ The day-end procedure ensures that all cash transactions processed throughout th
 ![End of Day Procedure 6](./99-Images/end_of_day_procedure_6.png)
 
 ---
+
+#### GEMS Reward Points 
+
+There is a company (GRL) that manages the GEMS reward points. Every payment is posted at the collection school. At day-end, the Finance user must transfer the GEMS reward balance account to the GEMS reward company. 
+
+--- 
+
+## Transfer GEMS Reward Points 
+
+1. Navigate to **Accounts receivable ▸ Payments ▸ Cashier receipt**.  
+2. Click **+ Cashier receipt** to create a new journal.  
+3. In **Customer payment**, identify the student by their account number. 
+4. In **Method of Payment and invoice marking**: 
+    - Click **New**. 
+    - Select **GEMSPR** as the Method of payment 
+    - Enter **Amount** 
+    - Enter **Payment reference** 
+    - Click **Get GEMS reward points** 
+    - Mark the desired Invoice  
+5. Click **Post ▸ OK**. 
+> **Note:** *For GEMS rewards, the system will automatically update the points for the reward system*. 
+6. Navigate to **General ledger ▸ Inquiries and reports ▸ Trial balance**. 
+7. Enter: **From date / To date** (today’s date). 
+8. Filter: **Main account**, select the ledger account as the method of payment. 
+> **Note:** *The transfer balance amount = debit – credit*. 
+9. Navigate to **Academic management ▸ Periodic tasks ▸ Transfer GEMS reward balances**. 
+10. Enter parameters: 
+    - Posting date 
+    - From date / To date (same as Trial balance)  
+11. Select: 
+    - Preview = Yes → Review journal before posting 
+    - Preview = No → System auto-creates & posts journal  
+12. Click **OK**.
+13. The system generates a **journal number**. 
+14. Navigate to **General ledger ▸ Journal entries ▸ General journals**. 
+15. Click **Lines**. 
+16. Validate the journal line. 
+    - Account: The system will default the General ledger based on the Method of payment setup. 
+    - Offset account: The system will get offset company and the general ledger (setup in Receipt intercompany mapping). 
+    - Check that the credit amount = debit – credit. 
+17. Click **Post** to post the journal. 
+
+> **Note** *Returning to the trial balance will show that the GEMS reward balance is cleared to zero. The General ledger account will have increased in the GRL company. If this Transfer GEMS reward points process is run on the same date, no data will be generated as there will be no balance.*
+
+![Transfer_GEMS_Reward_Points_1](./99-Images/transfer_gems_reward_points_1.png)
+
+![Transfer_GEMS_Reward_Points_2](./99-Images/transfer_gems_reward_points_2.png)
+
+![Transfer_GEMS_Reward_Points_3](./99-Images/transfer_gems_reward_points_3.png)
+
+---
