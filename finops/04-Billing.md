@@ -443,7 +443,7 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 ---
 
-## Generate Proforma Invoices in Bulk
+## Generate Proforma Invoice Document in Bulk
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Sales and Marketing**.
 2. Expand **Sales orders** ▸ **Order confirmation** and click **Confirm sales order**.
