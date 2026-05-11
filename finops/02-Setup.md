@@ -246,7 +246,7 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ---
 
-## Intercompany Journal (GEMS)
+## Receipt Intercompany Mapping (GEMS)
 
 1. From the FNO Dashboard, open **Modules** ▸ **Academic management.
 2. Expand **Setup** ▸ **Cashier Receipt** then click **Receipt intercompany mapping**.
@@ -261,7 +261,7 @@ Academic year setup defines the academic calendar structure used across the plat
 7. Select a value in the **Intercompany journal** field.
 8. Click **Save**.
     
-> **Note:** *When the cashier journal is posted, the selected destination school will have the intercompany journal created based on the configured Method of payment, Account type/Account, and Intercompany journal.*
+> **Note:** *This setup is primarily used to support scenarios such as GEMS Rewards (GRL), where financial liability arising from reward points is initially recorded at the receiving school and requires daily transfer to the GEMS Rewards legal entity.*
 
 ![Intercompany_Journal_(GEMS)_1](./99-Images/intercompany_journal_(gems)_1.png)
 
