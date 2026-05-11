@@ -20,6 +20,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 5. Click **New** in the toolbar.
 6. In **Pre-admission type**, enter a value (e.g, *Application fee*, *Enrolment fee*).
 7. In **Description**, enter a value (e.g, *Application fee*, *Enrolment fee*).
+  > **Note:** *In most cases, match the description to the pre-admission type name for easier identification.*
 8. To create an Enrolment deposit:
       - Enter Enrolment deposit in both **Pre-admission type** and **Description**.
       - Select the **Deposit** check box.
