@@ -15,7 +15,7 @@ Student Promotion manages the financial checks and processes for students moving
 5. Select **Academic** from the Action Pane.
 6. Click the **Academic enrolments** tab to review the academic year records.
 7. Verify that the table shows the student's current grade/year and the next grade/year for promotion.
-   > **Note:** *Do not edit the Academic enrolments table directly in Dynamics 365; records are managed upstream by the Student Management System.*
+> **Note:** *Do not edit the Academic enrolments table directly in Dynamics 365; records are managed upstream by the Student Management System.*
 
 ![Update_Student_Enrolment_Dates_1](./99-Images/update_student_enrolment_dates_1.png)
 
