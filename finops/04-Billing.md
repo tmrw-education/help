@@ -496,7 +496,7 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 
 #### Tax Invoices
  
-The advance tax invoice feature allows staff to generate a tax invoice against a fee payer's open proforma invoice before full payment is received. This is typically used when a family requests a formal tax invoice ahead of settlement, for example for employer reimbursement or government funding purposes. Staff locate the student account, access the relevant sales order, apply the prepayment invoice against the open term invoice, assign the advance tax invoice request category, and post the record. The system then generates the invoice, which can be printed and provided to the fee payer.
+The advance tax invoice feature allows staff to generate a tax invoice against a fee payer's open proforma invoice before full payment is received. This is typically used when a family requests a formal tax invoice ahead of settlement, for example, for employer reimbursement or government funding purposes. Staff locate the student account, access the relevant sales order, apply the prepayment invoice against the open term invoice, assign the advance tax invoice request category, and post the record. The system then generates the invoice, which can be printed and provided to the fee payer.
  
 ---
  
@@ -558,10 +558,17 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
     - Select the **Fee schedule template for book sales** (created in step 9).
 13. In the **Records to include** section, filter by the **Student account number**.
 14. Click **OK**.
-15. Go back to the student to check the generated sales order. Click on **Sell** from the Action Pane.
-16. Under **Related information**, select **All sales orders** from the **Orders** dropdown.
-17. Select the generated sales order from the list and click **Confirm** to generate the proforma invoice document.
-18. Enable **Print confirmation** and **Use print management destination**, then click **OK**.
+15. Go back to the student to check the generated sales order. **Academic management ▸ Students ▸ All students**.
+16. Click on **Sell** from the Action Pane.
+17. Under **Related information**, select **All sales orders** from the **Orders** dropdown.
+18. Select the generated sales order from the list and click **Confirm** to generate the proforma invoice document.
+19. Enable **Print confirmation** and **Use print management destination**, then click **OK**.
+
+![Book_Fee_Setup_and_Sales_Order_Generation_1](./99-Images/book_fee_setup_and_sales_order_generation_1.png)
+
+![Book_Fee_Setup_and_Sales_Order_Generation_2](./99-Images/book_fee_setup_and_sales_order_generation_2.png)
+
+![Book_Fee_Setup_and_Sales_Order_Generation_3](./99-Images/book_fee_setup_and_sales_order_generation_3.png)
 
 ---
 
