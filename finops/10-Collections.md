@@ -671,9 +671,9 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ## Send a Customer Statement Email Outside the Collection Letter Sequence
 
->**Note:** This process allows users to send a customer statement email directly from the Customer Credit and Collections workspace without using the collection letter sequence. Use it when you need to send balance or transaction details to customers or fee payers who are not part of the automated collection workflow.
+>**Note:** *This process allows users to send a customer statement email directly from the Customer Credit and Collections workspace without using the collection letter sequence. Use it when you need to send balance or transaction details to customers or fee payers who are not part of the automated collection workflow.*
 1. From the **FNO dashboard**, open **Workspaces** ▸ **Customer credit and collections**.
-2. In **Collections**, click **Age balances** to view the customer list and balances.
+2. In **Collections**, click **Aged balances** to view the customer list and balances.
 3. Filter the list by **Pool** to find the customer. 
 4. Select the customer.
 5. Click **Email statement to contact**.
@@ -687,9 +687,15 @@ Fee refunds of credit balances are processed when a student's account holds an e
       - Confirm the **To** recipient, such as the parent or customer contact.
       - Enter the email **Subject**.
 9. Enter the email **Body**.
-       >**Note**: *Use a generic message if sending to multiple recipients*.
+>**Note**: *Use a generic message if sending to multiple recipients*.
 10. Click **+Add** to include an Attachment, or **Remove** to delete one. 
 11. Click **Send**.
+
+![Send_a_Customer_Statement_Email_Outside_the_Collection_Letter_Sequence_1](./99-Images/send_a_customer_email_outside_the_collection_letter_sequence_1.png)
+
+![Send_a_Customer_Statement_Email_Outside_the_Collection_Letter_Sequence_2](./99-Images/send_a_customer_email_outside_the_collection_letter_sequence_2.png)
+
+---
 
 ## Excel Upload for Excluding Students
 
