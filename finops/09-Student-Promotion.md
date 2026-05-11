@@ -1,20 +1,23 @@
 # Student Promotion
 
-Student Promotion manages the financial checks and processes that occur when students move between academic years. It covers how the system automatically polls outstanding fee balances during reenrolment periods and blocks students from progressing if they exceed a configured threshold. Staff can review blocked students, arrange payment with families, and apply financial check overrides with an audit reason where a payment arrangement is in place. Financial obligations are reviewed and resolved before reenrolment invitations are issued.
+Student Promotion manages the financial checks and processes for students moving between academic years. It covers how the system automatically polls outstanding fee balances during reenrolment periods and blocks students from progressing if they exceed a configured threshold. Staff can review blocked students, arrange payment with families, and apply financial check overrides with an audit reason where a payment arrangement is in place. Financial obligations are reviewed and resolved before reenrolment invitations are issued.
 
 ---
 
 ## Update Student Enrolment Dates
 
-> **Note:** The next academic year record for a student is automatically received from the Student Management System after the eligibility and finance checks are completed.
+> **Note:** *The next academic year record for a student is automatically received from the Student Management System after the eligibility and finance checks are completed*.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
 3. Open the relevant student record.
 4. Confirm the student's enrolment status shows as **Re-enrolment open**.
-5. Click **Academic enrolments** tab to review the academic year records.
-6. Verify that the table shows the student's current grade/year and the next grade/year for promotion.
+5. Select **Academic** from the Action Pane.
+6. Click the **Academic enrolments** tab to review the academic year records.
+7. Verify that the table shows the student's current grade/year and the next grade/year for promotion.
    > **Note:** *Do not edit the Academic enrolments table directly in Dynamics 365; records are managed upstream by the Student Management System.*
+
+![Update_Student_Enrolment_Dates_1](./99-Images/update_student_enrolment_dates_1.png)
 
 ---
 
