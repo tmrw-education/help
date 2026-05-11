@@ -11,7 +11,7 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 
 ## Subject & Event Names
 
->**Note**: This setup is typically created through integration from the upstream activity module, where billable activity details, item information, and revenue recognition data are synchronized into D365 Finance and Operations for billing and financial posting. Manual entry in D365 F&O is rarely required.
+> **Note**: This setup is typically created through integration from the upstream activity module, where billable activity details, item information, and revenue recognition data are synchronized into D365 Finance and Operations for billing and financial posting. Manual entry in D365 F&O is rarely required.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Subject and event names**.
