@@ -252,9 +252,13 @@ Academic year setup defines the academic calendar structure used across the plat
 2. Expand **Setup** ▸ **Cashier Receipt** then click **Receipt intercompany mapping**.
 3. Click **New**.
 4. Select a value in the **Method of payment** field.
-  >**Note:** *Choose the method of payment that is configured for intercompany processing with another school.*
+
+> **Note:** *Choose the method of payment that is configured for intercompany processing with another school.*
+
 5. Select a value in the **Destination school** field.
-  >**Note:** *The selected school will receive the Intercompany posting.*
+
+> **Note:** *The selected school will receive the Intercompany posting.*
+
 6. Set the **Account type** and the **Account** based on the entry posting in the original cashier receipt:
    - If the **Account type** is Ledger, Select the Main **Account**
    - If the **Account type** is Bank, the Bank **Account**
