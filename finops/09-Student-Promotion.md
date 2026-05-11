@@ -4,7 +4,7 @@ Student Promotion manages the financial checks and processes that occur when stu
 
 ---
 
-## Update Student Enrolment Dates (WIP)
+## Update Student Enrolment Dates
 
 > **Note:** The next academic year record for a student is automatically received from the Student Management System after the eligibility and finance checks are completed.
 
@@ -12,9 +12,10 @@ Student Promotion manages the financial checks and processes that occur when stu
 2. Expand **Students** and click **All students**.
 3. Open the relevant student record.
 4. Confirm the student's enrolment status shows as **Re-enrolment open**.
-5. Click **Academic Enrolment** tab to review the academic year records.
+5. Click **Academic enrolments** tab to review the academic year records.
 6. Verify that the table shows the student's current grade/year and the next grade/year for promotion.
-   > **Note:** *Do not edit the Academic Enrolments table directly in Dynamics 365; records are managed upstream by the Student Management System.*
+   > **Note:** *Do not edit the Academic enrolments table directly in Dynamics 365; records are managed upstream by the Student Management System.*
+
 ---
 
 ## Release
