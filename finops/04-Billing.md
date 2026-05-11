@@ -533,6 +533,36 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 
 ## Book Sales
 
+## Book Fee Setup and Sales Order Generation
+
+> **Note:** *Before starting, ensure a book fee item has already been created.*
+
+1. Navigate to **Product information management ▸ Products ▸ Released products**.
+2. Select **Product name** and filter for **Book fees**.
+3. To check the sales price of the selected item, click on **Sell** from the Action Pane.
+4. Under **View**, select **Sales price**.
+> **Note:** *Make sure all prices are set up for all grades, curriculum, and streams.*
+5. Set up a new fee schedule by navigating to **Academic management ▸ Fee schedules ▸ All fee schedules**.
+6. Click **New**.
+7. In the **Fee schedule header**, under **Customer type**, select **Student**.
+8. Enter a **Description** and a **Fee and charge interval** for the billing cycle.
+9. In **Fee schedule lines**, select **+ Add line** and choose the fee item for the book fee.
+10. Click **Save and close**.
+11. To generate a sales order for the book fee, navigate to  
+    **Academic management ▸ Periodic tasks ▸ Generate sales order batch processing**.
+12. In the **Task parameters**:
+    - Select a **Fee generation date** within the Fee and charge interval.
+    - Select a **Fee and charge interval**.
+    - Under **Posting option**, select **Create sales order**.
+    - Enter a **Batch description**.
+    - Select the **Fee schedule template for book sales** (created in step 9).
+13. In the **Records to include** section, filter by the **Student account number**.
+14. Click **OK**.
+15. Go back to the student to check the generated sales order. Click on **Sell** from the Action Pane.
+16. Under **Related information**, select **All sales orders** from the **Orders** dropdown.
+17. Select the generated sales order from the list and click **Confirm** to generate the proforma invoice document.
+18. Enable **Print confirmation** and **Use print management destination**, then click **OK**.
+
 ---
 
 #### Student Ledger
