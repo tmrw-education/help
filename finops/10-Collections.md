@@ -674,21 +674,21 @@ Fee refunds of credit balances are processed when a student's account holds an e
 >**Note:** This process allows users to send a customer statement email directly from the Customer Credit and Collections workspace without using the collection letter sequence. Use it when you need to send balance or transaction details to customers or fee payers who are not part of the automated collection workflow.
 1. From the **FNO dashboard**, open **Workspaces** ▸ **Customer credit and collections**.
 2. In **Collections**, click **Age balances** to view the customer list and balances.
-3. Filter the list by **pool** to find the customer. 
+3. Filter the list by **Pool** to find the customer. 
 4. Select the customer.
 5. Click **Email statement to contact**.
-6. In the box, Create a statement in Microsoft Excel and attach it to email:
-      - Select **Due Date** in the **Critera** dropdown to attach customer   transactions as of the selected date.
-      - Select **Yes** if you wish to **Include settled transactions**.
-      - Set **Show settled transactions from** the required date, typically as the aging date.
+6. In the Create a statement in Microsoft Excel and attach it to email box:
+      - Select **Due Date** in the **Criteria** dropdown to attach customer   transactions as of the selected date.
+      - Select **Yes** if you want to **Include settled transactions**.
+      - Set **Show settled transactions from** to the required date, typically as the aging date.
 7. Click **OK**.
-8. Review the **Send email** form. 
-      - Verify the From email address.
-      - Confirm the To receipient, such as the parent or customer contact.
-      - Enter the email Subject.
+8. Review the **Send email** form:
+      - Verify the **From** email address.
+      - Confirm the **To** recipient, such as the parent or customer contact.
+      - Enter the email **Subject**.
 9. Enter the email **Body**.
        >**Note**: *Use a generic message if sending to multiple recipients*.
-10. Click **+ Add** to add an Attachment; Click Remove to delete an attachment. 
+10. Click **+Add** to include an Attachment, or **Remove** to delete one. 
 11. Click **Send**.
 
 ## Excel Upload for Excluding Students
