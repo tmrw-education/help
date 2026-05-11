@@ -292,7 +292,7 @@ Academic enrolment dates—including start date, end date, academic year, and en
 
 ---
 
-## Generate and Review Sales Orders
+## Generate Pro Rata Fee Adjustments for Late-Joining Students
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Periodic tasks** and click **Generate sales order batch processing**.
