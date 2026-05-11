@@ -6,12 +6,17 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 ## Pre-Admission Type Setup
 
+
+> **Note:** *Review the existing types to avoid creating duplicates*.
+> - *General journal — used when there is no student record at this stage and the setup requires posting directly to the general ledger. Records the fee as other income in the main account. No posting profile or receipt journal name is required. Typically used for application fees.*
+> - *Free text invoice — used when a student record exists and the setup requires immediate posting as revenue to a liability account. Requires a posting profile and receipt journal name. Typically used for enrolment fees.*
+> - *Sales order — used when a student record exists and the setup requires a sales order invoice for the pre-admission fee.*
+> - *Prepayment invoice — used to record an enrolment deposit or re-enrolment deposit. The deposit is settled against the tuition fee invoice once finalised.*
+
+
 1. From the FNO dashboard, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Pre‑admission fees**.
 3. Click **Pre‑admission types**.
-
->**Note:** *Review the existing types to avoid creating duplicates*.
-
 5. Click **New** in the toolbar.
 6. In **Pre-admission type**, enter a value (e.g, *Application fee*, *Enrolment fee*).
 7. In **Description**, enter a value (e.g, *Application fee*, *Enrolment fee*).
