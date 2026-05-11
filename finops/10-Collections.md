@@ -669,6 +669,29 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ---
 
+## Send a Customer Statement Email Outside the Collection Letter Sequence (WIP)
+
+>**Note:** This process allows users to send a customer statement email directly from the Customer Credit and Collections workspace without using the collection letter sequence. Use it when you need to send balance or transaction details to customers or fee payers who are not part of the automated collection workflow.
+1. From the **FNO dashboard**, open **Workspaces** ▸ **Customer credit and collections**.
+2. Click **Age balances** to view the customer list and balances.
+3. Filter the list by **pool**, **cutomer type**, or **group** to find the customer quickly.
+4. Select the customer.
+5. Click **Email statement contact**.
+6. Select the **criteria date** for the statement.
+      - Select **Due date** to attach customer transactions as of the selected date.
+      - Choose whether to include settled transactions.
+      - Set **Show from** the required date, typically the aging date.
+7. Click **OK**.
+8. Review the email form. 
+      - Verify the From email address.
+      - Confirm the To receipient, such as the parent or customer contact.
+9. Enter the email **Subject**.
+10. Enter the email body.
+       >**Note**: *Use a generic message if sending to multiple recipients*.
+11. Add attachments if required. 
+       >**Note**: *You can remove the transaction history attachment if it is not needed*.
+12. Click **Send**.
+
 ## Excel Upload for Excluding Students
 
 ---
