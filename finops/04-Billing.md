@@ -561,7 +561,7 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 15. Go back to the student to check the generated sales order. **Academic management ▸ Students ▸ All students**.
 16. Click on **Sell** from the Action Pane.
 17. Under **Related information**, select **All sales orders** from the **Orders** dropdown.
-18. Select the generated sales order from the list and click **Confirm** to generate the proforma invoice document.
+18. Select the sales order from the list and under **Generate** in the Action Pane, click **Confirm sales order** to generate the proforma invoice document.
 19. Enable **Print confirmation** and **Use print management destination**, then click **OK**.
 
 ![Book_Fee_Setup_and_Sales_Order_Generation_1](./99-Images/book_fee_setup_and_sales_order_generation_1.png)
@@ -569,6 +569,8 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 ![Book_Fee_Setup_and_Sales_Order_Generation_2](./99-Images/book_fee_setup_and_sales_order_generation_2.png)
 
 ![Book_Fee_Setup_and_Sales_Order_Generation_3](./99-Images/book_fee_setup_and_sales_order_generation_3.png)
+
+![Book_Fee_Setup_and_Sales_Order_Generation_4](./99-Images/book_fee_setup_and_sales_order_generation_4.png)
 
 ---
 
