@@ -12,7 +12,7 @@ The day-end procedure ensures that all cash transactions processed throughout th
 2. Expand **Inquiries and reports** and click **Deposit slips**.
 3. Click **Open deposit slips**.
 
-> **Note:** *Open deposit slips shows all individual deposit slips created across the day. Each slip represents a separate cash transaction that has not yet been consolidated.*
+> **Note:** ***Open deposit slips** shows all individual deposit slips created across the day. Each slip represents a separate cash transaction that has not yet been consolidated.*
 
 4. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable** ▸ **Workspaces** ▸ **Customer payments**.
 5. Click **Consolidate deposit slip**.
@@ -22,9 +22,9 @@ The day-end procedure ensures that all cash transactions processed throughout th
 9. Click **OK**.
 10. Click **OK** again to confirm.
 11. Return to **Modules** ▸ **Cash and bank management** ▸ **Inquiries and reports** ▸ **Deposit slips**.
-13. Locate the consolidated deposit slip for the relevant date.
+12. Locate the consolidated deposit slip for the relevant date.
 
-> **Note:** *The individual open deposit slips for the selected date will no longer appear under Open deposit slips. They are replaced by the single consolidated entry.*
+> **Note:** *The individual open deposit slips for the selected date will no longer appear under **Open deposit slips**. They are replaced by the single consolidated entry.*
 
 13. Note the **deposit slip number**.
 14. Return to **Modules** ▸ **Cash and bank management** ▸ **Inquiries and reports** ▸ **Deposit slips**.
@@ -35,9 +35,9 @@ The day-end procedure ensures that all cash transactions processed throughout th
 
 > **Note:** *The next steps show the process for viewing the consolidated deposit via the bank account.*
 
-20. From the **FNO dashboard**, open **Modules** ▸ **Cash and bank management**.
-21. Click **Bank accounts** and select the relevant **bank account**.
-22. Click **Transactions** to verify the deposit.
+19. From the **FNO dashboard**, open **Modules** ▸ **Cash and bank management**.
+20. Click **Bank accounts** and select the relevant **bank account**.
+21. Click **Transactions** to verify the deposit.
 
 > **Note:** *The consolidated deposit should appear as a single transaction amount for the day, confirming the end-of-day consolidation has been applied correctly.*
 
@@ -88,19 +88,19 @@ There is a company (GRL) that manages the GEMS reward points. Every payment is p
     - Posting date 
     - From date / To date (same as Trial balance)  
 11. Select: 
-    - Preview = Yes → Review journal before posting 
-    - Preview = No → System auto-creates & posts journal  
+    - **Preview** = **Yes** — Review the journal before posting
+    - **Preview** = **No** — The system auto-creates and posts the journal  
 12. Click **OK**.
 13. The system generates a **journal number**. 
 14. Navigate to **General ledger ▸ Journal entries ▸ General journals**. 
 15. Click **Lines**. 
 16. Validate the journal line. 
-    - Account: The system will default the General ledger based on the Method of payment setup. 
-    - Offset account: The system will get offset company and the general ledger (setup in Receipt intercompany mapping). 
+    - **Account:** The system defaults the General ledger based on the Method of payment setup.
+    - **Offset account:** The system populates the offset company and General ledger from the Receipt intercompany mapping setup.
     - Check that the credit amount = debit – credit. 
 17. Click **Post** to post the journal. 
 
-> **Note** *Returning to the trial balance will show that the GEMS reward balance is cleared to zero. The General ledger account will have increased in the GRL company. If this Transfer GEMS reward points process is run on the same date, no data will be generated as there will be no balance.*
+> **Note:** *Returning to the trial balance will show that the GEMS reward balance is cleared to zero. The General ledger account will have increased in the GRL company. If this Transfer GEMS reward points process is run on the same date, no data will be generated as there will be no balance.*
 
 ![Transfer_GEMS_Reward_Points_1](./99-Images/transfer_gems_reward_points_1.png)
 
