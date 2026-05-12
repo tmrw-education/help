@@ -691,9 +691,9 @@ Fee refunds of credit balances are processed when a student's account holds an e
 10. Click **+Add** to include an Attachment, or **Remove** to delete one. 
 11. Click **Send**.
 
-![Send_a_Customer_Statement_Email_Outside_the_Collection_Letter_Sequence_1](./99-Images/send_a_customer_email_outside_the_collection_letter_sequence_1.png)
+![Send_a_Customer_Statement_Email_Outside_the_Collection_Letter_Sequence_1](./99-Images/send_a_customer_statement_email_outside_the_collection_letter_sequence_1.png)
 
-![Send_a_Customer_Statement_Email_Outside_the_Collection_Letter_Sequence_2](./99-Images/send_a_customer_email_outside_the_collection_letter_sequence_2.png)
+![Send_a_Customer_Statement_Email_Outside_the_Collection_Letter_Sequence_2](./99-Images/send_a_customer_statement_email_outside_the_collection_letter_sequence_2.png)
 
 ---
 
