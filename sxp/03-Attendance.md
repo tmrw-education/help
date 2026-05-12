@@ -43,7 +43,7 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 
 8. When all students have been marked, click **Submit**. 
 
-   > **Note:** *When the roll is ready, the Submit button turns blue. After submission, the tick icon appears for each student, confirming that their attendance has been recorded.
+   > **Note:** *When the roll is ready, the Submit button turns blue. After submission, the tick icon appears for each student, confirming that their attendance has been recorded*.
 
 ### Print class list
 
