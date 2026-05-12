@@ -4,7 +4,7 @@ Revenue Recognition manages the month-end process of recognising deferred revenu
 
 ---
 
-#### Month End Processing
+## Month End Processing
 
 Month-end processing in GEMS covers the tasks required to close out a financial period accurately. Revenue recognition is performed at the end of each month to ensure that deferred revenue is posted to the correct general ledger accounts in line with the school's billing and deferral schedule configuration. Staff can run recognition across all eligible schedules using the Periodic tasks batch process, or target a single invoice directly from the Deferral schedules list.
 
