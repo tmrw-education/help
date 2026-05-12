@@ -78,6 +78,7 @@ This guide provides step-by-step instructions for managing fees, payments, schol
   - [Fee Structure Setup](./04-Billing.md#fee-structure-setup)
   - [Advance Tax Invoice upon Request](./04-Billing.md#advance-tax-invoice-upon-request)
   - [Book Sales](./04-Billing.md#book-sales)
+  - [Generate Flat Fee for Book Sales](./04-Billing.md#generate_flat_fee_for_book_sales)
   - [Student Ledger](./04-Billing.md#student-ledger)
   - [Fee Structure - Price Changes](./04-Billing.md#fee-structure---price-changes)
 - [Pre-Admission Fees](./05-Pre-Admission-Fees.md)
