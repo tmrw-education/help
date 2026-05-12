@@ -6,6 +6,8 @@ Student Promotion manages the financial checks and processes for students moving
 
 ## Update Student Enrolment Dates
 
+Before a student can be promoted, their academic enrolment record must show both the current grade and the next academic year record. These records originate in the student management system and are received automatically once the eligibility and finance checks are completed. This process shows how to locate a student's enrolment record in D365 F&O and confirm that the expected records are present and correctly populated before the promotion proceeds.
+
 > **Note:** *The next academic year record for a student is automatically received from the Student Management System after the eligibility and finance checks are completed.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
