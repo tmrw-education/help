@@ -47,6 +47,12 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 
 ### Print class list
 
+1. Click **Attendance** in the top navigation bar, then click the class block you want to print the list for.
+2. On the class roll page, click the **print icon** in the toolbar.
+3. A print preview opens, showing the class name, date, and a list of all students. 
+4. Select your preferred **Destination** (e.g. Save as PDF or a printer).
+5. Click **Save** or **Print**.
+   
 ### View student profile
 
 ### View alerts & key attendance data
