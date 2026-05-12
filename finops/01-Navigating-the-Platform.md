@@ -25,7 +25,7 @@ Whenever you need to perform a new task or switch contexts:
 
 ## The Toolbar in F&O
 
-Once you've navigated into a module or opened a specific page, like a vendor record, journal entry, or purchase order—you'll notice a toolbar at the top of the screen. This is called the Action Pane, and it's where most of your interaction happens.
+Once you've navigated into a module or opened a specific page, like a vendor record, journal entry, or purchase order you'll notice a toolbar at the top of the screen. This is called the Action Pane, and it's where most of your interaction happens.
 
 At the far left of the Action Pane, you'll find three key buttons that are always present, no matter which page or module you're in:
 
