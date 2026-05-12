@@ -4,11 +4,8 @@ Debtor Management covers the student and fee payer record management that underp
 
 ---
 
-#### Student Master
+## Student Master
 The student master is based on details created on the enrolment record in the student management system. Academic attributes and demographic information should not be edited directly in D365 F&O; changes should be made at the source, and the record will automatically synchronise to D365 F&O, ensuring data integrity. Accurate fee generation depends entirely on the quality of the data held against each student's record. Before running any fee batch, it is essential to verify that each student has the correct academic year assigned, that their enrolment effective and expiration dates are current, that sibling order numbers are set for students eligible for family discounts, and that the financial responsibility percentages across all fee payers add up to 100. Any gaps or errors in this data at this stage will flow through to the invoices generated, making it significantly harder to correct after the fact.
-
-
----
 
 ## Check Student Master
 
