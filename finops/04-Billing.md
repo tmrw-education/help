@@ -534,7 +534,7 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 
 ---
 
-## Book Fee Setup and Sales Order Generation
+## Generate Flat Fee for Book Sales
 
 > **Note:** *Before starting, ensure a book fee item has already been created.*
 
@@ -566,13 +566,13 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 18. Select the sales order from the list and under **Generate** in the Action Pane, click **Confirm sales order** to generate the proforma invoice document.
 19. Enable **Print confirmation** and **Use print management destination**, then click **OK**.
 
-![Book_Fee_Setup_and_Sales_Order_Generation_1](./99-Images/book_fee_setup_and_sales_order_generation_1.png)
+![Generate_Flat_Fee_for_Book_Sales_1](./99-Images/book_fee_setup_and_sales_order_generation_1.png)
 
-![Book_Fee_Setup_and_Sales_Order_Generation_2](./99-Images/book_fee_setup_and_sales_order_generation_2.png)
+![Generate_Flat_Fee_for_Book_Sales_2](./99-Images/book_fee_setup_and_sales_order_generation_2.png)
 
-![Book_Fee_Setup_and_Sales_Order_Generation_3](./99-Images/book_fee_setup_and_sales_order_generation_3.png)
+![Generate_Flat_Fee_for_Book_Sales_3](./99-Images/book_fee_setup_and_sales_order_generation_3.png)
 
-![Book_Fee_Setup_and_Sales_Order_Generation_4](./99-Images/book_fee_setup_and_sales_order_generation_4.png)
+![Generate_Flat_Fee_for_Book_Sales_4](./99-Images/book_fee_setup_and_sales_order_generation_4.png)
 
 ---
 
