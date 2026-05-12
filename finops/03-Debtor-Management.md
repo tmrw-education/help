@@ -12,7 +12,7 @@ The student master is based on details created on the enrolment record in the st
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
 3. Click on a **student**'s name to retrieve their details.
-4. Confirm the Current academic year under Enrolment details and update if required in the student management system.
+4. Confirm the **Current academic year** field under **Enrolment details** and update if required in the student management system.
 5. Open the **Academic** tab in the top toolbar.
 6. Click on **Academic enrolments** under Related information.
 7. Confirm the **Effective date** and **Expiration date** and update if needed.
@@ -37,7 +37,7 @@ The student master is based on details created on the enrolment record in the st
 
 ## Student Setup - Financial Responsibility
 
->**Note:** *If using Fee Payer as a customer and not a student, the financial responsibility is managed in the Student Management system and synchronised to D365 F&O. Below is the process to view this setup in D365 F&O.*
+> **Note:** *If using Fee Payer as a customer and not a student, the financial responsibility is managed in the Student Management system and synchronised to D365 F&O. Below is the process to view this setup in D365 F&O.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
