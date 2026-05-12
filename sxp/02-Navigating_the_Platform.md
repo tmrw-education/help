@@ -8,7 +8,7 @@
 2. Use GEMS M365 login account details (email and password).
 3. Click **Sign in**.
 
-[Staff_Login_1](./99-Images/staff_login_1.png)
+[Staff_Login_1](sxp/99-Images/staff_login_1.png)
 ---
 
 ## Navigation Bar
