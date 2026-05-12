@@ -6,6 +6,23 @@
 
 ### View teaching schedule
 
+> **Note:** The Teaching Schedule page shows all the classes you are timetabled to teach for a selected day or week. Use this page to check which classes you have today and when they start. You can also look ahead to tomorrow’s or next week’s classes to prepare. This page is your starting point for taking attendance.
+
+1. Click **Attendance** in the top navigation bar.
+2. The **Teaching Schedule** opens in the right-hand panel of the screen. It defaults to today’s date in **Day** view, showing all your classes on a time grid.
+
+> **Note:** *Each class appears as a block at its scheduled time, showing the subject name and time range (e.g., Mathematics 11:40–12:25*).
+
+3. Use the colour of each class block to understand its status in the school day:
+     - Blue: The class is happening right now.
+     - Light grey: The class is coming up later today.
+     - Dark grey: The class has already finished.
+4. Use the controls in the schedule toolbar to move to a different day:
+     - Click the **right arrow** to move forward one day
+     - Click the **left arrow** to move backward one day
+     - Click **Today** to return to today at any time.
+5. In the top-right corner of the schedule panel, use the **Day / Week** dropdown to switch between **Day and Week** view.
+
 ### Take roll
 
 ### Print class list
