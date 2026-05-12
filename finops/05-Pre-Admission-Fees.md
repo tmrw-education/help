@@ -17,13 +17,13 @@ Before any pre-admission fees can be processed, the system needs to be configure
 1. From the FNO dashboard, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Pre‑admission fees**.
 3. Click **Pre‑admission types**.
-5. Click **New** in the toolbar.
-6. In **Pre-admission type**, enter a value (e.g, *Application fee*, *Enrolment fee*).
-7. In **Description**, enter a value (e.g, *Application fee*, *Enrolment fee*).
+4. Click **New** in the toolbar.
+5. In **Pre-admission type**, enter a value (e.g., *Application fee*, *Enrolment fee*).
+6. In **Description**, enter a value (e.g., *Application fee*, *Enrolment fee*).
 
 > **Note:** *In most cases, match the description to the pre-admission type name for easier identification.*
 
-8. To create an Enrolment deposit:
+7. To create an Enrolment deposit:
       - Enter Enrolment deposit in both **Pre-admission type** and **Description**.
       - Select the **Deposit** check box.
 
@@ -101,7 +101,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 4. Search for or filter **student account**.
 5. **Select** the row of the application to waive.
 6. Click **Edit** in the toolbar.
-7. Check the “waive” box in the **Waive** column.
+7. Tick the checkbox in the **Waive** column.
 8. Click **Save**.
 9. Click **Cancel** in the toolbar.
 10. Select a **Reversing posting date**.
@@ -213,8 +213,8 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 17. Verify the fee is fully allocated in the allocations summary.
 18. Click **Post** in the toolbar.
 19. Select your receipt delivery option:
-    - *Print receipt* — prints a physical copy for the fee payer.
-    - *Email receipt* — sends the receipt to the fee payer's email address on file.
+      - **Print receipt** — prints a physical copy for the fee payer.
+      - **Email receipt** — sends the receipt to the fee payer's email address on file.
 20. Click **OK**.
 
 > **Note:** *Once posted, the receipt journal flows back to the student management system, allowing the enrolment record to proceed to the next stage.*
@@ -248,7 +248,7 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 4. When the deposit criteria window opens, click **OK** to view all deposits.
 5. **Check** the deposit to be forfeited from the far-left column.
 6. Click **Forfeit** in the toolbar.
-7. In the dialog box on the right, choose whether to **Preview** or **disable** the toggle to post automatically.
+7. In the dialogue box on the right, choose whether to **Preview** or **disable** the toggle to post automatically.
 8. Click **OK**.
 9. To preview, click the **Forfeit journal number**.
 10. Open the journal by clicking **Lines** in the toolbar.
@@ -280,7 +280,7 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 4. When the deposit criteria window opens, click **OK** to view all deposits.
 5. **Check** the deposit to be refunded from the far-left column.
 6. Click **Refund** in the toolbar.
-7. In the dialog box on the right, choose the **Bank account** for the refund.
+7. In the dialogue box on the right, choose the **Bank account** for the refund.
 8. Choose whether to **Preview** or disable the toggle to post automatically. Click **OK**.
 9. To preview, click the **Refund journal number**.
 10. Open the journal by selecting the refund journal and clicking **Lines** in the toolbar. 
@@ -324,7 +324,7 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 5. Select **Posted**.
 6. Select the **enrolment deposit or fee** using the checkbox on the far-left column.
 7. Click **Cancel** in the toolbar.
-8. In the dialog box on the right, choose the **Reverse posting date.**
+8. In the dialogue box on the right, choose the **Reverse posting date.**
 9. Click OK. 
 
 ![Reverse Enrolment Deposit Or Fee Creation 1](./99-Images/reverse_enrolment_deposit_or_fee_creation_1.png)
@@ -342,7 +342,7 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 5. Enter the required information for each column in the table.
 6. Click **Post** in the toolbar.
 
->**Note:** *The status updates from Created to Posted.*
+> **Note:** *The status updates from Created to Posted.*
 
 7. Click **Save**.
 
