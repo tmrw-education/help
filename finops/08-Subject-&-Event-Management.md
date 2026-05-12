@@ -27,6 +27,8 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 
 ## Event Template Setup
 
+Before the fee generation batch can invoice students for sessional classes or events, a fee schedule template specific to the event must be in place. Event templates are created in the same way as standard fee schedule templates but are configured with the event-specific billing interval and the relevant event fee item. Conditions can be added to restrict the template to specific event codes or student groups. Once saved, the template is available when running the Generate Sales Order Batch Processing task.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Fee schedules** and click on **All fee schedules**.
 3. Click **New** in the toolbar to create the fee invoice.
@@ -48,6 +50,8 @@ Before students can be registered for sessional classes or events, each event re
 ---
 
 ## Sessional Class and Event Enrolment
+
+Once subject and event names and the billing interval are in place, a fee schedule template must be created to link the specific event code to the correct fee item and billing configuration. The template uses conditions to restrict invoice generation to students enrolled in that event, preventing it from applying to the broader student cohort. Session-based invoicing can also be enabled at the template level if the charge should be calculated based on sessions attended rather than a flat fee.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Fee schedules** and click **All fee schedules**.
@@ -72,6 +76,8 @@ Before students can be registered for sessional classes or events, each event re
 ---
 
 ## Set the Deferral Date
+
+Before a student's enrolment in a sessional class or event can be invoiced, a deferral date must be set against the event record. The deferral date tells the system when to recognise the revenue associated with the fee: until that date, the charge is held in a deferred revenue account. Once the event date passes, the system automatically transfers the balance to the main revenue account. This step must be completed before generating invoices for the event.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Subject and event names**.
