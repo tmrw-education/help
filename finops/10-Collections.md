@@ -12,7 +12,7 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 
 ## Create a New Payment Plan
 
->**Note**: *The payment plan setup defines how the offered plans display on the customer statement.*
+> **Note**: *The payment plan setup defines how the offered plans display on the customer statement.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments setup** and click **Payment schedules**.
@@ -32,7 +32,7 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 
 ## Apply the Payment Schedule to Payment Plans
 
-**Note:** *This process defines and controls the payment options in D365 F&O that are available to parents, and controls valid plans that are displayed on PXP and published on the Customer Statement.*
+> **Note:** *This process defines and controls the payment options in D365 F&O that are available to parents, and controls valid plans that are displayed on PXP and published on the Customer Statement.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup**, then expand **Payment option setup**.
@@ -54,13 +54,13 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 2. Expand **Fee payer** and click **All fee payers**.
 3. Choose and **click** on a Fee payer account.
 4. Expand **Payment defaults** section.
-5. Click **edit** from the toolbar.
+5. Click **Edit** from the toolbar.
 6. Choose a **Method of payment**.
 7. Select the **Payment plan** dropdown and choose the payment plan to apply.
 8. Click **Save**.
 9. Click **Academic** tab from toolbar.
 10. Click **Update payment plan**.
-11. Choose 1 or more invoices checkbox.
+11. Tick the **Mark** checkbox to select one or more invoices.
 12. Click **Preview** in bottom left to review the split invoices.
 13. Review the details and click **Back**.
 14. Click **Yes** in the bottom left to proceed with the payment plan or **Back** to cancel.
@@ -107,10 +107,10 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 7. Click **Save**.
 8. Click **Academic** tab from toolbar.
 9. Click **View payment plan**.
-10. Choose 1 or more invoices checkbox.
+10. Tick the **Mark** checkbox to select one or more invoices.
 11. Amend the payment plan by clicking **Merge invoice** in toolbar.
 
-> **Note**: *Merge invoice is only available when split invoices already exist.*
+> **Note:** *Merge invoice is only available when split invoices already exist.*
 
 12. Click **Yes** to confirm.
 13. Click **Save**.
@@ -127,7 +127,7 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 2. Expand **Students** and click **All Students**.
 3. Select the student record.
 4. Click the **Academic** tab from the toolbar.
-5. Click **Veiw payment plan**.
+5. Click **View payment plan**.
 6. Change the filter to **all** to review the payment plans.
 7. Select a payment plan record.
 8. Click **Invoices** to view all invoices linked to the payment plan.
@@ -158,7 +158,7 @@ Cashier receipts payment processing is used when a fee payer makes a payment dir
 7. Enter the **amount being paid** and select the **payment account** where the funds will be deposited.
 8. **Mark the invoices** the payment should be applied to.
 
-> Note: *If the payment exceeds the invoice total, the extra amount is recorded as an advance.*
+> **Note:** *If the payment exceeds the invoice total, the extra amount is recorded as an advance.*
 
 9. The system automatically checks the **Pay in Advance** box if there is an unallocated amount.
 10. Click **Post** to finalise the entry.
@@ -318,7 +318,7 @@ The pay at any school process allows staff to receive and record fee payments on
 
 ---
 
-#### Cashier Receipt — Miscellaneous Receipts
+## Cashier Receipt — Miscellaneous Receipts
 
 The miscellaneous receipt function allows cashiers to record incoming payments that are not linked to a specific student invoice or customer account. This is used when funds are received for ad hoc items such as event fees, lost property charges, or sundry income. The cashier enters the payment details, selects a fee type to determine the correct general ledger coding, and posts the transaction. An optional receipt can be printed at the time of posting.
 
@@ -356,7 +356,7 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
 3. Click **New** to create a new journal and **select the appropriate journal name**.
 4. Click **Lines** in the toolbar.
 5. Click the **Payment Proposal** button, then select **Create Payment Proposal**.
-6. In the dialog box, enter the **date range** for due invoices (e.g., January 1 to January 31).
+6. In the dialogue box, enter the **date range** for due invoices (e.g., January 1 to January 31).
 7. Set the **Method of payment** to credit card (CC).
 8. Set the **Summarised payment date**.
 9. Click **OK** to run the proposal.
@@ -374,15 +374,15 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
 
 > **Note:** *The system confirms posting, and the Post button becomes inactive. All transactions are now posted and complete.*
 
-![Schuedling Credit Card Payments 1](./99-Images/scheduling_credit_card_payments_1.png)
+![Scheduling Credit Card Payments 1](./99-Images/scheduling_credit_card_payments_1.png)
 
-![Schuedling Credit Card Payments 2](./99-Images/scheduling_credit_card_payments_2.png)
+![Scheduling Credit Card Payments 2](./99-Images/scheduling_credit_card_payments_2.png)
 
-![Schuedling Credit Card Payments 3](./99-Images/scheduling_credit_card_payments_3.png)
+![Scheduling Credit Card Payments 3](./99-Images/scheduling_credit_card_payments_3.png)
 
-![Schuedling Credit Card Payments 4](./99-Images/scheduling_credit_card_payments_4.png)
+![Scheduling Credit Card Payments 4](./99-Images/scheduling_credit_card_payments_4.png)
 
-![Schuedling Credit Card Payments 5](./99-Images/scheduling_credit_card_payments_5.png)
+![Scheduling Credit Card Payments 5](./99-Images/scheduling_credit_card_payments_5.png)
 
 ---
 
@@ -394,7 +394,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
 2. Expand **Payments** and click **Cashier Receipt**.
-3. Click **+ Cashier reciept** to create a new cashier receipt.
+3. Click **+ Cashier receipt** to create a new cashier receipt.
 4. Enter the **student account** in the **Customer** field.
 5. Under **Method of Payment**, enable the **Co-branded** option.
 6. Select the **co-branded method of payment** from the dropdown.
@@ -443,7 +443,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Configure Advance Payment Discount - Date Based
 
-> **Note**: *In this setup, the discount is calculated based on the payment date only. If payment is received on or before the eligible date, the system applies the predefined discount amount, regardless of the payment method.*
+> **Note:** *In this setup, the discount is calculated based on the payment date only. If payment is received on or before the eligible date, the system applies the predefined discount amount, regardless of the payment method.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payment setup** and click **Cash discounts**.
@@ -460,7 +460,7 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Assigning Early Payment Discounts to Products / Fees
 
-> **Note**: *This process is used for Advance Discount Payment – Date Based.*
+> **Note:** *This process is used for Advance Discount Payment – Date Based.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Expand **Products** and click **Released products**.
@@ -469,11 +469,11 @@ Advance payment allows a school to collect fees for future term invoices before 
 5. Assign the relevant discount code and percentage or amount using the **Early payment discount** dropdown.
 6. Click **Save**.
 
-![Assiging Discounts to Products / Fees 1](./99-Images/assiging_discounts_to_products_1.png)
+![Assigning Discounts to Products / Fees 1](./99-Images/assiging_discounts_to_products_1.png)
 
-![Assiging Discounts to Products / Fees 2](./99-Images/assiging_discounts_to_products_2.png)
+![Assigning Discounts to Products / Fees 2](./99-Images/assiging_discounts_to_products_2.png)
 
-![Assiging Discounts to Products / Fees 3](./99-Images/assiging_discounts_to_products_3.png)
+![Assigning Discounts to Products / Fees 3](./99-Images/assiging_discounts_to_products_3.png)
 
 ---
 
@@ -607,12 +607,12 @@ Fee refunds of credit balances are processed when a student's account holds an e
 5. Enter a **Description**. 
 6. Enter the number of **Days** after the invoice due date when the letter should be sent.
 
-> **Note**: *This value controls when the reminder is triggered after the due date*.
+> **Note:** *This value controls when the reminder is triggered after the due date*.
 
 7. Enter any additional fees or fines if applicable.
 8. Repeat steps 3-6 to add additional letters (e.g., Second Reminder, Suspension Letter).
 
-> **Note**: *Leave fields blank if no fees or fines apply*.
+> **Note:** *Leave fields blank if no fees or fines apply*.
 
 9. Click **Save**.
 10. Go to **Modules** ▸ **Credit and Collections**.
@@ -621,7 +621,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
 13. In Form note section, enter the note text to print on each collection letter.
    - includes information for student account, student ID, and outstanding amount if needed.
    - adjust tone and urgency based on the reminder stage.
-13. Click **Save**.
+14. Click **Save**.
 
 ![Collection Letter Setup 1](./99-Images/collection_letter_setup_1.png)
 
@@ -682,7 +682,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
       - Enter the email **Subject**.
 9. Enter the email **Body**.
 
-> **Note**: *Use a generic message if sending to multiple recipients*.
+> **Note:** *Use a generic message if sending to multiple recipients*.
 
 10. Click **+Add** to include an Attachment, or **Remove** to delete one. 
 11. Click **Send**.
