@@ -6,6 +6,8 @@ The intercompany transfer process is used when a student moves from one school t
 
 ## Prerequisites: Intercompany Channel Setup
 
+Before any credit balance transfer can be processed, the intercompany channel must be configured in both the originating and destination school. This setup defines the control accounts, journal names, and posting profiles the system uses when generating the paired transfer journals. The configuration is a one-time task per school pair and does not need to be repeated unless the accounts or journals change.
+
 > **Note:** *This setup must be completed in both the originating school and the destination school before any credit balance transfer can be processed.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
@@ -36,6 +38,8 @@ The intercompany transfer process is used when a student moves from one school t
 ---
 
 ## Transfer Customer Credit Balance
+
+When a student transfers from one school to another within the group, any credit balance held at the originating school must be moved so it can be applied to the student's account at the destination school. Before initiating the transfer, staff must confirm the student record exists in the destination school and that the Party ID matches across both companies. Any outstanding advanced tax invoices such as those raised for application fees or enrolment deposits must also be cancelled, as the system transfers net credit balances only. Once confirmed, the transfer is initiated from the originating school's student record. The system automatically generates paired journal entries: one to clear the credit at the originating school and one to post it to the student's account at the destination school.
 
 > **Note:** *Before transferring, confirm that the student exists in the destination school and that the Party ID (global ID) is identical in both the originating and destination school. The system uses the Party ID to match the student account across companies. The student account number may differ between schools.*
 
