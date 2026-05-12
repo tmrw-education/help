@@ -163,7 +163,7 @@ Concession Management handles the configuration and application of scholarships,
 
 ---
 
-#### Sibling Discount Configuration
+## Sibling Discount Configuration
 
 The sibling discount policy allows each school to define the discount rates applied to students based on their position within a family. Policies are school-specific and configured once unless the school's concession rules change. The system supports three student types — new students, existing students from existing families, and existing students from new families — and each can carry a different discount rate. Once configured, the policy works in conjunction with the sibling order assigned to each student and the fee items marked as eligible for a sibling discount to automatically apply the correct discount when fees are generated. No manual discount application is required after setup.
 
@@ -204,7 +204,7 @@ The sibling discount policy allows each school to define the discount rates appl
 
 ---
 
-#### Staff Concession
+## Staff Concession
 
 Staff concessions allow the school to apply fee reductions to students who are dependants of staff members. The system manages staff concessions through two dedicated tables: the Staff Tuition Fee Concession table for staff-related reductions, and the Scholarship and Discount table for other concession types such as corporate or commercial concessions. Before a concession record can be added to either table, a discount code and a linked charge code must be configured. Once set up and approved, the system calculates an estimated concession amount and inserts a charge record into the auto charge table, which is then applied to new or existing sale orders when fees are generated.
 
@@ -256,7 +256,7 @@ Staff concessions allow the school to apply fee reductions to students who are d
 
 ---
 
-#### Importing Scholarship and Discount Data
+## Importing Scholarship and Discount Data
  
 The scholarship and discount details import process allows bulk entry of scholarship and discount records into the system using the Microsoft Excel add-in. Rather than creating records one at a time in the interface, users download a pre-configured Excel template connected to the GEMS data entity, populate or update records directly in the spreadsheet, and publish back to the system. The system validates each row on publish and flags any errors in red for correction before re-publishing. This method is particularly useful when setting up large volumes of records at the start of an enrolment period or applying a bulk change across multiple students.
  
