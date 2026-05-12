@@ -25,6 +25,26 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 
 ### Take roll
 
+1. Click **Attendance** in the top navigation bar.
+2. The teaching Schedule opens in the right-hand panel of the screen. It defaults to today’s date in Day view, showing all your classes on a time grid. 
+3. Select the **Class block** you want to take attendance for. The class roll opens, showing the class name, date, and a list of all students.
+
+> **Note:** *Check the attendance date at the top of the page before you start marking. If the date is incorrect, click the **date field** to change it*.
+
+3. Use the **Search** field to quickly find a student by name, if needed.
+4. Use the **Filter icon** in the toolbar to narrow the list by alert type. Select one or more alert types, then click **Apply filters**. Click **Reset filters** to clear your selection.
+
+   > **Note:** *Filters help you identify sudents who may need special consideration before marking attendance.
+
+5. To mark attendance for a student, click the **... button** in their row under the current period column, then select **Present**, **Absent**, or **Late to class**.
+6. To mark the whole class at once, click the **dropdown arrow ▼** next to the current period column header, then select **All present** or **All Absent**.
+
+   > **Note:** *Use this option when most or all students have the same status, then adjust individual students as needed.*
+
+7. When all students have been marked, click **Submit**. 
+
+   > **Note:** *When the roll is ready, the Submit button turns blue. After submission, the tick icon appears for each student, confirming that their attendance has been recorded.
+
 ### Print class list
 
 ### View student profile
