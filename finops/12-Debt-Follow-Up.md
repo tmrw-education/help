@@ -11,9 +11,9 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 
 ## Customer Bulk Write-off
 
-> **Note**: Ageing definitions, reason codes, and posting accounts must already be configured.
+> **Note:** *Ageing definitions, reason codes, and posting accounts must already be configured.*
 
-1. From the FNO dashboard, open **Modules** ▸ **Credit and Collections**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Credit and Collections**.
 2. Expand **Setup** then click **Aging period definitions**.
 3. Review the ageing criteria and identify the overdue customers or transactions.
 4. Go back to **Credit and Collections**, expand **Workspaces**, then click **Customer credit and collections**. 
@@ -29,7 +29,7 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 14. Submit the journal for workflow approval, if required.
 15. Click **Post** to finalise the write-off.
 
-> **Note:**: If workflow is not enabled, post the journal directly.
+> **Note:** *If workflow is not enabled, post the journal directly.*
 
 ![Customer Bulk Write-off 1](./99-Images/customer_bulk_write_off_1.png)
 
@@ -69,13 +69,13 @@ Debtor notes are used to record interactions with fee payers — such as phone c
 > **Note:** *The date and time field can be set to a future date to record a scheduled follow-up activity.*
 
 9. Click **Create event**.
-10. Review the created note in the events list on the customer detail screen.
+10. Review the created note in the **Events list** on the **Customer detail** screen.
 
 > **Note:** *Hover over a note in the events list to preview the note content without opening the full record.*
 
-11. To view the full note history for a customer, click **View customer**.
+11. Click **View customer** to open the full note history.
 12. Open **Collect** and click **Collections**.
-13. Click on **Show** in **All activities**.
+13. Click **Show** in **All activities**.
 14. Select **Open and closed** to display all notes, including resolved items.
 15. Click the **Notes** tab to review.
 
