@@ -47,13 +47,28 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 
 ### Print class list
 
-1. Click **Attendance** in the top navigation bar, then click the class block you want to print the list for.
+1. Click **Attendance** in the top navigation bar, then click the **Class block** you want to print the list for.
 2. On the class roll page, click the **print icon** in the toolbar.
 3. A print preview opens, showing the class name, date, and a list of all students. 
 4. Select your preferred **Destination** (e.g. Save as PDF or a printer).
 5. Click **Save** or **Print**.
    
 ### View student profile
+
+Use this feature to view information about a student in your class. You can check personal details, caregiver contacts, learning programmes, attendance percentage, disability information, and medical or wellbeing details. This is a read-only page, so you cannot edit student information from here.
+
+1. Click **Attendance** in the top navigation bar, then click the **Class block** you want to open.
+2. On the class roll page, click the **student’s name**. The Student Profile page opens, showing the student’s name at the top along with their Student ID, House, and Enrolment Status for quick reference.
+3. Use the tabs across the top to navigate to the information you need:
+     - **At a glance**: Student details such as name, date of birth, gender, age, preferred name, nationality, first language, and any attached student documents such as an IEP or medical plan.
+     - **Demographics**: Additional student details including academic year group, roll group, commencement year, residential status, school transport, visa information, and enrolled siblings.
+     - **Caregivers**: Custody arrangements, emergency contacts, and authorised contacts.
+     - **Classroom management**: Learning programmes, including curriculum type, learning mode, and timetable, attendance percentage, and disability and learning difficulties information.
+     - **Wellbeing**: Medical details, including condition, medication, care plan, vaccination records, doctor details, and wellbeing details such as special alert notifications.
+
+    > **Note**: *Use the On this tab panel on the right-hand side of the screen to jump directly to a specific section within a tab.*
+
+4. To return to the class roll, click your **Class name** (e.g., Mathematics Core/Extended) in the breadcrumb at the top of the page.
 
 ### View alerts & key attendance data
 
