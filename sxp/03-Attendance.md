@@ -72,6 +72,23 @@ Use this feature to view information about a student in your class. You can chec
 
 ### View alerts & key attendance data
 
+Use this feature to get a quick overview of late and absent students across your classes today, and to check individual student alerts and attendance history directly from the class roll.
+
+1. Click **Attendance** in the top navigation bar. The left-hand sidebar shows your key attendance data for today. 
+2. Under **Late students**, view the total number of students recorded late across all your classes today, along with a comparison to the previous day.
+3. Under **Absent students**, view the total number of students absent on assessment days, along with a comparison to the previous month.
+4. Click **Show top 10** to see which students are late or absent next to the relevant section.
+
+   > **Note**: *Top 10 late students for today shows students ordered by their cumulative tardy count, highest first. While Top 10 absent students shows absent students on exam days this month.*
+
+5. Click the **Class block** in your Teaching Schedule to open the class roll.
+6. On the class roll, click the **arrow next to a student’s name** to expand their row.
+7. Review the information shown for the selected student including:
+      - House name
+      - Alerts: hover over **the icon** for more details (e.g., learning plan)
+      - Reflect: click **View reflect history** to see the student’s wellbeing check-in history
+      - Attendance history summary:  quick view of student’s attendance for today by period and for this week by day
+
 ### Bulk roll taking
 
 ### View known absentees
