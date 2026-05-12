@@ -425,6 +425,8 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Advance Discount Simulation
 
+The advance discount simulation tool allows staff to calculate the discount a fee payer would receive for a given payment amount without creating any transaction in the system. This is useful when a family wants to understand their discount entitlement before committing to an advance payment, or when staff need to confirm the applicable rate for a specific term combination. The simulation uses the same Advanced Discount Policy configuration that drives the live payment process.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiry and Report**, **Co-branded transactions** and click **Advanced Discount Policy**.
 3. Enter the **student account** in the **Customer** field.
@@ -600,6 +602,8 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ## Collection Letter Setup 
 
+Collection letters are the formal overdue payment communications sent to fee payers when invoices remain unpaid past their due date. Before letters can be generated, a sequence of reminder stages must be configured; typically a first reminder, a second reminder, and a suspension letter with each stage defined by a number of days after the due date and an optional fee or fine. The note text printed on each letter is configured separately in the Form notes setup. Once the sequence is in place, letters can be generated in bulk for all eligible accounts or targeted at individual accounts as debts fall due.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Credit and Collections**.
 2. Expand **Collection letters** and click **Set up collection letter sequence**.
 3. Click **+ Add** to create a new collection letter.
@@ -702,6 +706,8 @@ Fee refunds of credit balances are processed when a student's account holds an e
 ---
 
 ## Generate Fee Statements - In Bulk
+
+Fee payer account statements provide a consolidated view of outstanding invoices, credits, and payment history over a defined period. They are typically distributed ahead of payment deadlines to give families a clear picture of what is owed. Staff specify the date range, apply any required filters, and generate the statement, which can then be distributed to the fee payer as needed.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Fee payer statement report**.
