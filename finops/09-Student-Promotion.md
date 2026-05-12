@@ -1,12 +1,12 @@
 # Student Promotion
 
-Student Promotion manages the financial checks and processes for students moving between academic years. It covers how the system automatically polls outstanding fee balances during reenrolment periods and blocks students from progressing if they exceed a configured threshold. Staff can review blocked students, arrange payment with families, and apply financial check overrides with an audit reason where a payment arrangement is in place. Financial obligations are reviewed and resolved before reenrolment invitations are issued.
+Student Promotion manages the financial checks and processes for students moving between academic years. It covers how the system automatically polls outstanding fee balances during re-enrolment periods and blocks students from progressing if they exceed a configured threshold. Staff can review blocked students, arrange payment with families, and apply financial check overrides with an audit reason where a payment arrangement is in place. Financial obligations are reviewed and resolved before re-enrolment invitations are issued.
 
 ---
 
 ## Update Student Enrolment Dates
 
-> **Note:** *The next academic year record for a student is automatically received from the Student Management System after the eligibility and finance checks are completed*.
+> **Note:** *The next academic year record for a student is automatically received from the Student Management System after the eligibility and finance checks are completed.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
@@ -26,33 +26,33 @@ Student Promotion manages the financial checks and processes for students moving
 
 ---
 
-## Reenrolment & Promotion — Financial Blocking
+## Re-enrolment & Promotion — Financial Blocking
 
-During pre-promotion activities, the student management system polls Finance & Operations to check each student's outstanding fee balance before sending reenrolment invitations. This check runs automatically, typically in Term 2 and Term 3, and is driven by a threshold amount configured in the fee parameters. If a student's balance exceeds the threshold, the system blocks them from reenrolment and returns a status to the student management system indicating that the invitation should not be sent. A school staff member then contacts the family to arrange payment. Once the balance is cleared and the system polls again, the student's status updates to reenrolment open.
+During pre-promotion activities, the student management system polls Finance & Operations to check each student's outstanding fee balance before sending re-enrolment invitations. This check runs automatically, typically in Term 2 and Term 3, and is driven by a threshold amount configured in the fee parameters. If a student's balance exceeds the threshold, the system blocks them from re-enrolment and returns a status to the student management system indicating that the invitation should not be sent. A school staff member then contacts the family to arrange payment. Once the balance is cleared and the system polls again, the student's status updates to re-enrolment open.
 
 ---
 
 ## Blocking Due to Fee Outstanding
 
-> **Note:** *The fee balance threshold that triggers a block is configured in the fee schedule parameters. Ensure this has been set before the reenrolment polling period begins.*
+> **Note:** *The fee balance threshold that triggers a block is configured in the fee schedule parameters. Ensure this has been set before the re-enrolment polling period begins.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
 3. Open the relevant **student** record.
 4. Confirm the student's status shows as **Blocked**.
 
-> **Note:** *Students with a balance exceeding the configured threshold are automatically assigned a status of Blocked. A notification is sent to the student management system to prevent reenrolment progression.*
+> **Note:** *Students with a balance exceeding the configured threshold are automatically assigned a status of Blocked. A notification is sent to the student management system to prevent re-enrolment progression.*
 
 5. Contact the family to arrange payment of the outstanding balance.
-6. Once payment is received and the system polls again, confirm the student's status updates to **Reenrolment open**.
+6. Once payment is received and the system polls again, confirm the student's status updates to **Re-enrolment open**.
 
 ![Blocking Due to Fee Outstanding 1](./99-Images/blocking_due_to_fee_outstanding_1.png)
 
 ---
 
-## Overriding the Fee Check for Reenrolment
+## Overriding the Fee Check for Re-enrolment
 
-Where a payment arrangement is in place and the school does not want to block a student's reenrolment, an authorised user can apply a financial check override directly on the student's record. When the override is active, the system bypasses the financial check for that student on the next poll and their status updates to reenrolment open. A reason code is required to create an audit record for the override.
+Where a payment arrangement is in place and the school does not want to block a student's re-enrolment, an authorised user can apply a financial check override directly on the student's record. When the override is active, the system bypasses the financial check for that student on the next poll and their status updates to re-enrolment open. A reason code is required to create an audit record for the override.
 
 > **Note:** *This action requires appropriate user permissions. The override applies to the next system poll — it does not permanently exempt the student from the financial check.*
 
@@ -66,9 +66,9 @@ Where a payment arrangement is in place and the school does not want to block a 
 
 6. Click **Save**.
 
-> **Note:** *On the next system poll, the student will be excluded from the financial check and their status will update to Reenrolment open.*
+> **Note:** *On the next system poll, the student will be excluded from the financial check and their status will update to Re-enrolment open.*
 
-![Overriding the Fee Check for Reenrolment 1](./99-Images/overriding_the_fee_check_for_reenrolment_1.png)
+![Overriding the Fee Check for Re-enrolment 1](./99-Images/overriding_the_fee_check_for_reenrolment_1.png)
 
 ---
 
@@ -99,7 +99,7 @@ At the start of a new year or after a promotion process, overrides set in the pr
 
 ## Financial Check Setup
  
-The financial check setup defines the outstanding fee balance threshold used when the student management system polls Finance & Operations to determine whether a student is cleared for reenrolment. Thresholds are configured by fee head (dimension value), meaning the system can apply different acceptable balance limits depending on the type of fee. When a reenrolment check is triggered, the student's outstanding balance for each fee head is compared against the configured threshold. If the balance exceeds the threshold for any configured fee head, the student does not receive financial clearance.
+The financial check setup defines the outstanding fee balance threshold used when the student management system polls Finance & Operations to determine whether a student is cleared for re-enrolment. Thresholds are configured by fee head (dimension value), meaning the system can apply different acceptable balance limits depending on the type of fee. When a re-enrolment check is triggered, the student's outstanding balance for each fee head is compared against the configured threshold. If the balance exceeds the threshold for any configured fee head, the student does not receive financial clearance.
  
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Fee schedule parameters**.
@@ -108,7 +108,7 @@ The financial check setup defines the outstanding fee balance threshold used whe
 5. Click **+ New** in the threshold table.
 6. Enter the **Threshold limit**.
 
-> **Note:** *The threshold limit is a monetary amount. If a student's outstanding balance for a given fee head meets or exceeds this amount, the student will not receive financial clearance for reenrolment.*
+> **Note:** *The threshold limit is a monetary amount. If a student's outstanding balance for a given fee head meets or exceeds this amount, the student will not receive financial clearance for re-enrolment.*
  
 7. Select the **Dimension value** from the dropdown.
 
@@ -117,7 +117,7 @@ The financial check setup defines the outstanding fee balance threshold used whe
 8. Repeat steps 5–7 for each fee head that requires a threshold.
 9. Click **Save**.
 
-> **Note:** *When the student management system requests reenrolment clearance, it checks the student's outstanding balance by fee head against each configured threshold. A student is only financially cleared if their balance for every configured fee head is below the threshold.*
+> **Note:** *When the student management system requests re-enrolment clearance, it checks the student's outstanding balance by fee head against each configured threshold. A student is only financially cleared if their balance for every configured fee head is below the threshold.*
  
 ![Financial Check Setup 1](./99-Images/financial_check_setup_1.png)
 
