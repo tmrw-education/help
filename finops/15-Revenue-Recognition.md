@@ -6,7 +6,7 @@ Revenue Recognition manages the month-end process of recognising deferred revenu
 
 ## Month End Processing
 
-Month-end processing in GEMS covers the tasks required to close out a financial period accurately. Revenue recognition is performed at the end of each month to ensure that deferred revenue is posted to the correct general ledger accounts in line with the school's billing and deferral schedule configuration. Staff can run recognition across all eligible schedules using the Periodic tasks batch process, or target a single invoice directly from the Deferral schedules list.
+Month-end processing in GEMS covers the tasks required to close out a financial period accurately. The two processes below; batch recognition across all eligible schedules, and single-invoice recognition should be completed before the period is locked.
 
 ---
 
@@ -19,11 +19,11 @@ Month-end processing in GEMS covers the tasks required to close out a financial 
 5. In the **Override transaction date** field, select *Yes*.
 6. In the **Transaction date** field, enter the last day of the month.
 
-> **Note:** *The Cutoff date and Transaction date should both be set to the last day of the month being closed. Setting Override transaction date to Yes ensures the journal posts with the correct period date regardless of when the process is run.*
+> **Note:** *The ***Cutoff date*** and ***Transaction date*** should both be set to the last day of the month being closed. Setting ***Override transaction date*** to Yes ensures the journal posts with the correct period date regardless of when the process is run.*
 
 7. Click **View preview**.
 
-> **Note:** *The preview lists all deferral schedule lines that will be recognised up to the cutoff date. Review this list before posting to confirm the entries are correct.*
+> **Note:** *The preview lists all deferral schedule lines that will be recognised up to the ***Cutoff date***. Review this list before posting to confirm the entries are correct.*
 
 8. Click **Process** to post the revenue recognition journal.
 
