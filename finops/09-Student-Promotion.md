@@ -15,6 +15,7 @@ Student Promotion manages the financial checks and processes for students moving
 5. Select **Academic** from the Action Pane.
 6. Click the **Academic enrolments** tab to review the academic year records.
 7. Verify that the table shows the student's current grade/year and the next grade/year for promotion.
+
 > **Note:** *Do not edit the Academic enrolments table directly in Dynamics 365; records are managed upstream by the Student Management System.*
 
 ![Update_Student_Enrolment_Dates_1](./99-Images/update_student_enrolment_dates_1.png)
@@ -25,7 +26,7 @@ Student Promotion manages the financial checks and processes for students moving
 
 ---
 
-#### Reenrolment & Promotion — Financial Blocking
+## Reenrolment & Promotion — Financial Blocking
 
 During pre-promotion activities, the student management system polls Finance & Operations to check each student's outstanding fee balance before sending reenrolment invitations. This check runs automatically, typically in Term 2 and Term 3, and is driven by a threshold amount configured in the fee parameters. If a student's balance exceeds the threshold, the system blocks them from reenrolment and returns a status to the student management system indicating that the invitation should not be sent. A school staff member then contacts the family to arrange payment. Once the balance is cleared and the system polls again, the student's status updates to reenrolment open.
 
@@ -49,13 +50,9 @@ During pre-promotion activities, the student management system polls Finance & O
 
 ---
 
-#### Overriding the Financial Check
+## Overriding the Fee Check for Reenrolment
 
 Where a payment arrangement is in place and the school does not want to block a student's reenrolment, an authorised user can apply a financial check override directly on the student's record. When the override is active, the system bypasses the financial check for that student on the next poll and their status updates to reenrolment open. A reason code is required to create an audit record for the override.
-
----
-
-## Overriding the Fee Check for Reenrolment
 
 > **Note:** *This action requires appropriate user permissions. The override applies to the next system poll — it does not permanently exempt the student from the financial check.*
 
@@ -75,13 +72,9 @@ Where a payment arrangement is in place and the school does not want to block a 
 
 ---
 
-#### Clearing Overrides in Bulk
+## Clearing Fee Check Overrides
 
 At the start of a new year or after a promotion process, overrides set in the previous cycle need to be cleared. Staff can add the **Financial check override** column to the **All Students** list view to identify all students with an active override. From there, overrides can be cleared individually by unchecking the checkbox, or in bulk by exporting the list to Excel, clearing the values in the file, and importing it back into the system.
-
----
-
-## Clearing Fee Check Overrides
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Students** and click **All students**.
@@ -104,13 +97,9 @@ At the start of a new year or after a promotion process, overrides set in the pr
 
 ---
 
-#### Financial Check Setup
+## Financial Check Setup
  
 The financial check setup defines the outstanding fee balance threshold used when the student management system polls Finance & Operations to determine whether a student is cleared for reenrolment. Thresholds are configured by fee head (dimension value), meaning the system can apply different acceptable balance limits depending on the type of fee. When a reenrolment check is triggered, the student's outstanding balance for each fee head is compared against the configured threshold. If the balance exceeds the threshold for any configured fee head, the student does not receive financial clearance.
- 
----
- 
-## Financial Check Setup
  
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Fee schedule parameters**.
@@ -134,13 +123,9 @@ The financial check setup defines the outstanding fee balance threshold used whe
 
 ---
 
-#### Transfer Certificate
+## Transfer Certificate
 
 When a student withdraws from the school and requests a transfer certificate, a free text invoice for the transfer certificate fee is raised in Finance & Operations. In a live environment, this is initiated by the customer experience team contacting the finance office, who then creates and posts the invoice. The process uses a pre-configured free text invoice template (TCINV) to ensure the correct fee head and line details are applied automatically.
-
----
-
-## Transfer Certificate
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Invoices** and click **All free text invoices**.
