@@ -6,6 +6,8 @@ Concession Management handles the configuration and application of scholarships,
 
 ## Scholarship and Discount Setup
 
+Before a scholarship or discount can be applied to a student's fees, it must be created as a named code in the system and linked to the relevant fee items and students. Each code can be configured to require approval before taking effect, with a specific user group assigned to authorise or reject applications. Once approved, the system applies the discount automatically to the linked fee items when invoices are generated. This section covers creating the code, assigning fee item linkages, adding students, and progressing the record through the approval workflow.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Scholarships and discounts**.
 3. Click **New** in the top toolbar.
@@ -211,6 +213,8 @@ Staff concessions allow the school to apply fee reductions to students who are d
 ---
 
 ## Setup Charge Code
+
+Staff concession discounts are applied to fee invoices through the auto charges table. Before a concession code can be linked to a student, a charge code must be created to define how and where the concession amount is posted in the ledger. Each concession type requires its own charge code (For example, separate codes for staff concessions and commercial concessions) so the correct posting logic is applied when the concession is processed.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Charges setup** and click **Auto charges**.
