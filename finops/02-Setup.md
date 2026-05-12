@@ -24,15 +24,15 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 > **Note:** *Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.* ​
 
-8. Select the **ID value** that matches the configured relationship type.​
-9. Click the **Pro rata adjustment** tab.​
-10. Select the **Pro rata adjustment joining** option.​
-11. Select the **Pro rata adjustment leaving** option.​
-12. Select the **Leaving date** option:​
-    - *Last day attended* — use when the school manages the leaving date as LDA.​
-    - *Expiration date* — use when the school manages the leaving date as the expiration date in the Academic enrolment table.​
-13. Click the **Number sequences** tab and confirm all number sequences are set up for all references.​
-14. Click **Save**.
+7. Select the **ID value** that matches the configured relationship type.​
+8. Click the **Pro rata adjustment** tab.​
+9. Select the **Pro rata adjustment joining** option.​
+10. Select the **Pro rata adjustment leaving** option.​
+11. Select the **Leaving date** option:​
+    - **Last day attended** — use when the school manages the leaving date as LDA.​
+    - **Expiration date** — use when the school manages the leaving date as the expiration date in the Academic enrolment table.​
+12. Click the **Number sequences** tab and confirm all number sequences are set up for all references.​
+13. Click **Save**.
 
 ![Fee_Schedule_Parameters_1](./99-Images/fee_schedule_parameters_(product)_1.png)
 
@@ -50,15 +50,15 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 > **Note:** *Relationship type = Sibling is used for brother/sister relationships and for calculating sibling order.*
 
-7. Select the **ID**.
-8. Click the **Pro rata adjustment** tab.
-9. Select the **Pro rata adjustment joining** option.
-10. Select the **Pro rata adjustment leaving** option.
-11. Select the **Leaving date** option:
+6. Select the **ID**.
+7. Click the **Pro rata adjustment** tab.
+8. Select the **Pro rata adjustment joining** option.
+9. Select the **Pro rata adjustment leaving** option.
+10. Select the **Leaving date** option:
     - *Last day attended* — use when the school manages the leaving date as LDA.
     - *Expiration date* — use when the school manages the leaving date as the expiration date in the Academic enrolment table.
-12. Click the **Number sequences** tab and confirm all number sequences are set up for all references.
-13. Click **Save**.
+11. Click the **Number sequences** tab and confirm all number sequences are set up for all references.
+12. Click **Save**.
 
 ![Fee Schedule Parameters GEMS 1](./99-Images/fee_schedule_parameters_gems_1.png)
 
@@ -73,7 +73,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 ## Fee & Charge Interval Setup
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
-2. Expand **Setup** and click on **Fee and Charge Interval**.
+2. Expand **Setup** and click **Fee and Charge Interval**.
 3. Click **New** in the toolbar to create a new interval.
 4. Enter details in **Fee generation interval ID** (e.g., 2025-2026).
 5. Enter details in the **Description** field.
@@ -103,6 +103,7 @@ Before fees can be generated, processed, or settled across the platform, a range
 2. Click **New**.
 3. Enter a value in the **Gender** field.
 4. Enter the name in the **Name** field.
+5. Click **Save**.
 
 ![Gender_Setup_1](./99-Images/gender_setup_1.png)
 
@@ -220,9 +221,9 @@ Academic year setup defines the academic calendar structure used across the plat
 3. Select the **Payment plan** from the dropdown.
 4. Fill in the **Payment option** and **Description** fields.
 
->**Note:** *Once saved, there will be a copy on the Customer master or the Student master*
+> **Note:** *Once saved, there will be a copy on the Customer master or the Student master*
 
-6. Click **Save**.
+5. Click **Save**.
 
 ![Payment_Option_Setup_1](./99-Images/payment_option_setup_1.png)
 
@@ -246,7 +247,7 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ## Receipt Intercompany Mapping (GEMS)
 
-1. From the FNO Dashboard, open **Modules** ▸ **Academic management.
+1. From the **FNO Dashboard**, open **Modules** ▸ **Academic management.
 2. Expand **Setup** ▸ **Cashier Receipt** then click **Receipt intercompany mapping**.
 3. Click **New**.
 4. Select a value in the **Method of payment** field.
@@ -271,7 +272,7 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ## Advance Discount Policy (GEMS)
 
-1. Navigate to **Academic management ▸ Setup ▸ Advance discount policy**.
+1. From the **FNO dashboard**, open **Modules** ▸ **Academic management ▸ Setup ▸ Advance discount policy**.
 2. Click **New**.
 3. Type a value in the **Policy code** field.
 4. Enter or select a value from the **Fee and charges interval** dropdown.
@@ -283,13 +284,13 @@ Academic year setup defines the academic calendar structure used across the plat
 
 > **Note:** *More than one time period may be selected in this field.*
 
-8. Click **Select**.
-9. Return to the **Overview** tab.
-10. In the **Charges code** field, select **Advance Discount**.
-11. Enter the discount value into the **Discount** field.
-12. In the **From date** and **To date** fields, enter the time period that the advance discount will be applied.
-13. Complete the **Description** field for reporting reference.
-14. Click **Save**.
+7. Click **Select**.
+8. Return to the **Overview** tab.
+9. In the **Charges code** field, select **Advance Discount**.
+10. Enter the discount value into the **Discount** field.
+11. In the **From date** and **To date** fields, enter the time period that the advance discount will be applied.
+12. Complete the **Description** field for reporting reference.
+13. Click **Save**.
 
 ![Advance_Discount_Policy_(GEMS)_1](./99-Images/advance_discount_policy_(gems)_1.png)
 
@@ -307,7 +308,7 @@ Academic year setup defines the academic calendar structure used across the plat
 4. Enter details in the **Stream** column.
 5. Enter details in the **Description** column.
 
->**Note**: *Use the same naming and description format as the student management system to keep the setup consistent across both systems.*
+> **Note:** *Use the same naming and description format as the student management system to keep the setup consistent across both systems.*
 
 6. Click **Save**.
 
@@ -367,19 +368,19 @@ The sibling discount feature allows the school to automatically apply fee reduct
    - Set **Item relation** to Sibling discount.
 7.  In Details, set the policy **start and end date**.
 
->**Note:** *Leave the end date blank to run the discount indefinitely.*
+> **Note:** *Leave the end date blank to run the discount indefinitely.*
 
-9. Enter the discount amount in **Discount percentage 1** (e.g., 10.00 for 10%).
-10. Click **New** to add the second child discount; repeat these steps as needed.
-11. Click **Save**.
-12. Click **Post** to activate the trade agreement policy.
-13. Go back to **Modules** ▸ **Product information management**.
-14. Expand **Products** and click **Released products**.
-15. Open each **line** related to tuition.
-16. On the next screen, expand the **Sell** section.
-17. Scroll down to the **Line discount group** dropdown and choose the Sibling discount trade agreement.
-18. Click **Save**.
-19. Repeat for other tuition fee items.
+8. Enter the discount amount in **Discount percentage 1** (e.g., 10.00 for 10%).
+9. Click **New** to add the second child discount; repeat these steps as needed.
+10. Click **Save**.
+11. Click **Post** to activate the trade agreement policy.
+12. Go back to **Modules** ▸ **Product information management**.
+13. Expand **Products** and click **Released products**.
+14. Open each **line** related to tuition.
+15. On the next screen, expand the **Sell** section.
+16. Scroll down to the **Line discount group** dropdown and choose the Sibling discount trade agreement.
+17. Click **Save**.
+18. Repeat for other tuition fee items.
 
 ![Trade Agreement Creation 1](./99-Images/trade_agreement_creation_1.png)
 
@@ -393,13 +394,13 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Customer Integration Mapping
 
->**Note**: This process defines how customer data is mapped and synchronized between the source system and Dynamics 365 Finance and Opertaions. It also classifies records into the correct customer type, such as Student or Fee payer, based on configuration.
+> **Note:** This process defines how customer data is mapped and synchronised between the source system and Dynamics 365 Finance and Operations. It also classifies records into the correct customer type, such as Student or Fee payer, based on configuration.
 
 1. Navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type**. 
 2. Click **New**. 
 3. Fill in the **Record type** and **Description fields**. 
 4. Click **Save** and close the page. 
-5. Navigate to **Modules Academic management ▸ Setup ▸ Integration ▸ Customer integration mapping**. 
+5. Navigate to **Modules** ▸ **Academic management** ▸ **Setup** ▸ **Integration** ▸ **Customer integration mapping**.
 6. Click **New**. 
 7. Select the **Record type** from the dropdown. 
 
@@ -448,12 +449,12 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 > **Note:** *Choose the method of payment that has an intercompany journal with the destination school.*
 
-7. Select the **Destination school** from the dropdown.
-8. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
+6. Select the **Destination school** from the dropdown.
+7. Set the **Account type** and the **Account** fields based on the entry posting in the original cashier receipt:
    - If the **Account type** is Ledger, the **Account** is Main
    - If the **Account type** is Bank, the **Account** is Bank account
-9. Select a value in the **Intercompany journal** field.
-10. Click **Save**.
+8. Select a value in the **Intercompany journal** field.
+9. Click **Save**.
     
 > **Note:** *When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.*
 
@@ -479,11 +480,11 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 > **Note:** *Next steps show how to assign to the Academic year.*
 
-13. Go back to **Modules** ▸ **Academic management**.
-14. Expand **Setup**, then click **Academic year**.
-15. Select the **Academic year** row. Then select the **Fee master list** code from the dropdown.
-16. Repeat step 14 for each academic year.
-17. Click **Save**.
+12. Go back to **Modules** ▸ **Academic management**.
+13. Expand **Setup**, then click **Academic year**.
+14. Select the **Academic year** row. Then select the **Fee master list** code from the dropdown.
+15. Repeat step 14 for each academic year.
+16. Click **Save**.
 
 ![Fee_Master_Template_to_Sync_Items_to_CE_1](./99-Images/fee_master_template_to_sync_items_to_ce_1.png)
 
