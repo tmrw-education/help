@@ -1,4 +1,4 @@
-# Troubleshooting Guide
+# FAQs
 
 ---
 
@@ -178,6 +178,22 @@
 
 ---
 
+🔴 **Problem:** A proforma invoice has not been received by the fee payer after the sales order was confirmed.
+
+🟡 **Cause:** The Use print management destination option may not have been enabled when confirming the sales order, or the fee payer's email address is not on file.
+
+🟢 **Solution:** Navigate to the sales order, click Sell in the Action Pane, then select Sales order confirmation under Journals. Open the latest confirmation, click Preview/Print, and select Use print management. Confirm the fee payer has a valid email address on their account before resending.
+
+---
+
+🔴 **Problem:** A fee price needs to be updated on an already-generated proforma invoice without cancelling and reissuing it.
+
+🟡 **Cause:** A price change was made to the trade agreement after the sales order was generated, so existing open orders still reflect the old price.
+
+🟢 **Solution:** Navigate to **Academic Management** ▸ **Periodic tasks** ▸ **Recalculate Open Sales Order**. Filter for the relevant student or sales order, enable Recalculate sales price, and click OK. Refresh the sales order to confirm future term lines show the updated price.
+
+---
+
 ## Pre-Admission Fees
 
 🔴 **Problem:** The Pre-Admission Types page is not visible in the menu.
@@ -217,6 +233,14 @@
 🟡 **Cause:** The fee may not have a status of Posted, or the user may not have the correct permissions to perform reversals.
 
 🟢 **Solution:** Filter the All pre-admission fees list by Status = Posted to confirm the record is eligible for reversal. Contact your system administrator if the Cancel button remains unavailable.
+
+---
+
+🔴 **Problem:** A registration fee cashier receipt cannot be processed because the sales order does not exist.
+
+🟡 **Cause:** The student record may not have been progressed to Registered status in the student management system before the manual post was attempted, so the sales order was never created.
+
+🟢 **Solution:** Confirm the student management system shows the student as Registered. Then navigate to **Academic Management** ▸ **Inquiries and reports** ▸ **Pre-admission fees** ▸ **All pre-admission fees**, locate the application fee record, and click Post with Preview set to Yes. Once posted, the sales order will be available for cashier receipting.
 
 ---
 
@@ -311,6 +335,14 @@
 🟡 **Cause:** The record status may not have been changed from Invoice to Change before updating session numbers.
 
 🟢 **Solution:** Open the record in **Sessional class and events details**, change the status to Change using the Change status dropdown, enter the updated session numbers, save, and then run the Generate sessional class and event adjustments task.
+
+---
+
+🔴 **Problem:** Revenue from a sessional class or event is posting immediately instead of being deferred to the event date.
+
+🟡 **Cause:** The Deferred option on the event record may not have been enabled, or the deferral date has not been set.
+
+🟢 **Solution:** Navigate to **Academic Management** ▸ **Setup** ▸ **Subject and event names**, locate the event record, click Deferrals, enable the Deferred option, and set the Deferral date to the event date. Delete any existing sales orders for the event and rerun the fee generation batch.
 
 ---
 
@@ -446,6 +478,38 @@
 
 ---
 
+🔴 **Problem:** A fee refund cannot be posted because the fee head financial dimension has not been set.
+
+🟡 **Cause:** The Financial dimensions for the account or offset account were not completed before posting the customer refund journal.
+
+🟢 **Solution:** Before clicking Post, click **Financial dimensions** above the journal lines table and set the Fee head value. Then click **Financial dimensions** again for the offset account and set the Cashflow field to Refund. Submit for workflow approval if required before posting.
+
+---
+
+🔴 **Problem:** A posted payment needs to be reversed but the reversal date field is not accepting the entry.
+
+🟡 **Cause:** The reversal date cannot be set to a date prior to the original posting date.
+
+🟢 **Solution:** Set the reversal date to a date on or after the original posting date. Navigate to the student's transaction list via **Customer** ▸ **Transactions** in the Action Pane, select the transaction, click Reverse, then Cancel payment, and enter a valid date before selecting a reason code and confirming.
+
+---
+
+🔴 **Problem:** A dishonoured cheque has been reversed but the NSF fee has not appeared on the student's account.
+
+🟡 **Cause:** The NSF payment option may not have been selected during the reversal, or the resulting journal was not posted.
+
+🟢 **Solution:** Confirm that NSF payment was selected (not a standard reversal) when processing the cancel. Navigate to **Accounts receivable** ▸ **Payments** ▸ **Customer payment journal**, enable Show user-created only, locate the journal created for the NSF reversal, open Lines, and click Post.
+
+---
+
+🔴 **Problem:** A Pay at Any School cashier receipt has been created but the transaction is not flagged correctly.
+
+🟡 **Cause:** The Company field may not have been set to the correct school when creating the cashier receipt journal.
+
+🟢 **Solution:** When processing a Pay at Any School payment, ensure the Company field in the cashier receipt is set to the school that issued the invoice — not the school processing the payment. Once posted, confirm the Pay at Any School column on the journal header is ticked.
+
+---
+
 ## Inquiries and Reports
 
 🔴 **Problem:** A fee payer statement is generating with no data.
@@ -453,6 +517,24 @@
 🟡 **Cause:** The date range selected may not include any transactions, or the filter may be pointing to the wrong account.
 
 🟢 **Solution:** Confirm the start and end dates cover the correct statement period. Open the Records to include section and verify the correct fee payer account has been selected in the filter.
+
+---
+
+## Debt Follow-Up
+
+🔴 **Problem:** A customer write-off journal is not available to post after creation.
+
+🟡 **Cause:** The journal may require workflow approval before it can be posted, or the posting account has not been configured.
+
+🟢 **Solution:** Navigate to **General Ledger** ▸ **Journal entries** ▸ **General journals**, locate the write-off journal, and review its status. If workflow is enabled, submit the journal for approval and follow the approval process before posting. If workflow is not enabled, post the journal directly.
+
+---
+
+🔴 **Problem:** A debtor note is not visible after it was created in the Collections Coordinator workspace.
+
+🟡 **Cause:** The activity filter in the events list may be set to show only open items, hiding closed or resolved notes.
+
+🟢 **Solution:** In the customer detail screen, open **Collect** ▸ **Collections** ▸ **Show** in All activities, and select **Open and closed** to display all notes including resolved items. Click the Notes tab to review the full history.
 
 ---
 
@@ -471,6 +553,22 @@
 🟡 **Cause:** One or more individual payments may not have been posted before the consolidation was run, or a payment was posted with the wrong method of payment.
 
 🟢 **Solution:** Review the open deposit slips for the date in question and confirm all payments for the day have been posted. Check that each payment was recorded against the correct method of payment. Re-consolidate if needed after correcting any errors.
+
+---
+
+🔴 **Problem:** The Transfer GEMS Reward Balances task is not generating a journal when run.
+
+🟡 **Cause:** The GEMS reward balance account may already be at zero for the selected date range, meaning there is no balance to transfer. This can also occur if the task has already been run for the same date.
+
+🟢 **Solution:** Navigate to **General Ledger** ▸ **Inquiries and reports** ▸ **Trial balance** and confirm the GEMS reward balance account has a non-zero balance for the selected date range before running the transfer. If the balance is already zero, no transfer is required for that period.
+
+---
+
+🔴 **Problem:** The GEMS reward transfer journal has posted but the balance account has not cleared to zero.
+
+🟡 **Cause:** The offset account in the journal may not have been configured correctly in the Receipt intercompany mapping, or the From date and To date do not match the trial balance dates used to verify the balance.
+
+🟢 **Solution:** Review the journal lines in **General Ledger** ▸ **Journal entries** ▸ **General journals** and confirm the credit amount equals the debit minus credit balance from the trial balance. Check the Receipt intercompany mapping setup to confirm the correct offset company and general ledger account are configured for the GEMS reward method of payment.
 
 ---
 
