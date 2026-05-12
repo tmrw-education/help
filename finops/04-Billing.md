@@ -4,6 +4,8 @@ Billing manages the end-to-end process of generating and posting fee invoices fo
 
 ## Fee Schedule Templates
 
+Fee schedule templates define what is charged to students and when. Each template specifies the billing interval, the fee items to include, the customer type, and any conditions that limit which students the template applies to. Schools with different fee structures for different student types, such as foundation versus mainstream students, create separate templates with conditions configured accordingly. Revenue recognition deferral settings are also applied at the template level. Once a template is saved, it is available for selection when running the fee generation batch.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Fee schedules** and click **All fee schedules**.
 3. Click **New** in the toolbar.
@@ -187,6 +189,8 @@ During enrolment or re‑enrolment, the deposit paid by the parent is recorded i
 
 ## Reconcile Sales Orders
 
+After the fee generation batch has run, staff reconcile the output to confirm the expected number of students and fee payer accounts were captured. The fee generation reconciliation report within the batch provides a summary view, and the data can be exported to Excel for further validation. This step ensures no students were unexpectedly excluded and that the billing run is complete before invoices are posted
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Fee schedule batches** and select **All fee schedule batches**.
 3. Click the relevant **Fee schedule batch number** to view details.
@@ -224,6 +228,8 @@ During enrolment or re‑enrolment, the deposit paid by the parent is recorded i
 ---
 
 ## Split Billing Configuration Percent by Fee Items
+
+By default, the financial responsibility split between fee payers is determined by the percentage set on the student's account and applies across all fee items equally. Where a school needs to apply a different split to a specific fee item; for example, splitting a building fund fee differently from tuition allows a per-student setup, per-item override to be configured. Overrides are effective date–controlled, meaning they can be set to apply for a defined period without affecting other billing cycles. This configuration applies only to sales orders generated after it is saved; existing invoices are not affected.
 
 > **Note:** *Split configuration applies only to sales orders generated after the setup is saved; Older invoices are not affected.*
 
@@ -601,6 +607,8 @@ The student ledger provides a consolidated view of a student's financial activit
 
 ## Fee Structure - Price Changes
 
+When tuition fees or other fee item prices need to be updated; for example, at the start of a new academic year, the change is made by editing the existing trade agreement line and submitting it through a new journal. Staff locate the relevant fee item, filter the sales price by academic year, curriculum, and stream to find the correct line, and enter the updated price with an effective date. The effective date controls when the new price takes effect, allowing changes to be configured in advance without affecting current billing. If annual pricing is used for deposit calculations, the annual price line must also be updated.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Expand **Products** and click **Released Products**.
 3. Filter by **Product name** and select the student's tuition fee item.
@@ -629,6 +637,8 @@ The student ledger provides a consolidated view of a student's financial activit
 ---
 
 ## Fee Structure - Recalculate Sales Prices 
+
+After a fee price change is posted, open proforma sales orders generated under the old price will not automatically update. The Recalculate Open Sales Order task re-prices those open orders using the current trade agreement price. Staff can filter the task to a specific student, a group of students, or a full billing cycle. Once complete, the sales order lines reflect the updated price without requiring the original orders to be cancelled and regenerated.
 
 >**Note**: *The steps below shows how to update the pro forma invoice.*
 
