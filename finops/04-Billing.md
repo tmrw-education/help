@@ -53,7 +53,7 @@ Billing manages the end-to-end process of generating and posting fee invoices fo
 
 ---
 
-#### Create Fee Invoices
+## Create Fee Invoices
 With student data confirmed and fee schedule templates in place, the system is ready to generate fee invoices through a batch process. Staff navigate to the Generate Sales Order Batch Processing task and configure the run by setting the fee generation and posting dates, selecting the posting option, choosing whether to consolidate invoices by item, and filtering for the relevant student cohort and fee schedule templates. For large groups, the user can continue working in the system whilst the process runs, or enable tasks to run out of hours. Once complete, the system generates sales orders for all selected students, which can then be reviewed before posting.
 
 ---
@@ -135,7 +135,7 @@ With student data confirmed and fee schedule templates in place, the system is r
 
 ---
 
-#### Post Fee Invoice and Settle Deposit
+## Post Fee Invoice and Settle Deposit
 After fee invoices have been generated and reviewed, they need to be formally posted to create the financial transactions in the system. This is done by selecting the relevant fee schedule batch and initiating the post, either directly or as a background job for large volumes. Once posted, the batch status updates from Active to Invoice. At this point, the system also automatically matches any received enrolment deposits to the corresponding invoices, settling them against the posted amounts. Staff should confirm that deposit statuses update from Received to Settled to ensure the reconciliation has completed correctly.
 
 
@@ -162,7 +162,7 @@ After fee invoices have been generated and reviewed, they need to be formally po
 
 ---
 
-#### Enrolment Deposits
+## Enrolment Deposits
 During enrolment or re‑enrolment, the deposit paid by the parent is recorded in D365 F&O as a customer prepayment and held as an Accounts Receivable (AR) liability specific to the enrolment or re‑enrolment deposit transaction type. When fee generation is run for the relevant academic year, tuition fee invoices are created in AR. The system automatically settles the deposit against those invoices by offsetting the deposit liability against the trade receivable. This reduces the outstanding amount payable by the fee payer, clears the deposit balance (in whole or in part), and leaves any excess deposit as a customer credit. Charge‑in‑advance and subsequent revenue recognition are handled separately in line with standard fee posting and revenue recognition rules.
 
 ---
@@ -242,11 +242,12 @@ During enrolment or re‑enrolment, the deposit paid by the parent is recorded i
 
 ---
 
-#### Pro Rata Adjustments
+## Pro Rata Adjustments
 
 This section covers fee adjustments for students who start after the official term date or leave before the term ends. For new students, it explains how to enable pro rata on fee items and update enrolment dates so the system calculates fees based on actual study days. For exiting students, it covers running the fee and charge adjustment task and reviewing the resulting sales order to confirm the correct refund amount.
 
-#### Joining Students
+## Joining Students
+
 When a student begins their enrolment after the official term start date, it would be inequitable to charge them the full term fee. The pro rata adjustment feature addresses this by calculating the fee based on the actual number of school days the student will attend within the term. To enable this, the Pro rata field on the relevant tuition fee item must be activated, and the student's enrolment effective date must be updated to reflect their actual start date. When the fee generation batch is run, the system uses these dates to automatically calculate and apply a reduced fee, ensuring the student is only charged for the days they are present.
 
 ---
@@ -254,6 +255,7 @@ When a student begins their enrolment after the official term start date, it wou
 ## Enable Pro Rata Adjustments
 
 > **Note:** *Ensure the **Pro rata joining** option on the fee item matches the policy configured in Fee schedule parameters. See [Fee Schedule Parameters (GEMS)](../02-Setup.md#fee-schedule-parameters-gems) — step 8.*
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Expand **Products** and click **Released products**.
 3. Locate and select the **tuition fee item** (e.g., FS1) that will be subject to pro rata adjustment.
@@ -268,7 +270,8 @@ When a student begins their enrolment after the official term start date, it wou
 
 ---
 
-#### Using the Student Management system or D365 F&O
+## Using the Student Management system or D365 F&O
+
 Academic enrolment dates—including start date, end date, academic year, and enrolment status—are maintained in the Student Management System, which serves as the system of record for all academic lifecycle data. D365 F&O is deliberately not used to create or manage these dates directly. Instead, enrolment data is validated, governed, and updated in the student system where academic rules apply. The confirmed enrolment dates are then integrated into D365 F&O to support downstream financial processes, including fee generation, deposit settlement, and revenue recognition. This approach ensures a clear separation of academic ownership from financial processing and avoids duplication or inconsistency across systems.
 
 ---
@@ -310,7 +313,7 @@ Academic enrolment dates—including start date, end date, academic year, and en
 ---
 
 
-#### Leaving Students
+## Leaving Students
 When a student leaves the school before the end of a term, any fees already invoiced for the remaining days need to be adjusted and refunded. The system handles this through the Calculate fee and charge adjustment task, where staff enter the student's last day at school. The system then calculates the number of remaining school days and generates an adjustment sales order with a negative quantity representing the days to be refunded. Staff review the adjustment to confirm the quantity and net refund amount are correct before the refund is processed, ensuring the student's account is accurately reconciled upon departure.
 
 
@@ -364,7 +367,7 @@ When a student leaves the school before the end of a term, any fees already invo
 
 ---
 
-#### Proforma Invoice Generation
+## Proforma Invoice Generation
 
 Proforma invoices are generated from confirmed sales orders and sent to fee payers before a formal tax invoice is issued. Once fee schedules have been run and sales orders created, staff can confirm individual orders manually for a single student, or process all open proforma invoices in bulk for a billing cycle. Both methods trigger the print management destination configured in the system, which automatically distributes the proforma document to the fee payer. If a proforma invoice needs to be resent or reprinted, staff can regenerate it from the confirmed sales order without creating a new order.
 
@@ -455,13 +458,9 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 ---
 
-#### Fee Structure Setup
+## Fee Structure Setup
 
 Fee structure setup defines the price applied to tuition fee items and other school fee items using trade agreements. Schools may have one or two tuition fee items depending on whether they apply different fee structures for new and existing students. Each tuition fee item requires two prices per academic attribute combination — a monthly price used when generating fee invoices, and an annual price used when calculating enrolment deposits. Once prices are configured, tuition fee items must be linked to the relevant academic year so the system knows which item and price to use during deposit calculations. Non-tuition items such as ID cards use a standard trade agreement without academic attributes.
-
----
-
-## Fee Structure Setup
 
 > **Note:** *Each academic attribute combination (academic year + curriculum + stream) requires two trade agreement lines: one with a monthly unit and one with an annual unit. The monthly price drives fee invoice generation; the annual price drives deposit calculations.*
 
@@ -494,7 +493,7 @@ Fee structure setup defines the price applied to tuition fee items and other sch
 
 ---
 
-#### Tax Invoices
+## Tax Invoices
  
 The advance tax invoice feature allows staff to generate a tax invoice against a fee payer's open proforma invoice before full payment is received. This is typically used when a family requests a formal tax invoice ahead of settlement, for example, for employer reimbursement or government funding purposes. Staff locate the student account, access the relevant sales order, apply the prepayment invoice against the open term invoice, assign the advance tax invoice request category, and post the record. The system then generates the invoice, which can be printed and provided to the fee payer.
  
@@ -533,6 +532,8 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 
 ## Book Sales
 
+---
+
 ## Book Fee Setup and Sales Order Generation
 
 > **Note:** *Before starting, ensure a book fee item has already been created.*
@@ -541,15 +542,16 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 2. Select **Product name** and filter for **Book fees**.
 3. To check the sales price of the selected item, click on **Sell** from the Action Pane.
 4. Under **View**, select **Sales price**.
+
 > **Note:** *Make sure all prices are set up for all grades, curriculum, and streams.*
+
 5. Set up a new fee schedule by navigating to **Academic management ▸ Fee schedules ▸ All fee schedules**.
 6. Click **New**.
 7. In the **Fee schedule header**, under **Customer type**, select **Student**.
 8. Enter a **Description** and a **Fee and charge interval** for the billing cycle.
 9. In **Fee schedule lines**, select **+ Add line** and choose the fee item for the book fee.
 10. Click **Save and close**.
-11. To generate a sales order for the book fee, navigate to  
-    **Academic management ▸ Periodic tasks ▸ Generate sales order batch processing**.
+11. To generate a sales order for the book fee, navigate to **Academic management ▸ Periodic tasks ▸ Generate sales order batch processing**.
 12. In the **Task parameters**:
     - Select a **Fee generation date** within the Fee and charge interval.
     - Select a **Fee and charge interval**.
@@ -574,13 +576,9 @@ The advance tax invoice feature allows staff to generate a tax invoice against a
 
 ---
 
-#### Student Ledger
+## Student Ledger
 
 The student ledger provides a consolidated view of a student's financial activity over a specified date range. School finance staff use it to review invoices, payments, advance invoices, and prepayments associated with an individual student. The report can be filtered to suppress advance and prepayment invoice detail where a simplified view is required.
-
----
-
-## Student Ledger
 
 1. From the **FNO dashboard**, open **Modules**.
 2. Expand **Students** and click **All Students**.
