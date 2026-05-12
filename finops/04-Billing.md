@@ -85,9 +85,9 @@ With student data confirmed and fee schedule templates in place, the system is r
 
 > **Note:** *Leave this blank to run the batch across all eligible students for the selected interval.*
 
-11. Click **OK** to submit the batch job.
-12. Wait for the batch job to complete.
-13. Open **Modules** ▸ **Academic Management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
+10. Click **OK** to submit the batch job.
+11. Wait for the batch job to complete.
+12. Open **Modules** ▸ **Academic Management** ▸ **Fee schedule batches** ▸ **All fee schedule batches**.
 
 > **Note:** *The system generates a new batch number for each run. All sales orders created in that batch are listed under the batch number.*
 
@@ -233,7 +233,7 @@ During enrolment or re‑enrolment, the deposit paid by the parent is recorded i
 4. Complete the following columns to configure split payment per payee:
    - Search and select a **student**.
    - Select the specific **fee item to override** (e.g., Building Fund Fee).
-   - Assign the **custom split percentages** for each payer (e.g., Dad 60%, Mom 40%).
+   - Assign the **custom split percentages** for each payer (e.g., Dad 60%, Mum 40%).
    - Specify the **effective and expiration dates** for this split configuration.
 5. Repeat step 4 for the other payer.
 6. Click **Save**.
@@ -262,7 +262,7 @@ When a student begins their enrolment after the official term start date, it wou
 4. Open the **Sell** section and locate the field called **Pro rata**.
 5. Set this field to **any option except None** to activate pro rata adjustment for new students.
 
-> Note: *This ensures the system calculates fees based on the actual number of study days for students who start after the official term start date.*
+> **Note:** *This ensures the system calculates fees based on the actual number of study days for students who start after the official term start date.*
 
 6. Click **Save**.
 
@@ -438,15 +438,15 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 > **Note:** *The system lists all open proforma invoices (sales orders) matching the selected billing cycle.*
 
-6. Enable **Print confirmation**.
-7. Enable **Use print management destination**.
-8. Click **OK** to generate and send the documents immediately.
+7. Enable **Print confirmation**.
+8. Enable **Use print management destination**.
+9. Click **OK** to generate and send the documents immediately.
 
 > **Note:** *If there are a large number of sales orders, processing may take several minutes. Use the Batch option in step 9 to run in the background instead.*
 
-9. To run as a scheduled batch job instead, click **Batch**.
-10. Enable **Batch processing**.
-11. Click **OK**.
+10. To run as a scheduled batch job instead, click **Batch**.
+11. Enable **Batch processing**.
+12. Click **OK**.
 
 > **Note:** *The system automatically emails each proforma invoice to the fee payer as an attachment once the batch completes.*
 
@@ -606,7 +606,7 @@ The student ledger provides a consolidated view of a student's financial activit
 3. Filter by **Product name** and select the student's tuition fee item.
 4. Open **Sell** from the toolbar.
 5. Click on **Sales price**.
-6. Filter by **Company**, **Academic year**, **Curiculum**, and **Stream** to find the relevant fee line.
+6. Filter by **Company**, **Academic year**, **Curriculum**, and **Stream** to find the relevant fee line.
 7. Select the fee line.
 8. Click **Edit selected lines**.
 9. Enter **Name** (e.g., Academic scale price).
