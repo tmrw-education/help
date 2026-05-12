@@ -20,7 +20,7 @@ The intercompany transfer process is used when a student moves from one school t
 7. Enter the **Posting profile** to be used for the transfer transactions.
 8. Click on the **Journal** name.
 9. Open **Financial dimensions** tab.
-10. Enter the **fee head** or financial dimensions to be defaulted on the transfer journal.
+10. Enter the **fee head** or **financial dimensions** to be defaulted on the transfer journal.
 
 > **Note:** *Financial dimensions set here are applied automatically to the transfer voucher. This controls how the transfer is reported against fee heads or cost centres.*
 
@@ -49,7 +49,9 @@ The intercompany transfer process is used when a student moves from one school t
 
 6. Open **Academic** in the toolbar.
 7. Click **Transfer**.
-    > **Note:** _Confirm the student's balance is in **credit** and that no advanced tax invoices remain outstanding before transferring._
+
+> **Note:** *Confirm the student's balance is in **credit** and that no advanced tax invoices remain outstanding before transferring.*
+
 8. Review the credit balance displayed in the confirmation dialog.
 9. Click **OK** to confirm the transfer.
 
