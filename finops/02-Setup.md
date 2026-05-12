@@ -108,11 +108,9 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ---
 
-#### Academic Year
+## Academic Year
  
 Academic year setup defines the academic calendar structure used across the platform and must align with the configuration in the student management system, as finance is downstream from both. Each academic year record is assigned a sequence number, a shared academic year ID, and an optional school-specific description. Year group financial dimensions are linked to each record to automate accounting transactions. Once the academic year is created, tuition fees for re-enrolment and enrolment deposits are attached so the system can look up the correct fees during the deposit process. Where a school has students eligible for a different fee structure — such as foundation students — both fee structures are added at this stage.
-
----
 
 ## Academic Year (Product)
 
@@ -308,7 +306,9 @@ Academic year setup defines the academic calendar structure used across the plat
 3. Click **New**.
 4. Enter details in the **Stream** column.
 5. Enter details in the **Description** column.
-  >**Note**: *Use the same naming and description format as the student management system to keep the setup consistent across both systems.*
+
+>**Note**: *Use the same naming and description format as the student management system to keep the setup consistent across both systems.*
+
 6. Click **Save**.
 
 ![Stream_1](./99-Images/stream_1.png)
@@ -332,10 +332,8 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ---
 
-#### Sibling Order
+## Sibling Order
 The sibling discount feature allows the school to automatically apply fee reductions based on how many children from the same family are currently enrolled. To make this work, each student needs to be assigned a sibling order number that reflects their position within the family, with the eldest being 1, the second child being 2, and so on. These numbers are then mapped to customer price and discount groups, which are in turn linked to trade agreements that define the discount percentage for each sibling position. Once this configuration is complete and the trade agreement is posted, the system applies the correct discount automatically when fee invoices are generated.
-
----
 
 ## Sibling Order Setup
 
@@ -404,7 +402,9 @@ The sibling discount feature allows the school to automatically apply fee reduct
 5. Navigate to **Modules Academic management ▸ Setup ▸ Integration ▸ Customer integration mapping**. 
 6. Click **New**. 
 7. Select the **Record type** from the dropdown. 
+
 > **Note:** *The Record type description should fill in automatically.*
+
 8. In the **Customer type** field, select between Student and Fee payer. 
 9. Select the appropriate **Customer group** from the dropdown. 
 10. Click **Save**.
@@ -423,7 +423,9 @@ The sibling discount feature allows the school to automatically apply fee reduct
 2. Expand **Setup**, then expand **Cashier receipt**.
 3. Click **Fee type**. Review the list of existing fee types to avoid creating duplicates.
 4. Click **New** in the toolbar.
+
 > **Condition:** *Perform this step only if the required fee type does not exist.*
+
 5. Enter a value in **Fee type** field (e.g., Security deposit, Transport).
 6. Select a value in **Account** field (e.g., Transport fee).
 7. Select a value in **Tax Group** field.
