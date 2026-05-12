@@ -4,12 +4,9 @@ Subject & Event Management handles the setup and invoicing of fee-generating act
 
 ---
 
-#### Subject and Event Name Creation
+## Subject and Event Names
+
 Before students can be enrolled in sessional classes or events and invoiced accordingly, the system needs to have the correct fee categories, subject codes, and event names configured. Fee categories classify the type of activity, while subject and event codes provide the unique identifiers the system uses to link students to specific classes or events. Each entry needs to be marked as active before it can be used in fee processing. Early payment discount options can also be set at this stage if applicable. This setup work is a prerequisite for all subsequent sessional class and event invoicing.
-
----
-
-## Subject & Event Names
 
 > **Note**: This setup is typically created through integration from the upstream activity module, where billable activity details, item information, and revenue recognition data are synchronized into D365 Finance and Operations for billing and financial posting. Manual entry in D365 F&O is rarely required.
 
@@ -43,7 +40,8 @@ Before students can be enrolled in sessional classes or events and invoiced acco
 ![Create Fee Schedule Templates Creation 7](./99-Images/create_fee_schedule_templates_creation_7.png)
 
 ---
-#### Event Registration and Invoicing
+
+## Event Registration and Invoicing
 
 Before students can be registered for sessional classes or events, each event record requires a deferral date to be set so the system knows when to recognise the associated revenue. Once the event is configured, staff can enrol students directly from the Sessional Class and Event Details form. In most cases, registration is handled automatically through Parent Connect or an equivalent app; however, where a parent or guardian registers in person at the school counter, staff complete the enrolment manually and generate the invoice from within the system. Once posted, the charge is held as deferred revenue until the event date, at which point the system automatically transfers it to the main revenue account.
 
@@ -122,7 +120,7 @@ Before students can be registered for sessional classes or events, each event re
 
 ---
 
-#### Student Registration and Invoicing
+## Student Registration and Invoicing
 Once the subject and event codes are in place, students can be registered into specific sessional classes and events, and the system can generate the corresponding invoices. This involves assigning the correct fee category to the relevant fee item, creating a fee schedule template with the appropriate conditions and event codes, and enrolling students by adding them to the sessional class and event details. When the fee generation batch is run, the system uses these enrolment records to create invoices based on either a flat fee or the number of sessions attended, depending on whether session-based invoicing has been enabled.
 
 ---
@@ -158,13 +156,9 @@ Once the subject and event codes are in place, students can be registered into s
 
 ---
 
-#### Cancelling a Sessional Class or Event Enrolment
+## Sessional Class and Event Enrolment Cancellation
 
 When a student's enrolment in a sessional class or event needs to be cancelled after invoicing, the cancellation is performed directly in GEMS via the Sessional class and event details form. Accessing the form allows staff to review the full enrolment record — including the event code, student account, and invoice status — before initiating the cancellation. Once confirmed, the system automatically generates a credit note to reverse the original invoice, with the resulting sales order showing a negative quantity and amount. Full details of the cancellation are recorded in the journal section for audit purposes.
-
----
-
-## Sessional Class and Event Enrolment Cancellation
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Fee schedules**.
@@ -191,7 +185,7 @@ When a student's enrolment in a sessional class or event needs to be cancelled a
 
 ---
 
-#### Changing Sessional Classes & Events
+## Changing Sessional Classes & Events
 After invoices have been generated for sessional classes or events, there may be situations where the original enrolment details change, such as a student attending more or fewer sessions than originally invoiced. In these cases, the system provides a process to generate an adjustment rather than requiring the original invoice to be reversed and reissued. Staff update the session record status to Change, enter the revised session numbers, and then run the adjustment batch. The system calculates the difference and creates an updated sales order to reflect the correct amount, ensuring the student's account remains accurate.
 
 ---
