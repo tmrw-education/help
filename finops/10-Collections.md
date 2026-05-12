@@ -4,7 +4,7 @@ Collections covers the full range of payment processing and receipt management f
 
 ---
 
-#### Setup
+## Setup
 Payment schedules allow the school to offer fee payers the option to pay invoices in instalments rather than a single lump sum. Setting this up involves two steps. First, a payment schedule is created in Accounts Receivable, defining the allocation method, the number of payments, and the frequency. Second, the schedule is linked to a payment option in Academic Management, giving it a name, description, and active date range. Once both are in place, the payment plan can be applied to individual fee payer accounts, and the system will split their invoices into the configured instalments accordingly.
 
 
@@ -65,7 +65,9 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 13. Review the details and click **Back**.
 14. Click **Yes** in the bottom left to proceed with the payment plan or **Back** to cancel.
 15. Click **Save**.
-   > **Note:** *The following steps show how to view all fee payers on a payment plan.*
+
+> **Note:** *The following steps show how to view all fee payers on a payment plan.*
+
 16. Open **Modules** ▸ **Academic management** ▸ **Inquiries and reports**.
 17. Expand **Payment Plan**, click **Payment plan details**.
 18. Change the filter to **Show All** if needed.
@@ -73,7 +75,9 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 20. Click **Invoices** from toolbar.
 21. Click **Split invoice details** from the toolbar to verify the invoices were split correctly.
 22. Click **Cancel** to exit.
-   > **Note:** *Follow the next steps to view the payment plan directly from the customer.*
+
+> **Note:** *Follow the next steps to view the payment plan directly from the customer.*
+
 23. Navigate to **Academic management** ▸ **Fee payer** ▸ **All fee payers**.
 24. Select the customer, then click on **Academic** from the Action Pane.
 25. Then under **Payment plan**, select **View payment plan**.
@@ -106,7 +110,7 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 10. Choose 1 or more invoices checkbox.
 11. Amend the payment plan by clicking **Merge invoice** in toolbar.
 
->**Note**: *Merge invoice is only available when split invoices already exist.*
+> **Note**: *Merge invoice is only available when split invoices already exist.*
 
 12. Click **Yes** to confirm.
 13. Click **Save**.
@@ -137,7 +141,7 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 
 ---
 
-#### Cashier Receipts (Over-the-Counter)
+## Cashier Receipts (Over-the-Counter)
  
 Cashier receipts payment processing is used when a fee payer makes a payment directly at the school, rather than through an online or automated channel. Staff can process a payment using the Over the Counter Payment form — selecting the fee payer, entering the amount, and allocating it to open invoices — or through the Cashier Receipt form when paying outstanding overdue invoices directly. The Cashier Receipt form also supports post-dated cheque entry, allowing staff to record a cheque with a future maturity date, link it to a specific student account, and capture issuing bank details before posting. If a payment exceeds the invoice total, the system records the excess as an advance. Once posted, the system generates a journal reference number and provides the option to print or email a receipt to the fee payer, completing the transaction with a full audit trail.
 
@@ -286,13 +290,9 @@ Cashier receipts payment processing is used when a fee payer makes a payment dir
 
 ---
 
-#### Cashier Receipt - Pay at any School
+## Cashier Receipt - Pay at any School
 
 The pay at any school process allows staff to receive and record fee payments on behalf of any school within the group, regardless of which school the student is enrolled at. Staff select the relevant company and student, mark the invoice to be paid, enter the payment details, and post the transaction. Once posted, the record is flagged in the system as a Pay at Any School transaction, providing a clear audit identifier for intercompany receipting.
-
----
-
-## Pay at Any School
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments** and click **Cashier receipt report**.
@@ -322,10 +322,6 @@ The pay at any school process allows staff to receive and record fee payments on
 
 The miscellaneous receipt function allows cashiers to record incoming payments that are not linked to a specific student invoice or customer account. This is used when funds are received for ad hoc items such as event fees, lost property charges, or sundry income. The cashier enters the payment details, selects a fee type to determine the correct general ledger coding, and posts the transaction. An optional receipt can be printed at the time of posting.
 
----
-
-## Miscellaneous Receipt
-
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts Receivable**.
 2. Expand **Payments** and click **Miscellaneous receipt**.
 3. Click **+ Miscellaneous receipt**.
@@ -351,13 +347,9 @@ The miscellaneous receipt function allows cashiers to record incoming payments t
 
 ---
 
-#### Scheduled Credit Card
-Scheduled credit card processing is used to handle bulk fee payments via credit card for a defined period. Staff create a new customer payment journal, generate a payment proposal for the relevant date range and payment method, and review the invoices returned. Selected invoices are transferred to the payment journal, and the system then requests authorisation from the payment service provider. If authorisation is successful, the transactions are posted and marked as complete. If any lines fail authorisation, they are removed automatically and must be manually reviewed or retried. This process allows the school to efficiently manage large volumes of credit card payments in a single batch.
-
-
----
-
 ## Scheduling Credit Card Payments
+
+Scheduled credit card processing is used to handle bulk fee payments via credit card for a defined period. Staff create a new customer payment journal, generate a payment proposal for the relevant date range and payment method, and review the invoices returned. Selected invoices are transferred to the payment journal, and the system then requests authorisation from the payment service provider. If authorisation is successful, the transactions are posted and marked as complete. If any lines fail authorisation, they are removed automatically and must be manually reviewed or retried. This process allows the school to efficiently manage large volumes of credit card payments in a single batch.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payments** and click **Customer payment journal**.
@@ -371,16 +363,16 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
 10. The system displays all invoices due within the selected period. Select the invoices to be paid, or leave unmarked to select all.
 11. Click **Create Payments** to transfer selected invoices to the payment journal.
 
-> Note: *Delete any lines with zero or debit amounts, as only payable invoices should remain.*
+> **Note:** *Delete any lines with zero or debit amounts, as only payable invoices should remain.*
 
 12. Enter the **Payment reference** as required.
 13. Click the **Functions** button in the toolbar, then select **Generate Credit Card Payments**.
 
-> Note: *The system requests authorisation from the service provider. If successful, the status changes to Approved; if not, a failure message appears, unauthorised lines are deleted and must be manually retired or reviewed.*
+> **Note:** *The system requests authorisation from the service provider. If successful, the status changes to Approved; if not, a failure message appears, unauthorised lines are deleted and must be manually retired or reviewed.*
 
 14. Once authorisation is received, click **Post**.
 
-> Note: *The system confirms posting, and the Post button becomes inactive. All transactions are now posted and complete.*
+> **Note:** *The system confirms posting, and the Post button becomes inactive. All transactions are now posted and complete.*
 
 ![Schuedling Credit Card Payments 1](./99-Images/scheduling_credit_card_payments_1.png)
 
@@ -394,13 +386,9 @@ Scheduled credit card processing is used to handle bulk fee payments via credit 
 
 ---
 
-#### Advance Payment
+## Advance Payment
 
 Advance payment allows a school to collect fees for future term invoices before they are due, with the system automatically calculating and applying any applicable advance discounts based on configured discount policies. Staff process advance payments through the Cashier Receipt form, selecting the co-branded payment method to trigger the discount calculation. Once posted, the system generates a prepayment invoice for each term covered by the payment, alongside the receipt journal. A simulation tool is also available for staff to calculate the projected discount for a given amount without completing a payment transaction — this is useful when a fee payer wants to understand their discount entitlement before committing to payment.
-
----
-
-## Advance Payment
 
 > **Note:** *Before processing an advance payment, confirm that the Advanced Discount Policy is configured for the relevant fee and charge interval, and that a proforma invoice has already been generated for the student.*
 
@@ -455,7 +443,8 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Configure Advance Payment Discount - Date Based
 
->**Note**: *In this setup, the discount is calculated based on the payment date only. If payment is received on or before the eligible date, the system applies the predefined discount amount, regardless of the payment method.*
+> **Note**: *In this setup, the discount is calculated based on the payment date only. If payment is received on or before the eligible date, the system applies the predefined discount amount, regardless of the payment method.*
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Accounts receivable**.
 2. Expand **Payment setup** and click **Cash discounts**.
 3. Click **New** to add a discount.
@@ -471,7 +460,8 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ## Assigning Early Payment Discounts to Products / Fees
 
->**Note**: *This process is used for Advance Discount Payment – Date Based.* 
+> **Note**: *This process is used for Advance Discount Payment – Date Based.*
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Product information management**.
 2. Expand **Products** and click **Released products**.
 3. Select a relevant **fee item** (e.g., tuition, music lesson, sport class).
@@ -546,11 +536,12 @@ Advance payment allows a school to collect fees for future term invoices before 
 
 ---
 
-#### Fee Refunds
+## Fee Refunds
 
 Fee refunds of credit balances are processed when a student's account holds an excess credit that needs to be returned to the fee payer. Staff create a customer payment journal using the refund journal type, select the student account, identify the credit invoice through the settle transactions function, and configure the financial dimensions for both the fee head and the offset bank account. Once the journal is posted — or approved through workflow if applicable — the refund is recorded against the student's account and the credit balance is cleared.
 
 ---
+
 ## Confirm Bank Account Details
 
 > **Note:** *Confirm a parent's bank details before paying via bank file.*
@@ -560,7 +551,9 @@ Fee refunds of credit balances are processed when a student's account holds an e
 3. Select the relevant record.
 4. In the Action Pane, click **Customer**, then under **Setup**, find **Bank accounts**.
 5. Confirm that an active bank account exists and is marked for refunds or payment processing.
+
 > **Note:** *If no bank account is listed, follow the next steps to add a bank account.*
+
 6. Click **New**. Enter the bank details (bank name, IBAN, SWIFT, currency). Then **Save**.
 7. If necessary, update the existing bank account details. Then **Save**.
 
@@ -570,7 +563,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ## Fee Refunds of Credit Balances
 
-> **Comment:** *Proceed with the refund procedure only after the bank details are confirmed.*
+> **Note:** *Proceed with the refund procedure only after the bank details are confirmed.*
 
 1. Navigate to **Modules** ▸ **Accounts receivable** ▸ **Payments** ▸ **Customer payment journal**.
 2. Click **New**.
@@ -614,12 +607,12 @@ Fee refunds of credit balances are processed when a student's account holds an e
 5. Enter a **Description**. 
 6. Enter the number of **Days** after the invoice due date when the letter should be sent.
 
->**Note**: *This value controls when the reminder is triggered after the due date*.
+> **Note**: *This value controls when the reminder is triggered after the due date*.
 
 7. Enter any additional fees or fines if applicable.
 8. Repeat steps 3-6 to add additional letters (e.g., Second Reminder, Suspension Letter).
 
->**Note**: *Leave fields blank if no fees or fines apply*.
+> **Note**: *Leave fields blank if no fees or fines apply*.
 
 9. Click **Save**.
 10. Go to **Modules** ▸ **Credit and Collections**.
@@ -644,7 +637,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
 4. Enter the **Collection letter date**.
 5. Expand **Records to include** section and enter the **Customer account** if you want to generate letters for one account only.  
 
->**Note:** *Leave this field blank to generate letters for all eligible accounts.*
+> **Note:** *Leave this field blank to generate letters for all eligible accounts.*
 
 6. Click **OK** to generate the collection letter.
 7. Go to **Modules** ▸ **Credit and collections ▸ Collection letter ▸ Review and process collection letters**.
@@ -657,7 +650,7 @@ Fee refunds of credit balances are processed when a student's account holds an e
 14. Review the printed letter for accuracy.
 15. Repeat all the steps for the next letter in the sequence, if required.  
 
->**Note:** *Use the next collection letter code and the correct date according to your escalation schedule*.
+> **Note:** *Use the next collection letter code and the correct date according to your escalation schedule*.
 
 ![Generate 3 Letters and the Suspension 1](./99-Images/generate_3_letters_and_the_suspension_1.png)
 
@@ -671,7 +664,8 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ## Send a Customer Statement Email Outside the Collection Letter Sequence
 
->**Note:** *This process allows users to send a customer statement email directly from the Customer Credit and Collections workspace without using the collection letter sequence. Use it when you need to send balance or transaction details to customers or fee payers who are not part of the automated collection workflow.*
+> **Note:** *This process allows users to send a customer statement email directly from the Customer Credit and Collections workspace without using the collection letter sequence. Use it when you need to send balance or transaction details to customers or fee payers who are not part of the automated collection workflow.*
+
 1. From the **FNO dashboard**, open **Workspaces** ▸ **Customer credit and collections**.
 2. In **Collections**, click **Aged balances** to view the customer list and balances.
 3. Filter the list by **Pool** to find the customer. 
@@ -687,7 +681,9 @@ Fee refunds of credit balances are processed when a student's account holds an e
       - Confirm the **To** recipient, such as the parent or customer contact.
       - Enter the email **Subject**.
 9. Enter the email **Body**.
->**Note**: *Use a generic message if sending to multiple recipients*.
+
+> **Note**: *Use a generic message if sending to multiple recipients*.
+
 10. Click **+Add** to include an Attachment, or **Remove** to delete one. 
 11. Click **Send**.
 
@@ -722,13 +718,9 @@ Fee refunds of credit balances are processed when a student's account holds an e
 
 ---
 
-#### Cancel Receipt
+## Cancel Receipt
 
 Cancel Receipt is used when a posted customer payment needs to be reversed. Staff locate the student's transaction record, initiate a reversal, and select a cancellation reason. The system reverses the original payment entry and updates the student's account accordingly.
-
----
-
-## Cancel Receipt
 
 1. Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**.
 2. Filter the list to locate the required student.
@@ -752,13 +744,9 @@ Cancel Receipt is used when a posted customer payment needs to be reversed. Staf
 
 ---
 
-#### Cheque Returns
+## Cancel Cheque – Insufficient Funds
 
 When a customer cheque is returned due to insufficient funds, staff must reverse the original cheque payment, apply the NSF (non-sufficient funds) fee, and post the resulting accounting entries. The process begins by locating the dishonoured payment in the student's transaction history, reversing it using the NSF payment option, entering a reason code, and then posting the system-generated journal. Once posted, the reversal and associated fee entries are recorded against the student's account.
-
----
-
-## Cancel Cheque – Insufficient Funds
 
 1. Navigate to **Modules** ▸ **Academic Management** ▸ **Students** ▸ **All students**.
 2. Filter for the student using the **Account** column filter or by name.
