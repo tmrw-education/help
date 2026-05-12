@@ -53,13 +53,9 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 
 ---
 
-#### Debtor Notes
+## Record Debtor Notes
 
 Debtor notes are used to record interactions with fee payers — such as phone calls or promises to pay — directly against the customer's account. Notes can be dated and filtered, and each entry can be reviewed in full detail at any time through the customer collections view.
-
----
-
-## Record Debtor Notes
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Workspaces** ▸ **Collections coordinator**.
 2. Locate the relevant debtor account and click **View customer detail**.
