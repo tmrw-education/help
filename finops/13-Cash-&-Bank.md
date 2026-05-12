@@ -36,7 +36,9 @@ The day-end procedure ensures that all cash transactions processed throughout th
 16. Expand **Records to include** and click **Filter**.
 17. Enter the **deposit slip number** in the criteria field.
 18. Click **OK** to generate the report.
-  > **Note:** *The next steps show the process for viewing the consolidated deposit via the bank account.*
+
+> **Note:** *The next steps show the process for viewing the consolidated deposit via the bank account.*
+
 20. From the **FNO dashboard**, open **Modules** ▸ **Cash and bank management**.
 21. Click **Bank accounts** and select the relevant **bank account**.
 22. Click **Transactions** to verify the deposit.
@@ -76,11 +78,15 @@ There is a company (GRL) that manages the GEMS reward points. Every payment is p
     - Click **Get GEMS reward points** 
     - Mark the desired Invoice  
 5. Click **Post ▸ OK**. 
-> **Note:** *For GEMS rewards, the system will automatically update the points for the reward system*. 
+
+> **Note:** *For GEMS rewards, the system will automatically update the points for the reward system*.
+
 6. Navigate to **General ledger ▸ Inquiries and reports ▸ Trial balance**. 
 7. Enter: **From date / To date** (today’s date). 
 8. Filter: **Main account**, select the ledger account as the method of payment. 
-> **Note:** *The transfer balance amount = debit – credit*. 
+
+> **Note:** *The transfer balance amount = debit – credit*.
+
 9. Navigate to **Academic management ▸ Periodic tasks ▸ Transfer GEMS reward balances**. 
 10. Enter parameters: 
     - Posting date 
