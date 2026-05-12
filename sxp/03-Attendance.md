@@ -15,8 +15,8 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 
 3. Use the colour of each class block to understand its status in the school day:
      - Blue: The class is happening right now.
-     - Light grey: The class is coming up later today.
-     - Dark grey: The class has already finished.
+     - Light grey: The class has already finished.
+     - Dark grey: The class is coming up later today. 
 4. Use the controls in the schedule toolbar to move to a different day:
      - Click the **right arrow** to move forward one day
      - Click the **left arrow** to move backward one day
