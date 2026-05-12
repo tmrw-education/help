@@ -6,6 +6,7 @@ Before any pre-admission fees can be processed, the system needs to be configure
 
 ## Pre-Admission Type Setup
 
+Pre-admission types define the category of fee or deposit being collected before a student is formally enrolled. Each type determines how the transaction is recorded in the system whether as a general ledger entry, a free text invoice, a sales order, or a prepayment invoice and must be created before the corresponding posting rules can be configured. The note below describes each transaction type and its typical use case.
 
 > **Note:** *Review the existing types to avoid creating duplicates*.
 > - *General journal — used when there is no student record at this stage and the setup requires posting directly to the general ledger. Records the fee as other income in the main account. No posting profile or receipt journal name is required. Typically used for application fees.*
@@ -240,6 +241,8 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 
 ## Forfeiting Deposits
 
+Deposits are forfeited when a student does not proceed with enrolment and the school elects to retain the funds rather than return them. The process is similar to a refund. Staff select the relevant deposit from the Pre-Admission Deposits view but the Forfeit action is used instead. Only deposits with a status of Received or Partial are eligible. The system generates a forfeit journal that can be previewed before posting.
+
 > **Note:** *Only deposits with Status = Received or Partial is eligible to be forfeited.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
@@ -334,6 +337,8 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 ---
 
 ## Manually Adding Enrolment Fee Records
+
+In most cases, enrolment fee records are created automatically when the student management system sends data to D365 F&O. Where a record needs to be created manually (for example, when a fee was not captured through the integration) staff can create a new pre-admission fee record directly in the All Pre-Admission Fees table and post it immediately.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Inquiries and reports**, then expand **Pre-admission fees**.
