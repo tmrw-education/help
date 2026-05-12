@@ -11,6 +11,8 @@ Debt Follow-Up supports the management and resolution of outstanding student bal
 
 ## Customer Bulk Write-off
 
+The bulk write-off process removes unrecoverable debt balances from accounts receivable by posting an offsetting journal entry to the configured bad debt account. Before running a write-off, ageing definitions, reason codes, and the posting account must already be in place. Staff access the write-off function from the Customer credit and collections workspace, specify the date and reason code, and either submit the resulting journal for approval or post it directly if no workflow is active.
+
 > **Note:** *Ageing definitions, reason codes, and posting accounts must already be configured.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Credit and Collections**.
