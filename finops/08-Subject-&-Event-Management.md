@@ -8,7 +8,7 @@ Subject & Event Management handles the setup and invoicing of fee-generating act
 
 Before students can be enrolled in sessional classes or events and invoiced accordingly, the system needs to have the correct fee categories, subject codes, and event names configured. Fee categories classify the type of activity, while subject and event codes provide the unique identifiers the system uses to link students to specific classes or events. Each entry needs to be marked as active before it can be used in fee processing. Early payment discount options can also be set at this stage if applicable. This setup work is a prerequisite for all subsequent sessional class and event invoicing.
 
-> **Note**: This setup is typically created through integration from the upstream activity module, where billable activity details, item information, and revenue recognition data are synchronized into D365 Finance and Operations for billing and financial posting. Manual entry in D365 F&O is rarely required.
+> **Note:** *This setup is typically created through integration from the upstream activity module, where billable activity details, item information, and revenue recognition data are synchronised into D365 Finance and Operations for billing and financial posting. Manual entry in D365 F&O is rarely required.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Setup** and click **Subject and event names**.
@@ -56,7 +56,7 @@ Before students can be registered for sessional classes or events, each event re
 5. Choose the **Billing interval** from the dropdown.
 6. Match **Early payment discounts** with the fee categories.
 7. Click **+ Add line.**
-8. Completing these columns to create the fee schedule template:
+8. Complete these columns to create the fee schedule template:
    - In the **Item number** column, select the item you just updated.
    - Change the **Apply to** column to Sessional class and event.
    - Enable **Conditions**.
@@ -82,7 +82,7 @@ Before students can be registered for sessional classes or events, each event re
 
 > **Note:** *The deferral date determines when revenue is recognised. Once the event occurs, revenue moves automatically from the deferral account to the main revenue account.*
 
-5. Click **Ok**.
+7. Click **Ok**.
 
 ![Set The Deferral Date Creation 1](./99-Images/set_the_deferral_date_creation_1.png)
 
@@ -141,7 +141,7 @@ Once the subject and event codes are in place, students can be registered into s
 
 ## Adjust for Session-Based Invoicing
 
-> **Note:** *Delete any previously generated sales order for this event/student. Rerun the Generate Sale Order Batch Processes. If Session Based is not enabled, the system will charge a flat fee (quantity = 1).*
+> **Note:** *If Session Based is not enabled, the system charges a flat fee (quantity = 1). Delete any previously generated sales order for this event and student before rerunning the fee generation batch.*
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Fee schedules** and click **All fee schedules**.
@@ -206,7 +206,7 @@ After invoices have been generated for sessional classes or events, there may be
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic Management**.
 2. Expand **Periodic tasks** and click **Generate sessional class and event adjustments**.
-3. In the dialog box, choose the **adjustment date**.
+3. In the dialogue box, choose the **adjustment date**.
 4. Expand the **Records** to include section and add the specific student, or leave blank to process all students with changes.
 5. Click **OK** to run the task.
 
