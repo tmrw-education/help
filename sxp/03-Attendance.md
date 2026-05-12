@@ -6,7 +6,7 @@
 
 ### View teaching schedule
 
-> **Note:** The Teaching Schedule page shows all the classes you are timetabled to teach for a selected day or week. Use this page to check which classes you have today and when they start. You can also look ahead to tomorrow’s or next week’s classes to prepare. This page is your starting point for taking attendance.
+The Teaching Schedule page shows all the classes you are timetabled to teach for a selected day or week. Use this page to check which classes you have today and when they start. You can also look ahead to tomorrow’s or next week’s classes to prepare. This page is your starting point for taking attendance.
 
 1. Click **Attendance** in the top navigation bar.
 2. The **Teaching Schedule** opens in the right-hand panel of the screen. It defaults to today’s date in **Day** view, showing all your classes on a time grid.
