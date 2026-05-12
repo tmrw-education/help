@@ -186,9 +186,9 @@ The sibling discount policy allows each school to define the discount rates appl
 > **Note:** *The description is read by the GEMS parent experience app (PXP) agent. Write it clearly so it is unambiguous — for example, "Third child — new student" or "Third child — existing family, existing student".*
 
 7. Select the **student type** for this entry:
-   - *New student* — applies to students with no prior enrolment history at the school.
-   - *Existing family, existing student* — applies to students already enrolled and from a family already registered in the system.
-   - *Existing family only* — applies to students from a known family but without an existing enrolment record.
+   - **New student** — applies to students with no prior enrolment history at the school.
+   - **Existing family, existing student** — applies to students already enrolled and from a family already registered in the system.
+   - **Existing family only** — applies to students from a known family but without an existing enrolment record.
 8. Select the **line discount group** to link this policy entry to the correct trade agreement.
 
 > **Note:** *Line discount groups are configured separately. Refer to the Sibling Order setup process for details on creating and mapping discount groups.*
@@ -236,8 +236,8 @@ Staff concessions allow the school to apply fee reductions to students who are d
 3. Click **New** in the toolbar.
 4. Enter the **name** of the concession.
 5. Select the **Type**:
-   - *Staff concession* — use for staff tuition fee reductions. The record is captured in the Staff Tuition Fee Concession table.
-   - *Scholarship and discount* — use for other concession types such as corporate or commercial concessions. The record is captured in the Scholarship and Discount table.
+   - **Staff concession** — use for staff tuition fee reductions. The record is captured in the Staff Tuition Fee Concession table.
+   - **Scholarship and discount** — use for other concession types such as corporate or commercial concessions. The record is captured in the Scholarship and Discount table.
 6. Select the **Charge code** to link to this discount code.
 7. Click **Activate** in the toolbar to make the code available for use.
 8. In the **Approval** section, configure the approval workflow:
