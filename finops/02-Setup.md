@@ -72,6 +72,8 @@ Before fees can be generated, processed, or settled across the platform, a range
 
 ## Fee & Charge Interval Setup
 
+The fee and charge interval defines the academic billing cycle, the overall date range for the year and the individual periods within it. Each interval specifies the start and end date of the year, the number of billing periods (such as three terms or ten months), and the due date and revenue recognition date for each period. Week and month breakdowns within each period are generated automatically to support pro rata joining and leaving calculations. The fee and charge interval is one of the most critical configuration records in the system: it is the link between students, fee schedule templates, and the fee generation batch. Any student whose academic enrolment record does not contain a matching interval will be excluded from billing runs.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click **Fee and Charge Interval**.
 3. Click **New** in the toolbar to create a new interval.
@@ -178,6 +180,8 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ## Visa Types
 
+Visa types classify the visa status held by international students and determine whether a student is full fee paying or subsidised. Each type is marked active or inactive, allowing the school to maintain a current list without deleting historical records. Visa types configured here are available for selection on student records and can be used to drive fee calculations where students qualify for a fee reduction based on their visa status.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click **Visa types**.
 3. Click **New** in the toolbar.
@@ -191,6 +195,8 @@ Academic year setup defines the academic calendar structure used across the plat
 ---
 
 ## Fee Categories
+
+Fee categories classify the type of activity associated with each fee item and are used throughout the system to drive accounting, reporting, and fee schedule logic. Once categories are created in Academic Management, they must be linked to the corresponding released product in Product information management so the system applies the correct category when generating invoices.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click **Fee categories**.
@@ -302,6 +308,8 @@ Academic year setup defines the academic calendar structure used across the plat
 
 ## Stream
 
+Streams differentiate groups of students within the same academic year who follow different curricula or learning programmes. The stream code is a key academic attribute in fee generation: where a school charges different fees for different streams, the trade agreement must include a separate price line for each stream combination. Stream codes must match the naming convention used in the student management system to ensure data consistency across both platforms.
+
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click on **Stream**.
 3. Click **New**.
@@ -317,6 +325,8 @@ Academic year setup defines the academic calendar structure used across the plat
 ---
 
 ## Deposit Policy
+
+The deposit policy defines the amount charged to fee payers at enrolment or re-enrolment, before the full fee schedule is generated. Deposits can be configured as either a fixed amount or a percentage of the annual tuition fee linked to the relevant academic year. Each pre-admission type, such as enrolment deposit or re-enrolment deposit, requires its own policy entry. Once configured, the system uses this policy to calculate the deposit amount automatically when a deposit fee is raised.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup** and click on **Deposit policy**.
@@ -355,6 +365,8 @@ The sibling discount feature allows the school to automatically apply fee reduct
 ---
 
 ## Trade Agreement
+
+Trade agreements define the discount percentages applied to students based on their sibling order position. A sibling discount journal is created in Sales and Marketing, with a separate line for each child position and the corresponding discount rate. Once all lines are entered, the journal is posted to activate the discount policy. Tuition fee items must then be linked to the sibling discount line discount group so the system knows which items are subject to the discount when invoices are generated.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Sales and marketing**.
 2. Expand **Prices and discounts** and click **Trade agreement journals**.
@@ -418,7 +430,7 @@ The sibling discount feature allows the school to automatically apply fee reduct
 
 ## Fee Type
 
-> **Note:** *Fee types define the default general ledger account and tax postings for miscellaneous receipts. Once configured, the system applies these postings automatically, removing the need for manual account selection during processing.*
+Fee types define the default general ledger account and tax postings for miscellaneous receipts. Once a fee type is configured, the system applies those postings automatically whenever that type is selected during cashier or miscellaneous receipt processing, removing the need for manual account selection at the time of payment.
 
 1. From the **FNO dashboard**, open **Modules** ▸ **Academic management**.
 2. Expand **Setup**, then expand **Cashier receipt**.
