@@ -20,7 +20,9 @@ Before any pre-admission fees can be processed, the system needs to be configure
 5. Click **New** in the toolbar.
 6. In **Pre-admission type**, enter a value (e.g, *Application fee*, *Enrolment fee*).
 7. In **Description**, enter a value (e.g, *Application fee*, *Enrolment fee*).
-  > **Note:** *In most cases, match the description to the pre-admission type name for easier identification.*
+
+> **Note:** *In most cases, match the description to the pre-admission type name for easier identification.*
+
 8. To create an Enrolment deposit:
       - Enter Enrolment deposit in both **Pre-admission type** and **Description**.
       - Select the **Deposit** check box.
@@ -152,7 +154,7 @@ When a student record arrives from the student management system with an enrolme
 
 ---
 
-#### Cashier Receipting
+## Cashier Receipting
 
 Registration fees can be receipted over the counter when a fee payer makes payment in person at the school. When a student record syncs from the student management system with a status of Prospective and Registered, the system automatically creates a registration fee document ready for payment. Before processing the cashier receipt, the enrolment officer must manually push the record through to Registered status in the student management system. Staff then access the Cashier Receipt form under Accounts Receivable to process and post the payment.
 
@@ -231,7 +233,7 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 
 ---
 
-#### Refunding Deposits
+## Refunding Deposits
 Enrolment deposits are designed to be refundable under certain circumstances, but they can also be forfeited if a student does not proceed with enrolment. This section covers both scenarios. When a refund is required, staff select the deposit, choose the refund bank account, and process the transaction through the journal. When a deposit is to be forfeited, the same selection process applies, but the forfeit action is used instead. In both cases, only deposits with a status of Received or Partial are eligible for processing, ensuring that incomplete or unsettled deposits are not actioned prematurely.
 
 ---
@@ -305,7 +307,9 @@ Enrolment deposits are designed to be refundable under certain circumstances, bu
 
 ## Cancel Enrolment Deposit or Fee
 
-#### Reversing Unpaid Fees
+---
+
+## Reversing Unpaid Fees
 There are situations where a posted enrolment fee or deposit needs to be reversed, such as when a fee was created in error or circumstances have changed before payment was received. This process allows staff to cancel a posted record by selecting it from the pre-admission fees list and applying a reverse posting date. The reversal creates an offsetting entry in the system, effectively cancelling the original transaction and restoring the record to a neutral state without permanently deleting any audit history.
 
 
@@ -347,7 +351,8 @@ There are situations where a posted enrolment fee or deposit needs to be reverse
 ---
 
 
-#### Payments
+## Payments
+
 Once enrolment fees and deposits have been created and posted, payments can be processed directly from the Pre-Admission Fees table. This process is used when a fee payer makes a payment in person at the school's counter, rather than through the Parent Portal (PXP). Staff select the relevant fee or deposit, choose the appropriate bank account, and confirm the payment. The system then updates the record status to reflect that payment has been received, providing an accurate and up-to-date view of each student's financial position prior to enrolment.
 
 
