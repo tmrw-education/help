@@ -4,9 +4,15 @@
 
 ## Staff Login (Entra)
 
+1. Click **Sign in with Microsoft**.
+2. Use GEMS M365 login account details.
+
+[Staff_Login_1](./99-Images/staff_login_1.png)
 ---
 
 ## Navigation Bar
+
+
 
 ### Attendance
 
