@@ -13,9 +13,18 @@
 
 ## Navigation Bar
 
-The **Navigation bar** runs across the top of the screen at all times. Allowing you to navigate between pages and return to the MyDay homepage.
+The **Navigation bar** runs across the top of the screen at all times. 
 
+1. Click on any of the headings or **navigation links** to access the relevant page.
+2. **StaffXP** is the landing, home page, also known as the **MyDay** page.
+3. On the far left, there is a menu icon where there are links to **training**, **websites**, **reporting** and **administration**.
+4. To the right of **StaffXP**, there are navigation links for **Attendance**, **Notices**, **Extra curricular**, **Wellbeing** and **T&L**.
 
+![Navigation_Bar_1](./99-Images/navigation_bar_1.png)
+
+![Navigation_Bar_2](./99-Images/navigation_bar_2.png)
+
+![Navigation_Bar_3](./99-Images/navigation_bar_3.png)
 
 ### Attendance
 
