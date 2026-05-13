@@ -34,10 +34,11 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 4. Use the **Search** field to quickly find a student by name, if needed.
 5. Use the **Filter icon** in the toolbar to narrow the list by alert type. Select one or more alert types, then click **Apply filters**. Click **Reset filters** to clear your selection.
 
-   > **Note:** *Filters help you identify sudents who may need special consideration before marking attendance.
+   > **Note:** *Filters help you identify sudents who may need special consideration before marking attendance*.
 
 6. To mark attendance for a student, click the **... button** in their row under the current period column, then select **Present**, **Absent**, or **Late to class**.
-7. To mark the whole class at once, click the **dropdown arrow ▼** next to the current period column header, then select **All present** or **All Absent**.
+To mark the whole class at once **(Bulk roll)**:
+7. Click the **dropdown arrow ▼** next to the current period column header, then select **All present** or **All Absent**. Click **Reset** to clear the marking. 
 
    > **Note:** *Use this option when most or all students have the same status, then adjust individual students as needed.*
 
