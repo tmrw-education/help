@@ -19,12 +19,20 @@ The **Navigation bar** runs across the top of the screen at all times.
 2. **StaffXP** is the landing, home page, also known as the **MyDay** page.
 3. On the far left, there is a menu icon where there are links to **training**, **websites**, **reporting** and **administration**.
 4. To the right of **StaffXP**, there are navigation links for **Attendance**, **Notices**, **Extra curricular**, **Wellbeing** and **T&L**.
+5. At the far right of the screen, there are icons for **Search**, **Notifications** and **Personal**.
+6. The **Search** icon opens up a search bar to search for pages or students.
+7. The **Notifications** open up into a menu, and can be organised into **Messages**, **Alerts** or **Favourites**.
+8. Under the **Personal** icon, a menu appears where you can change the pages to appear in dark mode, view your profile, edit settings or sign out.
 
 ![Navigation_Bar_1](./99-Images/navigation_bar_1.png)
 
 ![Navigation_Bar_2](./99-Images/navigation_bar_2.png)
 
 ![Navigation_Bar_3](./99-Images/navigation_bar_3.png)
+
+![Navigation_Bar_4](./99-Images/navigation_bar_4.png)
+
+![Navigation_Bar_5](./99-Images/navigation_bar_5.png)
 
 ### Attendance
 
@@ -53,6 +61,8 @@ The **Notices** page displays upcoming and relevant notices to you. You can crea
 ![Navigation_Bar_Notices_1](./99-Images/navigation_bar_notices_1.png)
 
 ### Activities
+
+The **Activities** page
 
 ### Wellbeing
 
@@ -88,7 +98,7 @@ The **Notices** page displays upcoming and relevant notices to you. You can crea
 
 ### Dark/ Light Mode
 
-### Apperance Settings
+### Appearance Settings
 
 ### Profile
 
