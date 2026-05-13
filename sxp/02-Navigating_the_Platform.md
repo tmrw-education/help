@@ -36,12 +36,21 @@ For Teachers:
 3. On the top-right corner of the schedule panel, use the **Day / Week** dropdown to switch between **Day and Week** view.
 4. On the left of the screen are tiles for information on **Late students**, **Absent students** on assessment days and **Attendance analytics**.
 
-![Navigation_Bar_Attendance_Teachers_1](./99-Images/navigation_bar_attendance_teachers_1.ong)
+![Navigation_Bar_Attendance_Teachers_1](./99-Images/navigation_bar_attendance_teachers_1.png)
 
 For Administrators/School Leaders:
 1. 
 
 ### Notices
+
+The **Notices** page displays upcoming and relevant notices to you. You can create and manage notices, and filter them by your interests.
+
+1. Along the top-right of the screen is a dropdown menu to select relevant **Interests** by category.
+2. There are options to **create notice** or **Manage notices**.
+3. **Featured notices** appear per day.
+4. The interests are displayed below the featured notices as tiles. They can also be viewed by filtering into categories.
+
+![Navigation_Bar_Notices_1](./99-Images/navigation_bar_notices_1.png)
 
 ### Activities
 
