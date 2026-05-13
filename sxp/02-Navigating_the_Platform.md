@@ -28,6 +28,19 @@ The **Navigation bar** runs across the top of the screen at all times.
 
 ### Attendance
 
+The **Attendance** page allows teachers and admin staff to track attendance for a single school day or within a week.
+
+For Teachers:
+1. Teachers will be able to track attendance for their classes. The classes appear as a list in the calendar schedule.
+2. Above the calendar, there is a display of today's date. There are arrow keys to change the date.
+3. On the top-right corner of the schedule panel, use the **Day / Week** dropdown to switch between **Day and Week** view.
+4. On the left of the screen are tiles for information on **Late students**, **Absent students** on assessment days and **Attendance analytics**.
+
+![Navigation_Bar_Attendance_Teachers_1](./99-Images/navigation_bar_attendance_teachers_1.ong)
+
+For Administrators/School Leaders:
+1. 
+
 ### Notices
 
 ### Activities
