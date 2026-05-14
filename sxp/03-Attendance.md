@@ -134,6 +134,28 @@ Use Felix, the built-in AI assistant, to mark attendance faster by typing a simp
 
 ### Show list of students in class by filter
 
+Use Felix to quickly identify students with specific alerts across your current class or all your classes today. Ask about learning, medical, custody, wellbeing alerts, or upcoming birthdays. 
+
+> **Note**: Felix uses different time periods based on the request:
+             - No class mentioned: your current or next class today
+             - Specific class name: most recent data for that class this week
+             - Birthdays: this week or next week only (no monthly or yearly queries)
+
+1. Click **Attendance** in the top navigation bar, then click the **class block** you want to open.
+2. Click the **Felix panel icon** on the right side of the screen to open the AI assistant.
+3. Type your request in the chat. Examples:
+
+    - Show students with learning alerts in this class.
+    - Are there any medical plans I should know about for this lesson?
+    - Identify learning alerts for all my classes.
+    - Show students with custody plans.
+4. **Review** the view-only table showing matching students, their profile image, and class name.
+
+    > **Note**: *If no matches, Felix confirms no results*. 
+
+5. To view full profile, click **student's name** in the table.  
+
+
 ### Class attendance display using attendance setting
 
 ### View class student list
