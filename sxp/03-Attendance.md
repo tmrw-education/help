@@ -123,7 +123,7 @@ Use Felix, the built-in AI assistant, to mark attendance faster by typing a simp
 5. **Review** the pre-filled marks.
 6. To correct an individual student's mark, click their **current status icon** to cycle through the available options (**Present**, **Absent**, **Late to class**) until the correct status is shown.
 
-   > **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix.
+   > **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix*.
 
 7. Click **Submit** in the Felix panel. Felix confirms: "Student attendance updated successfully." 
 
@@ -137,6 +137,7 @@ Use Felix, the built-in AI assistant, to mark attendance faster by typing a simp
 Use Felix to quickly identify students with specific alerts across your current class or all your classes today. Ask about learning, medical, custody, wellbeing alerts, or upcoming birthdays. 
 
 > **Note**: Felix uses different time periods based on the request:
+
              - No class mentioned: your current or next class today
              - Specific class name: most recent data for that class this week
              - Birthdays: this week or next week only (no monthly or yearly queries)
