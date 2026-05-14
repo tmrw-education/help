@@ -94,7 +94,17 @@ Use this feature to get a quick overview of late and absent students across your
 
 ### View known absentees
 
+
 ### Update to records
+
+Use this feature to correct a student's attendance mark after marking them but before submitting or leaving the page. 
+
+1. On the class roll page, find the student whose attendance mark needs correction.
+2. Click the student's **current mark** in the period column. A dropdown appears with available options.
+3. Select the correct status (e.g. change **Absent** to **Late to class**. The mark updates immediately.
+4. Once all marks are correct, click **Submit**.
+
+> **Note**: Do not navigate away from the roll page before submitting. Leaving without clicking Submit, will lose all marks requiring to take the roll again. After submission, records can only be changed by an attendance administrator.
 
 ### Remind me what the alert icons mean
 
