@@ -163,6 +163,19 @@ Use Felix to quickly identify students with specific alerts across your current 
 
 ### Teacher request attendance correction
 
+Use Felix to correct submitted attendance records. Felix displays the class roll for the relevant period so you can update incorrect marks and resubmit.
+
+1. Click **Attendance** in the top navigation bar, then click the class block you want to correct.
+2. Click the **Felix panel icon** on the right side of the screen to open the AI assistant.
+3. Type your correction request. Examples:
+   - I need to make a correction in attendance.
+   - Fix attendance from yesterday.
+   - Correct a mistake on attendance from last week.
+4. **Review** the class roll table showing current attendance marks for the relevant period.
+5. To correct a student's mark, click their current **status icon**, it cycles through Present, Absent, Late to class until correct.
+6. Once all corrections are made, click **Submit**. Felix confirms: *The student's attendance has been updated successfully.*
+7. **Refresh** the page to see corrected records in the class roll.
+
 ### Reminder to take roll
 
 ---
