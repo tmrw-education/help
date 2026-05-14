@@ -110,6 +110,22 @@ Use this feature to correct a student's attendance mark after marking them but b
 
 ### Update attendance records
 
+Use Felix, the built-in AI assistant, to mark attendance faster by typing a simple instruction instead of marking each student individually. Felix interprets your request, pre-fills attendance statuses, and waits for your review and submission.
+
+1. Click **Attendance** in the top navigation bar, then click the **class block** you want to take attendance for.
+2. Click the **Felix panel icon** on the right side of the screen to open the AI assistant.
+3. Type your **attendance instruction** in the chat. Examples:
+    - Mark all present
+    - Mark all present except [student name]
+    - Mark all present except [student name] and [student name]
+    - Mark [student name] and [student name] absent
+4. Review the pre-filled marks in the table to confirm accuracy.
+
+   > **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix.
+
+5. Once all marks are correct, click Submit. Felix confirms: "Student attendance updated successfully."
+
+
 ### Show list of students in class by filter
 
 ### Class attendance display using attendance setting
