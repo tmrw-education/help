@@ -89,7 +89,7 @@ Use this feature to get a quick overview of late and absent students across your
       - House name
       - Alerts: hover over **the icon** for more details (e.g., learning plan)
       - Reflect: click **View reflect history** to see the student’s wellbeing check-in history
-      - Attendance history summary:  quick view of student’s attendance for today by period and for this week by day
+      - Attendance history summary: quick view of student’s attendance for today by period and for this week by day
 
 ### Bulk roll taking
 
@@ -105,7 +105,7 @@ Use this feature to correct a student's attendance mark after marking them but b
 3. Select the correct status (e.g. change **Absent** to **Late to class**. The mark updates immediately.
 4. Once all marks are correct, click **Submit**.
 
-> **Note**: Do not navigate away from the roll page before submitting. Leaving without clicking Submit, will lose all marks requiring to take the roll again. After submission, records can only be changed by an attendance administrator.
+> **Note**: Do not navigate away from the roll page before submitting. Leaving without clicking Submit, will lose all marks requiring to take the roll again.
 
 ### Remind me what the alert icons mean
 
@@ -172,7 +172,7 @@ Use Felix to correct submitted attendance records. Felix displays the class roll
    - Fix attendance from yesterday.
    - Correct a mistake on attendance from last week.
 4. **Review** the class roll table showing current attendance marks for the relevant period.
-5. To correct a student's mark, click their current **status icon**, it cycles through Present, Absent, Late to class until correct.
+5. To correct a student's mark, click their current **status icon** to cycle through the available options (**Present**, **Absent**, **Late to class**) until the correct status is shown.
 6. Once all corrections are made, click **Submit**. Felix confirms: *The student's attendance has been updated successfully.*
 7. **Refresh** the page to see corrected records in the class roll.
 
