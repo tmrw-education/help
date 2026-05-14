@@ -119,11 +119,13 @@ Use Felix, the built-in AI assistant, to mark attendance faster by typing a simp
     - Mark all present except [student name]
     - Mark all present except [student name] and [student name]
     - Mark [student name] and [student name] absent
-4. Review the pre-filled marks in the table to confirm accuracy.
+4. Felix pre-fills the attendance status for all relevant students and displays them in a table inside the chat panel. Use the arrow (►) to scroll through the full student list.
+5. **Review** the pre-filled marks.
+6. To correct an individual student's mark, click their **current status icon** to cycle through the available options (**Present**, **Absent**, **Late to class**) until the correct status is shown.
 
    > **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix.
 
-5. Once all marks are correct, click Submit. Felix confirms: "Student attendance updated successfully."
+8. Once all marks are correct, click Submit. Felix confirms: "Student attendance updated successfully."
 
 
 ### Show list of students in class by filter
