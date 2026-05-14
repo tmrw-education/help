@@ -37,6 +37,7 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
    > **Note:** *Filters help you identify sudents who may need special consideration before marking attendance*.
 
 6. To mark attendance for a student, click the **... button** in their row under the current period column, then select **Present**, **Absent**, or **Late to class**.
+
 To mark the whole class at once **(Bulk roll)**:
 7. Click the **dropdown arrow ▼** next to the current period column header, then select **All present** or **All Absent**. Click **Reset** to clear the marking. 
 
