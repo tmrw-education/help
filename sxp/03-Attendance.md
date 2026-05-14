@@ -125,8 +125,12 @@ Use Felix, the built-in AI assistant, to mark attendance faster by typing a simp
 
    > **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix.
 
-8. Once all marks are correct, click Submit. Felix confirms: "Student attendance updated successfully."
+7. Click **Submit** in the Felix panel. Felix confirms: "Student attendance updated successfully." 
 
+  > **Note**: *The marks now appear on the class roll page*. 
+
+8. **Review** the class roll table to confirm all marks are correct (including any manual adjustments).
+9. Click **Submit** on the class roll page. 
 
 ### Show list of students in class by filter
 
