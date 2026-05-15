@@ -197,6 +197,22 @@ StaffXP automatically prompts you to complete any outstanding attendance. The re
 
 ### Leader access to any class roll
 
+1. Click **Attendance** in the top navigation bar.
+2. Scroll down to the table and click **Class rolls**.
+3. Review the table, which shows the following information for each class:
+     - Class name – sorted alphabetically by default
+     - Teacher – the full name of the assigned teacher
+     - Year – the year group
+     - #of students – the total number of students enrolled in the class
+     - Action – a View roll link to open the class attendance page
+4. To filter by date range, set the **Start date** and **End date** fields at the top of the table. Click **Reset** to clear filters. 
+
+ > **Note**: *The table defaults to the current week when it first loads*.    
+
+5. To search by teacher name, type the name in the **Search Teacher** field.
+6. To search across all columns, click the **Search icon** above the table and **enter your search term** (e.g., Science, Mathematics).
+7. To view the attendance roll for a specific class, click **View roll** in the **Action** column. The class attendance page opens in read-only mode.
+
 ### Leave request approval
 
 ### Contact parent quickly
