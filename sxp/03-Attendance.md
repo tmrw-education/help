@@ -178,6 +178,19 @@ Use Felix to correct submitted attendance records. Felix displays the class roll
 
 ### Reminder to take roll
 
+StaffXP automatically prompts you to complete any outstanding attendance. The reminder appears as a modal and blocks navigation until the relevant roll has been submitted.
+
+1. The attendance reminder modal appears automatically when you sign in with unsubmitted attendance from a previous session, or when you refresh the page or move to another page and a past or current class still has not been submitted.
+
+ > **Note**: *The timing of the reminder is configured by attendance admin administrator*.
+
+2. The modal shows the class name and the message: “*Attendance has not been taken. Please take a moment to complete your attendance roll for today*.”
+3. The modal locks the screen, so you cannot navigate to any other area of StaffXP. There is no close button.
+4. Click **Take attendance**. The correct class roll opens directly so you can **mark** and **submit** the roll.
+5. Click the **button** in the toast message to open the next class with unsubmitted attendance.
+
+ > **Note**: *Repeat this step until all attendance has been submitted*.
+
 ---
 
 ## Leader & Admin Access
