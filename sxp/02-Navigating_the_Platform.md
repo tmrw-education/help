@@ -83,6 +83,8 @@ You can plan for school activities and manage resources on the **Activities** pa
 
 ### Wellbeing
 
+This is the main space to monitor and support student wellbeing. Here you can create and track wellbeing notes. There are seven wellbeing metrics that display the different categories or trends of wellbeing notes.
+
 ### Extracurricular Activities
 
 ### Operations (Finance, Budget)
