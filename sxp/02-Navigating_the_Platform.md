@@ -94,9 +94,18 @@ The **Activities** page
 
 ## User Menu & Settings
 
+The User Menu is where you can personalise the platform to best suit your needs and optimise workflow. 
+
+1. Click the **User** button (shaped like the silhouette of a person).
+2. A dropdown menu will show options to change between light/dark mode, a **Profile** section, **Settings** and the option to **Sign Out**.
+
+![User_Menu_and_Settings_1](./99-Images/user_menu_and_settings_1.png)
+
 ### Options
 
 ### Dark/ Light Mode
+
+
 
 ### Appearance Settings
 
