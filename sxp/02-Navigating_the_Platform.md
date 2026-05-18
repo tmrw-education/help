@@ -105,7 +105,18 @@ The User Menu is where you can personalise the platform to best suit your needs 
 
 ### Dark/ Light Mode
 
+Dark/light mode affects screen displays. Light mode uses a light background with dark text. Dark mode shows a dark background with light text. It may be easier to use light mode in bright light and dark mode in dim light. However, this is entirely up to the user's preferences and comfort.
 
+1. Click the **User** icon.
+2. The dropdown menu will show either **Dark Mode** or **Light Mode** as the first option on the list.
+
+> **Note:** *If in light mode, the menu will only show **Dark Mode** as an option. The opposite will occur if the setting is in dark mode.*
+   
+4. Select the option, and the change will occur instantly.
+
+![Dark_Light_Mode_1](./99-Images/dark_light_mode_1.png)
+
+![Dark_Light_Mode_2](./99-Images/dark_light_mode_2.png)
 
 ### Appearance Settings
 
