@@ -144,6 +144,14 @@ In the **Settings**, you can manage the appearance of your platform according to
 
 ### Logout
 
+To logout or sign out means to successfully close or end your session on the device. You will need to use your credentials to sign in again after a Logout. It is recommended to logout of your account if there is more than one user on the same computer. 
+
+1. Click the **User** icon.
+2. Scroll to the last option on the dropdown and click **Sign Out**.
+3. This will automatically return you to the sign-in page.
+
+![Logout_1](./99-Images/logout_1.png)
+   
 ### Accessibility Settings
 
 ---
