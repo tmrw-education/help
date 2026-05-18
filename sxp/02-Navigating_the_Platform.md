@@ -120,6 +120,26 @@ Dark/light mode affects screen displays. Light mode uses a light background with
 
 ### Appearance Settings
 
+In the **Settings**, you can manage the appearance of your platform according to your preferences. You can also manage whether to receive push notifications.
+
+1. Click the **User** icon ▸ **Settings**.
+2. There are two tabs in **Settings**, **Appearance** and **Notifications**. The **Appearance** tab will be automatically selected.
+3. Here you can edit the theme, chat position and width (this refers to the Felix chatbox) and the font size.
+4. To change the **Theme**, click on the dropdown arrow. You can select between **Auto (system)**, **Dark** or **Light**.
+
+>**Note:** ***Auto (system)** will match the system settings you have on your device.*
+
+5. A prompt will appear asking whether you wish to **Save changes** or **Cancel**. This applies to any changes to the Settings.
+6. You can change the Felix **Chat position** from **Right** to **Left**.
+7. By pressing the **+** or **-** signs under the **Chat width (px)** heading, you can change the width of the Felix chatbox.
+8. Selecting the dropdown menu below the **Font size** heading allows you to choose between **Small**, **Medium** or **Large** fonts. These will reflect throughout the platform.
+9. There is a **Reset all** icon in red at the top right corner of the screen. Selecting this will restore all settings to their defaults.
+10. A different prompt will ask if you are sure you wish to reset the settings.
+
+> **Note:** *The Notifications tab will have an on/off option for receiving push notifications*.
+
+![Settings_1](./99-Images/settings_1§.png)
+
 ### Profile
 
 ### Logout
