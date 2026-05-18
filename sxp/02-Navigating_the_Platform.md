@@ -19,10 +19,10 @@ The **Navigation bar** runs across the top of the screen at all times.
 2. **StaffXP** is the landing, home page, also known as the **MyDay** page.
 3. On the far left, there is a menu icon where there are links to **training**, **websites**, **reporting** and **administration**.
 4. To the right of **StaffXP**, there are navigation links for **Attendance**, **Notices**, **Extra curricular**, **Wellbeing** and **T&L**.
-5. At the far right of the screen, there are icons for **Search**, **Notifications** and **Personal**.
+5. At the far right of the screen, there are icons for **Search**, **Notifications** and **User**.
 6. The **Search** icon opens up a search bar to search for pages or students.
 7. The **Notifications** open up into a menu, and can be organised into **Messages**, **Alerts** or **Favourites**.
-8. Under the **Personal** icon, a menu appears where you can change the pages to appear in dark mode, view your profile, edit settings or sign out.
+8. Under the **User** icon, a menu appears where you can change the pages to appear in dark mode, view your profile, edit settings or sign out.
 
 ![Navigation_Bar_1](./99-Images/navigation_bar_1.png)
 
@@ -39,10 +39,11 @@ The **Navigation bar** runs across the top of the screen at all times.
 The **Attendance** page allows teachers and admin staff to track attendance for a single school day or within a week.
 
 For Teachers:
-1. Teachers will be able to track attendance for their classes. The classes appear as a list in the calendar schedule.
-2. Above the calendar, there is a display of today's date. There are arrow keys to change the date.
-3. On the top-right corner of the schedule panel, use the **Day / Week** dropdown to switch between **Day and Week** view.
-4. On the left of the screen are tiles for information on **Late students**, **Absent students** on assessment days and **Attendance analytics**.
+1. Navigate to the **Attendance** page by clicking the navigation link/ tab in the **Navigation bar**.
+2. Teachers will be able to track attendance for their classes. The classes appear as a list in the calendar schedule.
+3. Above the calendar, there is a display of today's date. There are arrow keys to change the date.
+4. On the top-right corner of the schedule panel, use the **Day / Week** dropdown to switch between **Day and Week** view.
+5. On the left of the screen are tiles for information on **Late students**, **Absent students** on assessment days and **Attendance analytics**.
 
 ![Navigation_Bar_Attendance_Teachers_1](./99-Images/navigation_bar_attendance_teachers_1.png)
 
@@ -53,16 +54,32 @@ For Administrators/School Leaders:
 
 The **Notices** page displays upcoming and relevant notices to you. You can create and manage notices, and filter them by your interests.
 
-1. Along the top-right of the screen is a dropdown menu to select relevant **Interests** by category.
-2. There are options to **create notice** or **Manage notices**.
-3. **Featured notices** appear per day.
-4. The interests are displayed below the featured notices as tiles. They can also be viewed by filtering into categories.
+1. Navigate to the **Notices** page, through the **Navigation bar**.
+2. Along the top-right of the screen is a dropdown menu to select relevant **Interests** by category.
+3. There are options to **create notice** or **Manage notices**.
+4. **Featured notices** appear per day.
+5. The interests are displayed below the featured notices as tiles. They can also be viewed by filtering into categories.
 
 ![Navigation_Bar_Notices_1](./99-Images/navigation_bar_notices_1.png)
 
 ### Activities
 
-The **Activities** page
+You can plan for school activities and manage resources on the **Activities** page. Here you can review a shared calendar to see when other planned activities are taking place and what resources they require, to avoid conflicts and ensure resource availability.
+
+1. Select **Activities** from the **Navigation bar**.
+2. There are three tiles running across the top of the page: **Request venue**, **Calendar view** and **Request activity**.
+
+> **Note:** *Click the text or arrow on the lower right of each tile to navigate to another page to complete the request.*
+
+3. In the navigation bar below the tiles:
+   - **Activity requests**: this shows a list of pending or approved activity requests.
+   - **Booking status**: this provides a list of the resource bookings and the required quantities.
+   - **All venues**: is a list of approved or previously visited venues for school activities.
+   - **Parent volunteers**: includes a list of all the parent volunteers who could support with school activities.
+
+> **Note:** *Each of these tabs has a filter and search option.*
+
+![Activities_Overview_1](./99-Images/activities_overview_1.png)
 
 ### Wellbeing
 
