@@ -142,6 +142,16 @@ In the **Settings**, you can manage the appearance of your platform according to
 
 ### Profile
 
+Your **Profile** page has all of your personal, professional and work information. The top banner displays your profile picture and job title.
+
+1. Click the **User** icon.
+2. Selecting **Profile** from the dropdown reveals three tiles of information on the page.
+3. On the left, there is **Personal Information**, first and last names, and date of birth.
+4. The middle tile shows **Professional Information**, as your work email address.
+5. On the right tile, there is **Work Information**, including job title, company name and office location.
+
+![Profile_1](./99-Images/profile_1.png)
+
 ### Logout
 
 To logout or sign out means to successfully close or end your session on the device. You will need to use your credentials to sign in again after a Logout. It is recommended to logout of your account if there is more than one user on the same computer. 
