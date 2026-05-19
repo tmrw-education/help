@@ -87,6 +87,14 @@ This is the main space to monitor and support student wellbeing. Here you can cr
 
 ### Extracurricular Activities
 
+This is the landing page for all extracurricular activities. Here, you can plan, browse, and create new extracurricular activities. There is a calendar to keep track of all activities and the days they occur.
+
+1. Click the **Extra curricular** tab in the **Navigation bar**.
+2. There are two tiles below the heading.
+   - **Request extra curricular** allows you to request the creation of a new extracurricular activity.
+   - **Extra-curricular calendar** displays a calendar of when different activities occur.
+3. 
+
 ### Operations (Finance, Budget)
 
 ### Employee Self-Service (ESS)
