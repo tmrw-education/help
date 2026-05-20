@@ -41,11 +41,11 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 To mark the whole class at once **(Bulk roll)**:
 7. Click the **dropdown arrow ▼** next to the current period column header, then select **All present** or **All Absent**. Click **Reset** to clear the marking. 
 
-   > **Note:** *Use this option when most or all students have the same status, then adjust individual students as needed.*
+> **Note:** *Use this option when most or all students have the same status, then adjust individual students as needed.*
 
 8. When all students have been marked, click **Submit**. 
 
-   > **Note:** *When the roll is ready, the Submit button turns blue. After submission, the tick icon appears for each student, confirming that their attendance has been recorded*.
+> **Note:** *When the roll is ready, the Submit button turns blue. After submission, the tick icon appears for each student, confirming that their attendance has been recorded*.
 
 ### Print class list
 
@@ -68,7 +68,7 @@ Use this feature to view information about a student in your class. You can chec
      - **Classroom management**: Learning programmes, including curriculum type, learning mode, and timetable, attendance percentage, and disability and learning difficulties information.
      - **Wellbeing**: Medical details, including condition, medication, care plan, vaccination records, doctor details, and wellbeing details such as special alert notifications.
 
-    > **Note**: *Use the On this tab panel on the right-hand side of the screen to jump directly to a specific section within a tab.*
+> **Note**: *Use the On this tab panel on the right-hand side of the screen to jump directly to a specific section within a tab.*
 
 4. To return to the class roll, click your **Class name** (e.g., Mathematics Core/Extended) in the breadcrumb at the top of the page.
 
@@ -81,7 +81,7 @@ Use this feature to get a quick overview of late and absent students across your
 3. Under **Absent students**, view the total number of students absent on assessment days, along with a comparison to the previous month.
 4. Click **Show top 10** to see which students are late or absent next to the relevant section.
 
-   > **Note**: *Top 10 late students for today shows students ordered by their cumulative tardy count, highest first. While Top 10 absent students shows absent students on exam days this month.*
+> **Note**: *Top 10 late students for today shows students ordered by their cumulative tardy count, highest first. While Top 10 absent students shows absent students on exam days this month.*
 
 5. Click the **Class block** in your Teaching Schedule to open the class roll.
 6. On the class roll, click the **arrow next to a student’s name** to expand their row.
@@ -124,11 +124,11 @@ Use Felix, the built-in AI assistant, to mark attendance faster by typing a simp
 5. **Review** the pre-filled marks.
 6. To correct an individual student's mark, click their **current status icon** to cycle through the available options (**Present**, **Absent**, **Late to class**) until the correct status is shown.
 
-    > **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix*.
+> **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix*.
 
 7. Click **Submit** in the Felix panel. Felix confirms: "Student attendance updated successfully." 
 
-    > **Note**: *The marks now appear on the class roll page*. 
+> **Note**: *The marks now appear on the class roll page*. 
 
 8. **Review** the class roll table to confirm all marks are correct (including any manual adjustments).
 9. Click **Submit** on the class roll page. 
@@ -152,7 +152,7 @@ Use Felix to quickly identify students with specific alerts across your current 
     - Show students with custody plans.
 4. **Review** the view-only table showing matching students, their profile image, and class name.
 
-    > **Note**: *If no matches, Felix confirms no results*. 
+> **Note**: *If no matches, Felix confirms no results*. 
 
 5. To view full profile, click **student's name** in the table.  
 
@@ -182,7 +182,7 @@ StaffXP automatically prompts you to complete any outstanding attendance. The re
 
 1. The attendance reminder modal appears automatically when you sign in with unsubmitted attendance from a previous session, or when you refresh the page or move to another page and a past or current class still has not been submitted.
 
- > **Note**: *The timing of the reminder is configured by attendance admin administrator*.
+> **Note**: *The timing of the reminder is configured by attendance admin administrator*.
 
 2. The modal shows the class name and the message: “*Attendance has not been taken. Please take a moment to complete your attendance roll for today*.”
 3. The modal locks the screen, so you cannot navigate to any other area of StaffXP. There is no close button.
@@ -207,7 +207,7 @@ StaffXP automatically prompts you to complete any outstanding attendance. The re
      - Action – a View roll link to open the class attendance page
 4. To filter by date range, set the **Start date** and **End date** fields at the top of the table. Click **Reset** to clear the filters. 
 
-   > **Note**: *The table defaults to the current week when it first loads*.    
+> **Note**: *The table defaults to the current week when it first loads*.    
 
 5. To search by teacher name, type the name in the **Search Teacher** field.
 6. To search across all columns, click the **Search icon** above the table and **enter your search term** (e.g., Science, Mathematics).
