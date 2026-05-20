@@ -272,6 +272,24 @@ Use this feature to update or correct attendance records for any class within th
 
 ### View resolved requests
 
+Use this feature to view attendance requests that have been approved or denied by the Attendance Officer since the start of the school year. This is a read-only view, so no further actions can be taken on resolved records.
+
+1. Click **Attendance** in the top navigation bar.
+2. Scroll down to the table and click **Resolved requests** tab. The table displays all resolved requests from the start of the school year, with the oldest request at the top.
+3. To filter the table, use the dropdown menus at the top to select a **Status, Reason, or Year group**. Click **Reset** to clear your selections. 
+4. Click View details in the Action column for the record you want to review. A modal opens showing:
+     - Student name
+     - Student ID
+     - Reason
+     - From and To dates
+     - Attachments (supporting files that can be viewed)
+
+    > **Note**: *If a file cannot be opened, an error message appears. If the View details modal cannot be loaded, the message Unable to open view details appears*.
+
+
+
+
+
 ### Attendance admin view dashboard tiles
 
 ### Attendance admin view teacher correction request
