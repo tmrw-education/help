@@ -232,9 +232,22 @@ Use this feature to follow up on students with unresolved absences or late arriv
       - Your default email client opens with the To: field already filled with the parent’s email address.
       - Enter your **subject and message**, then **send** the email.
 
-
-
 ### Unresolved absent and late attendance tracking
+
+Use this feature to monitor unresolved attendance records across your school from the start of the school year. Records stay on this page until they are resolved by recording a reason or updating the attendance status.
+
+1. Click **Attendance** in the top navigation bar.
+2. Scroll down to the table and click **Unresolved attendance** tab. The table displays all students with unresolved absences or late arrivals, showing their name, year group, status, session, primary contact, and action.
+3. To search for a specific student, click the **Search** icon at the top of the table.
+4. To filter the table, click the **Filter** icon, select one or more of the following criteria, then click **Apply filters**:
+      - Year – filter by year group
+      - Status – filter by **Late** or **Absent**
+
+> **Note**: *Click **Reset filters** to clear selected options*. 
+
+5. Use the pagination controls at the bottom of the table to move between pages.
+
+> **Note**: *Once a record is resolved, it is automatically removed from this table and moved to the Resolved requests tab*.
 
 ### Manual attendance admin update attendance records
 
