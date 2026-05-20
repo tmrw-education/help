@@ -217,6 +217,23 @@ StaffXP automatically prompts you to complete any outstanding attendance. The re
 
 ### Contact parent quickly
 
+Use this feature to follow up on students with unresolved absences or late arrivals by contacting the parent directly. 
+
+1. Click **Attendance** in the top navigation bar.
+2. Scroll down to the table and click **Unresolved attendance** tab.
+
+> **Note**: *The table displays all students with unresolved absences or late arrivals, showing their name, year group, status, session, and primary contact*.
+
+3. Find the student you want to action, then click the ** ⋮ button** in the **Action** column to select an option. 
+4. To contact a parent, click **Contact parent**:
+      - Copy the parent's phone number using the Copy icon 
+      - Call the parent using the preferred phone.
+5. To email a parent, click **Email parent**:
+      - Your default email client opens with the To: field already filled with the parent’s email address.
+      - Enter your **subject and message**, then **send** the email.
+
+
+
 ### Unresolved absent and late attendance tracking
 
 ### Manual attendance admin update attendance records
