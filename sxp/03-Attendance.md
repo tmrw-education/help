@@ -251,6 +251,25 @@ Use this feature to monitor unresolved attendance records across your school fro
 
 ### Manual attendance admin update attendance records
 
+Use this feature to update or correct attendance records for any class within the current term. As an Attendance Officer, you can override submitted attendance records at any time without being restricted by the attendance period lock.
+
+1. Click **Attendance** in the top navigation bar.
+2. Scroll down to the table and click **Class rolls** tab and find the class you want to update.
+3. Click **View roll** in the **Action** column. The class role open in edit mode.
+4. To navigate to a past date within the current term, click the **Attendance date** field and select the relevant date.
+5. Find the student whose attendance you need to update and click the **More options** button in their row under the relevant period column.
+6. Select the correct status:
+     - For **Present and Absent**, the Select category modal opens. **Choose** the most appropriate category from the dropdown, then click **Save**.
+     - For **Late**, the Select category modal opens with Late as the only available category. Click **Save** to confirm.
+7. Once all updates are made, click **Submit**.
+
+> **Note**: *The system sends all updated statuses and categories to the backend and a confirmation toast message appears*. 
+
+8. When a teacher views the class roll after the update, they can hover over the updated attendance icon to see a tooltip showing the original category, the new attendance status and category, and the name of the Attendance Officer who made the change.
+9. The teacher can **click the updated icon** to open a popup showing the student's name, date range, and reason for absence details. 
+
+> **Note**: *The tooltip and popup only appear on records that have been updated by an Attendance Officer*. 
+
 ### View resolved requests
 
 ### Attendance admin view dashboard tiles
