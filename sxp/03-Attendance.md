@@ -341,7 +341,7 @@ Use this page to review and action teacher-submitted attendance correction reque
 ### Attendance admin access any class roll
 
 The Attendance Officer can access class rolls for the year groups assigned to their role. The steps for accessing and navigating class rolls are the same as for a Leader.
-For full steps, refer to [Leader Access to Any Class Roll](https://github.com/tmrw-education/product/blob/0422bcfda292632b1cf2dad1e821da80a9dbf166/sxp/03-Attendance.md?plain=1#L198#leader-access-to-any-class-roll).
+For full steps, refer to [Leader Access to Any Class Roll](https://github.com/tmrw-education/product/blob/main/sxp/03-Attendance.md#leader-access-to-any-class-roll).
 
 > **Note**: *If a class roll does not appear in your Class rolls tab, it may belong to a year group outside your assigned scope. Contact your administrator to review your year group assignment*.
 
