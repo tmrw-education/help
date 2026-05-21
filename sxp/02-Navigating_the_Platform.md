@@ -110,7 +110,7 @@ MyDay is the main landing page and homescreen of the platform. When in other pag
 
 ### School Calendar
 
-Running lengthways on the left side of the screen is **Today's schedule**. There is a list with the task, timing, and location. There is a blue line indicator on the left of the list to show which task is active. After the task's time has passed, the dashed outline of the circle fills with solid blue.
+Running lengthways on the left side of the screen is **Today's schedule**. There is a list with the task, timing, and location. There is a blue line indicator on the left of the list to show which task is active. After the task's time has passed, the dashed outline of the circle becomes solid blue, with a blue check mark in the middle.
 
 ![MyDay_School_Calendar_1](./99-Images/myday_school_calendar_1.png)
 
