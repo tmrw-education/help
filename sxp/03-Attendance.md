@@ -180,7 +180,7 @@ Use Felix to correct submitted attendance records. Felix displays the class roll
 
 StaffXP automatically prompts you to complete any outstanding attendance. The reminder appears as a modal and blocks navigation until the relevant roll has been submitted.
 
-1. The attendance reminder modal appears automatically when you sign in with unsubmitted attendance from a previous session, or when you refresh the page or move to another page and a past or current class still has not been submitted.
+1. The attendance reminder modal appears automatically when you sign in with unsubmitted attendance from a previous session, or when you refresh the page or move to another page, and a past or current class still has not been submitted.
 
 > **Note**: *The timing of the reminder is configured by attendance admin administrator*.
 
@@ -351,6 +351,10 @@ In an emergency, the **Navigation bar** will go red. The **Attendance** page wil
 ### Gather missing students — muster point
 
 ### Action on missing students
+
+During an emergency, if students are reported missing without an accompanying note, a prompt will appear asking you to confirm.
+
+1. 
 
 ### View cleared classes
 
