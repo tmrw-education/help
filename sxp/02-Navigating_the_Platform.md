@@ -124,9 +124,15 @@ Daily updates from the school canteen show in the **Canteen specials** tile. The
 
 ### Microsoft To Do
 
+The **To-Do list** tile links to **Microsoft Planner**. It shows a summary of upcoming tasks.
 
+![To-Do_List_1](./99-Images/to_do_list_1.png)
 
 ### Professional Learning Summary
+
+The **Professional learning** tile shows the number of hours of professional learning in a pie chart by category. Below the pie chart is a breakdown of the different professional learning categories, along with completion or planned dates.
+
+![Professional_Learning_1](./99-Images/professional_learning_1.png)
 
 ### Employee Self-Service (ESS)
 
