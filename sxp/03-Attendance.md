@@ -288,9 +288,34 @@ Use this feature to view attendance requests that have been approved or denied b
 
 5. Use the **Previos** and **Next arrows** in the modal to move between resolved requests. 
 
-
-
 ### Attendance admin view dashboard tiles
+
+Use the Attendance Overview page to monitor school-wide attendance at a glance. The page displays six summary tiles covering roll reminders, students at risk, attendance trends, today’s attendance, attendance errors, and attendance by category.
+
+1. Click **Attendance** in the top navigation bar.
+2. Review the **Roll reminders** tile:
+     - Shows the total number of classes today where the roll has not been submitted.
+     - Shows a percentage change compared with the previous day.
+     - Select **View all** → to see a breakdown by teacher name, class name, period number, and count.
+3. Review the Students at risk tile:
+     - Shows the total number of students at risk across all classes.
+     - Shows a percentage change compared with the previous term.
+     - Select **View all** → to see a list showing student name, student ID, year group, risk category, and current attendance percentage.
+4. Review **View trends** the tile: 
+     - Provides access to student attendance data by year level, grade level, and attendance category.
+     - Select **View all** → to open the **Attendance Trends** page.
+5. Review the **Today's attendance** tile:
+     - Displays an arc chart showing today’s attendance rate across all classes.
+     - Compares today’s attendance with the previous day.
+     - Use the **⋮ menu** to filter by Present, Absent, or Late.
+6. Review the **Attendance errors** tile. 
+     - Displays a bar chart showing attendance corrections by source: Parent request, Admin correction, and Teacher correction.   
+7. Review the **Attendance category** tile:
+     - Displays a bar chart showing attendance by category across all classes.
+     - Use the ⋮ menu to filter by category.
+
+
+
 
 ### Attendance admin view teacher correction request
 
