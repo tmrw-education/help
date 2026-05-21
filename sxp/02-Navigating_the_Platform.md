@@ -93,7 +93,8 @@ This is the landing page for all extracurricular activities. Here, you can plan,
 2. There are two tiles below the heading.
    - **Request extra curricular** allows you to request the creation of a new extracurricular activity.
    - **Extra-curricular calendar** displays a calendar of when different activities occur.
-3. 
+3. Below the tiles, there is a small navigation bar with tabs for **Extra-curricular request**, **Booking status**, **All extra-curricular** and **Staffing** to follow up and track activities.
+   - Each tab has a search and filter function to streamline searches.
 
 ### Operations (Finance, Budget)
 
