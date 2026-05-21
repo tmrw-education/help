@@ -345,7 +345,7 @@ In an emergency, the **Navigation bar** will go red. The **Attendance** page wil
 
 1. Find the **Emergency roll** column. This is prefilled with attendance from earlier. Absent students will be marked with a note.
 2. Go through the list and confirm each student is found (this is represented by a white circle with a check mark). For found students, no action is needed.
-3. To identify a missing student, click on the white circle, which will allow you to change the status to **Missing**. The symbol will change to a red circle with a white x.
+3. To identify a missing student, click on the white circle, which will allow you to change the status to **Missing**. The symbol will change to a red circle with a grey x.
 4. Next to each circle, there is an area to add notes per student.
 
 ### Gather missing students — muster point
@@ -362,12 +362,21 @@ In an emergency, the **Navigation bar** will go red. The **Attendance** page wil
 
 ### Add note for emergency attendance
 
+**Note:** *During an emergency, the screen automatically changes to emergency attendance.*
+
+1. Next to each name in the **Emergency roll** column, click **Add note**.
+2. A pop-up will appear. Type in the **Notes about student** text box.
+3. Click **Add note** at the bottom right of the pop-up.
+4. The **Note** will appear below the student's name, with the date and time.
+
 ### View emergency details report
 
 ### Relief teacher emergency roll
 
 ### Add students not on roll
 
+1. Scroll to the end of the emergency attendance list.
+2. In the **Students not on roll**
 ---
 
 ## Relief Teacher
