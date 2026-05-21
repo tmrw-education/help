@@ -375,8 +375,10 @@ In an emergency, the **Navigation bar** will go red. The **Attendance** page wil
 
 ### Add students not on roll
 
-1. Scroll to the end of the emergency attendance list.
-2. In the **Students not on roll**
+1. Scroll to the end of the emergency attendance list to the **Students not on roll** section.
+2. In the search bar, type the student's full name.
+3. Click **Add**.
+
 ---
 
 ## Relief Teacher
