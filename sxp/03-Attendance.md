@@ -288,7 +288,7 @@ Use this feature to view attendance requests that have been approved or denied b
 
 5. Use the **Previos** and **Next arrows** in the modal to move between resolved requests. 
 
-### Attendance admin view dashboard tiles
+### Attendance admin view dashboard tiles 
 
 Use the Attendance Overview page to monitor school-wide attendance at a glance. The page displays six summary tiles covering roll reminders, students at risk, attendance trends, today’s attendance, attendance errors, and attendance by category.
 
@@ -314,10 +314,30 @@ Use the Attendance Overview page to monitor school-wide attendance at a glance. 
      - Displays a bar chart showing attendance by category across all classes.
      - Use the ⋮ menu to filter by category.
 
+### Attendance admin view teacher correction request (WIP)
 
+Use this page to review and action teacher-submitted attendance correction requests for your assigned year groups. You can approve or deny pending requests, and view previously actioned requests for audit purposes.
 
+1. Click **Attendance** in the top navigation bar.
+2. Scroll down to the table and click **Correction request** tab.
 
-### Attendance admin view teacher correction request
+> **Note**: *The table displays all correction requests for your assigned year groups, defaulting to the current week. Requests are sorted with Pending first, followed by Approved and Denied, with the most recent requests shown first*.
+
+3. To search for a specific request, click the **Search** icon at the top of the table.
+4. To filter the table, use the **Date** and **Status** filters.
+5. Find the request you want to action and review the relevant details, such as the student, class, date, current code, requested correction, and request status.
+6. Use the **Action** column based on the request status:
+
+     - Pending – select Approve or reject
+     - Approved – no available action
+     - Rejected – click the comment icon to veiw the rejection reason
+7. To approve a request, click **Approve** in the **Action** column. The status updates to **Approved** and a success toast message appears.
+8. To reject a request, click **Reject** in the **Action** column. A modal opens and asks you to enter a denial reason.
+9. Type the reason in the **text field**, then click **Submit**. The status updates to Denied and a success toast message appears.
+
+> **Note**: *The Submit button stays disabled until a reason is entered. If the system is unable to update the status, the message Unable to approve/deny this request status appears. Try again or contact your administrator*.
+
+> **Note**: After an Attendance Officer actions a correction request, teachers see the updated attendance status in the class roll in real time. Hovering over the icon shows the original category, the updated status, and who made the change. The tooltip appears only for records updated by an Attendance Officer and also in the attendance summary view.
 
 ### Attendance admin access any class roll
 
