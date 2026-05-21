@@ -308,11 +308,20 @@ Use this feature to view attendance requests that have been approved or denied b
 
 ## Emergency Attendance
 
+When an emergency is triggered, the **Navigation bar** will turn red. All options on the dashboard will be automatically disabled. An **Emergency roll** screen will appear. To the left of the **Staff XP** icon, there is a dropdown menu for Attendance, and a Muster Coordinator or Emergency Coordinator (if applicable). Below the **Emergency roll** list, there is a space to add **Students not on roll**. There is a search bar with a dropdown to add any student in your care who is not on the roll.
+
 ### Trigger emergency attendance rolls
 
 ### View emergency attendance dashboards
 
 ### Teacher emergency roll taking
+
+In an emergency, the **Navigation bar** will go red. The **Attendance** page will open automatically. At the safety point, you can take attendance.
+
+1. Find the **Emergency roll** column. This is prefilled with attendance from earlier. Absent students will be marked with a note.
+2. Go through the list and confirm each student is found (this is represented by a white circle with a check mark). For found students, no action is needed.
+3. To identify a missing student, click on the white circle, which will allow you to change the status to **Missing**. The symbol will change to a red circle with a white x.
+4. Next to each circle, there is an area to add notes per student.
 
 ### Gather missing students — muster point
 
