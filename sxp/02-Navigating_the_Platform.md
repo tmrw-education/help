@@ -106,13 +106,25 @@ This is the landing page for all extracurricular activities. Here, you can plan,
 
 ## MyDay Tiles
 
+MyDay is the main landing page and homescreen of the platform. When in other pages, return to the MyDay page by clicking the **Staff XP** tab in the **Navigation bar**. The MyDay tiles display information relevant to the day, including Today's schedule, Assignments to mark and a To-Do list. You can also view voicemails, Canteen specials, and track your professional learning. Finally, there is a tile displaying communication analytics.
+
 ### School Calendar
+
+Running lengthways on the left side of the screen is **Today's schedule**. There is a list with the task, timing, and location. There is a blue line indicator on the left of the list to show which task is active. After the task's time has passed, the dashed outline of the circle fills with solid blue.
+
+![MyDay_School_Calendar_1](./99-Images/myday_school_calendar_1.png)
 
 ### Timetable + Outlook Calendar
 
 ### Canteen Specials
 
+Daily updates from the school canteen show in the **Canteen specials** tile. The tile displays the dish name, whether it is hot or cold, whether it is a snack, and each dish's price.
+
+![Canteen_Specials_1](./99-Images/canteen_specials_1.png)
+
 ### Microsoft To Do
+
+
 
 ### Professional Learning Summary
 
@@ -170,7 +182,7 @@ In the **Settings**, you can manage the appearance of your platform according to
 
 ### Profile
 
-Your **Profile** page has all of your personal, professional and work information. The top banner displays your profile picture and job title.
+Your **Profile** page contains all your personal, professional, and work information. The top banner displays your profile picture and job title.
 
 1. Click the **User** icon.
 2. Selecting **Profile** from the dropdown reveals three tiles of information on the page.
