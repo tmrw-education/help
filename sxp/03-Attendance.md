@@ -359,10 +359,10 @@ Use this page to track attendance trends across your classes, identify students 
 
      - If any students have fallen below the 85% attendance threshold, the banner shows the number of flagged students.
      - Click **View flagged** students to open a modal showing each student’s name, ID, year group, risk category, and current attendance percentage.
+     - Click **Close** to dismiss the modal. 
 
 > **Note**: *Felix AI generates the flagged students list based on the attendance threshold set by your school*. 
 
-    - Click **Close** to dismiss the modal. 
 4. Review the three summary tiles below the alert banner:
      - **Attendance rate** –– the overall attendance rate across your classes, compared to the previous term.
      - **Absent today** –– the number of students absent today, compared to yesterday.
