@@ -380,7 +380,6 @@ Use this page to track attendance trends across your classes, identify students 
 9. Use the **Search students field** above the table to find a specific student. The table updates dynamically as you type.
 10. Use the pagination controls at the bottom of the table to move between pages.
 
-
 ### Leader view dashboard tiles
 
 ---
