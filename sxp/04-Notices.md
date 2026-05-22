@@ -74,10 +74,17 @@
 
 ### View published notices
 
+1. In the **Notices** tab, click **Manage notices**.
+2. Click on the number on the **Active Notices** tile to see all active published notices.
+3. Scroll down to **Notices** below the two tiles.
+4. There is a list of user-created notices.
+5. Use the **Search** or **Filter** functions to find the notice (if needed).
+
+![View_Published_Notices_1](./99-Images/view_published_notices_1.png)
 
 ### Set and update personal interests
 
-This feature allows you to customise and view the types of **Notices** most relevant to you first. These appear under the **Your interests** tab.
+This feature allows you to customise and view the **Notices** types most relevant to you first. These appear under the **Your interests** tab.
 
 1. In the **Notices** page, there is a navigation bar below the heading.
 2. To the right, there is a **filter icon** to filter the notices as needed.
