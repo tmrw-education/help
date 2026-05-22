@@ -45,9 +45,47 @@
 
 ### Edit a notice
 
+> **Note:** *You can only edit a notice that you have created.*
+
+1. In the **Notices** tab, click **Manage notices**.
+2. There are two tiles **Active notices** and **Scheduled notices** that can help you find the notice to edit faster. Clicking either tile can lead you to your notices.
+3. Below the tiles is a list of all notices you have created. Click the **Search** or **Filter** icons to find the notice to edit (if needed).
+4. There are two ways to edit a notice:
+   - Click the notice heading.
+   - On the right side of the notice, there is a pencil icon. Click the icon to edit.
+5. Make the edits as needed in the **Edit notice details** pop-up.
+
+> **Note:** *As with creating the notice, you can also edit the **Audience type** and **Visibility** of the notice.*
+
+6. Click **Save changes**.
+
+![Edit_a_Notice_1](./99-Images/edit_a_notice_1.png)
+
+![Edit_a_Notice_2](./99-Images/edit_a_notice_2.png)
 
 ### View user-created notices
+
+1. In the **Notices** tab, click **Manage notices**.
+2. Scroll down to **Notices** below the two tiles.
+3. There is a list of user-created notices.
+4. Use the **Search** or **Filter** functions to find the notice (if needed).
+
+![View_User-Created_Notices_1](./99-Images/view_user_created_notices_1.png)
+
 ### View published notices
+
+
 ### Set and update personal interests
+
+This feature allows you to customise and view the types of **Notices** most relevant to you first. These appear under the **Your interests** tab.
+
+1. In the **Notices** page, there is a navigation bar below the heading.
+2. To the right, there is a **filter icon** to filter the notices as needed.
+3. Right of the icon is an **Interests** dropdown menu.
+4. Select the category or categories as required. (General, Arts, Community, Cultural, Sport). The page will update immediately.
+
+> **Note:** *All notices can still be viewed under their corresponding tabs.*
+
+![Set_and_Update_Personal_Interests_1](./99-Images/set_and_update_personal_interests_1.png)
 
 ---
