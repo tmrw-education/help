@@ -63,7 +63,7 @@
 3. Below the tiles is a list of all notices you have created. Click the **Search** or **Filter** icons to find the notice to edit (if needed).
 4. There are two ways to edit a notice:
    - Click the notice heading.
-   - On the right side of the notice, there is a pencil icon. Click the icon to edit.
+   - On the right side of the notice, there is a **pencil icon**. Click the icon to edit.
 5. Make the edits as needed in the **Edit notice details** pop-up.
 
 > **Note:** *As with creating the notice, you can also edit the **Audience type** and **Visibility** of the notice.*
