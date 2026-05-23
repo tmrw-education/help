@@ -1,10 +1,12 @@
-# Notfications
+# Notifications
 
-Notifications are brief, timely alerts pushed to your device by the platform to provide alerts, updates, reminders, or messages. These notifications share information quickly and help maintain planning and organisation. The notifications on the **StaffXP** page are categorised into **Messages**, **Alerts**, and **Favourites**. You can view each category by clicking on the tab heading in the dropdown. Clicking on a notification automatically takes you to the relevant section. 
+Notifications are brief, timely alerts that the platform pushes to your device to provide updates, reminders, or messages. These notifications share information quickly and help maintain planning and organisation. The notifications on the **StaffXP** page are categorised into **Messages**, **Alerts**, and **Favourites**. You can view each category by clicking on the tab heading in the dropdown. Clicking on a notification automatically takes you to the relevant section. 
 
 ---
 
 ## Notification Centre
+
+Notifications can be found on the right side of the **Navigation bar**. To access the notification centre, click the **bell icon**.
 
 ### Access notifications
 
@@ -16,14 +18,7 @@ Notifications are brief, timely alerts pushed to your device by the platform to 
 
 ### Push notification
 
-Push notifications are short, clickable alerts sent directly from an app or web browser to your laptop.
-
-1. In the **Navigation bar**, click the notifications **bell icon**.
-2. At the bottom of the dropdown menu, you can toggle **Push notifications** on or off.
-
-> **Note:** *You may have to check your browser security settings to ensure you can receive push notifications.*
-
-![Push_Notifications_1](./99-Images/push_notifications_1.png)
+Push notifications are short, clickable alerts sent directly from an app or web browser to your laptop. You can choose whether to receive push notifications.
 
 ### View favourites
 
@@ -51,4 +46,10 @@ Push notifications are short, clickable alerts sent directly from an app or web 
 
 ### Push notifications
 
+1. In the **Navigation bar**, click the notifications **bell icon**.
+2. At the bottom of the dropdown menu, you can toggle **Push notifications** on or off.
+
+> **Note:** *You may have to check your browser security settings to ensure you can receive push notifications.*
+
+![Push_Notifications_1](./99-Images/push_notifications_1.png)
 ---
