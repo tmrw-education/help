@@ -6,13 +6,31 @@ Notifications are brief, timely alerts that the platform pushes to your device t
 
 ## Notification Centre
 
-Notifications can be found on the right side of the **Navigation bar**. To access the notification centre, click the **bell icon**.
+Notifications can be found on the right side of the **Navigation bar**. New or unread notifications will appear as a white number in a red bubble at the top right of the **bell icon**.
 
 ### Access notifications
 
+To access the **notification centre**, click the **bell icon**. A dropdown will open up. The notifications are divided into three categories, **Messages**, **Alerts** and **Favourites**. There is a bubble with the number of notifications in each category to the right of each heading. Clicking on each heading opens the corresponding tab. When a tab is active, it is underlined in blue, and the notification bubble changes from grey to pink.
+
 ### Alerts tab
 
+In the **notification centre**, the ** Alerts ** tab is the central tab. Click the tab to view the **Alerts**. There are different categories of alerts, including environmental and weather warnings, transport disruptions, security notices, and health advisories. The category of each alert is displayed when you receive the alert. 
+
 ### Create an alert
+
+1. Navigate to the **notification centre** by clicking the **bell icon** ▸ **Alerts** tab.
+2. Click the **Create alert +** button in the top right corner.
+3. A pop-up window will appear; fill in the required fields.
+   - Enter an alert **Title**.
+   - Select a **Category** from the dropdown menu.
+   - Add a **Description** for the alert.
+4. Click **Submit** in the bottom right corner.
+
+> **Note:** *You can only click **Submit** when all the required fields in the pop-up are complete.*
+
+![Create_an_Alert_1](./99-Images/create_an_alert_1.png)
+
+![Create_an_Alert_2](./99-Images/create_an_alert_2.png)
 
 ### View all messages
 
