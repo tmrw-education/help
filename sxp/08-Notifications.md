@@ -33,14 +33,14 @@ A dropdown will open up.
 #### Notification Centre
 
 This is a full-size web page for viewing any notifications. 
-6. The notifications are still divided by category, **Messages**, **Alerts**, and **Favourites**.
-7. Clicking each tab will display the notifications for that category.
-8. Below the tab headings, there is a set of filter buttons to view **All** messages, **Unread** messages or **Read** messages.
-9. There is a search option on the right side of the screen.
-10. Notification messages appear in a list with a grey background for each message.
-11. Unread messages have a solid blue square on the left.
-12. Click the vertical ellipsis on the right of the message frame to **Mark as read**, **Mark as favourite** or **Delete**.
-13. In the top right corner of the screen, there are buttons for **Mark all as read** and **Clear all**.
+1. The notifications are still divided by category, **Messages**, **Alerts**, and **Favourites**.
+2. Clicking each tab will display the notifications for that category.
+3. Below the tab headings, there is a set of filter buttons to view **All** messages, **Unread** messages or **Read** messages.
+4. There is a search option on the right side of the screen.
+5. Notification messages appear in a list with a grey background for each message.
+6. Unread messages have a solid blue square on the left.
+7. Click the vertical ellipsis on the right of the message frame to **Mark as read**, **Mark as favourite** or **Delete**.
+8. In the top right corner of the screen, there are buttons for **Mark all as read** and **Clear all**.
 
 ![Access_Notifications_1](./99-Images/access_notifications_1.png)
 
