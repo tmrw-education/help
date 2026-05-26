@@ -32,7 +32,7 @@ Notifications can be found on the right side of the **Navigation bar**. New or u
 
 This is a full-size web page for viewing any notifications. 
 
-1. Navigate to the **Notfication Centre**. Click the **bell icon** ▸ **View all messages**. 
+1. Navigate to the **Notification Centre**. Click the **bell icon** ▸ **View all messages**. 
 2. The notifications are still divided by category, **Messages**, **Alerts**, and **Favourites**.
 3. Clicking each tab will display the notifications for that category.
 4. Below the tab headings, there is a set of filter buttons to view **All** messages, **Unread** messages or **Read** messages.
@@ -68,13 +68,33 @@ In the alerts dropdown or the **notification centre**, the **Alerts** tab is the
 
 ### View all messages
 
+This is the landing page for all messages, alerts and favourites. The messages will appear in a list, each message is framed with a grey background. Unread message have a solid blue square on the left. On the landing page there is a filter to toggle between **All**, **Unread** and **Read** messages. Along the right, there is a search function.
 
+1. Navigate to the **Notification Centre**. Click the **bell icon** ▸ **View all messages**.
+2. The Notifications page will automatically open.
+3. Clicking on a message will direct you to the corresponding page. *For example: Clicking on a message related to activities will open the activities page.*
+4. Click on the vertical ellipsis on the right of the message frame to **Mark as read**, **Mark as favourite** or **Delete**.
+5. In the top right corner of the screen, there are buttons for **Mark all as read** and **Clear all**.
+
+![View_All_Messages_1](./99-Images/view_all_messages_1.png)
 
 ### Push notification
 
 Push notifications are short, clickable alerts sent directly from an app or web browser to your laptop. You can choose whether to receive push notifications.
 
+### Mark as favourite
+
+Mark important messages as favourites to be accessed and viewed more easily at a later date.
+
+There are two ways to mark a message as favourite: 
+1. Click the **bell icon**.
+2. In the dropdown, each message has a black **heart icon** outline on the right.
+3. Click the outline and the heart will fill in a solid black colour. This message is now **marked as favourite**.
+4. 
+
 ### View favourites
+
+**Note:** *A message must be marked as a favourite to be viewed under the **Favourites** tab.*
 
 ---
 
