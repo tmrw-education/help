@@ -6,15 +6,51 @@ Notifications are brief, timely alerts that the platform pushes to your device t
 
 ## Notification Centre
 
-Notifications can be found on the right side of the **Navigation bar**. New or unread notifications will appear as a white number in a red bubble at the top right of the **bell icon**.
+Notifications can be found on the right side of the **Navigation bar**. New or unread notifications will appear as a white number in a red bubble at the top right of the **bell icon**. You can view notifications in the dropdown menu, or click any notification to expand the menu into a **Notification centre** web page with the same category headings (Messages, Alerts, Favourites).
+
+![Notification_Centre_1](./99-Images/notification_centre_1.png)
+
+![Notification_Centre_2](./99-Images/notification_centre_2.png)
 
 ### Access notifications
 
-To access the **notification centre**, click the **bell icon**. A dropdown will open up. The notifications are divided into three categories, **Messages**, **Alerts** and **Favourites**. There is a bubble with the number of notifications in each category to the right of each heading. Clicking on each heading opens the corresponding tab. When a tab is active, it is underlined in blue, and the notification bubble changes from grey to pink.
+To access notifications, click the **bell icon**. There are two ways to view notifications:
+
+#### Dropdown Menu
+
+A dropdown will open up. 
+1. The notifications are divided into three categories, **Messages**, **Alerts** and **Favourites**.
+2. There is a bubble with the number of notifications in each category to the right of each heading.
+3. Clicking on each heading opens the corresponding tab.
+    
+ > **Note:** *When a tab is active, it is underlined in blue, and the notification bubble changes from grey to pink.*
+
+4. Unread messages appear with a solid blue square on the right.
+5. Beneath each notification message, there is a time when the message was sent, an option to **Mark as read**, and a **heart icon** to favourite the notification.
+6. At the bottom of the dropdown menu, there are options to **View all messages** or **Mark all as read**.
+7. Clicking on **View all messages** opens the **notification centre**.
+
+#### Notification Centre
+
+This is a full-size web page for viewing any notifications. 
+6. The notifications are still divided by category, **Messages**, **Alerts**, and **Favourites**.
+7. Clicking each tab will display the notifications for that category.
+8. Below the tab headings, there is a set of filter buttons to view **All** messages, **Unread** messages or **Read** messages.
+9. There is a search option on the right side of the screen.
+10. Notification messages appear in a list with a grey background for each message.
+11. Unread messages have a solid blue square on the left.
+12. Click the vertical ellipsis on the right of the message frame to **Mark as read**, **Mark as favourite** or **Delete**.
+13. In the top right corner of the screen, there are buttons for **Mark all as read** and **Clear all**.
+
+![Access_Notifications_1](./99-Images/access_notifications_1.png)
+
+![Access_Notifications_2](./99-Images/access_notifications_2.png)
 
 ### Alerts tab
 
-In the **notification centre**, the ** Alerts ** tab is the central tab. Click the tab to view the **Alerts**. There are different categories of alerts, including environmental and weather warnings, transport disruptions, security notices, and health advisories. The category of each alert is displayed when you receive the alert. 
+In the alerts dropdown or the **notification centre**, the **Alerts** tab is the central tab. Click the tab to view the **Alerts**. There are different categories of alerts, including environmental and weather warnings, transport disruptions, security notices, and health advisories. The category of each alert is displayed when you receive the alert. 
+
+![Alerts_Tab_1](./99-Images/alerts_tab_1.png)
 
 ### Create an alert
 
@@ -33,6 +69,8 @@ In the **notification centre**, the ** Alerts ** tab is the central tab. Click t
 ![Create_an_Alert_2](./99-Images/create_an_alert_2.png)
 
 ### View all messages
+
+
 
 ### Push notification
 
