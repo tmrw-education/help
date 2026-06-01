@@ -34,9 +34,42 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ### Upload supporting documents
 
+1. Click on the **Wellbeing** tab to open the Wellbeing landing page.
+2. On the left tile below the heading, click **Create wellbeing note →**.
+3. Fill in the required fields (indicated by an asterisk *) in the pop-up window.
+4. Below the **Upload optional photos or documents** heading, click **Choose file**.
 
+> **Note:** *Note that the total maximum file size is 10MB.*
+
+5. A **File folder** will pop up, select the relevant document.
+6. Select **Open**. The file will automatically upload.
+7. You can add as many files as long as you remain below the maximum file size.
+8. To remove a file, press the X on the right of the file heading.
+9. Save by clicking **Publish note**.
+
+> **Note:** *The note can only be published if all the required fields are completed.*
+
+![Upload_Supporting_Documents_1](./99-Images/upload_supporting_documuments_1.png)
 
 ### Create & assign task from note
+
+1. Navigate to the **Wellbeing** landing page from the **Navigation bar**.
+2. Click **Track and resolve notes →** on the right tile below the heading.
+3. Select the relevant **Wellbeing note** from the **Active notes** tab.
+4. Select the blue square with a + sign on the **Tasks** tile on the right.
+5. A pop-up window will open up. Complete the required fields marked with an asterisk (*).
+     - Add a **Title**.
+     - Select an **Assignee**.
+     - Add **Notes** to describe the task.
+6. Click **Save**.
+
+> **Note:** *The task will automatically appear in the tasks tile.*
+
+7. Edit the task by clicking on the **pencil icon**. In the pop-up window, there is a **Status bar** to update and monitor the task status.
+
+![Create_and_Assign_Task_from_Note_1](./99-Images/create_and_assign_task_from_note_1.png)
+
+![Create_and_Assign_Task_from_Note_2](./99-Images/create_and_assign_task_from_note_2.png)
 
 ### Create and submit note
 
