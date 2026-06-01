@@ -386,7 +386,7 @@ Use this page to track attendance trends across your classes, identify students 
 
 ## Emergency Attendance
 
-When an emergency is triggered, the **Navigation bar** will turn red. All options on the dashboard will be automatically disabled. An **Emergency roll** screen will appear. To the left of the **Staff XP** icon, there is a dropdown menu for Attendance, and a Muster Coordinator or Emergency Coordinator (if applicable). Below the **Emergency roll** list, there is a space to add **Students not on roll**. There is a search bar with a dropdown to add any student in your care who is not on the roll.
+When an emergency is triggered, the **Navigation bar** will turn red. All options on the dashboard will be automatically disabled. An **Emergency roll** screen will appear. To the left of the **Staff XP** icon, there are dropdown menus for Attendance and for a Muster Coordinator or Emergency Coordinator (if applicable). Below the **Emergency roll** list, there is a space to add **Students not on roll**. There is a search bar with a dropdown to add any student in your care who is not on the roll.
 
 ### Trigger emergency attendance rolls
 
@@ -401,13 +401,17 @@ In an emergency, the **Navigation bar** will go red. The **Attendance** page wil
 3. To identify a missing student, click on the white circle, which will allow you to change the status to **Missing**. The symbol will change to a red circle with a grey x.
 4. Next to each circle, there is an area to add notes per student.
 
+![Teacher_Emergency_Roll_Taking_1](./99-Images/teacher_emerency_roll_taking_1.png)
+
 ### Gather missing students — muster point
 
 ### Action on missing students
 
-During an emergency, if students are reported missing without an accompanying note, a prompt will appear asking you to confirm.
+During an emergency, if students are reported missing without an accompanying note, a prompt will appear listing for unaccounted students. 
 
-1. 
+1. Each student is shown with their name and profile picture.
+2. Next to each student, you can either:
+   - **Add note**
 
 ### View cleared classes
 
@@ -435,6 +439,8 @@ During an emergency, if students are reported missing without an accompanying no
 1. Scroll to the end of the emergency attendance list to the **Students not on roll** section.
 2. In the search bar, type the student's full name.
 3. Click **Add**.
+
+![Add_Students_Not_On_Roll_1](./99-Images/add_students_not_on_roll_1.png)
 
 ---
 
