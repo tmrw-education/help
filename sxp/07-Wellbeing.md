@@ -50,6 +50,20 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ### Track & resolve wellbeing notes
 
+1. Navigate to the **Wellbeing** landing page.
+2. Click **Track and resolve notes →** on the tile on the right.
+3. In the **Active notes** tab, find and select the relevant wellbeing note.
+
+> **Note:** *Confirm that there are no outstanding tasks or follow-up required on the wellbeing note. Once a note is resolved or closed, it cannot be opened again. A separate note will be needed.*
+
+4. After selecting the note, the **Update status** box will become blue. Click the **Update status** box.
+5. A pop-up will appear. From the dropdown, you can select **Active**, **Resolved** or **Cancelled**.
+6. Click **submit**, the status will automatically update.
+
+![Track_and_Resolve_Wellbeing_Notes_1](./99-Images/track_and_resolve_wellbeing_notes_1.png)
+
+![Track_and_Resolve_Wellbeing_Notes_2](./99-Images/track_and_resolve_wellbeing_notes_2.png)
+
 ### Update existing note
 
 ### Update existing wellbeing task
