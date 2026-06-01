@@ -68,7 +68,7 @@ In the alerts dropdown or the **notification centre**, the **Alerts** tab is the
 
 ### View all messages
 
-This is the landing page for all messages, alerts and favourites. The messages will appear in a list, each message is framed with a grey background. Unread message have a solid blue square on the left. On the landing page there is a filter to toggle between **All**, **Unread** and **Read** messages. Along the right, there is a search function.
+This is the landing page for all messages, alerts and favourites. The messages will appear in a list; each message is framed with a grey background. Unread messages have a solid blue square on the left. On the landing page, there is a filter to toggle between **All**, **Unread** and **Read** messages. Along the right, there is a search function.
 
 1. Navigate to the **Notification Centre**. Click the **bell icon** ▸ **View all messages**.
 2. The Notifications page will automatically open.
@@ -84,18 +84,33 @@ Push notifications are short, clickable alerts sent directly from an app or web 
 
 ### Mark as favourite
 
-Mark important messages as favourites to be accessed and viewed more easily at a later date.
+Mark important messages as favourites to access and view them more easily later.
 
 There are two ways to mark a message as favourite: 
 1. Click the **bell icon**.
 2. In the dropdown, each message has a black **heart icon** outline on the right.
 3. Click the outline and the heart will fill in a solid black colour. This message is now **marked as favourite**.
-4. 
+4. At the bottom of the dropdown menu, select **View all messages**.
+5. To the right of each message box, click the vertical ellipsis.
+6. Select **Mark as favourite** from the dropdown menu.
+
+![Mark_as_Favourite_1](./99-Images/mark_as_favourite_1.png)
+
+![Mark_as_Favourite_2](./99-Images/mark_as_favourite_2.png)
 
 ### View favourites
 
 **Note:** *A message must be marked as a favourite to be viewed under the **Favourites** tab.*
 
+There are different ways to view favourite messages:
+1. Click the **bell icon**.
+2. In the dropdown, select the **Favourites** tab to view the most recent favourite messages.
+3. At the bottom of the menu, click **View all favourites** to open the **Notification centre** page.
+4. Or: Click on **View all messages** ▸ **Favourites**.
+
+![View_Favourites_1](./99-Images/view_favourites_1.png)
+
+![View_Favourites_2](./99-Images/view_favourites_2.png)
 ---
 
 ## Event & Workflow Notifications
