@@ -6,28 +6,6 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ## Wellbeing Case Management
 
-### Upload supporting documents
-
-### Create & assign task from note
-
-### Create and submit note
-
-### Submit and pop up
-
-### Auto-create case
-
-### Link related cases
-
-### View details of a wellbeing case
-
-### Track & resolve wellbeing notes
-
-### Update existing note
-
-### Update existing wellbeing task
-
-### View AI summary in a case
-
 ### Create a wellbeing note — manual
 
 1. Click on the **Wellbeing** tab to open the Wellbeing landing page.
@@ -53,5 +31,29 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 ![Create_a_Wellbeing_Note_1](./99-Images/create_a_wellbeing_note_1.png)
 
 ![Create_a_Wellbeing_Note_2](./99-Images/create_a_wellbeing_note_2.png)
+
+### Upload supporting documents
+
+
+
+### Create & assign task from note
+
+### Create and submit note
+
+### Submit and pop up
+
+### Auto-create case
+
+### Link related cases
+
+### View details of a wellbeing case
+
+### Track & resolve wellbeing notes
+
+### Update existing note
+
+### Update existing wellbeing task
+
+### View AI summary in a case
 
 ---
