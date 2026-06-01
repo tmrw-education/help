@@ -390,7 +390,30 @@ When an emergency is triggered, the **Navigation bar** will turn red. All option
 
 ### Trigger emergency attendance rolls
 
-### View emergency attendance dashboards
+### View emergency attendance dashboards (WIP)
+
+Use this page to review emergency attendance performance data across all past emergencies. The dashboard shows how quickly classes were cleared, how fast teachers marked attendance, and a breakdown of emergencies by type and term. This page is available to Leaders, Emergency Coordinators, and Muster Coordinators.
+
+1. Click the **hamburger menu (☰)** in the left corner of the navigation bar.
+2. Select **Emergency analytics** to open the page.
+3. Review the two summary tiles at the top of the page: 
+     - **Avg time to clear classes** – shows the average time it took all classes to complete their emergency roll, with a trend indicator and percentage change compared to the last emergency
+     - **Avg time to mark attendance** – shows the average time it took teachers to mark emergency attendance, with a trend indicator and percentage change compared to the last emergency
+
+**Note**: *A green upward arrow indicates the metric has improved. A red downward arrow indicates it has worsened*. 
+
+4. Review the two charts below the tiles: 
+     - **Emergency per term** – shows the trend of the total number of emergencies across each term over time
+     - **Emergency per term by type** – shows the count of each emergency type (e.g., Drill, Fire, Gas leak) for the current term
+5. Scroll down to the Emergency table to view all the past emergency events for the current academic year, most recent first:
+     - **Reason** – the type of emergency
+     - **Date** – the date the emergency occurred
+     - **Clear time** – the time it took to clear all classes
+     - **Report** – a report link to open the emergency details page for that event
+6. To filter the table by emergency type, click the **Filter icon**. Select one or more emergency types, then click **Apply filters**. Click **Reset filters** to clear your selection and return to the default view.
+7. To search for a specific emergency, click the **Search icon** above the table.
+8. To open a full emergency report, click **Full report** in the Report column for the event you want to review. The Emergency Details page opens showing the emergency case reference and date at the top.
+
 
 ### Teacher emergency roll taking
 
