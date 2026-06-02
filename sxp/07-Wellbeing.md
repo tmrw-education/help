@@ -79,7 +79,7 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ### Submit and pop up
 
-1. After you submit a wellbeing note, you will get a pop-up notification at the top right of the window confirming the success of the note submission.
+1. After you submit a **wellbeing note**, you will get a pop-up notification at the top right of the window confirming the success of the note submission.
 2. Changing the status of a note will also result in a pop-up notification.
 
 > **Note:** *If a linked member of staff makes any edits to the note, the changes will appear as notifications in the dropdown below the **Bell icon** or in the **Notification centre**.*
@@ -87,6 +87,14 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 ![Submit_and_Pop_Up_1](./99-Images/submit_and_pop_up_1.png)
 
 ### Auto-create case
+
+When you successfully create a **wellbeing note**, it automatically opens a case. The steps below outline how to find **Active notes**.
+
+1. In the **Wellbeing** tab, select **Track and resolve notes →** on the right tile below the heading.
+2. Below **Case Title** is a list of all the **Active notes**.
+3. Click the tab subheading **Closed/resolved notes** to view previous or currently inactive notes.
+
+![Auto_create_Case_1](./99-Images/auto_create_case_1.png)
 
 ### Link related cases
 
