@@ -87,7 +87,7 @@ This is the main space to monitor and support student wellbeing. Here you can cr
 
 ### Extracurricular Activities
 
-This is the landing page for all extracurricular activities. Here, you can plan, browse, and create new extracurricular activities. There is a calendar to keep track of all activities and the days they occur.
+This is the landing page for all extracurricular activities. Here, you can plan, browse, and create new extracurricular activities. There is a calendar to track all activities and their dates.
 
 1. Click the **Extra curricular** tab in the **Navigation bar**.
 2. There are two tiles below the heading.
@@ -106,7 +106,17 @@ This is the landing page for all extracurricular activities. Here, you can plan,
 
 ## MyDay Tiles
 
-MyDay is the main landing page and homescreen of the platform. When in other pages, return to the MyDay page by clicking the **Staff XP** tab in the **Navigation bar**. The MyDay tiles display information relevant to the day, including Today's schedule, Assignments to mark and a To-Do list. You can also view voicemails, Canteen specials, and track your professional learning. Finally, there is a tile displaying communication analytics.
+MyDay is the platform's main landing page and homescreen. When in other pages, return to the MyDay page by clicking the **Staff XP** tab in the **Navigation bar**. The MyDay tiles display information relevant to the day, including Today's schedule, Assignments to mark and a To-Do list. You can also view voicemails, Canteen specials, and track your professional learning. Finally, there is a tile displaying communication analytics.
+
+### Adaptive User Interface
+
+The MyDay landing page changes appearance throughout the day to match the time of day the teacher is using the platform.
+
+![MyDay_UI_AM](./99-Images/myday_ui_am.png)
+
+![MyDay_UI_Midday](./99-Images/myday_ui_midday.png)
+
+![MyDay_UI_PM](./99-Images/myday_ui_pm.png)
 
 ### School Calendar
 
