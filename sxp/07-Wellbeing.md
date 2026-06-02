@@ -81,6 +81,20 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ### View details of a wellbeing case
 
+1. Navigate to the **Wellbeing** landing page.
+2. Click **Track and resolve notes →** on the tile on the right.
+3. In the **Active notes** tab, find and select the relevant wellbeing note.
+4. The note will automatically open, where you can view:
+      - Student name and number
+      - Note description
+      - Note type
+      - Sentiment
+      - Staff Notified
+5. Below the area is an AI-generated summary of the note and details.
+6. There are also tiles for **Comment timeline** and follow-up **Tasks** related to the note.
+
+![View_Details_of_a_Wellbeing_Note_1](./99-Images/view_details_of_a_wellbeing_note_1.png)
+
 ### Track & resolve wellbeing notes
 
 1. Navigate to the **Wellbeing** landing page.
