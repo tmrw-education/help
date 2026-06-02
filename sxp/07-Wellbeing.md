@@ -108,7 +108,7 @@ In situations where more than one student is involved in a wellbeing case, or mo
 6. To add more linked notes, press the blue square with the white **+**.
 7. To remove an empty linked note space, click on the red waste bin icon.
 
-> **Note:** *To delete a linked note, press the **X** at the end of the search field.*
+> **Note:** *To unlink a linked note, press the **X** at the end of the search field.*
 
 ![Link_Related_Cases_1](./99_Images/link_related_cases_1.png)
 
@@ -161,8 +161,41 @@ As the wellbeing situation evolves, or more information becomes available, it is
 > **Note:** *After successfully saving, a pop-up message will appear in the top right corner confirming the note addition.*
 
 7. The note will appear in the **Comment Timeline** tile.
+8. Press the **pencil icon** to edit the note.
+
+**Note:** *When editing a comment, the options are to either save the edits or delete the note entirely.*
+
+![Update_Wellbeing_Note_1](./99-Images/update_wellbeing_note_1.png)
+
+![Update_Wellbeing_Note_2](./99-Images/update_wellbeing_note_2.png)
 
 ### Update existing wellbeing task
+
+For each **Wellbeing** note, you can assign follow-up tasks for yourself or other members of staff. One member of staff can be assigned per task.
+
+1. Navigate to the relevant note from the **Wellbeing** landing page ▸ **Track and resolve notes →**.
+2. Select the relevant note.
+3. Click the blue square with the white **+** on the **Tasks** tile on the right of the screen.
+4. A pop-up window will open to **Add new task**.
+5. Complete the fields.
+      - Add a **Title**.
+      - Select an **Assignee**. Start typing the name, and all the names, including those characters, will appear in a dropdown.
+      - Add **Notes**.
+6. Click **Save**. The save button will only be enabled when all fields are completed.
+7. The task will appear in the **Tasks** tile on the right.
+
+> **Note:** *After successfully saving, a pop-up message will appear in the top-right corner confirming the addition of the task.*
+
+8. To edit the task or update the status, click on the **Pencil icon**.
+9. Another pop-up window will open. This window will have an additional field, **Status**.
+10. Update the task status by selecting either **Open**, **Completed** or **Canceled**.
+11. Click **Save**. Another pop-up message will confirm successful saving.
+
+> **Note:** *Changing the status to **Completed** or **Canceled** will permanently remove the task from the **Tasks** tile.*
+
+![Update_Existing_Wellbeing_Task_1](./99-Images/update_existing_wellbeing_task_1.png)
+
+![Update_Existing_Wellbeing_Task_2](./99-Images/update_existing_wellbeing_task_2.png)
 
 ### View AI summary in a case
 
