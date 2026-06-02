@@ -117,4 +117,14 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ### View AI summary in a case
 
+1. Navigate to the **Wellbeing** landing page.
+2. Click **Track and resolve notes →** on the tile on the right.
+3. In the **Active notes** tab, find and select the relevant wellbeing note.
+4. The page displays a description and details of the wellbeing note, with a white background.
+5. Below, with a grey background, on the left, there is an AI-generated **Summary** of the wellbeing note and details.
+
+ > **Note:** *The text box expands to adjust to the amount of text present, there is no need to click the information box.*
+
+![View_AI_Summary_in_a_Case_1](./99-Images/view_ai_summary_in_a_case_1.png)
+
 ---
