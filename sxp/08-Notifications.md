@@ -111,6 +111,7 @@ There are different ways to view favourite messages:
 ![View_Favourites_1](./99-Images/view_favourites_1.png)
 
 ![View_Favourites_2](./99-Images/view_favourites_2.png)
+
 ---
 
 ## Event & Workflow Notifications
@@ -128,6 +129,22 @@ There are different ways to view favourite messages:
 ### Notification — tagged in new case
 
 ### Notification — assigned a wellbeing case task
+
+When you assign a wellbeing task to yourself, or if another member of staff assigns you to a wellbeing task, this will appear as a message in your notifications.
+
+1. Click the **bell icon**.
+2. In the dropdown, the message will appear with the heading **New wellbeing task assigned**.
+3. The task **Title** will appear in blue in the message.
+4. Click the **Title**. This will automatically open the **Wellbeing note**.
+5. You can view the task in more detail by clicking on it in the **Tasks** tile.
+6. Click the **pencil icon** in the task; this will open a pop-up window.
+7. Update the task **Status** in the appropriate field from selecting either **Open**, **Completed** or **Canceled**.
+
+> **Note:** *Selecting **Completed** or **Canceled** in the status will permanently remove the task.*
+
+![Notification_Assigned_a_Wellbeing_Task_1](./99-Images/notifications_assigned_a_wellbeing_task_1.png)
+
+![Notification_Assigned_a_Wellbeing_Task_2](./99-Images/notifications_assigned_a_wellbeing_task_2.png)
 
 ### Notification — reminders about open wellbeing cases
 
