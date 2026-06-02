@@ -43,7 +43,7 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 3. Fill in the required fields (indicated by an asterisk *) in the pop-up window.
 4. Below the **Upload optional photos or documents** heading, click **Choose file**.
 
-> **Note:** *Note that the total maximum file size is 10MB.*
+> **Note:** *The total maximum file size is 10MB.*
 
 5. A **File folder** will pop up, select the relevant document.
 6. Select **Open**. The file will automatically upload.
