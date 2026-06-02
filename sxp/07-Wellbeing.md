@@ -17,10 +17,14 @@ Student wellbeing encompasses all aspects of a student's life, including happine
    - Select a **Note type** (choose one of the seven subcategories).
    - Under **Sentiment**, identify if the note is **Positive** or **Negative**.
    - Identify the **Priority** for action (Low, Medium, High or Critical).
-4. Attach photos or linked notes if required.
-5. In the **Notify staff member** text, start typing a staff member's name to share the wellbeing note with other staff members.
+  
+> **Note:** *The student ID and year group will automatically populate.*
 
-> **Note:** *As you start typing, a dropdown will open up so you can select the staff member without typing out the full name.*
+4. Attach photos if required.
+5. If this wellbeing note is related to an existing note, you can connect the notes in **Linked note** by typing the start of the heading of the note you wish to link to, and the content will autofill.
+6. In the **Notify staff member** text, start typing a staff member's name to share the wellbeing note with other staff members.
+
+> **Note:** *A dropdown will open so you can select the staff member without typing the full name.*
 
 7. Click the blue square outline with a **+** in the centre to add more staff members.
 8. Select if parents need to be notified of this wellbeing note.
@@ -71,9 +75,16 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ![Create_and_Assign_Task_from_Note_2](./99-Images/create_and_assign_task_from_note_2.png)
 
-### Create and submit note
+### Create and submit a note
 
 ### Submit and pop up
+
+1. After you submit a wellbeing note, you will get a pop-up notification at the top right of the window confirming the success of the note submission.
+2. Changing the status of a note will also result in a pop-up notification.
+
+> **Note:** *If a linked member of staff makes any edits to the note, the changes will appear as notifications in the dropdown below the **Bell icon** or in the **Notification centre**.*
+
+![Submit_and_Pop_Up_1](./99-Images/submit_and_pop_up_1.png)
 
 ### Auto-create case
 
@@ -120,7 +131,7 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 1. Navigate to the **Wellbeing** landing page.
 2. Click **Track and resolve notes →** on the tile on the right.
 3. In the **Active notes** tab, find and select the relevant wellbeing note.
-4. The page displays a description and details of the wellbeing note, with a white background.
+4. The page displays a description and details of the wellbeing note.
 5. Below, with a grey background, on the left, there is an AI-generated **Summary** of the wellbeing note and details.
 
  > **Note:** *The text box expands to adjust to the amount of text present, there is no need to click the information box.*
