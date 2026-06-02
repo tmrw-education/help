@@ -92,7 +92,17 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 In situations where more than one student is involved in a wellbeing case, or more relevant notes are required, it is possible to connect a new **Wellbeing note** to an existing note. Check the title of the existing note(s) beforehand for linking.
 
-1. Navigate to the 
+1. Navigate to the **Wellbeing** landing page.
+2. Click **Create wellbeing note →** on the left tile.
+3. Complete the mandatory fields in the pop-up window.
+4. In the **Linked note** field, begin typing the heading of the relevant wellbeing note. There is a dropdown that will share all the notes containing the same words.
+5. Select the correct note; it is now linked.
+6. To add more linked notes, press the blue square with the white **+**.
+7. To remove an empty linked note space, click on the red waste bin icon.
+
+> **Note:** *To delete a linked note, press the **X** at the end of the search field.*
+
+![Link_Related_Cases_1](./99_Images/link_related_cases_1.png)
 
 ### View details of a wellbeing case
 
