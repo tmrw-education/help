@@ -90,6 +90,10 @@ Student wellbeing encompasses all aspects of a student's life, including happine
 
 ### Link related cases
 
+In situations where more than one student is involved in a wellbeing case, or more relevant notes are required, it is possible to connect a new **Wellbeing note** to an existing note. Check the title of the existing note(s) beforehand for linking.
+
+1. Navigate to the 
+
 ### View details of a wellbeing case
 
 1. Navigate to the **Wellbeing** landing page.
