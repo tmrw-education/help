@@ -148,7 +148,19 @@ When you assign a wellbeing task to yourself, or if another member of staff assi
 
 ### Notification — reminders about open wellbeing cases
 
-### Notification — case resolved/canceled
+### Notification — case resolved/cancelled
+
+If a **Wellbeing** case that you are assigned to is resolved or cancelled by another member of staff. You will receive a message in your notifications.
+
+1. Click the **bell icon**.
+2. In the dropdown, the message will appear with the heading **Wellbeing case resolved** or **Wellbeing case cancelled**.
+3. The note **Title** appears in blue in the message.
+4. Click the **Title** to open the **Wellbeing note**.
+5. The status in the top right corner will be updated to either **Canceled** or **Resolved**.
+
+![Notification_Case_Resolved/Cancelled_1](./99-Images/notification_case_resolved_cancelled_1.png)
+
+![Notification_Case_Resolved/Cancelled_2](./99-Images/notification_case_resolved_cancelled_2.png)
 
 ### Push notifications
 
@@ -158,4 +170,5 @@ When you assign a wellbeing task to yourself, or if another member of staff assi
 > **Note:** *You may have to check your browser security settings to ensure you can receive push notifications.*
 
 ![Push_Notifications_1](./99-Images/push_notifications_1.png)
+
 ---
