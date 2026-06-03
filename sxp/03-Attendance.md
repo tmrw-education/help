@@ -386,7 +386,7 @@ Use this page to track attendance trends across your classes, identify students 
 
 ## Emergency Attendance
 
-When an emergency is triggered, the **Navigation bar** will turn red. All options on the dashboard will be automatically disabled. An **Emergency roll** screen will appear. To the left of the **Staff XP** icon, there are dropdown menus for Attendance and for a Muster Coordinator or Emergency Coordinator (if applicable). Below the **Emergency roll** list, there is a space to add **Students not on roll**. There is a search bar with a dropdown to add any student in your care who is not on the roll.
+When an emergency is triggered, the **Navigation bar** will turn red. All options on the dashboard will be automatically disabled. An **Emergency roll** screen will appear. To the left of the **Staff XP** icon, there are dropdown menus for Attendance and for a Muster Coordinator or Emergency Coordinator (if applicable). Below the **Emergency roll** list, there is a space to add **Students not on roll**. There is a search bar with a dropdown to add any student in your care who is not on the roll. During an emergency, Felix is disabled, all attendance must be done manually.
 
 ### Trigger emergency attendance rolls
 
@@ -428,17 +428,28 @@ In an emergency, the **Navigation bar** will go red. The **Attendance** page wil
 
 ### Gather missing students — muster point
 
-### Action on missing students
+### Action on missing students - Emergency Coordinator
 
-During an emergency, if students are reported missing without an accompanying note, a prompt will appear listing for unaccounted students. 
 
-1. Each student is shown with their name and profile picture.
-2. Next to each student, you can either:
-   - **Add note**
 
 ### View cleared classes
 
-### Reminder: update missing student status
+### Reminder: update missing student status - Teacher
+
+Five minutes after the first emergency attendance, a pop-up window will appear prompting you to update the status of students listed as missing. This prompt **only** appears if students are recorded as **Missing**.
+
+1. Each student, with a profile picture, name and their grade level, is listed in a table.
+2. Next to each student, there are three action options:
+     - **Add note** (100 characters)
+     - **Missing**
+     - **Found**
+3. Even if you added a note, you need to select either **Missing** or **Found**.
+
+> **Note:** *Selecting **Missing** or **Found** causes the student to be hidden from the list.*
+
+4. When all the students in your class are reported found, a success message appears saying "All students in your class have been found."
+
+![Reminder_Update_Missing_Student_Status_1](./99_Images/reminder_update_missing_student_status_1.png)
 
 ### Turn off emergency protocol
 
