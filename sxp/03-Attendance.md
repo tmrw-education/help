@@ -34,7 +34,7 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 4. Use the **Search** field to quickly find a student by name, if needed.
 5. Use the **Filter icon** in the toolbar to narrow the list by alert type. Select one or more alert types, then click **Apply filters**. Click **Reset filters** to clear your selection.
 
-   > **Note:** *Filters help you identify sudents who may need special consideration before marking attendance*.
+   > **Note:** *Filters help you identify students who may need special consideration before marking attendance*.
 
 6. To mark attendance for a student, click the **... button** in their row under the current period column, then select **Present**, **Absent**, or **Late to class**.
 
@@ -63,7 +63,7 @@ Use this feature to view information about a student in your class. You can chec
 2. On the class roll page, click the **student’s name**. The Student Profile page opens, showing the student’s name at the top along with their Student ID, House, and Enrolment Status for quick reference.
 3. Use the tabs across the top to navigate to the information you need:
      - **At a glance**: Student details such as name, date of birth, gender, age, preferred name, nationality, first language, and any attached student documents such as an IEP or medical plan.
-     - **Demographics**: Additional student details including academic year group, roll group, commencement year, residential status, school transport, visa information, and enrolled siblings.
+     - **Demographics**: Additional student details, including academic year group, roll group, commencement year, residential status, school transport, visa information, and enrolled siblings.
      - **Caregivers**: Custody arrangements, emergency contacts, and authorised contacts.
      - **Classroom management**: Learning programmes, including curriculum type, learning mode, and timetable, attendance percentage, and disability and learning difficulties information.
      - **Wellbeing**: Medical details, including condition, medication, care plan, vaccination records, doctor details, and wellbeing details such as special alert notifications.
@@ -455,6 +455,18 @@ Five minutes after the first emergency attendance, a pop-up window will appear p
 
 ### Print current class attendance during emergency
 
+During an emergency, it is possible to print out the class attendance list.
+
+> **Note:** *Online emergency attendance must still be completed.**
+
+1. Above the **Emergency roll** column, there are three icons.
+2. Click the **Printer** icon.
+3. The print menu will open, with a table of the class list in the preview.
+4. Check the printer number and other details.
+5. Press **Print**
+
+![Print_Current_Class_Attendance_During_Emergency_1](./99_Images/print_current_class_attendance_during_emergency_1.png)
+
 ### Add note for emergency attendance
 
 **Note:** *During an emergency, the screen automatically changes to emergency attendance.*
@@ -463,6 +475,8 @@ Five minutes after the first emergency attendance, a pop-up window will appear p
 2. A pop-up will appear. Type in the **Notes about student** text box.
 3. Click **Add note** at the bottom right of the pop-up.
 4. The **Note** will appear below the student's name, with the date and time.
+
+![Add_Note_for_Emergency_Attendance_1](./99-Images/add_note_for_emergencuy_attendance_1.png)
 
 ### View emergency details report
 
