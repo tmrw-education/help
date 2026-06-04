@@ -163,7 +163,7 @@ As the wellbeing situation evolves, or more information becomes available, it is
 7. The note will appear in the **Comment Timeline** tile.
 8. Press the **pencil icon** to edit the note.
 
-**Note:** *When editing a comment, the options are to either save the edits or delete the note entirely.*
+> **Note:** *When editing a comment, the options are to either save the edits or delete the note entirely.*
 
 ![Update_Wellbeing_Note_1](./99-Images/update_wellbeing_note_1.png)
 
