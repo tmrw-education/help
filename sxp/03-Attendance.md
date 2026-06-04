@@ -34,11 +34,12 @@ The Teaching Schedule page shows all the classes you are timetabled to teach for
 4. Use the **Search** field to quickly find a student by name, if needed.
 5. Use the **Filter icon** in the toolbar to narrow the list by alert type. Select one or more alert types, then click **Apply filters**. Click **Reset filters** to clear your selection.
 
-   > **Note:** *Filters help you identify students who may need special consideration before marking attendance*.
+> **Note:** *Filters help you identify students who may need special consideration before marking attendance*.
 
 6. To mark attendance for a student, click the **... button** in their row under the current period column, then select **Present**, **Absent**, or **Late to class**.
 
 To mark the whole class at once **(Bulk roll)**:
+
 7. Click the **dropdown arrow ▼** next to the current period column header, then select **All present** or **All Absent**. Click **Reset** to clear the marking. 
 
 > **Note:** *Use this option when most or all students have the same status, then adjust individual students as needed.*
@@ -105,7 +106,7 @@ Use this feature to correct a student's attendance mark after marking them but b
 3. Select the correct status (e.g. change **Absent** to **Late to class**. The mark updates immediately.
 4. Once all marks are correct, click **Submit**.
 
-> **Note**: Do not navigate away from the roll page before submitting. Leaving without clicking Submit, will lose all marks requiring to take the roll again.
+> **Note**: *Do not navigate away from the roll page before submitting. Leaving without clicking Submit will lose all marks and will require taking the roll again.*
 
 ### Remind me what the alert icons mean
 
@@ -124,7 +125,7 @@ Use Felix, the built-in AI assistant, to mark attendance faster by typing a simp
 5. **Review** the pre-filled marks.
 6. To correct an individual student's mark, click their **current status icon** to cycle through the available options (**Present**, **Absent**, **Late to class**) until the correct status is shown.
 
-> **Note**: *Read-only records set by attendance administrtaors cannot be overridden by Felix*.
+> **Note**: *Read-only records set by attendance administrators cannot be overridden by Felix*.
 
 7. Click **Submit** in the Felix panel. Felix confirms: "Student attendance updated successfully." 
 
@@ -472,7 +473,7 @@ Five minutes after the first emergency attendance, a pop-up window will appear p
 
 During an emergency, it is possible to print out the class attendance list.
 
-> **Note:** *Online emergency attendance must still be completed.**
+> **Note:** *Online emergency attendance must still be completed.*
 
 1. Above the **Emergency roll** column, there are three icons.
 2. Click the **Printer** icon.
