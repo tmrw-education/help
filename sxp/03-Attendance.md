@@ -200,11 +200,11 @@ StaffXP automatically prompts you to complete any outstanding attendance. The re
 1. Click **Attendance** in the top navigation bar.
 2. Scroll down to the table and click **Class rolls**.
 3. Review the table, which shows the following information for each class:
-     - Class name – sorted alphabetically by default
-     - Teacher – the full name of the assigned teacher
-     - Year – the year group
-     - #of students – the total number of students enrolled in the class
-     - Action – a View roll link to open the class attendance page
+     - Class name &dash; sorted alphabetically by default
+     - Teacher &dash; the full name of the assigned teacher
+     - Year &dash; the year group
+     - #of students &dash; the total number of students enrolled in the class
+     - Action &dash; a View roll link to open the class attendance page
 4. To filter by date range, set the **Start date** and **End date** fields at the top of the table. Click **Reset** to clear the filters. 
 
 > **Note**: *The table defaults to the current week when it first loads*.    
@@ -240,8 +240,8 @@ Use this feature to monitor unresolved attendance records across your school fro
 2. Scroll down to the table and click **Unresolved attendance** tab. The table displays all students with unresolved absences or late arrivals, showing their name, year group, status, session, primary contact, and action.
 3. To search for a specific student, click the **Search** icon at the top of the table.
 4. To filter the table, click the **Filter** icon, select one or more of the following criteria, then click **Apply filters**:
-      - Year – filter by year group
-      - Status – filter by **Late** or **Absent**
+      - Year &dash; filter by year group
+      - Status &dash; filter by **Late** or **Absent**
 
 > **Note**: *Click **Reset filters** to clear selected options*. 
 
@@ -327,9 +327,9 @@ Use this page to review and action teacher-submitted attendance correction reque
 4. To filter the table, use the **Date** and **Status** filters.
 5. Find the request you want to action and review the relevant details, such as the student, class, date, current code, requested correction, and request status.
 6. Use the **Action** column based on the request status:
-     - Pending – select Approve or reject
-     - Approved – no available action
-     - Rejected – click the comment icon to veiw the rejection reason
+     - Pending &dash; select Approve or reject
+     - Approved &dash; no available action
+     - Rejected &dash; click the comment icon to veiw the rejection reason
 7. To approve a request, click **Approve** in the **Action** column. The status updates to **Approved** and a success toast message appears.
 8. To reject a request, click **Reject** in the **Action** column. A modal opens and asks you to enter a denial reason.
 9. Type the reason in the **text field**, then click **Submit**. The status updates to Denied and a success toast message appears.
@@ -364,18 +364,18 @@ Use this page to track attendance trends across your classes, identify students 
 > **Note**: *Felix AI generates the flagged students list based on the attendance threshold set by your school*. 
 
 4. Review the three summary tiles below the alert banner:
-     - **Attendance rate** –– the overall attendance rate across your classes, compared to the previous term.
-     - **Absent today** –– the number of students absent today, compared to yesterday.
-     - **Late arrivals** –– the total number of late arrivals, compared to the previous term.
+     - **Attendance rate** &dash; the overall attendance rate across your classes, compared to the previous term.
+     - **Absent today** &dash; the number of students absent today, compared to yesterday.
+     - **Late arrivals** &dash; the total number of late arrivals, compared to the previous term.
 5. Use the **By class** dropdown on the right to filter all charts by a specific class, or leave it set to **All classes**.
 6. Review the three charts:
-     - **Attendance trend this term** –– a line graph showing weekly attendance across the term.
-     - **Absence timing trends** –– a bar chart showing when absences most commonly occur, such as Mondays, Fridays, the first day of term, morning, or afternoon.
-     - **Absence by day** –– a bar chart showing which days of the week have the highest absence rates.
+     - **Attendance trend this term** &dash; a line graph showing weekly attendance across the term.
+     - **Absence timing trends** &dash; a bar chart showing when absences most commonly occur, such as Mondays, Fridays, the first day of term, morning, or afternoon.
+     - **Absence by day** &dash; a bar chart showing which days of the week have the highest absence rates.
 7. Use the action icons in the top-right corner of each chart:
-     - **List icon (≡)** –– view the chart data as a table.
-     - **Expand icon (⤢)** –– view the chart in fullscreen.
-     - **⋮ menu** –– export the chart data as CSV, PNG, or JPG.
+     - **List icon (≡)** &dash; view the chart data as a table.
+     - **Expand icon (⤢)** &dash; view the chart in fullscreen.
+     - **⋮ menu** &dash; export the chart data as CSV, PNG, or JPG.
 8. Scroll down to the table section to view students' details.
 9. Use the **Search students field** above the table to find a specific student. The table updates dynamically as you type.
 10. Use the pagination controls at the bottom of the table to move between pages.
@@ -397,19 +397,19 @@ Use this page to review emergency attendance performance data across all past em
 1. Click the **hamburger menu (☰)** in the left corner of the navigation bar.
 2. Select **Emergency analytics** to open the page.
 3. Review the two summary tiles at the top of the page: 
-     - **Avg time to clear classes** –– shows the average time it took all classes to complete their emergency roll, with a trend indicator and percentage change compared to the last emergency
-     - **Avg time to mark attendance** –– shows the average time it took teachers to mark emergency attendance, with a trend indicator and percentage change compared to the last emergency
+     - **Avg time to clear classes** &dash; shows the average time it took all classes to complete their emergency roll, with a trend indicator and percentage change compared to the last emergency
+     - **Avg time to mark attendance** &dash; shows the average time it took teachers to mark emergency attendance, with a trend indicator and percentage change compared to the last emergency
 
 **Note**: *A green upward arrow indicates the metric has improved. A red downward arrow indicates it has worsened*. 
 
 4. Review the two charts below the tiles: 
-     - **Emergency per term** –– shows the trend of the total number of emergencies across each term over time
-     - **Emergency per term by type** –– shows the count of each emergency type (e.g., Drill, Fire, Gas leak) for the current term
+     - **Emergency per term** &dash; shows the trend of the total number of emergencies across each term over time
+     - **Emergency per term by type** &dash; shows the count of each emergency type (e.g., Drill, Fire, Gas leak) for the current term
 5. Scroll down to the Emergency table to view all the past emergency events for the current academic year, most recent first:
-     - **Reason** –– the type of emergency
-     - **Date** –– the date the emergency occurred
-     - **Clear time** –– the time it took to clear all classes
-     - **Report** –– a report link to open the emergency details page for that event
+     - **Reason** &dash; the type of emergency
+     - **Date** &dash; the date the emergency occurred
+     - **Clear time** &dash; the time it took to clear all classes
+     - **Report** &dash; a report link to open the emergency details page for that event
 6. To filter the table by emergency type, click the **Filter icon**. Select one or more emergency types, then click **Apply filters**. Click **Reset filters** to clear your selection and return to the default view.
 7. To search for a specific emergency, click the **Search icon** above the table.
 8. To open a full emergency report, click **Full report** in the Report column for the event you want to review. 
@@ -424,8 +424,8 @@ Use this page to review emergency attendance performance data across all past em
      - Use the **Search icon** to find a specific student.
      - Click **Print icon** to print the table.
 11. Review the **Comparing daily and emergency attendance panel** on the right side of the page:
-     - Marked absent –– present at emergency shows students who were marked absent in their regular roll but were accounted for during the emergency.
-     - Marked present –– absent at emergency shows students who were marked present in their regular roll but were missing during the emergency.
+     - Marked absent &dash; present at emergency shows students who were marked absent in their regular roll but were accounted for during the emergency.
+     - Marked present &dash; absent at emergency shows students who were marked present in their regular roll but were missing during the emergency.
 12. Scroll down to the **Muster points table** which includes muster points, coordinator, and time taken.
      - Use the **Search icon** to find a specific muster point. 
      - Click the **Print icon** to print the table. 
