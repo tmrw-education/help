@@ -397,23 +397,38 @@ Use this page to review emergency attendance performance data across all past em
 1. Click the **hamburger menu (☰)** in the left corner of the navigation bar.
 2. Select **Emergency analytics** to open the page.
 3. Review the two summary tiles at the top of the page: 
-     - **Avg time to clear classes** – shows the average time it took all classes to complete their emergency roll, with a trend indicator and percentage change compared to the last emergency
-     - **Avg time to mark attendance** – shows the average time it took teachers to mark emergency attendance, with a trend indicator and percentage change compared to the last emergency
+     - **Avg time to clear classes** –– shows the average time it took all classes to complete their emergency roll, with a trend indicator and percentage change compared to the last emergency
+     - **Avg time to mark attendance** –– shows the average time it took teachers to mark emergency attendance, with a trend indicator and percentage change compared to the last emergency
 
 **Note**: *A green upward arrow indicates the metric has improved. A red downward arrow indicates it has worsened*. 
 
 4. Review the two charts below the tiles: 
-     - **Emergency per term** – shows the trend of the total number of emergencies across each term over time
-     - **Emergency per term by type** – shows the count of each emergency type (e.g., Drill, Fire, Gas leak) for the current term
+     - **Emergency per term** –– shows the trend of the total number of emergencies across each term over time
+     - **Emergency per term by type** –– shows the count of each emergency type (e.g., Drill, Fire, Gas leak) for the current term
 5. Scroll down to the Emergency table to view all the past emergency events for the current academic year, most recent first:
-     - **Reason** – the type of emergency
-     - **Date** – the date the emergency occurred
-     - **Clear time** – the time it took to clear all classes
-     - **Report** – a report link to open the emergency details page for that event
+     - **Reason** –– the type of emergency
+     - **Date** –– the date the emergency occurred
+     - **Clear time** –– the time it took to clear all classes
+     - **Report** –– a report link to open the emergency details page for that event
 6. To filter the table by emergency type, click the **Filter icon**. Select one or more emergency types, then click **Apply filters**. Click **Reset filters** to clear your selection and return to the default view.
 7. To search for a specific emergency, click the **Search icon** above the table.
-8. To open a full emergency report, click **Full report** in the Report column for the event you want to review. The Emergency Details page opens showing the emergency case reference and date at the top.
+8. To open a full emergency report, click **Full report** in the Report column for the event you want to review. 
+9. Review the summary tiles on the Emergency Details page:
+     - **Avg time to clear classes** shows the average time it took all classes to complete their emergency roll for that event.
+     - **Avg time to mark attendance** shows the average time it took teachers to mark emergency attendance.
+     - **Avg time to clear muster points** shows the average time it took coordinators to clear all muster points.
 
+**Note**: *Each tile includes a trend indicator and percentage change compared to the previous emergency*.
+
+10. Review the Emergency attendance table showing the time taken by each teacher to mark emergency attendance for their class.  
+     - Use the **Search icon** to find a specific student.
+     - Click **Print icon** to print the table.
+11. Review the **Comparing daily and emergency attendance panel** on the right side of the page:
+     - Marked absent –– present at emergency shows students who were marked absent in their regular roll but were accounted for during the emergency.
+     - Marked present –– absent at emergency shows students who were marked present in their regular roll but were missing during the emergency.
+12. Scroll down to the **Muster points table** which includes muster points, coordinator, and time taken.
+     - Use the **Search icon** to find a specific muster point. 
+     - Click the **Print icon** to print the table. 
 
 ### Teacher emergency roll taking
 
