@@ -85,15 +85,15 @@ You can plan for school activities and manage resources on the **Activities** pa
 
 This is the main space to monitor and support student wellbeing. Here you can create and track wellbeing notes. There are seven wellbeing metrics that display the different categories or trends of wellbeing notes.
 
-### Extracurricular Activities
+### Extra-curricular Activities
 
-This is the landing page for all extracurricular activities. Here, you can plan, browse, and create new extracurricular activities. There is a calendar to track all activities and their dates.
+This is the landing page for all extra-curricular activities. Here, you can plan, browse, and create new extra-curricular activities. There is a calendar to track all activities and their dates.
 
-1. Click the **Extra curricular** tab in the **Navigation bar**.
+1. Click the **Extra-curricular** tab in the **Navigation bar**.
 2. There are two tiles below the heading.
-   - **Request extra curricular** allows you to request the creation of a new extracurricular activity.
    - **Extra-curricular calendar** displays a calendar of when different activities occur.
-3. Below the tiles, there is a small navigation bar with tabs for **Extra-curricular request**, **Booking status**, **All extra-curricular** and **Staffing** to follow up and track activities.
+   - **Request extra-curricular** allows you to request the creation of a new extracurricular activity.
+4. Below the tiles, there is a small navigation bar with tabs for **Extra-curricular request**, **Booking status**, **All extra-curricular** and **Staffing** to follow up and track activities.
    - Each tab has a search and filter function to streamline searches.
 
 ### Operations (Finance, Budget)
@@ -192,7 +192,7 @@ In the **Settings**, you can manage the appearance of your platform according to
 9. There is a **Reset all** icon in red at the top right corner of the screen. Selecting this will restore all settings to their defaults.
 10. A different prompt will ask if you are sure you wish to reset the settings.
 
-> **Note:** *The Notifications tab will have an on/off option for receiving push notifications*.
+> **Note:** *The Notifications tab has an on/off toggle to enable or disable push notifications*.
 
 ![Settings_1](./99-Images/settings_1§.png)
 
@@ -208,9 +208,9 @@ Your **Profile** page contains all your personal, professional, and work informa
 
 ![Profile_1](./99-Images/profile_1.png)
 
-### Logout
+### Sign Out
 
-To logout or sign out means to successfully close or end your session on the device. You will need to use your credentials to sign in again after a Logout. It is recommended to logout of your account if there is more than one user on the same computer. 
+To log out or sign out means to successfully close or end your session on the device. You will need to sign in again with your credentials after signing out. It is recommended to log out of your account if multiple users are on the same computer. 
 
 1. Click the **User** icon.
 2. Scroll to the last option on the dropdown and click **Sign Out**.
