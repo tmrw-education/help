@@ -59,20 +59,20 @@
 > **Note:** *You can only edit a notice that you have created.*
 
 1. In the **Notices** tab, click **Manage notices**.
-2. There are two tiles, **Active notices** and **Scheduled notices**, that can help you find the notice to edit faster. Clicking either tile can lead you to your notices.
-3. Below the tiles is a list of all notices you have created. Click the **Search** or **Filter** icons to find the notice to edit (if needed).
-4. There are two ways to edit a notice:
-   - Click the notice heading.
-   - On the right side of the notice, there is a **pencil icon**. Click the icon to edit.
-5. Make the edits as needed in the **Edit notice details** pop-up.
-
-> **Note:** *As with creating the notice, you can also edit the **Audience type** and **Visibility** of the notice.*
-
+2. Find the notice you want to edit.
+> **Note:** *You can filter your notices via the **Active notices** and **Scheduled notices** tile.*
+3. Click **edit icon**.
+4. Expand the appropriate sections to edit the notice.
+5. Make the edits as needed.
 6. Click **Save changes**.
 
 ![Edit_a_Notice_1](./99-Images/edit_a_notice_1.png)
 
 ![Edit_a_Notice_2](./99-Images/edit_a_notice_2.png)
+
+![Edit_a_Notice_3](./99-Images/edit_a_notice_3.png)
+
+![Edit_a_Notice_4](./99-Images/edit_a_notice_4.png)
 
 ### View user-created notices
 
