@@ -165,8 +165,6 @@ As the wellbeing situation evolves, or more information becomes available, it is
 
 ![Update_Wellbeing_Note_4](./99-Images/update_wellbeing_note_4.png)
 
-![Update_Wellbeing_Note_5](./99-Images/update_wellbeing_note_5.png)
-
 ### Update existing wellbeing task
 
 For each **Wellbeing** note, you can assign follow-up tasks for yourself or other members of staff. One member of staff can be assigned per task.
