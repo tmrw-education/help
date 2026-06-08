@@ -146,28 +146,26 @@ In situations where more than one student is involved in a wellbeing case, or mo
 
 ### Update existing note
 
-As the wellbeing situation evolves, or more information becomes available, it is possible to add supplementary notes to the existing **wellbeing note**.
+As the wellbeing situation evolves, or more information becomes available, it is possible to add supplementary comments to the existing **wellbeing note**.
 
-1. Navigate to the relevant note from the **Wellbeing** landing page ▸ **Track and resolve notes →**.
+1. Navigate to the relevant note from the **Wellbeing** landing page ▸ **Track my notes**.
 2. Select the relevant note.
-3. On the middle tile, **Comment timeline**, click on the blue square with the white **+**.
-4. A pop-up window will open to **Create a new note**.
-5. Fill in the mandatory fields (indicated with an asterisk *).
-      - Add a **Title** (100 characters).
-      - Add **Notes** (250 characters).
-6. There is an option to upload supporting documents (up to 10MB).
-7. The **Save** button is enabled when all the mandatory fields are complete. Click **Save**.
-
-> **Note:** *After successfully saving, a pop-up message will appear in the top right corner confirming the note addition.*
-
-7. The note will appear in the **Comment Timeline** tile.
-8. Press the **pencil icon** to edit the note.
-
-> **Note:** *When editing a comment, the options are to either save the edits or delete the note entirely.*
+3. In the middle **Comments** tile, click the **+**.
+4. Fill in the fields for the comment.
+6. Upload supporting documents if required.
+7. Click **Save**.
+7. The note will appear in the **Comments** tile.
+8. To edit an existing comment, press the **pencil icon** to edit the note.
 
 ![Update_Wellbeing_Note_1](./99-Images/update_wellbeing_note_1.png)
 
 ![Update_Wellbeing_Note_2](./99-Images/update_wellbeing_note_2.png)
+
+![Update_Wellbeing_Note_3](./99-Images/update_wellbeing_note_3.png)
+
+![Update_Wellbeing_Note_4](./99-Images/update_wellbeing_note_4.png)
+
+![Update_Wellbeing_Note_5](./99-Images/update_wellbeing_note_5.png)
 
 ### Update existing wellbeing task
 
