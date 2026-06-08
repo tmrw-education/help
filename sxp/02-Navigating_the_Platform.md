@@ -17,12 +17,12 @@ The **Navigation bar** runs across the top of the screen at all times.
 
 1. Click on any of the headings or **navigation links** to access the relevant page.
 2. **StaffXP** is the landing, home page, also known as the **MyDay** page.
-3. On the far left, there is a menu icon where there are links to **training**, **websites**, **reporting** and **administration**.
+3. On the far left, there is a menu icon where there are links to **training**, **reporting** and **administration**.
 4. To the right of **StaffXP**, there are navigation links for **Attendance**, **Notices**, **Extra curricular**, **Wellbeing** and **T&L**.
-5. At the far right of the screen, there are icons for **Search**, **Notifications** and **User**.
+5. At the far right of the screen, there are icons for **Search**, **Notifications** and **User menu**.
 6. The **Search** icon opens up a search bar to search for pages or students.
-7. The **Notifications** open up into a menu, and can be organised into **Messages**, **Alerts** or **Favourites**.
-8. Under the **User** icon, a menu appears where you can change the pages to appear in dark mode, view your profile, edit settings or sign out.
+7. The **Notifications bell icon** opens up into a menu, and is organised into **Messages** or **Alerts**.
+8. Under the **User** icon, a menu appears where you can change the theme, view your profile, edit settings or sign out.
 
 ![Navigation_Bar_1](./99-Images/navigation_bar_1.png)
 
@@ -55,8 +55,8 @@ For Administrators/School Leaders:
 The **Notices** page displays upcoming and relevant notices to you. You can create and manage notices, and filter them by your interests.
 
 1. Navigate to the **Notices** page, through the **Navigation bar**.
-2. Along the top-right of the screen is a dropdown menu to select relevant **Interests** by category.
-3. There are options to **create notice** or **Manage notices**.
+2. There are options to **create notice** or **Manage notices**.
+3. Along the top-right of the screen is a dropdown menu to select relevant **Interests** by category.
 4. **Featured notices** appear per day.
 5. The interests are displayed below the featured notices as tiles. They can also be viewed by filtering into categories.
 
@@ -72,7 +72,7 @@ You can plan for school activities and manage resources on the **Activities** pa
 > **Note:** *Click the text or arrow on the lower right of each tile to navigate to another page to complete the request.*
 
 3. In the navigation bar below the tiles:
-   - **Activity requests**: this shows a list of pending or approved activity requests.
+   - **Your requests**: this shows a list of pending or approved activity requests.
    - **Booking status**: this provides a list of the resource bookings and the required quantities.
    - **All venues**: is a list of approved or previously visited venues for school activities.
    - **Parent volunteers**: includes a list of all the parent volunteers who could support with school activities.
@@ -91,9 +91,9 @@ This is the landing page for all extra-curricular activities. Here, you can plan
 
 1. Click the **Extra-curricular** tab in the **Navigation bar**.
 2. There are two tiles below the heading.
+   - **Request an extra-curricular activity** allows you to request the creation of a new extracurricular activity.
    - **Extra-curricular calendar** displays a calendar of when different activities occur.
-   - **Request extra-curricular** allows you to request the creation of a new extracurricular activity.
-4. Below the tiles, there is a small navigation bar with tabs for **Extra-curricular request**, **Booking status**, **All extra-curricular** and **Staffing** to follow up and track activities.
+4. Below the tiles, there is a small navigation bar with tabs for **Your request**, **Booking status**, **Supervising activities** and **Staffing** to follow up and track activities.
    - Each tab has a search and filter function to streamline searches.
 
 ### Operations (Finance, Budget)
