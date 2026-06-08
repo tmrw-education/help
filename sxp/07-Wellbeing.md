@@ -154,7 +154,6 @@ As the wellbeing situation evolves, or more information becomes available, it is
 4. Fill in the fields for the comment.
 6. Upload supporting documents if required.
 7. Click **Save**.
-> **Note:** Your comment will appear in the **Comments** tile.
 8. To edit an existing comment, press the **pencil icon** to edit the note.
 
 ![Update_Wellbeing_Note_1](./99-Images/update_wellbeing_note_1.png)
