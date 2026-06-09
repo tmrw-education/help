@@ -12,9 +12,9 @@ const config: Config = {
   },
 
   url: 'https://tmrw-education.github.io',
-  baseUrl: '/product/',
+  baseUrl: '/help/',
   organizationName: 'tmrw-education',
-  projectName: 'product',
+  projectName: 'help',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
@@ -53,7 +53,7 @@ const config: Config = {
         routeBasePath: 'sxp',
         sidebarPath: './sidebars.ts',
         exclude: ['**/README.md', '**/.DS_Store', '**/*.pdf', '**/99-Images/README.md'],
-        editUrl: 'https://github.com/tmrw-education/product/edit/main/',
+        editUrl: 'https://github.com/tmrw-education/help/edit/main/',
       },
     ],
     [
@@ -64,7 +64,7 @@ const config: Config = {
         routeBasePath: 'ess',
         sidebarPath: './sidebars.ts',
         exclude: ['**/README.md', '**/.DS_Store', '**/*.pdf', '**/99-Images/README.md'],
-        editUrl: 'https://github.com/tmrw-education/product/edit/main/',
+        editUrl: 'https://github.com/tmrw-education/help/edit/main/',
       },
     ],
     [
@@ -75,7 +75,7 @@ const config: Config = {
         routeBasePath: 'fo',
         sidebarPath: './sidebars.ts',
         exclude: ['**/README.md', '**/.DS_Store', '**/*.pdf', '**/99-Images/README.md'],
-        editUrl: 'https://github.com/tmrw-education/product/edit/main/',
+        editUrl: 'https://github.com/tmrw-education/help/edit/main/',
       },
     ],
     [
@@ -86,7 +86,7 @@ const config: Config = {
         routeBasePath: 'pxp',
         sidebarPath: './sidebars.ts',
         exclude: ['**/README.md', '**/.DS_Store', '**/*.pdf'],
-        editUrl: 'https://github.com/tmrw-education/product/edit/main/',
+        editUrl: 'https://github.com/tmrw-education/help/edit/main/',
       },
     ],
     [
@@ -97,7 +97,7 @@ const config: Config = {
         routeBasePath: 'lxp',
         sidebarPath: './sidebars.ts',
         exclude: ['**/README.md', '**/.DS_Store', '**/*.pdf'],
-        editUrl: 'https://github.com/tmrw-education/product/edit/main/',
+        editUrl: 'https://github.com/tmrw-education/help/edit/main/',
       },
     ],
   ],

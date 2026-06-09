@@ -9,31 +9,31 @@ const apps = [
     id: 'sxp',
     name: 'StaffXP',
     description: 'Day-to-day tools for teachers, admin, and school leaders.',
-    href: '/product/sxp',
+    href: '/help/sxp',
   },
   {
     id: 'ess',
     name: 'Employee Self-Service',
     description: 'HR tasks for all staff — leave, benefits, documents, and more.',
-    href: '/product/ess',
+    href: '/help/ess',
   },
   {
     id: 'fo',
     name: 'Finance & Operations',
     description: 'Billing, fees, and financial management for bursars and accountants.',
-    href: '/product/fo',
+    href: '/help/fo',
   },
   {
     id: 'pxp',
     name: 'Parent Experience',
     description: 'Everything parents need — notices, attendance, and communication.',
-    href: '/product/pxp',
+    href: '/help/pxp',
   },
   {
     id: 'lxp',
     name: 'Learner Experience',
     description: 'Help for students using the tmrw learner platform.',
-    href: '/product/lxp',
+    href: '/help/lxp',
   },
 ];
 
