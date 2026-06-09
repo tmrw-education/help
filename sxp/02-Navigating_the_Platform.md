@@ -17,8 +17,8 @@ The **Navigation bar** runs across the top of the screen at all times.
 
 1. Click on any of the headings or **navigation links** to access the relevant page.
 2. **StaffXP** is the landing, home page, also known as the **MyDay** page.
-3. On the far left, there is a menu icon where there are links to **training**, **reporting** and **administration**.
-4. To the right of **StaffXP**, there are navigation links for **Attendance**, **Notices**, **Extra curricular**, **Wellbeing** and **T&L**.
+3. On the far left, there is a menu icon where there are links to **Training**, **Reporting** and **Administration**.
+4. To the right of **StaffXP**, there are navigation links for **Attendance**, **Notices**, **Wellbeing** and **Extra curricular**.
 5. At the far right of the screen, there are icons for **Search**, **Notifications** and **User menu**.
 6. The **Search** icon opens up a search bar to search for pages or students.
 7. The **Notifications bell icon** opens up into a menu, and is organised into **Messages** or **Alerts**.
