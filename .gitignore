@@ -1,0 +1,12 @@
+# Docusaurus build output
+.docusaurus/
+build/
+
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
