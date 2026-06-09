@@ -107,7 +107,7 @@ This is the landing page for all extra-curricular activities. Here, you can plan
 
 ## MyDay Tiles
 
-MyDay is the platform's main landing page and homescreen. When in other pages, return to the MyDay page by clicking the **Staff XP** tab in the **Navigation bar**. The MyDay tiles display information relevant to the day, including Today's schedule, Assignments to mark and a To-Do list. You can also view voicemails, Canteen specials, and track your professional learning. Finally, there is a tile displaying communication analytics.
+MyDay is the platform's main landing page and homescreen. When in other pages, return to the MyDay page by clicking the **Staff XP** tab in the **Navigation bar**. The MyDay tiles display information relevant to the day, including Today's schedule, Assignments to mark and a To-Do list. You can also view notices, this week's birthdays, and open wellbeing tasks. Also, there is a **Quick links** tile for quick access to Employee self-service, Topics and FAQs, and to View markbook.
 
 ### Adaptive User Interface
 
@@ -125,7 +125,9 @@ Running lengthways on the left side of the screen is **Today's schedule**. There
 
 ![MyDay_School_Calendar_1](./99-Images/myday_school_calendar_1.png)
 
-### Timetable + Outlook Calendar
+### Timetable 
+
+The timetable of classes for today shows as a banner running across the screen. There is a red line indicator to mark the time and the active class. After the class time has passed, the text fades to grey and the word DONE appears next to the time. 
 
 ### Canteen Specials
 
@@ -135,7 +137,7 @@ Daily updates from the school canteen show in the **Canteen specials** tile. The
 
 ### Microsoft To Do
 
-The **To-Do list** tile links to **Microsoft Planner**. It shows a summary of upcoming tasks.
+The **To do list** tile links to **Microsoft ToDo**. It shows a summary of upcoming tasks and their due dates.
 
 ![To-Do_List_1](./99-Images/to_do_list_1.png)
 
@@ -147,6 +149,12 @@ The **Professional learning** tile shows the number of hours of professional lea
 
 ### Employee Self-Service (ESS)
 
+Employee Self-Service (ESS) is an area where the user can...
+
+Click **Employee self-service** in the **Quick links** tile to access the page.
+
+![Employee_Self-Service_1](./99-Images/employee_self_service_1.png)
+
 ---
 
 ## User Menu & Settings
@@ -154,48 +162,43 @@ The **Professional learning** tile shows the number of hours of professional lea
 The User Menu is where you can personalise the platform to best suit your needs and optimise workflow. 
 
 1. Click the **User** button (shaped like the silhouette of a person).
-2. A dropdown menu will show options to change between light/dark mode, a **Profile** section, **Settings** and the option to **Sign Out**.
+2. A dropdown menu will show options to change the Theme (from light to dark mode), a **Profile** section, **Settings** and the option to **Sign Out**.
 
 ![User_Menu_and_Settings_1](./99-Images/user_menu_and_settings_1.png)
 
 ### Options
 
-### Dark/ Light Mode
+### Theme
 
-Dark/light mode affects screen displays. Light mode uses a light background with dark text. Dark mode shows a dark background with light text. It may be easier to use light mode in bright light and dark mode in dim light. However, this is entirely up to the user's preferences and comfort.
+The **Theme** settings affect screen displays. Light mode uses a light background with dark text. Dark mode shows a dark background with light text. Subtle light and subtle dark are tones between light and dark. It may be easier to use light mode in bright light and dark mode in dim light. However, this is entirely up to the user's preferences and comfort.
 
 1. Click the **User** icon.
-2. The dropdown menu will show either **Dark Mode** or **Light Mode** as the first option on the list.
-
-> **Note:** *If in light mode, the menu will only show **Dark Mode** as an option. The opposite will occur if the setting is in dark mode.*
-   
-4. Select the option, and the change will occur instantly.
+2. The dropdown menu will show four boxes in a row below the heading **Theme**, showing light to dark mode.   
+3. Select the option, and the change will occur instantly.
 
 ![Dark_Light_Mode_1](./99-Images/dark_light_mode_1.png)
 
 ![Dark_Light_Mode_2](./99-Images/dark_light_mode_2.png)
 
+![Dark_Light_Mode_3](./99-Images/dark_light_mode_3.png)
+
+![Dark_Light_Mode_4](./99-Images/dark_light_mode_4.png)
+
 ### Appearance Settings
 
-In the **Settings**, you can manage the appearance of your platform according to your preferences. You can also manage whether to receive push notifications.
+In the **Settings**, you can manage the appearance of your platform according to your preferences. You can also manage accessibility and whether to receive push notifications.
 
 1. Click the **User** icon ▸ **Settings**.
-2. There are two tabs in **Settings**, **Appearance** and **Notifications**. The **Appearance** tab will be automatically selected.
-3. Here you can edit the theme, chat position and width (this refers to the Felix chatbox) and the font size.
-4. To change the **Theme**, click on the dropdown arrow. You can select between **Auto (system)**, **Dark** or **Light**.
+2. There are two tabs below **Appearance**, **Theme** and **Font size**.
+3. To change the **Theme**, click on the dropdown arrow. You can select between **Light**, **subtle light**, **subtle dark** and **Dark**.
+4. Selecting the dropdown menu below the **Font size** heading allows you to choose between **Small**, **Medium** or **Large** fonts. These will reflect throughout the platform.
+5. **Accessibility** has **on/off** toggles for **High contrast mode** and **Reduced motion**.
+6. Enable or disable push notifications in **Notifications** with an **on/off** toggle.
+7. After making any changes to the settings, an option to **Save changes** or **Cancel** appears at the top right of the screen. 
 
->**Note:** ***Auto (system)** will match the system settings you have on your device.*
+![Settings_1](./99-Images/settings_1.png)
 
-5. A prompt will appear asking whether you wish to **Save changes** or **Cancel**. This applies to any changes to the Settings.
-6. You can change the Felix **Chat position** from **Right** to **Left**.
-7. By pressing the **+** or **-** signs under the **Chat width (px)** heading, you can change the width of the Felix chatbox.
-8. Selecting the dropdown menu below the **Font size** heading allows you to choose between **Small**, **Medium** or **Large** fonts. These will reflect throughout the platform.
-9. There is a **Reset all** icon in red at the top right corner of the screen. Selecting this will restore all settings to their defaults.
-10. A different prompt will ask if you are sure you wish to reset the settings.
-
-> **Note:** *The Notifications tab has an on/off toggle to enable or disable push notifications*.
-
-![Settings_1](./99-Images/settings_1§.png)
+![Settings_2](./99-Images/settings_2.png)
 
 ### Profile
 
@@ -220,5 +223,11 @@ To log out or sign out means to successfully close or end your session on the de
 ![Logout_1](./99-Images/logout_1.png)
    
 ### Accessibility Settings
+
+These are found in the **Settings** section of the **User** menu. There are options to toggle each setting **on/off**.
+   - **High contrast mode** is a feature to support users with visual difficulties or impairments. Here, the colours change, and the platform interfaces are simplified to maximise legibility.
+   - **Reduced motion mode** minimises or reduces animations throughout the platform. This feature is designed to reduce eye strain, headaches, and motion sickness for users with vestibular disorders.
+
+![Accessibility_Settings_1](./99-Images/accessibility_settings_1.png)
 
 ---
