@@ -6,9 +6,21 @@
 
 ### Activity coordinator — view all activities
 
+1. Navigate to the **Activities** tab in the **Navigation bar**.
+2. Scroll below the tiles to **All activities**.
+
 ### Activity coordinator — approve all activities
 
 ### Teacher — view activity requests
+
+1. Navigate to the **Activities** tab in the **Navigation bar**.
+2. Scroll below the tiles to **Your requests**.
+3. All the activity requests are displayed. Check the **Status** in the column on the right.
+4. Draft requests can be edited or deleted by clicking the appropriate icon.
+
+> **Note:** *Each status is colour-coded for quick visual search.*
+
+![Teacher_View_Activity_Requests_1](./99-Images/teacher_view_activity_requests_1.png)
 
 ### View all activities in calendar format
 
