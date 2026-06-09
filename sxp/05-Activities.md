@@ -12,7 +12,20 @@
 
 ### View all activities in calendar format
 
+1. Select **Activities** from the **Navigation bar**.
+2. Select **View Calendar →** from the middle tile Calendar view.
+3. At the top right of the calendar, you can view activities for the **Month** or the **Week**.
+4. At the top left of the calendar, there are arrow keys to view the **Previous** or **Next** month (or week if selected).
+
+![View_All_Activities_in_Calendar_Format_1](./99-Images/view_all_activities_in_calendar_format_1.png)
+
 ### View approved venues
+
+1. Navigate to the **Activities** page.
+2. Below the tiles, in the small **Navigation bar**, select **All venues**.
+3. The list of approved venues appears below. There are **Search** and **Filter** functions to streamline the search.
+
+![View_Approved_Venues_1](./99-Images/view_approved_venues_1.png)
 
 ### Request a new venue
 
@@ -27,6 +40,12 @@
 ![Request_a_Venue_1](./99-Images/request_a_venue_1.png)
 
 ### Duplicate a previous approved activity
+
+1. Navigate to the **Activities** tab ▸ **Your requests**.
+2. Click the **filter icon** on the left. Filter for **Approved** activities.
+3. Click **Apply**.
+4. Click the **Copy icon** (Replicate) to the right of the **Status** column.
+5. 
 
 ### Request an activity
 
