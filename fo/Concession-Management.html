@@ -1,0 +1,306 @@
+<!doctype html><html lang=en dir=ltr class="docs-wrapper plugin-docs plugin-id-fo docs-version-current docs-doc-page docs-doc-id-Concession-Management" data-has-hydrated=false><head><meta charset=UTF-8><meta name=generator content="Docusaurus v3.10.1"><title data-rh=true>Concession Management | tmrw Help</title><meta data-rh=true name=viewport content="width=device-width, initial-scale=1.0"/><meta data-rh=true name=twitter:card content=summary_large_image /><meta data-rh=true property=og:url content=https://tmrw-education.github.io/product/fo/Concession-Management /><meta data-rh=true property=og:locale content=en /><meta data-rh=true name=docusaurus_locale content=en /><meta data-rh=true name=docsearch:language content=en /><meta data-rh=true name=docusaurus_version content=current /><meta data-rh=true name=docusaurus_tag content=docs-fo-current /><meta data-rh=true name=docsearch:version content=current /><meta data-rh=true name=docsearch:docusaurus_tag content=docs-fo-current /><meta data-rh=true property=og:title content="Concession Management | tmrw Help"/><meta data-rh=true name=description content="Concession Management handles the configuration and application of scholarships, discounts, and staff concessions across the fee management system. Scholarship and discount codes are created, linked to fee items and students, and moved through an approval workflow before taking effect. Staff concessions are managed through dedicated charge codes in the auto charges table, with separate discount codes configured for each concession type. Applied discounts can be reviewed directly against fee schedule batches once invoices are generated. For high-volume setup, bulk import of scholarship and discount records is supported through the Microsoft Excel add-in."/><meta data-rh=true property=og:description content="Concession Management handles the configuration and application of scholarships, discounts, and staff concessions across the fee management system. Scholarship and discount codes are created, linked to fee items and students, and moved through an approval workflow before taking effect. Staff concessions are managed through dedicated charge codes in the auto charges table, with separate discount codes configured for each concession type. Applied discounts can be reviewed directly against fee schedule batches once invoices are generated. For high-volume setup, bulk import of scholarship and discount records is supported through the Microsoft Excel add-in."/><link data-rh=true rel=icon href=/product/img/favicon.ico /><link data-rh=true rel=canonical href=https://tmrw-education.github.io/product/fo/Concession-Management /><link data-rh=true rel=alternate href=https://tmrw-education.github.io/product/fo/Concession-Management hreflang=en /><link data-rh=true rel=alternate href=https://tmrw-education.github.io/product/fo/Concession-Management hreflang=x-default /><script data-rh=true type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://tmrw-education.github.io/product/fo/Concession-Management","name":"Concession Management","position":1}]}</script><link rel=stylesheet href=/product/assets/css/styles.78131a13.css /><script src=/product/assets/js/runtime~main.a4c055e5.js defer></script><script src=/product/assets/js/main.92d8f6dc.js defer></script></head><body><svg style="display: none;"><defs>
+<symbol id=theme-svg-external-link viewBox="0 0 24 24"><path fill=currentColor d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme-3ac")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{for(var[t,e]of new URLSearchParams(window.location.search).entries())if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=__docusaurus><link rel=preload as=image href=/product/img/logo.svg /><div role=region aria-label="Skip to main content"><a class=skipToContent_fXgn href=#__docusaurus_skipToContent_fallback>Skip to main content</a></div><nav aria-label=Main class="theme-layout-navbar navbar navbar--fixed-top"><div class=navbar__inner><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded=false class="navbar__toggle clean-btn" type=button><svg width=30 height=30 viewBox="0 0 30 30" aria-hidden=true><path stroke=currentColor stroke-linecap=round stroke-miterlimit=10 stroke-width=2 d="M4 7h22M4 15h22M4 23h22"/></svg></button><a class=navbar__brand href=/product/><div class=navbar__logo><img src=/product/img/logo.svg alt="tmrw logo" class="themedComponent_mlkZ themedComponent--light_NVdE"/><img src=/product/img/logo.svg alt="tmrw logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"/></div><b class="navbar__title text--truncate">tmrw Help</b></a><a class="navbar__item navbar__link" href=/product/sxp>StaffXP</a><a class="navbar__item navbar__link" href=/product/ess>Employee Self-Service</a><a aria-current=page class="navbar__item navbar__link navbar__link--active" href=/product/fo>Finance & Operations</a><a class="navbar__item navbar__link" href=/product/pxp>Parent Experience</a><a class="navbar__item navbar__link" href=/product/lxp>Learner Experience</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type=button disabled title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill=currentColor d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill=currentColor d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill=currentColor d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"/></svg></button></div><div class=navbarSearchContainer_Bca1></div></div></div><div role=presentation class=navbar-sidebar__backdrop></div></nav><div id=__docusaurus_skipToContent_fallback class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class=docsWrapper_hBAB><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type=button></button><div class=docRoot_UBD9><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class=sidebarViewport_aRkj><div class=sidebar_njMd><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Overview><span title="Finance and Operations – User Guide" class=linkLabel_WmDU>Finance and Operations – User Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo><span title="Finance & Operations Help" class=linkLabel_WmDU>Finance & Operations Help</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Navigating-the-Platform><span title="Navigating the F&O Platform" class=linkLabel_WmDU>Navigating the F&O Platform</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Setup><span title=Setup class=linkLabel_WmDU>Setup</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Debtor-Management><span title="Debtor Management" class=linkLabel_WmDU>Debtor Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Billing><span title=Billing class=linkLabel_WmDU>Billing</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Pre-Admission-Fees><span title="Pre‑Admission Fees" class=linkLabel_WmDU>Pre‑Admission Fees</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link menu__link--active" aria-current=page href=/product/fo/Concession-Management><span title="Concession Management" class=linkLabel_WmDU>Concession Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Visa-Management><span title="Visa Management" class=linkLabel_WmDU>Visa Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Subject-&-Event-Management><span title="Subject & Event Management" class=linkLabel_WmDU>Subject & Event Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Student-Promotion><span title="Student Promotion" class=linkLabel_WmDU>Student Promotion</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Collections><span title=Collections class=linkLabel_WmDU>Collections</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Inquiries-and-Reports><span title="Inquiry & Reports" class=linkLabel_WmDU>Inquiry & Reports</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Debt-Follow-Up><span title="Debt Follow-up" class=linkLabel_WmDU>Debt Follow-up</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Cash-&-Bank><span title="Cash & Bank" class=linkLabel_WmDU>Cash & Bank</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Intercompany-Transactions><span title="Intercompany Transactions" class=linkLabel_WmDU>Intercompany Transactions</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Revenue-Recognition><span title="Revenue Recognition" class=linkLabel_WmDU>Revenue Recognition</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/FAQs><span title="Frequently Asked Questions" class=linkLabel_WmDU>Frequently Asked Questions</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Glossary><span title=Glossary class=linkLabel_WmDU>Glossary</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Brendan><span title=Brendan class=linkLabel_WmDU>Brendan</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Dana><span title=Dana class=linkLabel_WmDU>Dana</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Hoda><span title=Hoda class=linkLabel_WmDU>Hoda</span></a></ul></nav></div></div></aside><main class=docMainContainer_TBSr><div class="container padding-top--md padding-bottom--lg"><div class=row><div class="col docItemCol_VOVn"><div class=docItemContainer_Djhp><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label=Breadcrumbs><ul class=breadcrumbs><li class=breadcrumbs__item><a aria-label="Home page" class=breadcrumbs__link href=/product/><svg viewBox="0 0 24 24" class=breadcrumbHomeIcon_YNFT><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill=currentColor /></svg></a><li class="breadcrumbs__item breadcrumbs__item--active"><span class=breadcrumbs__link>Concession Management</span></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type=button class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Concession Management</h1></header>
+<p>Concession Management handles the configuration and application of scholarships, discounts, and staff concessions across the fee management system. Scholarship and discount codes are created, linked to fee items and students, and moved through an approval workflow before taking effect. Staff concessions are managed through dedicated charge codes in the auto charges table, with separate discount codes configured for each concession type. Applied discounts can be reviewed directly against fee schedule batches once invoices are generated. For high-volume setup, bulk import of scholarship and discount records is supported through the Microsoft Excel add-in.</p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=scholarship-and-discount-setup>Scholarship and Discount Setup<a href=#scholarship-and-discount-setup class=hash-link aria-label="Direct link to Scholarship and Discount Setup" title="Direct link to Scholarship and Discount Setup" translate=no>​</a></h2>
+<p>Before a scholarship or discount can be applied to a student's fees, it must be created as a named code in the system and linked to the relevant fee items and students. Each code can be configured to require approval before taking effect, with a specific user group assigned to authorise or reject applications. Once approved, the system applies the discount automatically to the linked fee items when invoices are generated. This section covers creating the code, assigning fee item linkages, adding students, and progressing the record through the approval workflow.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Scholarships and discounts</strong>.</li>
+<li class="">Click <strong>New</strong> in the top toolbar.</li>
+<li class="">Complete the following fields:<!-- -->
+<ul>
+<li class="">Enter or create a code in the <strong>Code column</strong>.</li>
+<li class="">Enter the scholarship or discount name in the <strong>Name column</strong>.</li>
+<li class="">Check the <strong>Active</strong> and <strong>Approval boxes</strong>.</li>
+<li class="">Assign or create the approval group in the <strong>User group</strong> column.</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>To assign an existing group, select it from the dropdown.</em></p>
+</blockquote>
+<ol start=5>
+<li class="">To create a new group, if necessary, right-click the dropdown arrow, select <strong>View details</strong>, then click <strong>New</strong>.</li>
+<li class="">Enter a <strong>Name</strong> for the group and then select the <strong>User group</strong>.</li>
+<li class="">Click <strong>Add / remove users</strong>.</li>
+<li class="">Search for and select the <strong>approvers</strong>.</li>
+<li class="">Click <strong>Add to group</strong> and go <strong>back</strong>.</li>
+<li class="">Select the new <strong>User group</strong> and click <strong>Save</strong>.</li>
+<li class="">Select the <strong>scholarship or discount</strong> you created.</li>
+<li class="">Go to the <strong>General tab</strong> and click <strong>Items</strong> under Fees.</li>
+<li class="">Click <strong>New</strong> and select the relevant fees; repeat as needed.</li>
+<li class="">Click <strong>Save</strong> and go back.</li>
+<li class="">Go to the <strong>General tab</strong> and click <strong>Students</strong>.</li>
+<li class="">Click <strong>New</strong> and add the student.</li>
+<li class="">Enter the discount amount under <strong>Discount %</strong>.</li>
+<li class="">Enter the <strong>Effective date</strong> and <strong>Expiration date</strong>.</li>
+<li class="">From the <strong>Approval dropdown</strong>, select <strong>Report as ready</strong>.</li>
+<li class="">Repeat to fully approve by selecting <strong>Approve</strong>.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Setup Creation 1" src=/product/assets/images/scholarship_and_discount_setup_creation_1-0cdb5d306303cc57c1df95e759a158f1.png width=1062 height=548 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Setup Creation 2" src=/product/assets/images/scholarship_and_discount_setup_creation_2-7f4332f61592026129fcdbc86a87871a.png width=840 height=418 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Setup Creation 3" src=/product/assets/images/scholarship_and_discount_setup_creation_3-5f2ac84e26d4ff03a320304a88007dc7.png width=864 height=422 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Setup Creation 4" src=/product/assets/images/scholarship_and_discount_setup_creation_4-06c289243a49c24612052fe3d8e6a007.png width=436 height=278 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Setup Creation 5" src=/product/assets/images/scholarship_and_discount_setup_creation_5-44156c96260140cf5ca215380224afdb.png width=464 height=308 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Setup Creation 6" src=/product/assets/images/scholarship_and_discount_setup_creation_6-bc6bdf51947059b65d9f3ce523fef255.png width=1660 height=278 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=linking-scholarships-and-discounts-to-fee-items>Linking Scholarships and Discounts to Fee Items<a href=#linking-scholarships-and-discounts-to-fee-items class=hash-link aria-label="Direct link to Linking Scholarships and Discounts to Fee Items" title="Direct link to Linking Scholarships and Discounts to Fee Items" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Scholarships and discounts</strong>.</li>
+<li class="">Select a <strong>scholarship or discount</strong> by checking the circle to the left of the item.</li>
+<li class="">Click <strong>General</strong> in the toolbar.</li>
+<li class="">Choose <strong>Items</strong> under the Fees tab.</li>
+<li class="">Click <strong>New</strong> to create a new item.</li>
+<li class="">Enter the required details.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Linking Scholarships And Discounts To Fee Items Creation 1" src=/product/assets/images/linking_scholarships_and_discounts_to_fee_items_creation_1-8ecc0a93a1e778f1ca9ee04d214943e2.png width=902 height=600 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Linking Scholarships And Discounts To Fee Items Creation 2" src=/product/assets/images/linking_scholarships_and_discounts_to_fee_items_creation_2-bfa07d233cec535902d857ebf9bc21da.png width=902 height=602 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=linking-scholarships-and-discounts-to-students>Linking Scholarships and Discounts to Students<a href=#linking-scholarships-and-discounts-to-students class=hash-link aria-label="Direct link to Linking Scholarships and Discounts to Students" title="Direct link to Linking Scholarships and Discounts to Students" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Scholarships and discounts</strong>.</li>
+<li class="">Select a <strong>scholarship or discount</strong> by checking the circle to the left of the item.</li>
+<li class="">Click <strong>General</strong> in the toolbar.</li>
+<li class="">Choose <strong>Students</strong> under the Students tab.</li>
+<li class="">Click <strong>New</strong> to create a new record.</li>
+<li class="">Complete the following columns to link a scholarship or discount to a student:<!-- -->
+<ul>
+<li class="">Choose a student from the <strong>Student Account</strong> dropdown.</li>
+<li class="">Choose whether to apply a <strong>percentage or total discount</strong> amount.</li>
+<li class="">Set the <strong>start and expiration date</strong>.</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The Student Name, Code, and Scholarship/ Discount Name will prepopulate.</em></p>
+</blockquote>
+<ol start=8>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Linking Scholarships And Discounts To Students Creation 1" src=/product/assets/images/linking_scholarships_and_discounts_to_students_creation_1-1fdcac6ce6588266e641f936f6726e4c.png width=870 height=374 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Linking Scholarships And Discounts To Students Creation 2" src=/product/assets/images/linking_scholarships_and_discounts_to_students_creation_2-da46b5f51012f6b014cf8d88dfdcafc9.png width=1658 height=344 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=approving-or-rejecting-scholarships-and-discounts>Approving or Rejecting Scholarships and Discounts<a href=#approving-or-rejecting-scholarships-and-discounts class=hash-link aria-label="Direct link to Approving or Rejecting Scholarships and Discounts" title="Direct link to Approving or Rejecting Scholarships and Discounts" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Scholarships and discounts</strong>.</li>
+<li class="">Select a <strong>scholarship or discount</strong> by checking the circle to the left of the item.</li>
+<li class="">Click <strong>General</strong> in the toolbar.</li>
+<li class="">Choose <strong>Students</strong> under the Students tab.</li>
+<li class="">Select the student whose <strong>scholarship/discount requires approval</strong>.</li>
+<li class="">Click the Approval dropdown and choose <strong>Approve or Reject</strong>.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Approving Or Rejecting Scholarships And Discounts Creation 1" src=/product/assets/images/approving_or_rejecting_scholarships_and_discounts_creation_1-7109fd0dde83bdf76b6a4ca62f700c20.png width=868 height=376 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Approving Or Rejecting Scholarships And Discounts Creation 2" src=/product/assets/images/approving_or_rejecting_scholarships_and_discounts_creation_2-26ff5d75c0b2796d973f4ba57674e290.png width=1658 height=574 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=view-scholarship--discounts-for-students-via-the-scholarship--discounts-details-table>View Scholarship & Discounts for Students via the Scholarship & Discounts details table<a href=#view-scholarship--discounts-for-students-via-the-scholarship--discounts-details-table class=hash-link aria-label="Direct link to View Scholarship & Discounts for Students via the Scholarship & Discounts details table" title="Direct link to View Scholarship & Discounts for Students via the Scholarship & Discounts details table" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Students</strong> and click <strong>All Students</strong>.</li>
+<li class="">Search for and select the <strong>student</strong>.</li>
+<li class="">Click the <strong>Academic tab</strong> in the toolbar.</li>
+<li class="">Under Related information, click <strong>Scholarship and discounts</strong>.</li>
+<li class="">Use the <strong>checkbox to filter by activity</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="View Scholarships And Discounts For A Student Creation 1" src=/product/assets/images/view_scholarships_and_discounts_for_a_student_creation_1-c7cbe5470b4331bed5a6f39bdd801d92.png width=1658 height=360 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="View Scholarships And Discounts For A Student Creation 2" src=/product/assets/images/view_scholarships_and_discounts_for_a_student_creation_2-ed14e4795478cd3fc49801b4699f610a.png width=1658 height=276 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=view-approved-scholarship-and-discount-fees>View Approved Scholarship and Discount Fees<a href=#view-approved-scholarship-and-discount-fees class=hash-link aria-label="Direct link to View Approved Scholarship and Discount Fees" title="Direct link to View Approved Scholarship and Discount Fees" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Fee schedule batches</strong> and click <strong>All fee schedule batches</strong>.</li>
+<li class="">Search for the <strong>fee record</strong> you want to view.</li>
+<li class="">Open the <strong>fee record</strong>.</li>
+<li class="">Under Sales order lines, scroll to the right to view the <strong>discount amount</strong> applied.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="View Approved Scholarship And Discount Fees Creation 1" src=/product/assets/images/view_approved_scholarship_and_discount_fees_creation_1-c0ea5d7cd786458eec579d39be7fd021.png width=1658 height=360 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="View Approved Scholarship And Discount Fees Creation 2" src=/product/assets/images/view_approved_scholarship_and_discount_fees_creation_2-3cbed7aaf3d4b672ac3838346800ca4f.png width=1658 height=584 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=view-approved-scholarship--discount-fees>View Approved Scholarship & Discount Fees<a href=#view-approved-scholarship--discount-fees class=hash-link aria-label="Direct link to View Approved Scholarship & Discount Fees" title="Direct link to View Approved Scholarship & Discount Fees" translate=no>​</a></h2>
+<ol>
+<li class="">Navigate to <strong>Modules ▸ Academic Management ▸ Inquiries and reports ▸ Fee schedules ▸ Scholarship and discount details</strong>.</li>
+<li class="">Select the student to apply the scholarship or discount.</li>
+<li class="">In the Action Pane, open the <strong>General</strong> tab and click <strong>Generate concession</strong>.</li>
+<li class="">Select the <strong>Fee and Charge Interval</strong> from the dropdown and click <strong>OK</strong>.</li>
+<li class="">Open the <strong>Concession</strong> tab to view the estimated discount.</li>
+<li class="">Navigate to <strong>Academic Management ▸ Periodic Tasks ▸ Generate Sales Order Batch Processing</strong>.</li>
+<li class="">Enter the <strong>Fee Generation Date</strong>, <strong>Posting Date</strong>, <strong>Fees and Charge Interval</strong>, and <strong>Batch Description</strong>.</li>
+<li class="">Select the required <strong>Fee Schedule Template</strong>.</li>
+<li class="">In the <strong>Records to include</strong> section, select <strong>Filter</strong>.</li>
+<li class="">In the <strong>Student account</strong> field, enter the <strong>Student ID</strong> and select <strong>OK</strong>.</li>
+<li class="">Select <strong>OK</strong> to generate the Fee Schedule Batch.</li>
+<li class="">Navigate to <strong>Academic Management ▸ Fee Schedule Batches ▸ All Fee Schedule Batches</strong>.</li>
+<li class="">In the <strong>Fee Schedule Batch Number</strong> field, select the batch just created.</li>
+<li class="">Select the <strong>Sales Order</strong> hyperlink to open the sales order.</li>
+<li class="">At line level, expand <strong>Financials</strong> and select <strong>Maintain Charges</strong>.</li>
+<li class="">Confirm that the discount is displayed on the charges page.</li>
+<li class="">In the Sales Order Action Pane, select <strong>Totals</strong> to verify that the total charges reflect the applied discount.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=View_Approved_Scholarship_and_Discount_Fees_1 src=/product/assets/images/view_approved_scholarship_and_discount_fees_1-99c5981a2aa9a40c567a008c334b7312.png width=1386 height=600 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=View_Approved_Scholarship_and_Discount_Fees_2 src=/product/assets/images/view_approved_scholarship_and_discount_fees_2-1e838226efa82d18c3e4651368ec2233.png width=1300 height=910 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=View_Approved_Scholarship_and_Discount_Fees_3 src=/product/assets/images/view_approved_scholarship_and_discount_fees_3-a5ddd443f5e1a72fca90c08f94a887ea.png width=1780 height=1410 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=sibling-discount-configuration>Sibling Discount Configuration<a href=#sibling-discount-configuration class=hash-link aria-label="Direct link to Sibling Discount Configuration" title="Direct link to Sibling Discount Configuration" translate=no>​</a></h2>
+<p>The sibling discount policy allows each school to define the discount rates applied to students based on their position within a family. Policies are school-specific and configured once unless the school's concession rules change. The system supports three student types — new students, existing students from existing families, and existing students from new families — and each can carry a different discount rate. Once configured, the policy works in conjunction with the sibling order assigned to each student and the fee items marked as eligible for a sibling discount to automatically apply the correct discount when fees are generated. No manual discount application is required after setup.</p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=sibling-discount-policy-gems>Sibling Discount Policy (GEMS)<a href=#sibling-discount-policy-gems class=hash-link aria-label="Direct link to Sibling Discount Policy (GEMS)" title="Direct link to Sibling Discount Policy (GEMS)" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> <em>This setup is school-specific and must be completed in each school. The sibling discount policy is typically a one-time configuration unless the school's discount rules change.</em></p>
+</blockquote>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Sibling setup</strong>.</li>
+<li class="">Click <strong>Sibling discount policy</strong>.</li>
+<li class="">Click <strong>Add</strong> to create a new policy entry.</li>
+<li class="">Enter the <strong>sibling order number</strong> for the child position (e.g., 3 for third child).</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Use the sibling order numbers configured in the Sibling Order setup. Only current students carry an active sibling order; future and past students default to 0.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Enter a descriptive <strong>name</strong> for the policy entry.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The description is read by the GEMS parent experience app (PXP) agent. Write it clearly so it is unambiguous — for example, "Third child — new student" or "Third child — existing family, existing student".</em></p>
+</blockquote>
+<ol start=7>
+<li class="">Select the <strong>student type</strong> for this entry:<!-- -->
+<ul>
+<li class=""><strong>New student</strong> — applies to students with no prior enrolment history at the school.</li>
+<li class=""><strong>Existing family, existing student</strong> — applies to students already enrolled and from a family already registered in the system.</li>
+<li class=""><strong>Existing family only</strong> — applies to students from a known family but without an existing enrolment record.</li>
+</ul>
+</li>
+<li class="">Select the <strong>line discount group</strong> to link this policy entry to the correct trade agreement.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Line discount groups are configured separately. Refer to the Sibling Order setup process for details on creating and mapping discount groups.</em></p>
+</blockquote>
+<ol start=9>
+<li class="">Repeat steps 4–9 for each sibling position and student type combination required by the school's policy.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Sibling Discount Policy Creation 1" src=/product/assets/images/sibling_discount_policy_creation_1-7f86204b3dd065dfa48e1b9fcf26c383.png width=1252 height=867 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=sibling-discount-policy>Sibling Discount Policy<a href=#sibling-discount-policy class=hash-link aria-label="Direct link to Sibling Discount Policy" title="Direct link to Sibling Discount Policy" translate=no>​</a></h2>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=staff-concession>Staff Concession<a href=#staff-concession class=hash-link aria-label="Direct link to Staff Concession" title="Direct link to Staff Concession" translate=no>​</a></h2>
+<p>Staff concessions allow the school to apply fee reductions to students who are dependants of staff members. The system manages staff concessions through two dedicated tables: the Staff Tuition Fee Concession table for staff-related reductions, and the Scholarship and Discount table for other concession types such as corporate or commercial concessions. Before a concession record can be added to either table, a discount code and a linked charge code must be configured. Once set up and approved, the system calculates an estimated concession amount and inserts a charge record into the auto charge table, which is then applied to new or existing sale orders when fees are generated.</p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=setup-charge-code>Setup Charge Code<a href=#setup-charge-code class=hash-link aria-label="Direct link to Setup Charge Code" title="Direct link to Setup Charge Code" translate=no>​</a></h2>
+<p>Staff concession discounts are applied to fee invoices through the auto charges table. Before a concession code can be linked to a student, a charge code must be created to define how and where the concession amount is posted in the ledger. Each concession type requires its own charge code (For example, separate codes for staff concessions and commercial concessions) so the correct posting logic is applied when the concession is processed.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Accounts receivable</strong>.</li>
+<li class="">Expand <strong>Charges setup</strong> and click <strong>Auto charges</strong>.</li>
+<li class="">Change the <strong>Level</strong> to <strong>Line</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+<li class="">Enter the <strong>Charge description</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Create one charge code per concession type — for example, a separate code for commercial concessions and for staff concessions.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Configure the required charge settings for the concession type.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Setup Charge Code 1" src=/product/assets/images/setup_charge_code_1-5c8340c313c588a1419108cae5d84eec.png width=2560 height=764 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=set-up-staff-concession-code>Set Up Staff Concession Code<a href=#set-up-staff-concession-code class=hash-link aria-label="Direct link to Set Up Staff Concession Code" title="Direct link to Set Up Staff Concession Code" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> <em>A charge code must be created and linked before completing this setup. See <a href=#setup-charge-code class="">Setup Charge Code</a>.</em></p>
+</blockquote>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Scholarship and discount</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+<li class="">Enter the <strong>name</strong> of the concession.</li>
+<li class="">Select the <strong>Type</strong>:<!-- -->
+<ul>
+<li class=""><strong>Staff concession</strong> — use for staff tuition fee reductions. The record is captured in the Staff Tuition Fee Concession table.</li>
+<li class=""><strong>Scholarship and discount</strong> — use for other concession types such as corporate or commercial concessions. The record is captured in the Scholarship and Discount table.</li>
+</ul>
+</li>
+<li class="">Select the <strong>Charge code</strong> to link to this discount code.</li>
+<li class="">Click <strong>Activate</strong> in the toolbar to make the code available for use.</li>
+<li class="">In the <strong>Approval</strong> section, configure the approval workflow:<!-- -->
+<ul>
+<li class="">Enable <strong>Approval</strong> if concession records in the Scholarship and Discount table require an approver.</li>
+<li class="">Identify the <strong>user</strong> authorised to approve concession records.</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The approval function is not available for records in the Staff Tuition Fee Concession table. Those records are automatically set to Approved status.</em></p>
+</blockquote>
+<ol start=9>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Set Up Staff Concession Code 1" src=/product/assets/images/set_up_staff_concession_code_1-9a6cec7e4bc273303256bdac0bb2b9c1.png width=1915 height=612 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=bulk-upload-of-concessions>Bulk Upload of Concessions<a href=#bulk-upload-of-concessions class=hash-link aria-label="Direct link to Bulk Upload of Concessions" title="Direct link to Bulk Upload of Concessions" translate=no>​</a></h2>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=importing-scholarship-and-discount-data>Importing Scholarship and Discount Data<a href=#importing-scholarship-and-discount-data class=hash-link aria-label="Direct link to Importing Scholarship and Discount Data" title="Direct link to Importing Scholarship and Discount Data" translate=no>​</a></h2>
+<p>The scholarship and discount details import process allows bulk entry of scholarship and discount records into the system using the Microsoft Excel add-in. Rather than creating records one at a time in the interface, users download a pre-configured Excel template connected to the GEMS data entity, populate or update records directly in the spreadsheet, and publish back to the system. The system validates each row on publish and flags any errors in red for correction before re-publishing. This method is particularly useful when setting up large volumes of records at the start of an enrolment period or applying a bulk change across multiple students.</p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=scholarship-and-discount-details-import-through-excel-add-in>Scholarship and Discount Details Import Through Excel Add-in<a href=#scholarship-and-discount-details-import-through-excel-add-in class=hash-link aria-label="Direct link to Scholarship and Discount Details Import Through Excel Add-in" title="Direct link to Scholarship and Discount Details Import Through Excel Add-in" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic Management</strong>.</li>
+<li class="">Expand <strong>Inquiries and reports</strong> ▸ <strong>Fee schedules</strong> and click <strong>Scholarship and discount details</strong>.</li>
+<li class="">Click <strong>Open in Microsoft Office</strong> in the toolbar.</li>
+<li class="">Select <strong>TMRW Student scholarship discount entity (AKN)</strong>.</li>
+<li class="">Click <strong>Download</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>An Excel file will download to your computer. The file contains the data entity template pre-configured for the scholarship and discount records.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Open the downloaded Excel file.</li>
+<li class="">Click <strong>Enable Editing</strong> and open in the desktop.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Wait for the Excel add-in to complete sign-in before proceeding. The add-in connects to the GEMS environment to read and write data.</em></p>
+</blockquote>
+<ol start=8>
+<li class="">Click <strong>Design</strong> in the add-in connection panel (bottom-right corner).</li>
+<li class="">Click the <strong>Edit</strong> button (pencil icon) next to the entity.</li>
+<li class="">Double-click each field in the <strong>Available fields</strong> list to move all fields across to the selected fields.</li>
+<li class="">Click <strong>Update</strong>.</li>
+<li class="">Click <strong>Yes</strong> in the confirmation prompt.</li>
+<li class="">Click <strong>Done</strong>.</li>
+<li class="">Click <strong>Refresh</strong> in the add-in panel.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Refreshing pulls the latest data from the system into the spreadsheet, including any records already saved.</em></p>
+</blockquote>
+<ol start=15>
+<li class="">Enter new records in the rows below the existing data, or copy existing rows and edit the details as required.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Do not modify or delete existing records unless a change to those records is specifically required. Altering existing rows will overwrite the data in the system on publish.</em></p>
+</blockquote>
+<ol start=16>
+<li class="">Click <strong>Publish</strong> in the add-in panel.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The system validates each row before saving. Rows that fail validation are highlighted in red text. Correct the flagged data and click Publish again to resubmit.</em></p>
+</blockquote>
+<ol start=17>
+<li class="">Confirm that all records have been accepted and are visible in the <strong>Scholarships and discounts</strong> master.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 1" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_1-09456f6b0cdc28be3458f2b72376c512.png width=2527 height=605 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 2" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_2-51ae77e1c976864b09b002ec95dd5afc.png width=582 height=601 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 3" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_3-8155c2f3ede49ad66d2c65b70c429da2.png width=2528 height=519 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 4" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_4-72bcde8ed24cc306f7aa00e2df47e4ea.png width=2560 height=1528 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 5" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_5-1bd880ba40b4f1f04ced46292c983b53.png width=2560 height=1528 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 6" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_6-de10c3d5e2167c637f24bcb444b3f0bf.png width=2560 height=1528 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 7" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_7-56ca17a496c9bcb6160cae6575cdb36b.png width=2560 height=1528 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Scholarship And Discount Details Import Through Excel Add-in 8" src=/product/assets/images/scholarship_and_discount_details_import_through_excel_add_in_8-d1094b1c107a387d833737c3eeeb5f0a.png width=2560 height=1528 class=img_ev3q /></p>
+<hr/></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col noPrint_WFHX"><a href=https://github.com/tmrw-education/product/edit/main/finops/06-Concession-Management.md target=_blank rel="noopener noreferrer" class=theme-edit-this-page><svg fill=currentColor height=20 width=20 viewBox="0 0 40 40" class=iconEdit_Z9Sw aria-hidden=true><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"/></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href=/product/fo/Pre-Admission-Fees><div class=pagination-nav__sublabel>Previous</div><div class=pagination-nav__label>Pre‑Admission Fees</div></a><a class="pagination-nav__link pagination-nav__link--next" href=/product/fo/Visa-Management><div class=pagination-nav__sublabel>Next</div><div class=pagination-nav__label>Visa Management</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href=#scholarship-and-discount-setup class="table-of-contents__link toc-highlight">Scholarship and Discount Setup</a><li><a href=#linking-scholarships-and-discounts-to-fee-items class="table-of-contents__link toc-highlight">Linking Scholarships and Discounts to Fee Items</a><li><a href=#linking-scholarships-and-discounts-to-students class="table-of-contents__link toc-highlight">Linking Scholarships and Discounts to Students</a><li><a href=#approving-or-rejecting-scholarships-and-discounts class="table-of-contents__link toc-highlight">Approving or Rejecting Scholarships and Discounts</a><li><a href=#view-scholarship--discounts-for-students-via-the-scholarship--discounts-details-table class="table-of-contents__link toc-highlight">View Scholarship & Discounts for Students via the Scholarship & Discounts details table</a><li><a href=#view-approved-scholarship-and-discount-fees class="table-of-contents__link toc-highlight">View Approved Scholarship and Discount Fees</a><li><a href=#view-approved-scholarship--discount-fees class="table-of-contents__link toc-highlight">View Approved Scholarship & Discount Fees</a><li><a href=#sibling-discount-configuration class="table-of-contents__link toc-highlight">Sibling Discount Configuration</a><li><a href=#sibling-discount-policy-gems class="table-of-contents__link toc-highlight">Sibling Discount Policy (GEMS)</a><li><a href=#sibling-discount-policy class="table-of-contents__link toc-highlight">Sibling Discount Policy</a><li><a href=#staff-concession class="table-of-contents__link toc-highlight">Staff Concession</a><li><a href=#setup-charge-code class="table-of-contents__link toc-highlight">Setup Charge Code</a><li><a href=#set-up-staff-concession-code class="table-of-contents__link toc-highlight">Set Up Staff Concession Code</a><li><a href=#bulk-upload-of-concessions class="table-of-contents__link toc-highlight">Bulk Upload of Concessions</a><li><a href=#importing-scholarship-and-discount-data class="table-of-contents__link toc-highlight">Importing Scholarship and Discount Data</a><li><a href=#scholarship-and-discount-details-import-through-excel-add-in class="table-of-contents__link toc-highlight">Scholarship and Discount Details Import Through Excel Add-in</a></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class=footer__copyright>© 2026 tmrw education. All rights reserved.</div></div></div></footer></div></body>

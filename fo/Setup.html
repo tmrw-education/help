@@ -1,0 +1,551 @@
+<!doctype html><html lang=en dir=ltr class="docs-wrapper plugin-docs plugin-id-fo docs-version-current docs-doc-page docs-doc-id-Setup" data-has-hydrated=false><head><meta charset=UTF-8><meta name=generator content="Docusaurus v3.10.1"><title data-rh=true>Setup | tmrw Help</title><meta data-rh=true name=viewport content="width=device-width, initial-scale=1.0"/><meta data-rh=true name=twitter:card content=summary_large_image /><meta data-rh=true property=og:url content=https://tmrw-education.github.io/product/fo/Setup /><meta data-rh=true property=og:locale content=en /><meta data-rh=true name=docusaurus_locale content=en /><meta data-rh=true name=docsearch:language content=en /><meta data-rh=true name=docusaurus_version content=current /><meta data-rh=true name=docusaurus_tag content=docs-fo-current /><meta data-rh=true name=docsearch:version content=current /><meta data-rh=true name=docsearch:docusaurus_tag content=docs-fo-current /><meta data-rh=true property=og:title content="Setup | tmrw Help"/><meta data-rh=true name=description content="Before fees can be generated, processed, or settled across the platform, a range of foundational settings must be configured correctly. This section covers the full scope of that setup work, including fee schedule parameters, fee and charge intervals, gender and academic year configuration, visa types, split billing percentages, fee categories, payment option setup, curriculum and stream configuration, advanced discount policies, deposit policies, sibling order and trade agreement setup, non-tuition item pricing, and the linkage of tuition fee items to academic years. Most of this configuration is completed once during initial implementation and revisited when new functionality is enabled or organisational settings change."/><meta data-rh=true property=og:description content="Before fees can be generated, processed, or settled across the platform, a range of foundational settings must be configured correctly. This section covers the full scope of that setup work, including fee schedule parameters, fee and charge intervals, gender and academic year configuration, visa types, split billing percentages, fee categories, payment option setup, curriculum and stream configuration, advanced discount policies, deposit policies, sibling order and trade agreement setup, non-tuition item pricing, and the linkage of tuition fee items to academic years. Most of this configuration is completed once during initial implementation and revisited when new functionality is enabled or organisational settings change."/><link data-rh=true rel=icon href=/product/img/favicon.ico /><link data-rh=true rel=canonical href=https://tmrw-education.github.io/product/fo/Setup /><link data-rh=true rel=alternate href=https://tmrw-education.github.io/product/fo/Setup hreflang=en /><link data-rh=true rel=alternate href=https://tmrw-education.github.io/product/fo/Setup hreflang=x-default /><script data-rh=true type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":"https://tmrw-education.github.io/product/fo/Setup","name":"Setup","position":1}]}</script><link rel=stylesheet href=/product/assets/css/styles.78131a13.css /><script src=/product/assets/js/runtime~main.a4c055e5.js defer></script><script src=/product/assets/js/main.92d8f6dc.js defer></script></head><body><svg style="display: none;"><defs>
+<symbol id=theme-svg-external-link viewBox="0 0 24 24"><path fill=currentColor d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme-3ac")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{for(var[t,e]of new URLSearchParams(window.location.search).entries())if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id=__docusaurus><link rel=preload as=image href=/product/img/logo.svg /><div role=region aria-label="Skip to main content"><a class=skipToContent_fXgn href=#__docusaurus_skipToContent_fallback>Skip to main content</a></div><nav aria-label=Main class="theme-layout-navbar navbar navbar--fixed-top"><div class=navbar__inner><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded=false class="navbar__toggle clean-btn" type=button><svg width=30 height=30 viewBox="0 0 30 30" aria-hidden=true><path stroke=currentColor stroke-linecap=round stroke-miterlimit=10 stroke-width=2 d="M4 7h22M4 15h22M4 23h22"/></svg></button><a class=navbar__brand href=/product/><div class=navbar__logo><img src=/product/img/logo.svg alt="tmrw logo" class="themedComponent_mlkZ themedComponent--light_NVdE"/><img src=/product/img/logo.svg alt="tmrw logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"/></div><b class="navbar__title text--truncate">tmrw Help</b></a><a class="navbar__item navbar__link" href=/product/sxp>StaffXP</a><a class="navbar__item navbar__link" href=/product/ess>Employee Self-Service</a><a aria-current=page class="navbar__item navbar__link navbar__link--active" href=/product/fo>Finance & Operations</a><a class="navbar__item navbar__link" href=/product/pxp>Parent Experience</a><a class="navbar__item navbar__link" href=/product/lxp>Learner Experience</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type=button disabled title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill=currentColor d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill=currentColor d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"/></svg><svg viewBox="0 0 24 24" width=24 height=24 aria-hidden=true class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill=currentColor d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"/></svg></button></div><div class=navbarSearchContainer_Bca1></div></div></div><div role=presentation class=navbar-sidebar__backdrop></div></nav><div id=__docusaurus_skipToContent_fallback class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class=docsWrapper_hBAB><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type=button></button><div class=docRoot_UBD9><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class=sidebarViewport_aRkj><div class=sidebar_njMd><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Overview><span title="Finance and Operations – User Guide" class=linkLabel_WmDU>Finance and Operations – User Guide</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo><span title="Finance & Operations Help" class=linkLabel_WmDU>Finance & Operations Help</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Navigating-the-Platform><span title="Navigating the F&O Platform" class=linkLabel_WmDU>Navigating the F&O Platform</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link menu__link--active" aria-current=page href=/product/fo/Setup><span title=Setup class=linkLabel_WmDU>Setup</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Debtor-Management><span title="Debtor Management" class=linkLabel_WmDU>Debtor Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Billing><span title=Billing class=linkLabel_WmDU>Billing</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Pre-Admission-Fees><span title="Pre‑Admission Fees" class=linkLabel_WmDU>Pre‑Admission Fees</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Concession-Management><span title="Concession Management" class=linkLabel_WmDU>Concession Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Visa-Management><span title="Visa Management" class=linkLabel_WmDU>Visa Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Subject-&-Event-Management><span title="Subject & Event Management" class=linkLabel_WmDU>Subject & Event Management</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Student-Promotion><span title="Student Promotion" class=linkLabel_WmDU>Student Promotion</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Collections><span title=Collections class=linkLabel_WmDU>Collections</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Inquiries-and-Reports><span title="Inquiry & Reports" class=linkLabel_WmDU>Inquiry & Reports</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Debt-Follow-Up><span title="Debt Follow-up" class=linkLabel_WmDU>Debt Follow-up</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Cash-&-Bank><span title="Cash & Bank" class=linkLabel_WmDU>Cash & Bank</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Intercompany-Transactions><span title="Intercompany Transactions" class=linkLabel_WmDU>Intercompany Transactions</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Revenue-Recognition><span title="Revenue Recognition" class=linkLabel_WmDU>Revenue Recognition</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/FAQs><span title="Frequently Asked Questions" class=linkLabel_WmDU>Frequently Asked Questions</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Glossary><span title=Glossary class=linkLabel_WmDU>Glossary</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Brendan><span title=Brendan class=linkLabel_WmDU>Brendan</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Dana><span title=Dana class=linkLabel_WmDU>Dana</span></a><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class=menu__link href=/product/fo/Hoda><span title=Hoda class=linkLabel_WmDU>Hoda</span></a></ul></nav></div></div></aside><main class=docMainContainer_TBSr><div class="container padding-top--md padding-bottom--lg"><div class=row><div class="col docItemCol_VOVn"><div class=docItemContainer_Djhp><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label=Breadcrumbs><ul class=breadcrumbs><li class=breadcrumbs__item><a aria-label="Home page" class=breadcrumbs__link href=/product/><svg viewBox="0 0 24 24" class=breadcrumbHomeIcon_YNFT><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill=currentColor /></svg></a><li class="breadcrumbs__item breadcrumbs__item--active"><span class=breadcrumbs__link>Setup</span></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type=button class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>Setup</h1></header>
+<p>Before fees can be generated, processed, or settled across the platform, a range of foundational settings must be configured correctly. This section covers the full scope of that setup work, including fee schedule parameters, fee and charge intervals, gender and academic year configuration, visa types, split billing percentages, fee categories, payment option setup, curriculum and stream configuration, advanced discount policies, deposit policies, sibling order and trade agreement setup, non-tuition item pricing, and the linkage of tuition fee items to academic years. Most of this configuration is completed once during initial implementation and revisited when new functionality is enabled or organisational settings change.</p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=fee-schedule-parameters-product>Fee Schedule Parameters (Product)<a href=#fee-schedule-parameters-product class=hash-link aria-label="Direct link to Fee Schedule Parameters (Product)" title="Direct link to Fee Schedule Parameters (Product)" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.​</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Fee schedule parameters</strong>.​</li>
+<li class="">On the <strong>General</strong> tab, expand each section and complete the fields based on your school’s requirements. This includes:​<!-- -->
+<ul>
+<li class="">Deposit handling journals for refund and forfeit​</li>
+<li class="">Payment journals for online, over-the-counter, miscellaneous​</li>
+<li class="">User group permissions for generated sales orders​</li>
+<li class="">Staff concession cancellation and adjustment setup​</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>All journals used in this setup must already exist in the system. The selected user group controls who can edit generated sales orders. Staff concession settings apply when a staff contract ends.​</em></p>
+</blockquote>
+<ol start=4>
+<li class="">In <strong>Financial activities to Student</strong>:​<!-- -->
+<ul>
+<li class="">Select <strong>No</strong> when posting financial transactions to the <strong>Fee payer account</strong>​</li>
+<li class="">Select <strong>Yes</strong> when posting financial transactions directly to the <strong>student account</strong>​</li>
+</ul>
+</li>
+<li class="">Click the <strong>Integrations</strong> tab.​</li>
+<li class="">Select the <strong>Relationship type</strong> field, select <strong>Financial responsibility</strong>, then <strong>Sibling</strong>.​</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Financial responsibility is used for parents or guardians who pay fee invoices. Sibling is used for brother/sister relationships and for calculating sibling order in fee calculations.</em> ​</p>
+</blockquote>
+<ol start=7>
+<li class="">Select the <strong>ID value</strong> that matches the configured relationship type.​</li>
+<li class="">Click the <strong>Pro rata adjustment</strong> tab.​</li>
+<li class="">Select the <strong>Pro rata adjustment joining</strong> option.​</li>
+<li class="">Select the <strong>Pro rata adjustment leaving</strong> option.​</li>
+<li class="">Select the <strong>Leaving date</strong> option:​<!-- -->
+<ul>
+<li class=""><strong>Last day attended</strong> — use when the school manages the leaving date as LDA.​</li>
+<li class=""><strong>Expiration date</strong> — use when the school manages the leaving date as the expiration date in the Academic enrolment table.​</li>
+</ul>
+</li>
+<li class="">Click the <strong>Number sequences</strong> tab and confirm all number sequences are set up for all references.​</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Fee_Schedule_Parameters_1 src=/product/assets/images/fee_schedule_parameters_(product)_1-67155e29df7f9b9903c6700d0e22b020.png width=2938 height=948 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=Fee_Schedule_Parameters_2 src=/product/assets/images/fee_schedule_parameters_(product)_2-51bb93e245f2763305b7dddcc1dc3264.png width=2402 height=832 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=fee-schedule-parameters-gems>Fee Schedule Parameters (GEMS)<a href=#fee-schedule-parameters-gems class=hash-link aria-label="Direct link to Fee Schedule Parameters (GEMS)" title="Direct link to Fee Schedule Parameters (GEMS)" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Fee schedule parameters</strong>.</li>
+<li class="">On the <strong>General</strong> tab, expand each section and complete the fields based on your school's requirements.</li>
+<li class="">Click the <strong>Integrations</strong> tab.</li>
+<li class="">Select the <strong>Relationship type</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Relationship type = Sibling is used for brother/sister relationships and for calculating sibling order.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Select the <strong>ID</strong>.</li>
+<li class="">Click the <strong>Pro rata adjustment</strong> tab.</li>
+<li class="">Select the <strong>Pro rata adjustment joining</strong> option.</li>
+<li class="">Select the <strong>Pro rata adjustment leaving</strong> option.</li>
+<li class="">Select the <strong>Leaving date</strong> option:<!-- -->
+<ul>
+<li class=""><em>Last day attended</em> — use when the school manages the leaving date as LDA.</li>
+<li class=""><em>Expiration date</em> — use when the school manages the leaving date as the expiration date in the Academic enrolment table.</li>
+</ul>
+</li>
+<li class="">Click the <strong>Number sequences</strong> tab and confirm all number sequences are set up for all references.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Fee Schedule Parameters GEMS 1" src=/product/assets/images/fee_schedule_parameters_gems_1-87abb051f73016af17996bbedcd88f59.png width=2560 height=706 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Fee Schedule Parameters GEMS 2" src=/product/assets/images/fee_schedule_parameters_gems_2-f066ca1b0c78b4e47f794643baf2ddec.png width=1795 height=693 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Fee Schedule Parameters GEMS 3" src=/product/assets/images/fee_schedule_parameters_gems_3-6abaf3969640e01d09171db412587b69.png width=1421 height=1291 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Fee Schedule Parameters GEMS 4" src=/product/assets/images/fee_schedule_parameters_gems_4-7ad743540f2499071a5071eac301cb79.png width=1483 height=884 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=fee--charge-interval-setup>Fee & Charge Interval Setup<a href=#fee--charge-interval-setup class=hash-link aria-label="Direct link to Fee & Charge Interval Setup" title="Direct link to Fee & Charge Interval Setup" translate=no>​</a></h2>
+<p>The fee and charge interval defines the academic billing cycle, the overall date range for the year and the individual periods within it. Each interval specifies the start and end date of the year, the number of billing periods (such as three terms or ten months), and the due date and revenue recognition date for each period. Week and month breakdowns within each period are generated automatically to support pro rata joining and leaving calculations. The fee and charge interval is one of the most critical configuration records in the system: it is the link between students, fee schedule templates, and the fee generation batch. Any student whose academic enrolment record does not contain a matching interval will be excluded from billing runs.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Fee and Charge Interval</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar to create a new interval.</li>
+<li class="">Enter details in <strong>Fee generation interval ID</strong> (e.g., 2025-2026).</li>
+<li class="">Enter details in the <strong>Description</strong> field.</li>
+<li class="">Enter the <strong>Start date</strong> and <strong>End date</strong> for the school academic year (billing cycle).</li>
+<li class=""><strong>Choose the Period option</strong> from the dropdown (e.g., Month, Week) based on the school’s pricing method.</li>
+<li class="">Enter the <strong>Number of intervals</strong> to specify how many invoices will be generated in the academic year (e.g. 3 for termly fees, or 10 for monthly). This should match the school’s billing frequency.</li>
+<li class="">Click <strong>Generate</strong> in the toolbar to create the periods.</li>
+<li class="">For each period:<!-- -->
+<ul>
+<li class="">Enter details in <strong>Period description</strong>.</li>
+<li class="">Enter the <strong>Start date</strong> and <strong>End date</strong>.</li>
+<li class="">Click <strong>Update unit quantity</strong> so the system calculates the number of months or weeks within the period.</li>
+<li class="">Enter the <strong>Due date</strong> to define when payment is expected.</li>
+<li class="">Enter the <strong>Revenue recognition date</strong> if required for deferral.</li>
+</ul>
+</li>
+<li class="">Click <strong>Weeks</strong> in the Periods toolbar, then click the <strong>Generate</strong> button to automatically populate the weeks’ start and end dates for each period. This is only required for pro-rata joining and leaving policies.</li>
+<li class="">Click <strong>Months</strong> in the Periods toolbar, then click the <strong>Generate</strong> button to automatically populate the months’ start and end dates for each period.</li>
+<li class="">Validate entered data for accuracy, then click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Fee_and_Charge_Interval_Setup_1 src=/product/assets/images/fee_and_charge_interval_setup_1-c5765541810607fa9d75e32037a863ae.png width=2268 height=954 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=Fee_and_Charge_Interval_Setup_2 src=/product/assets/images/fee_and_charge_interval_setup_2-0d01c6929b30dd3f5cd6edcac3b9d398.png width=2844 height=1164 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=gender-setup>Gender Setup<a href=#gender-setup class=hash-link aria-label="Direct link to Gender Setup" title="Direct link to Gender Setup" translate=no>​</a></h2>
+<ol>
+<li class="">Navigate to <strong>Modules ▸ Academic management ▸ Setup ▸ Gender setup</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Enter a value in the <strong>Gender</strong> field.</li>
+<li class="">Enter the name in the <strong>Name</strong> field.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Gender_Setup_1 src=/product/assets/images/gender_setup_1-868e8a7acd726291c4269912677f5125.png width=1260 height=764 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=academic-year>Academic Year<a href=#academic-year class=hash-link aria-label="Direct link to Academic Year" title="Direct link to Academic Year" translate=no>​</a></h2>
+<p>Academic year setup defines the academic calendar structure used across the platform and must align with the configuration in the student management system, as finance is downstream from both. Each academic year record is assigned a sequence number, a shared academic year ID, and an optional school-specific description. Year group financial dimensions are linked to each record to automate accounting transactions. Once the academic year is created, tuition fees for re-enrolment and enrolment deposits are attached so the system can look up the correct fees during the deposit process. Where a school has students eligible for a different fee structure — such as foundation students — both fee structures are added at this stage.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=academic-year-product>Academic Year (Product)<a href=#academic-year-product class=hash-link aria-label="Direct link to Academic Year (Product)" title="Direct link to Academic Year (Product)" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Academic year</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The <strong>Sequence</strong> number is assigned automatically by the system and determines the order in which grades appear. This field cannot be edited.</em></p>
+</blockquote>
+<ol start=4>
+<li class="">Enter the short code in the <strong>Academic year</strong> field (e.g., <em>KG1</em>, <em>01</em>, <em>02</em>).</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>This code is used internally and must match the grade code in the student management system.</em></p>
+</blockquote>
+<ol start=5>
+<li class="">Enter the full grade name in the <strong>Description</strong> field (e.g., <em>KG1</em>, <em>Grade 1</em>).</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>This description is displayed to users across Academic Management.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Select the applicable code in the <strong>Fee master list</strong> field.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The Fee master list identifies the fees to be sent to the student management system.</em></p>
+</blockquote>
+<ol start=7>
+<li class="">Click <strong>Save</strong>.</li>
+<li class="">Select <strong>Tuition fee items</strong> from the Action Pane.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Select <em>Tuition fee</em> in the <strong>Item number</strong> field.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>This defines the fee item used to calculate enrolment and re-enrolment deposits for students in this academic year.</em></p>
+</blockquote>
+<ol start=11>
+<li class="">Enter <em>Year</em> in the <strong>Unit</strong> field.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>This indicates the tuition fee is charged on an annual basis.</em></p>
+</blockquote>
+<ol start=12>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Academic Year Product 1" src=/product/assets/images/academic_year_(product)_1-2c06286fcc92e0dac705f398d1f535c9.png width=1714 height=537 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Academic Year Product 2" src=/product/assets/images/academic_year_(product)_2-0a6e952608ea906a3ddf15f9159d7950.png width=1288 height=472 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=academic-year-gems>Academic Year (GEMS)<a href=#academic-year-gems class=hash-link aria-label="Direct link to Academic Year (GEMS)" title="Direct link to Academic Year (GEMS)" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> <em>Academic year IDs must match the setup in the student management system. The sequence number controls the order used for future billing calculations.</em></p>
+</blockquote>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Academic year</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+<li class="">Enter the next <strong>sequence number</strong> in order.</li>
+<li class="">Complete the remainder of the fields in the row.</li>
+<li class="">Click <strong>Save</strong>.</li>
+<li class="">Highlight the <strong>academic year</strong> record.</li>
+<li class="">Click <strong>Tuition fees</strong> in the toolbar.</li>
+<li class="">Add the <strong>re-enrolment deposit fee</strong> and <strong>enrolment deposit fee</strong> items.</li>
+<li class="">If the school has students eligible for an alternative fee structure (e.g., foundation students), add the <strong>additional tuition fee</strong> item.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Academic Year GEMS Setup 1" src=/product/assets/images/academic_year_gems_setup_1-6c1466c8af231e8e9fdbe68b6e6dc7ad.png width=1715 height=535 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Academic Year GEMS Setup 2" src=/product/assets/images/academic_year_gems_setup_2-6a92d0715647c83cb8625cb1c4bf9818.png width=1718 height=530 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Academic Year GEMS Setup 3" src=/product/assets/images/academic_year_gems_setup_3-527c904ad1296b4056de8bca1a1db39b.png width=1285 height=470 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=visa-types>Visa Types<a href=#visa-types class=hash-link aria-label="Direct link to Visa Types" title="Direct link to Visa Types" translate=no>​</a></h2>
+<p>Visa types classify the visa status held by international students and determine whether a student is full fee paying or subsidised. Each type is marked active or inactive, allowing the school to maintain a current list without deleting historical records. Visa types configured here are available for selection on student records and can be used to drive fee calculations where students qualify for a fee reduction based on their visa status.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Visa types</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+<li class="">Complete the columns to create a new Visa type.</li>
+<li class="">Select <strong>Full fee paying</strong> if the student is not subsidised and must pay the full tuition fee.</li>
+<li class="">Clear the <strong>Active</strong> box if the visa is no longer valid.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Visa_Types_1 src=/product/assets/images/visa_types_1-e69d9fc10b545002d3e20a4debf25b42.png width=1458 height=768 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=fee-categories>Fee Categories<a href=#fee-categories class=hash-link aria-label="Direct link to Fee Categories" title="Direct link to Fee Categories" translate=no>​</a></h2>
+<p>Fee categories classify the type of activity associated with each fee item and are used throughout the system to drive accounting, reporting, and fee schedule logic. Once categories are created in Academic Management, they must be linked to the corresponding released product in Product information management so the system applies the correct category when generating invoices.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Fee categories</strong>.</li>
+<li class="">Click <strong>New</strong> in the top toolbar.</li>
+<li class="">Complete the columns to create new fee categories.</li>
+<li class="">Click <strong>Save</strong>.</li>
+<li class="">Link these fees to the product master by navigating to <strong>Modules ▸ Product information management ▸ Products ▸ Released products</strong>.</li>
+<li class="">Use the <strong>Item number</strong> filter to search for the added fee categories.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Categories related to Academic management start with the letters AM.</em></p>
+</blockquote>
+<ol start=8>
+<li class="">Select the category, then scroll down and expand the <strong>Sell</strong> tab.</li>
+<li class="">Locate <strong>Activity ▸ Fee category</strong>.</li>
+<li class="">Ensure the fee aligns with the category it will be billed as.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Create Fee Categories Creation 1" src=/product/assets/images/create_fee_categories_creation_1-6b2d8fb91f9508b530de83b5fb53f90a.png width=684 height=438 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Create Fee Categories Creation 2" src=/product/assets/images/create_fee_categories_creation_2-a8c7891eade05eea513c5d23a7bb7515.png width=892 height=1380 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Create Fee Categories Creation 3" src=/product/assets/images/create_fee_categories_creation_3-c5d77770d3da1f580c31fe75275a63a4.png width=1730 height=1240 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=payment-option-setup>Payment Option Setup<a href=#payment-option-setup class=hash-link aria-label="Direct link to Payment Option Setup" title="Direct link to Payment Option Setup" translate=no>​</a></h2>
+<ol>
+<li class="">Navigate to <strong>Modules ▸ Academic management ▸ Setup ▸ Payment option setup</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Select the <strong>Payment plan</strong> from the dropdown.</li>
+<li class="">Fill in the <strong>Payment option</strong> and <strong>Description</strong> fields.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Once saved, there will be a copy on the Customer master or the Student master</em></p>
+</blockquote>
+<ol start=5>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Payment_Option_Setup_1 src=/product/assets/images/payment_option_setup_1-62803c5f81042460dc42e1dd164d9e4c.png width=2608 height=952 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=curriculum-gems>Curriculum (GEMS)<a href=#curriculum-gems class=hash-link aria-label="Direct link to Curriculum (GEMS)" title="Direct link to Curriculum (GEMS)" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> <em>Curriculum codes must be as per student management system.</em></p>
+</blockquote>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click on <strong>Curriculum</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar to create a new curriculum.</li>
+<li class="">Choose the <strong>Curriculum</strong> option from the dropdown (e.g., AM).</li>
+<li class="">Enter details in the <strong>Description</strong> field.</li>
+<li class="">Select the <strong>Curriculum dimension</strong> from the dropdown.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Curriculum_1 src=/product/assets/images/curriculum_1-9d888485c60982c4f801bd647161944e.png width=1564 height=804 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=receipt-intercompany-mapping-gems>Receipt Intercompany Mapping (GEMS)<a href=#receipt-intercompany-mapping-gems class=hash-link aria-label="Direct link to Receipt Intercompany Mapping (GEMS)" title="Direct link to Receipt Intercompany Mapping (GEMS)" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO Dashboard</strong>, open <strong>Modules</strong> ▸ **Academic management.</li>
+<li class="">Expand <strong>Setup</strong> ▸ <strong>Cashier Receipt</strong> then click <strong>Receipt intercompany mapping</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Select a value in the <strong>Method of payment</strong> field.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Choose the method of payment that is configured for intercompany processing with another school.</em></p>
+</blockquote>
+<ol start=5>
+<li class="">Select a value in the <strong>Destination school</strong> field.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The selected school will receive the Intercompany posting.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Set the <strong>Account type</strong> and the <strong>Account</strong> based on the entry posting in the original cashier receipt:<!-- -->
+<ul>
+<li class="">If the <strong>Account type</strong> is Ledger, Select the Main <strong>Account</strong></li>
+<li class="">If the <strong>Account type</strong> is Bank, the Bank <strong>Account</strong></li>
+</ul>
+</li>
+<li class="">Select a value in the <strong>Intercompany journal</strong> field.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>This setup is primarily used to support scenarios such as GEMS Rewards (GRL), where financial liability arising from reward points is initially recorded at the receiving school and requires daily transfer to the GEMS Rewards legal entity.</em></p>
+</blockquote>
+<p><img decoding=async loading=lazy alt=Intercompany_Journal_(GEMS)_1 src=/product/assets/images/intercompany_journal_(gems)_1-eec60c5b91c938f0daca1387a0655d7f.png width=1870 height=686 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=advance-discount-policy-gems>Advance Discount Policy (GEMS)<a href=#advance-discount-policy-gems class=hash-link aria-label="Direct link to Advance Discount Policy (GEMS)" title="Direct link to Advance Discount Policy (GEMS)" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management ▸ Setup ▸ Advance discount policy</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Type a value in the <strong>Policy code</strong> field.</li>
+<li class="">Enter or select a value from the <strong>Fee and charges interval</strong> dropdown.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Select the billing cycle that applies to this policy.</em></p>
+</blockquote>
+<ol start=5>
+<li class="">Click the <strong>General</strong> tab.</li>
+<li class="">In the <strong>Period name</strong> field, select the relevant time period.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>More than one time period may be selected in this field.</em></p>
+</blockquote>
+<ol start=7>
+<li class="">Click <strong>Select</strong>.</li>
+<li class="">Return to the <strong>Overview</strong> tab.</li>
+<li class="">In the <strong>Charges code</strong> field, select <strong>Advance Discount</strong>.</li>
+<li class="">Enter the discount value into the <strong>Discount</strong> field.</li>
+<li class="">In the <strong>From date</strong> and <strong>To date</strong> fields, enter the time period that the advance discount will be applied.</li>
+<li class="">Complete the <strong>Description</strong> field for reporting reference.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Advance_Discount_Policy_(GEMS)_1 src=/product/assets/images/advance_discount_policy_(gems)_1-4352ae94ad14a5c6bce82b0ed7f71c65.png width=2844 height=1188 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=Advance_Discount_Policy_(GEMS)_2 src=/product/assets/images/advance_discount_policy_(gems)_2-a08daa9fd2c1946b28e6b6a9dd8aa787.png width=1356 height=1346 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=Advance_Discount_Policy_(GEMS)_3 src=/product/assets/images/advance_discount_policy_(gems)_3-7a2b902ebc89c742bc66968ad5c6c49b.png width=2844 height=1202 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=stream>Stream<a href=#stream class=hash-link aria-label="Direct link to Stream" title="Direct link to Stream" translate=no>​</a></h2>
+<p>Streams differentiate groups of students within the same academic year who follow different curricula or learning programmes. The stream code is a key academic attribute in fee generation: where a school charges different fees for different streams, the trade agreement must include a separate price line for each stream combination. Stream codes must match the naming convention used in the student management system to ensure data consistency across both platforms.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click on <strong>Stream</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Enter details in the <strong>Stream</strong> column.</li>
+<li class="">Enter details in the <strong>Description</strong> column.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Use the same naming and description format as the student management system to keep the setup consistent across both systems.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Stream_1 src=/product/assets/images/stream_1-c4c55a2492ab594eadba1bd31de551f2.png width=1396 height=854 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=deposit-policy>Deposit Policy<a href=#deposit-policy class=hash-link aria-label="Direct link to Deposit Policy" title="Direct link to Deposit Policy" translate=no>​</a></h2>
+<p>The deposit policy defines the amount charged to fee payers at enrolment or re-enrolment, before the full fee schedule is generated. Deposits can be configured as either a fixed amount or a percentage of the annual tuition fee linked to the relevant academic year. Each pre-admission type, such as enrolment deposit or re-enrolment deposit, requires its own policy entry. Once configured, the system uses this policy to calculate the deposit amount automatically when a deposit fee is raised.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click on <strong>Deposit policy</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar to create a deposit policy record.</li>
+<li class="">In <strong>Pre-admission type</strong> select the appropriate deposit from the dropdown.</li>
+<li class="">Select the <strong>Deposit type</strong> from the dropdown (e.g., Percent or Fixed).</li>
+<li class="">Enter the <strong>Value</strong> amount in the column section for the selected deposit type.</li>
+<li class="">Repeat steps 3-6 for each deposit type you need to set up.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>If using the percentage deposit type, the percentage is calculated from the tuition fee linked to the selected academic year.</em></p>
+</blockquote>
+<p><img decoding=async loading=lazy alt=Deposit_Policy_1 src=/product/assets/images/deposit_policy_1-7c57b82bdaa64fb3c71c4bf4ad5de8a3.png width=2118 height=764 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=sibling-order>Sibling Order<a href=#sibling-order class=hash-link aria-label="Direct link to Sibling Order" title="Direct link to Sibling Order" translate=no>​</a></h2>
+<p>The sibling discount feature allows the school to automatically apply fee reductions based on how many children from the same family are currently enrolled. To make this work, each student needs to be assigned a sibling order number that reflects their position within the family, with the eldest being 1, the second child being 2, and so on. These numbers are then mapped to customer price and discount groups, which are in turn linked to trade agreements that define the discount percentage for each sibling position. Once this configuration is complete and the trade agreement is posted, the system applies the correct discount automatically when fee invoices are generated.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=sibling-order-setup>Sibling Order Setup<a href=#sibling-order-setup class=hash-link aria-label="Direct link to Sibling Order Setup" title="Direct link to Sibling Order Setup" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> <em>For each possible child in a family, assign a sibling order number (e.g., 1 for first child, 2 for second, up to your maximum, such as 9). Use 0 for students who are not yet current (e.g., future students or those transitioning between programs).</em></p>
+</blockquote>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup and Sibling setup</strong>, then click <strong>Sibling order</strong>.</li>
+<li class="">Click <strong>New</strong> to create sibling order entries.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Add a new record only if your school needs more sibling positions than the ones already listed.</em></p>
+</blockquote>
+<ol start=4>
+<li class="">Enter a unique number in <strong>Sibling discount order</strong> column (e.g, 11). Follow your school's sequencing convention.</li>
+<li class="">Enter the <strong>Sibling order</strong> description (e.g., 11th Child). Use the same pattern as existing records.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Sibling_Order_setup_1 src=/product/assets/images/sibling_order_setup_1-f3990bcdd0c27b5bdd24d074c28002b3.png width=1430 height=698 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=trade-agreement>Trade Agreement<a href=#trade-agreement class=hash-link aria-label="Direct link to Trade Agreement" title="Direct link to Trade Agreement" translate=no>​</a></h2>
+<p>Trade agreements define the discount percentages applied to students based on their sibling order position. A sibling discount journal is created in Sales and Marketing, with a separate line for each child position and the corresponding discount rate. Once all lines are entered, the journal is posted to activate the discount policy. Tuition fee items must then be linked to the sibling discount line discount group so the system knows which items are subject to the discount when invoices are generated.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Sales and marketing</strong>.</li>
+<li class="">Expand <strong>Prices and discounts</strong> and click <strong>Trade agreement journals</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">In the <strong>Name</strong> column, select Sibling discount.</li>
+<li class="">Change view to <strong>Lines</strong>.</li>
+<li class="">Click <strong>New</strong> and complete the following columns:<!-- -->
+<ul>
+<li class="">Change <strong>Party code type</strong> to Group.</li>
+<li class="">Set <strong>Account selection</strong> to the number of siblings (e.g., First child).</li>
+<li class="">Change <strong>Product code</strong> type to Group.</li>
+<li class="">Set <strong>Item relation</strong> to Sibling discount.</li>
+</ul>
+</li>
+<li class="">In Details, set the policy <strong>start and end date</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Leave the end date blank to run the discount indefinitely.</em></p>
+</blockquote>
+<ol start=8>
+<li class="">Enter the discount amount in <strong>Discount percentage 1</strong> (e.g., 10.00 for 10%).</li>
+<li class="">Click <strong>New</strong> to add the second child discount; repeat these steps as needed.</li>
+<li class="">Click <strong>Save</strong>.</li>
+<li class="">Click <strong>Post</strong> to activate the trade agreement policy.</li>
+<li class="">Go back to <strong>Modules</strong> ▸ <strong>Product information management</strong>.</li>
+<li class="">Expand <strong>Products</strong> and click <strong>Released products</strong>.</li>
+<li class="">Open each <strong>line</strong> related to tuition.</li>
+<li class="">On the next screen, expand the <strong>Sell</strong> section.</li>
+<li class="">Scroll down to the <strong>Line discount group</strong> dropdown and choose the Sibling discount trade agreement.</li>
+<li class="">Click <strong>Save</strong>.</li>
+<li class="">Repeat for other tuition fee items.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Trade Agreement Creation 1" src=/product/assets/images/trade_agreement_creation_1-a27dbe8c1352fae315d4e63e033df277.png width=1090 height=300 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Trade Agreement Creation 2" src=/product/assets/images/trade_agreement_creation_2-d73f91a57ddcbc70a78f65c1e786330d.png width=1226 height=702 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Trade Agreement Creation 3" src=/product/assets/images/trade_agreement_creation_3-eec8e00646c64191f423ec52ac830519.png width=944 height=426 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Trade Agreement Creation 4" src=/product/assets/images/trade_agreement_creation_4-4aa982487d04a95a3d7fc1f6110ff212.png width=944 height=684 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=customer-integration-mapping>Customer Integration Mapping<a href=#customer-integration-mapping class=hash-link aria-label="Direct link to Customer Integration Mapping" title="Direct link to Customer Integration Mapping" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> This process defines how customer data is mapped and synchronised between the source system and Dynamics 365 Finance and Operations. It also classifies records into the correct customer type, such as Student or Fee payer, based on configuration.</p>
+</blockquote>
+<ol>
+<li class="">Navigate to <strong>Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Fill in the <strong>Record type</strong> and <strong>Description fields</strong>.</li>
+<li class="">Click <strong>Save</strong> and close the page.</li>
+<li class="">Navigate to <strong>Modules</strong> ▸ <strong>Academic management</strong> ▸ <strong>Setup</strong> ▸ <strong>Integration</strong> ▸ <strong>Customer integration mapping</strong>.</li>
+<li class="">Click <strong>New</strong>.</li>
+<li class="">Select the <strong>Record type</strong> from the dropdown.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The Record type description should fill in automatically.</em></p>
+</blockquote>
+<ol start=8>
+<li class="">In the <strong>Customer type</strong> field, select between Student and Fee payer.</li>
+<li class="">Select the appropriate <strong>Customer group</strong> from the dropdown.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Customer_Integration_Mapping_1 src=/product/assets/images/customer_integration_mapping_1-90b579592a20aac7b64c709075d8e4e4.png width=1440 height=660 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=Customer_Integration_Mapping_2 src=/product/assets/images/customer_integration_mapping_2-52a14f7fcac6bb1f2e58175df091159d.png width=1932 height=670 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=fee-type>Fee Type<a href=#fee-type class=hash-link aria-label="Direct link to Fee Type" title="Direct link to Fee Type" translate=no>​</a></h2>
+<p>Fee types define the default general ledger account and tax postings for miscellaneous receipts. Once a fee type is configured, the system applies those postings automatically whenever that type is selected during cashier or miscellaneous receipt processing, removing the need for manual account selection at the time of payment.</p>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong>, then expand <strong>Cashier receipt</strong>.</li>
+<li class="">Click <strong>Fee type</strong>. Review the list of existing fee types to avoid creating duplicates.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+</ol>
+<blockquote>
+<p><strong>Condition:</strong> <em>Perform this step only if the required fee type does not exist.</em></p>
+</blockquote>
+<ol start=5>
+<li class="">Enter a value in <strong>Fee type</strong> field (e.g., Security deposit, Transport).</li>
+<li class="">Select a value in <strong>Account</strong> field (e.g., Transport fee).</li>
+<li class="">Select a value in <strong>Tax Group</strong> field.</li>
+<li class="">Select a value in <strong>Tax Item Group</strong> field.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>The fee type is configured in advance and can be selected when creating cashier receipts and miscellaneous receipts. When selected, the system then automatically populates the payment type, financial dimensions, and accounting postings related to that fee category.</em></p>
+</blockquote>
+<p><img decoding=async loading=lazy alt=Fee_Type_1 src=/product/assets/images/fee_type_1-c28dd86771a2ce1442b386b79edce9ea.png width=1890 height=640 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=receipt-intercompany-mapping>Receipt Intercompany Mapping<a href=#receipt-intercompany-mapping class=hash-link aria-label="Direct link to Receipt Intercompany Mapping" title="Direct link to Receipt Intercompany Mapping" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong>, then expand <strong>Cashier receipt</strong>.</li>
+<li class="">Click <strong>Receipt intercompany mapping</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+<li class="">Select the <strong>Method of payment</strong> from the dropdown (e.g., CobOn).</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Choose the method of payment that has an intercompany journal with the destination school.</em></p>
+</blockquote>
+<ol start=6>
+<li class="">Select the <strong>Destination school</strong> from the dropdown.</li>
+<li class="">Set the <strong>Account type</strong> and the <strong>Account</strong> fields based on the entry posting in the original cashier receipt:<!-- -->
+<ul>
+<li class="">If the <strong>Account type</strong> is Ledger, the <strong>Account</strong> is Main</li>
+<li class="">If the <strong>Account type</strong> is Bank, the <strong>Account</strong> is Bank account</li>
+</ul>
+</li>
+<li class="">Select a value in the <strong>Intercompany journal</strong> field.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>When the cashier journal is posted, the selected Destination school will have the intercompany journal created according to the configured Method of payment, Account type/Account, and Intercompany journal selection.</em></p>
+</blockquote>
+<p><img decoding=async loading=lazy alt=Receipt_Intercompany_Mapping_1 src=/product/assets/images/receipt_intercompany_mapping_1-bf7cbfd20c7d93ec852fb4cd09204aeb.png width=1968 height=670 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=fee-master-template-to-sync-items-to-ce>Fee Master Template to Sync Items to CE<a href=#fee-master-template-to-sync-items-to-ce class=hash-link aria-label="Direct link to Fee Master Template to Sync Items to CE" title="Direct link to Fee Master Template to Sync Items to CE" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> <em>This setup creates a fee master list template that determines the fee items synced from D365 F&O to CE for inclusion in student offer letters.</em></p>
+</blockquote>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong>, then click <strong>Fee master list template</strong>.</li>
+<li class="">Click <strong>New</strong> in the toolbar.</li>
+<li class="">Enter values in the <strong>Code</strong> and <strong>Name</strong> fields.</li>
+<li class="">Enter the date in the <strong>Effective date</strong> field.</li>
+<li class="">In Products section, click <strong>+ Add</strong> in the toolbar.</li>
+<li class="">Select an <strong>Item number</strong> from the dropdown to sync the selected fee item to D365 CE.</li>
+<li class="">Set Quantity to 1 in the <strong>Quantity</strong> field.</li>
+<li class="">Select annual option in the <strong>Unit</strong> field.</li>
+<li class="">In the <strong>Switch view</strong> field, select <strong>All</strong>, then select your template row.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Next steps show how to assign to the Academic year.</em></p>
+</blockquote>
+<ol start=12>
+<li class="">Go back to <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong>, then click <strong>Academic year</strong>.</li>
+<li class="">Select the <strong>Academic year</strong> row. Then select the <strong>Fee master list</strong> code from the dropdown.</li>
+<li class="">Repeat step 14 for each academic year.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt=Fee_Master_Template_to_Sync_Items_to_CE_1 src=/product/assets/images/fee_master_template_to_sync_items_to_ce_1-08296aee83404d80dfabe0166f5c7108.png width=2346 height=870 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt=Fee_Master_Template_to_Sync_Items_to_CE_2 src=/product/assets/images/fee_master_template_to_sync_items_to_ce_2-808eb8df3ec64902f50c3b24e49c1add.png width=2394 height=658 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=non-tuition-item-price-setup>Non-Tuition Item Price Setup<a href=#non-tuition-item-price-setup class=hash-link aria-label="Direct link to Non-Tuition Item Price Setup" title="Direct link to Non-Tuition Item Price Setup" translate=no>​</a></h2>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Sales and marketing</strong>.</li>
+<li class="">Expand <strong>Prices and discounts</strong> and click <strong>Trade agreement journals</strong>.</li>
+<li class="">Click <strong>New</strong> to create a new trade agreement journal.</li>
+<li class="">In the <strong>Name</strong> field, select the <strong>standard journal name</strong> (without academic attributes enabled).</li>
+<li class="">Click <strong>Lines</strong>.</li>
+<li class="">Complete the required fields.</li>
+<li class="">Click <strong>Add products</strong> and repeat step 6 for each item.</li>
+<li class="">Click <strong>Post</strong>.</li>
+</ol>
+<blockquote>
+<p><strong>Note:</strong> <em>Non-tuition items such as ID cards use a standard trade agreement. Academic attributes are not required and should not be selected for these items.</em></p>
+</blockquote>
+<p><img decoding=async loading=lazy alt="Fee Structure Setup Non-Tuition Item 1" src=/product/assets/images/fee_structure_setup_non_tuition_item_1-7e3418db4115a61c05dc9b6c2abe5b1d.png width=1833 height=550 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Fee Structure Setup Non-Tuition Item 2" src=/product/assets/images/fee_structure_setup_non_tuition_item_2-071e302c701c0e44570c94b909e6ae11.png width=2560 height=1224 class=img_ev3q /></p>
+<hr/>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id=link-tuition-fee-item-to-academic-year>Link Tuition Fee Item to Academic Year<a href=#link-tuition-fee-item-to-academic-year class=hash-link aria-label="Direct link to Link Tuition Fee Item to Academic Year" title="Direct link to Link Tuition Fee Item to Academic Year" translate=no>​</a></h2>
+<blockquote>
+<p><strong>Note:</strong> <em>This step is required for enrolment deposit calculations. The system uses this link to identify which item is the tuition fee item and look up the correct annual price from the trade agreement.</em></p>
+</blockquote>
+<ol>
+<li class="">From the <strong>FNO dashboard</strong>, open <strong>Modules</strong> ▸ <strong>Academic management</strong>.</li>
+<li class="">Expand <strong>Setup</strong> and click <strong>Academic year</strong>.</li>
+<li class="">Select the relevant <strong>academic year</strong> record.</li>
+<li class="">Click <strong>Tuition fee items</strong>.</li>
+<li class="">Click <strong>New</strong> in the tuition fee items section.</li>
+<li class="">Complete the columns to link Tuition Fees to an Academic Year.</li>
+<li class="">If a second tuition fee item exists for the other student type, click <strong>New</strong> and repeat that item.</li>
+<li class="">Repeat steps 3–8 for each additional academic year.</li>
+<li class="">Click <strong>Save</strong>.</li>
+</ol>
+<p><img decoding=async loading=lazy alt="Fee Structure Setup Academic Year Link 1" src=/product/assets/images/fee_structure_setup_academic_year_link_1-a66ba3f7fa848fe287f641cf3a5d8b4e.png width=872 height=485 class=img_ev3q /></p>
+<p><img decoding=async loading=lazy alt="Fee Structure Setup Academic Year Link 2" src=/product/assets/images/fee_structure_setup_academic_year_link_2-5898316cf6a51a207417cbb0e1d02002.png width=1098 height=362 class=img_ev3q /></p>
+<hr/></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col noPrint_WFHX"><a href=https://github.com/tmrw-education/product/edit/main/finops/02-Setup.md target=_blank rel="noopener noreferrer" class=theme-edit-this-page><svg fill=currentColor height=20 width=20 viewBox="0 0 40 40" class=iconEdit_Z9Sw aria-hidden=true><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"/></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href=/product/fo/Navigating-the-Platform><div class=pagination-nav__sublabel>Previous</div><div class=pagination-nav__label>Navigating the F&O Platform</div></a><a class="pagination-nav__link pagination-nav__link--next" href=/product/fo/Debtor-Management><div class=pagination-nav__sublabel>Next</div><div class=pagination-nav__label>Debtor Management</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href=#fee-schedule-parameters-product class="table-of-contents__link toc-highlight">Fee Schedule Parameters (Product)</a><li><a href=#fee-schedule-parameters-gems class="table-of-contents__link toc-highlight">Fee Schedule Parameters (GEMS)</a><li><a href=#fee--charge-interval-setup class="table-of-contents__link toc-highlight">Fee & Charge Interval Setup</a><li><a href=#gender-setup class="table-of-contents__link toc-highlight">Gender Setup</a><li><a href=#academic-year class="table-of-contents__link toc-highlight">Academic Year</a><li><a href=#academic-year-product class="table-of-contents__link toc-highlight">Academic Year (Product)</a><li><a href=#academic-year-gems class="table-of-contents__link toc-highlight">Academic Year (GEMS)</a><li><a href=#visa-types class="table-of-contents__link toc-highlight">Visa Types</a><li><a href=#fee-categories class="table-of-contents__link toc-highlight">Fee Categories</a><li><a href=#payment-option-setup class="table-of-contents__link toc-highlight">Payment Option Setup</a><li><a href=#curriculum-gems class="table-of-contents__link toc-highlight">Curriculum (GEMS)</a><li><a href=#receipt-intercompany-mapping-gems class="table-of-contents__link toc-highlight">Receipt Intercompany Mapping (GEMS)</a><li><a href=#advance-discount-policy-gems class="table-of-contents__link toc-highlight">Advance Discount Policy (GEMS)</a><li><a href=#stream class="table-of-contents__link toc-highlight">Stream</a><li><a href=#deposit-policy class="table-of-contents__link toc-highlight">Deposit Policy</a><li><a href=#sibling-order class="table-of-contents__link toc-highlight">Sibling Order</a><li><a href=#sibling-order-setup class="table-of-contents__link toc-highlight">Sibling Order Setup</a><li><a href=#trade-agreement class="table-of-contents__link toc-highlight">Trade Agreement</a><li><a href=#customer-integration-mapping class="table-of-contents__link toc-highlight">Customer Integration Mapping</a><li><a href=#fee-type class="table-of-contents__link toc-highlight">Fee Type</a><li><a href=#receipt-intercompany-mapping class="table-of-contents__link toc-highlight">Receipt Intercompany Mapping</a><li><a href=#fee-master-template-to-sync-items-to-ce class="table-of-contents__link toc-highlight">Fee Master Template to Sync Items to CE</a><li><a href=#non-tuition-item-price-setup class="table-of-contents__link toc-highlight">Non-Tuition Item Price Setup</a><li><a href=#link-tuition-fee-item-to-academic-year class="table-of-contents__link toc-highlight">Link Tuition Fee Item to Academic Year</a></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class=footer__copyright>© 2026 tmrw education. All rights reserved.</div></div></div></footer></div></body>
