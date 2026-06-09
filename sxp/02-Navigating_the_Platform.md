@@ -43,7 +43,8 @@ For Teachers:
 2. Teachers will be able to track attendance for their classes. The classes appear as a list in the calendar schedule.
 3. Above the calendar, there is a display of today's date. There are arrow keys to change the date.
 4. On the top-right corner of the schedule panel, use the **Day / Week** dropdown to switch between **Day and Week** view.
-5. On the left of the screen are tiles for information on **Late students**, **Absent students** on assessment days and **Attendance analytics**.
+5. On the left of the screen are tiles for information on **Late students**, **Unexcused absences**, and **Absent students** on assessment days.
+6. There is a small tile to **View analytics**.
 
 ![Navigation_Bar_Attendance_Teachers_1](./99-Images/navigation_bar_attendance_teachers_1.png)
 
@@ -55,7 +56,7 @@ For Administrators/School Leaders:
 The **Notices** page displays upcoming and relevant notices to you. You can create and manage notices, and filter them by your interests.
 
 1. Navigate to the **Notices** page, through the **Navigation bar**.
-2. There are options to **create notice** or **Manage notices**.
+2. There are options to **Manage notices** or **Create notice**.
 3. Along the top-right of the screen is a dropdown menu to select relevant **Interests** by category.
 4. **Featured notices** appear per day.
 5. The interests are displayed below the featured notices as tiles. They can also be viewed by filtering into categories.
@@ -83,7 +84,7 @@ You can plan for school activities and manage resources on the **Activities** pa
 
 ### Wellbeing
 
-This is the main space to monitor and support student wellbeing. Here you can create and track wellbeing notes. There are seven wellbeing metrics that display the different categories or trends of wellbeing notes.
+This is the main space to monitor and support student wellbeing. Here you can create and track wellbeing notes. There are several wellbeing metrics that display the different category trends of wellbeing notes.
 
 ### Extra-curricular Activities
 
