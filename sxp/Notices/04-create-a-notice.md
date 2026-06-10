@@ -1,4 +1,5 @@
 ---
+id: create-notice
 summary:
   - "Open **Notices** and click **Create notice +**."
   - "Fill in the **Information**, then set the **Audience type** and **Visibility**."
