@@ -1,2 +1,9 @@
 # macOS
 .DS_Store
+
+# Build / tooling artifacts — these belong in the help-site repo, never here
+node_modules
+build/
+.docusaurus/
+.codegraph/
+.playwright-mcp/
