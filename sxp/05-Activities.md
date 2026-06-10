@@ -9,6 +9,8 @@
 1. Navigate to the **Activities** tab in the **Navigation bar**.
 2. Scroll below the tiles to **All activities**.
 
+![Activity_Coordinator_View_All_Activities_1](./99-Images/activity_coordinator_view_all_activities_1.png)
+
 ### Activity coordinator — approve all activities
 
 ### Teacher — view activity requests
