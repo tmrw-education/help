@@ -1,5 +1,8 @@
 name: Deploy to GitHub Pages
 
+# Content lives here; the build tooling lives in tmrw-education/help-site.
+# This job pulls both together, builds, and publishes to GitHub Pages.
+
 on:
   push:
     branches:
@@ -14,23 +17,40 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout content (this repo)
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          path: content
+
+      - name: Checkout site tooling
+        uses: actions/checkout@v4
+        with:
+          repository: tmrw-education/help-site
+          path: site
+
+      - name: Copy content into the site
+        run: |
+          for d in sxp hr finops pxp lxp; do
+            rm -rf "site/$d"
+            cp -r "content/$d" "site/$d"
+          done
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: site/package-lock.json
 
       - name: Install dependencies
         run: npm ci
+        working-directory: site
 
       - name: Build
         run: npm run build
+        working-directory: site
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          publish_dir: ./site/build
