@@ -10,10 +10,10 @@
 5. Make the edits as needed.
 6. Click **Save changes**.
 
-![Edit_a_Notice_1](../99-Images/edit_a_notice_1.png)
+![Edit_a_Notice_1](./images/edit_a_notice_1.png)
 
-![Edit_a_Notice_2](../99-Images/edit_a_notice_2.png)
+![Edit_a_Notice_2](./images/edit_a_notice_2.png)
 
-![Edit_a_Notice_3](../99-Images/edit_a_notice_3.png)
+![Edit_a_Notice_3](./images/edit_a_notice_3.png)
 
-![Edit_a_Notice_4](../99-Images/edit_a_notice_4.png)
+![Edit_a_Notice_4](./images/edit_a_notice_4.png)

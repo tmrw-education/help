@@ -6,4 +6,4 @@
 4. There is a list of user-created notices.
 5. Use the **Search** or **Filter** functions to find the notice (if needed).
 
-![View_Published_Notices_1](../99-Images/view_published_notices_1.png)
+![View_Published_Notices_1](./images/view_published_notices_1.png)

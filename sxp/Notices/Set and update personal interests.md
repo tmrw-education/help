@@ -9,4 +9,4 @@ This feature allows you to customise and view the **Notices** types most relevan
 
 > **Note:** *All notices can still be viewed under their corresponding tabs.*
 
-![Set_and_Update_Personal_Interests_1](../99-Images/set_and_update_personal_interests_1.png)
+![Set_and_Update_Personal_Interests_1](./images/set_and_update_personal_interests_1.png)
