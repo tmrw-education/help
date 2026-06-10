@@ -17,23 +17,18 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
+      # Lay the two repos out as siblings so the site's config can read content
+      # from ../help (the same CONTENT default it uses for local dev).
       - name: Checkout content (this repo)
         uses: actions/checkout@v4
         with:
-          path: content
+          path: help
 
       - name: Checkout site tooling
         uses: actions/checkout@v4
         with:
           repository: tmrw-education/help-site
           path: site
-
-      - name: Copy content into the site
-        run: |
-          for d in sxp hr finops pxp lxp; do
-            rm -rf "site/$d"
-            cp -r "content/$d" "site/$d"
-          done
 
       - uses: actions/setup-node@v4
         with:
