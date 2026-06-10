@@ -63,6 +63,23 @@
 
 ### Request an activity
 
+1. Navigate to the **Activities** tab from the **Navigation bar**.
+2. Click **Request activity →** on the tile on the right.
+3. Select the **Event type** from the dropdown in the pop-up.
+4. The **Submit** button only enables when you have selected an event.
+5. Complete the four steps of the application:
+    - Activity details
+    - Resource booking
+    - Risk management
+    - Review and submit
+> **Note:** *Any missing fields will be highlighted and mentioned at the end of the application process. They will be indicated by a yellow circle with an exclamation mark. There will be a pen icon to edit and update the information. The final **Submit** button will not be enabled if there are **Missing required fields**.*
+
+![Request_an_Activity_1](./99-Images/request_an_activity_1.png)
+
+![Request_an_Activity_2](./99-Images/request_an_activity_2.png)
+
+![Request_an_Activity_3](./99-Images/request_an_activity_3.png)
+
 ### Review submitted volunteer offers
 
 ---
