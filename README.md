@@ -29,7 +29,7 @@ the other apps.
 
 1. Edit or add Markdown files inside your app's folder (e.g. `sxp/`).
 2. Put images in an `images/` folder beside your articles (one per topic, e.g.
-   `sxp/03-Attendance/images/`), or in the shared `99-Images/` folder.
+   `sxp/03-Attendance/images/`).
 3. Commit and push (GitHub Desktop or the web editor).
 
 That's it. Every push to `main` automatically rebuilds and publishes the live
