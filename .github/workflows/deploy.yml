@@ -20,17 +20,17 @@ jobs:
       # Lay the two repos out as siblings so the site's config can read content
       # from ../help (the same CONTENT default it uses for local dev).
       - name: Checkout content (this repo)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           path: help
 
       - name: Checkout site tooling
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: tmrw-education/help-site
           path: site
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
