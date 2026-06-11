@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# View a student's timetable
+# View timetable
 
 See what a student has on today — the day's classes, where they are, and what
 they're in right now. The timetable is read-only, like the rest of the profile.

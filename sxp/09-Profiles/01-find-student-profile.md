@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# Find and open a student profile
+# Find a student profile
 
 A student profile is the single read-only record for one student — their
 details, contacts, alerts, and timetable. The quickest way in is their name,

@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# View a past session (change the roll date)
+# View a past roll session
 
 The roll opens on today by default. Use the date picker to look back at an
 earlier session for the same class.

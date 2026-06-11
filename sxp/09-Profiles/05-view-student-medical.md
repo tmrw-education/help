@@ -11,7 +11,7 @@ video:
   bunny:
 ---
 
-# View a student's medical information
+# View medical info
 
 The **Medical** tab gathers a student's condition, medication, care and medical
 plans, vaccination record, and their doctor. Like the rest of the profile it is

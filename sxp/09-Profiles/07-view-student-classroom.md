@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# View a student's classroom and learning information
+# View classroom & learning
 
 The **Classroom management** tab gathers a student's learning programme, the
 courses they're enrolled in, their overall attendance, and any diagnosed

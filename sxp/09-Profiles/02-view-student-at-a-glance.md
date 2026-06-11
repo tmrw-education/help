@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# View a student's details and alerts (At a glance)
+# View a student at a glance
 
 **At a glance** is the landing tab of a student's profile — their photo and core
 details, a row of alert icons, and any shared documents. Everything here is

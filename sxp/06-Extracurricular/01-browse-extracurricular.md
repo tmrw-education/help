@@ -11,7 +11,7 @@ video:
   bunny:
 ---
 
-# Browse extra-curricular activities and requests
+# Browse extra-curricular activities
 
 The **Extra curricular** hub is where you find the school's clubs and teams —
 their requests, bookings, approved activities and assigned staff.

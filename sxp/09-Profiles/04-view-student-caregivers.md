@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# View a student's parents, caregivers and emergency contacts
+# View caregivers & contacts
 
 The **Caregivers** tab on a student's profile shows who the family is, how to
 reach them, custody status, and who's authorised to collect or be contacted —

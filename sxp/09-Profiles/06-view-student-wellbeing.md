@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# View a student's wellbeing notes
+# View wellbeing notes
 
 The **Wellbeing** tab on a student profile gathers every wellbeing note raised
 for that student, plus the contacts to escalate to. Like the rest of the

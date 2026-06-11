@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-# View a student's demographics
+# View demographics
 
 The **Demographics** tab holds a student's fuller identity record — residency,
 transport, visa details, and any siblings enrolled at the school. Everything is
