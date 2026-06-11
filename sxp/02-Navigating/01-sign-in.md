@@ -18,7 +18,7 @@ StaffXP uses your GEMS Microsoft 365 account — the same login you use for emai
 
    Open StaffXP and click **Sign in with Microsoft**.
 
-   {/* CAPTURE: the StaffXP sign-in screen with the "Sign in with Microsoft" button */}
+   ![The StaffXP sign-in screen with the Sign in with Microsoft button](./images/sign-in-1.png)
 
 2. Enter your details
 
