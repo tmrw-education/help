@@ -1,4 +1,4 @@
-# tmrw Help — content
+# Help — content
 
 The documentation content for the tmrw education help site.
 
