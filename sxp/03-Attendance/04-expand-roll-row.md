@@ -22,7 +22,7 @@ day across every class — not just your lesson.
    The card loads its detail the moment you open it, so it may take a beat to
    appear.
 
-   {/* CAPTURE: an attendance roll with one student row expanded into its quick-glance card */}
+   ![A roll row expanded into its quick-glance card — alert icons, preferred name, language and age, the day's class timeline, and the attendance rate](./images/expand-roll-row-1.png)
 
 2. Check any alerts
 

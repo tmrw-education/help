@@ -23,7 +23,7 @@ list but not the approve or decline controls.
    filtered to **Pending** / **More info**, so the sign-ups waiting on you appear
    first.
 
-   {/* CAPTURE: Activities overview with the Parent volunteers tab open */}
+   ![The Parent volunteers tab open on the Activities overview, listing volunteers with Parent name, Event name, Child name, and Status](./images/review-parent-volunteers-1.png)
 
 2. Read the table
 
@@ -35,7 +35,7 @@ list but not the approve or decline controls.
    Click **Review** on a row to open the detail modal, where you can read the
    volunteer's submitted documents before you decide.
 
-   {/* CAPTURE: parent volunteer Review modal showing the submitted documents */}
+   ![The Review parent volunteer modal — the volunteer's details, role, and description, with the Documents section at the bottom](./images/review-parent-volunteers-2.png)
 
 4. Approve or decline
 

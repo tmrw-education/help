@@ -21,7 +21,7 @@ disability or learning difficulty. Like the rest of the profile, it's read-only
 
    On a student profile, open the **Classroom management** tab.
 
-   {/* CAPTURE: a student profile with the Classroom management tab selected */}
+   ![A student profile with the Classroom management tab selected, showing Learning programs and the Courses table](./images/view-student-classroom-1.png)
 
 2. Read the learning programme
 
@@ -44,4 +44,4 @@ disability or learning difficulty. Like the rest of the profile, it's read-only
    section shows a "none attached" line. Any field with no value shows a dash
    (**—**) — that's normal, not an error.
 
-   {/* CAPTURE: the Disability and learning difficulties block showing a diagnosed learning disability document link */}
+   ![The Disability and learning difficulties block with a diagnosed learning disability document link](./images/view-student-classroom-2.png)

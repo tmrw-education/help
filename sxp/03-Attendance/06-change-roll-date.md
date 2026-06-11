@@ -19,7 +19,7 @@ earlier session for the same class.
 
    On the roll toolbar, click the **calendar icon** (**Change attendance date**).
 
-   {/* CAPTURE: the roll toolbar with the calendar / Change attendance date icon */}
+   ![The roll toolbar with the calendar icon highlighted and its Change attendance date tooltip](./images/change-roll-date-1.png)
 
 2. Pick a date
 

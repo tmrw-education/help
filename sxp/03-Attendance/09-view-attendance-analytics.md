@@ -22,7 +22,7 @@ student list. You need **Attendance-analytics read** access; without it the
    can also reach it from a **View trends** tile on a leader or officer
    dashboard.
 
-   {/* CAPTURE: the teacher Attendance page with the View analytics button highlighted top right */}
+   ![The teacher Attendance page with the View analytics button at the top right](./images/view-attendance-analytics-1.png)
 
 2. Check the at-risk banner
 
@@ -42,7 +42,7 @@ student list. You need **Attendance-analytics read** access; without it the
    chart, and an absence-by-day chart. Use the **by class** filter to focus the
    charts on a single class.
 
-   {/* CAPTURE: the Attendance analytics Trends charts with the by-class filter open */}
+   ![The Attendance analytics Trends charts — attendance trend, absence-timing, and absence-by-day — with the by-class filter open](./images/view-attendance-analytics-2.png)
 
 5. Work the at-risk table
 

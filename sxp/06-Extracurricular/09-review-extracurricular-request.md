@@ -20,13 +20,13 @@ Coordinators and school leaders act on **Pending** extra-curricular requests —
 
    On the **All requests** tab, find a **Pending** request and click **Review** in the row (or click the request name). The tab opens pre-filtered to **Pending** for approvers, so it's already your triage queue.
 
-   {/* CAPTURE: All requests tab filtered to Pending, with the Review row action highlighted */}
+   ![The All requests tab filtered to Pending, with the Pending request rows ready to open for review](./images/review-extracurricular-request-1.png)
 
 2. Read the full plan
 
    The request opens read-only on the **Review and submit** summary — activity details, venue, attendees, costs, resources, and risks. To drop specific students from enrolment, open the **Attendees** section and use **Exclude students**; those students won't be enrolled when you approve. This control is review-only.
 
-   {/* CAPTURE: read-only Review and submit summary with the Exclude students control in the Attendees section */}
+   📸 needs image: the read-only Review and submit summary with the **Exclude students** control in the Attendees section. (The Exclude students control lives in the gated Step 4 of the create/edit wizard and couldn't be reached during the autonomous capture pass without completing the full multi-step form — capture manually.)
 
 3. Choose an outcome
 

@@ -21,7 +21,7 @@ control.
    Click the **bell** icon at the top right of the header (it shows on every
    page). The **Notifications** slide-out panel opens.
 
-   {/* CAPTURE: the bell icon in the top header bar with the Notifications panel open beside it */}
+   ![The Notifications slide-out panel open from the top-bar bell, with the Do not disturb toggle highlighted in the panel header](./images/set-do-not-disturb-1.png)
 
 2. Switch on Do not disturb
 

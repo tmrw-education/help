@@ -24,7 +24,7 @@ coordinator approves it afterwards.
    trip**, and click **Submit**. The four steps run across the top of the page
    header; use **Next** / **Back** to move, or the step indicator to jump.
 
-   {/* CAPTURE: the Request activity type picker with Overseas trip selected */}
+   ![The Request activity type picker with Overseas trip chosen in the Event type dropdown](./images/request-an-overseas-trip-1.png)
 
 2. Fill in the activity details
 
@@ -32,15 +32,15 @@ coordinator approves it afterwards.
    time** / **End time**, and optionally a cover image. Under **Attendees**, pick
    your **Student groups** (by house, year group, class or roll group) and name
    the **lead** staff member and a **second-in-charge**. Set the **insurance**
-   option, and add the **maximum attendees** cap and **wait list** — overseas trips
-   are the only activity type with these.
+   option, and set the **Max no. of students** cap and **Enable waitlist** —
+   overseas trips are the only activity type with these.
 
    Overseas trips support **multiple off-site venue entries**, so add each venue
    (name, address, phone, email, website and contact). Finish the step with the
    activity's purpose and curriculum alignment, plus a **schedule file** and a
    **packing-list file**.
 
-   {/* CAPTURE: Activity details step showing maximum attendees and wait list fields */}
+   ![The Attendees section of an overseas-trip request, showing the Max no. of students field and the Enable waitlist checkbox](./images/request-an-overseas-trip-2.png)
 
 3. Book resources (optional)
 

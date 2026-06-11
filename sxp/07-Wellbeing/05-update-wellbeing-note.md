@@ -20,13 +20,13 @@ Change a note's content after it's created. The fields are the same as when you 
 
    Click the **Case title** to open the case detail page, then click **Edit details** in the header. **Edit details** is disabled while a case is **resolved** or **cancelled** — reopen the case (set it back to Active) before you can edit it.
 
-   {/* CAPTURE: case detail header with the Edit details action highlighted */}
+   ![The case detail header with the Edit details action at the top right](./images/update-wellbeing-note-1.png)
 
 2. Change the fields
 
    In the **Edit wellbeing note** modal, update the **Title**, **Note type**, **Sentiment**, **Priority**, or **Description**. You can also change **Notify parents** / staff, linked notes, or attachments. The **Subject** (student) section is hidden, so you cannot reassign a note to a different student — the student is fixed when the note is created.
 
-   {/* CAPTURE: Edit wellbeing note modal with fields pre-filled */}
+   ![The Edit wellbeing note modal with the Title, Note type, Description, Sentiment, Priority, and linked notes pre-filled](./images/update-wellbeing-note-2.png)
 
 3. Save your changes
 

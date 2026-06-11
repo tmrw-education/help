@@ -22,7 +22,7 @@ leader can do this — other roles never see the **Emergency** button.
    only appears for school leaders, so if you can't see it you don't have
    permission to declare an emergency.
 
-   {/* CAPTURE: top app toolbar with the red Emergency button */}
+   ![The top app toolbar with the red Emergency button at the right](./images/declare-emergency-1.png)
 
 2. Choose the incident type and message
 
@@ -30,7 +30,7 @@ leader can do this — other roles never see the **Emergency** button.
    (required) and, if you want, type a **Message to staff** (up to 100
    characters).
 
-   {/* CAPTURE: Initiate emergency protocol dialog with Incident type and Message to staff fields */}
+   ![The Initiate emergency protocol dialog with the Incident type dropdown and Message to staff field](./images/declare-emergency-2.png)
 
 3. Confirm to start the emergency
 

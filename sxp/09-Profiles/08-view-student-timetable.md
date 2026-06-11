@@ -27,7 +27,7 @@ they're in right now. The timetable is read-only, like the rest of the profile.
    has no classes scheduled, the tab shows a "nothing scheduled" message instead
    of a list.
 
-   {/* CAPTURE: the Timetable tab showing Today's Timetable with several class rows */}
+   ![The Timetable tab showing Today's Timetable with several class rows](./images/view-student-timetable-1.png)
 
 3. Spot the class happening now
 

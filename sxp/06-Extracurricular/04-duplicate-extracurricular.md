@@ -23,7 +23,7 @@ Any staff member can do this from their own requests.
    activities** tab, which lists approved activities. The **Replicate**
    (duplicate) icon is the row action on Approved rows.
 
-   {/* CAPTURE: an Approved row in the Supervising activities tab with the Replicate icon in the row-actions cell */}
+   ![An Approved row in the Supervising activities tab with the Replicate icon in the row-actions cell](./images/duplicate-extracurricular-1.png)
 
 2. Open the copy
 

@@ -23,7 +23,7 @@ detail.
 
    On the student's profile, click the **Medical** tab.
 
-   {/* CAPTURE: a student profile with the Medical tab selected */}
+   ![A student profile with the Medical tab selected, showing Medical details and the attached plan links](./images/view-student-medical-1.png)
 
 2. Read Medical details
 
@@ -40,7 +40,7 @@ detail.
    student info, the **Is vaccinated** and **Parent consent** ticks, vaccination
    and administered dates, and links to the vaccination card and card URL.
 
-   {/* CAPTURE: the View vaccination record pop-up showing the latest record */}
+   ![The View vaccination record pop-up showing the latest record — student info, the Is vaccinated and Parent consent ticks, and the vaccination dates](./images/view-student-medical-2.png)
 
 4. Read Doctor details
 

@@ -23,7 +23,7 @@ students into the activity or take them off the list.
    **Maximum** number of students, and the columns are **Name**,
    **Year group/s**, and **Gender**.
 
-   {/* CAPTURE: The Waitlist table on an activity details page, showing the Maximum count and the Name / Year group/s / Gender columns */}
+   ![The Waitlist table on an activity details page — the Maximum count and the Name / Year group/s / Gender columns with a tick-box on each row](./images/manage-extracurricular-waitlist-1.png)
 
 2. Select the students you want to act on
 
@@ -31,7 +31,7 @@ students into the activity or take them off the list.
    appears with **Approve** and **Remove**. There are no per-row buttons —
    selecting rows is how you choose who to act on.
 
-   {/* CAPTURE: One or more waitlist rows ticked, with the batch action bar showing Approve and Remove */}
+   ![Two waitlist rows ticked, with the batch action bar above the table showing Approve and Remove](./images/manage-extracurricular-waitlist-2.png)
 
 3. Approve or remove them
 

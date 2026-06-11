@@ -23,7 +23,7 @@ read-only: you view and copy, you never edit a student's record.
    student. The profile opens on **At a glance**. Opening it needs
    student-profile read access.
 
-   {/* CAPTURE: a student profile open on the At a glance tab, showing the photo with the alert icon row, the Student details block, and Shared documents */}
+   ![A student profile open on the At a glance tab — the photo with the alert icon row, the Student details block, Shared documents, and the alert descriptions](./images/view-student-at-a-glance-1.png)
 
 2. Read the student's details
 

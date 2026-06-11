@@ -26,7 +26,7 @@ across all four steps is valid; errors show inline as you go.
    activity** on the **Request an extra-curricular activity** action card. To
    resume a saved draft instead, click **Edit** on its **New/Draft** request row.
 
-   {/* CAPTURE: the Extra-curricular hub with the Create extra-curricular activity action card */}
+   ![The two action cards on the Extra-curricular hub, with the Request an extra-curricular activity (Create) card highlighted](./images/request-extracurricular-1.png)
 
 2. Fill in the activity details (Step 1)
 
@@ -38,7 +38,7 @@ across all four steps is valid; errors show inline as you go.
    .png/.jpg/.jpeg, one file), or **Fixtures** documents (≤10 MB each,
    .pdf/.doc/.docx).
 
-   {/* CAPTURE: Step 1 General information with the event and registration date/time fields */}
+   ![Step 1 Activity details, General information — the Extra-curricular name, Extra activity type, and the event and registration start/end date and time fields](./images/request-extracurricular-2.png)
 
 3. Set the venue and attendees (Step 1)
 

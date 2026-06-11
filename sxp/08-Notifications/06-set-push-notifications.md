@@ -20,16 +20,16 @@ are on by default. Every signed-in staff member can change this setting.
 
    Open the **user menu** (your avatar, top-right) and choose **Settings**.
 
-   {/* CAPTURE: the user menu open from the top-right avatar, with Settings highlighted */}
+   ![The user menu open from the top-right avatar, with Settings highlighted](./images/set-push-notifications-1.png)
 
 2. Switch push notifications on or off
 
-   In the **Notifications** section, switch **Push notifications** on or off,
-   then save the page as usual. A pop-up only appears when **Push notifications**
+   In the **Notifications** section, switch **Push notifications** on or off —
+   the change applies instantly. A pop-up only appears when **Push notifications**
    is on *and* **Do not disturb** is off — either one switched off stops the
    pop-ups.
 
-   {/* CAPTURE: the Notifications section of the Settings page showing the Push notifications toggle */}
+   ![The Notifications section of the Settings page with the Push notifications toggle set to On](./images/set-push-notifications-2.png)
 
 3. Know what this does and does not change
 

@@ -22,7 +22,7 @@ this; the controls are the same for everyone.
    panel, then click **Dismiss all** in the panel header. The list clears
    straight away, with no confirmation step.
 
-   {/* CAPTURE: the Notifications bell panel open, with Dismiss all in the panel header */}
+   ![The Notifications bell panel open, with Dismiss all highlighted in the panel header](./images/dismiss-all-notifications-1.png)
 
 2. From the Notifications page
 
@@ -32,7 +32,7 @@ this; the controls are the same for everyone.
    Continue?"* — click **Dismiss all** to confirm or **Cancel** to back out.
    **Dismiss all** is disabled when there is nothing left to clear.
 
-   {/* CAPTURE: the Notifications page with the Dismiss all confirmation pop-up */}
+   ![The Dismiss all confirmation pop-up — "All notifications will be permanently dismissed. Continue?" with Cancel and Dismiss all](./images/dismiss-all-notifications-2.png)
 
 3. What gets cleared
 

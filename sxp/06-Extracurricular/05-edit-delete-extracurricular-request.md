@@ -18,7 +18,7 @@ Edit and Delete are only available while a request is still **New** or **Draft**
 
    On the **Extra curricular** hub, open the **All requests** tab (coordinators and leaders) or **Your requests** tab (other staff). The **Status** column shows a coloured tag — look for a **New** or **Draft** request. Use the search box or the **Status** filter to narrow the list.
 
-   {/* CAPTURE: request queue tab with a New/Draft row showing the Edit pencil and Delete bin actions */}
+   ![A Draft request row in the queue showing the Edit (pencil) and Delete (bin) actions](./images/edit-delete-extracurricular-request-1.png)
 
 2. Edit it
 

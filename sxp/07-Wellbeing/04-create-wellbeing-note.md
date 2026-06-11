@@ -24,7 +24,7 @@ disabled when you are offline.
    right). It opens as a single **Create wellbeing note** window with **Subject**,
    **Note**, **Link**, **Notifications**, and **Attachments** sections.
 
-   {/* CAPTURE: the Create wellbeing note modal open on the Wellbeing landing page, showing the Subject and Note sections */}
+   ![The Create wellbeing note window showing the Subject and Note sections](./images/create-wellbeing-note-1.png)
 
 2. Choose the student
 
@@ -37,9 +37,8 @@ disabled when you are offline.
 3. Write the note
 
    In **Note**, enter the **Title** (up to 100 characters), choose a **Note
-   type**, write the **Description**, and set a **Sentiment** (which drives the
-   metrics cards on the Wellbeing landing page) and a **Priority** (Low, Medium,
-   High, or Critical). All of these are required.
+   type**, write the **Description**, and set a **Sentiment** and a **Priority**
+   (Low, Medium, High, or Critical). All of these are required.
 
 4. Add links, notifications, or attachments
 

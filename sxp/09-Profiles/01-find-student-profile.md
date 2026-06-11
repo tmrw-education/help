@@ -24,7 +24,7 @@ which is a link almost everywhere it appears.
    click from; the starting screen only sets the breadcrumb back-link, so opening
    from a class roll lets that trail return you to the roll.
 
-   {/* CAPTURE: a class roll or attendance list with a student's name shown as a clickable link */}
+   ![An attendance list with each student's name shown as a clickable link that opens their profile](./images/find-student-profile-1.png)
 
 2. Or search by name
 
@@ -34,7 +34,7 @@ which is a link almost everywhere it appears.
    their profile. Searching for students needs search access — without it, the
    students section simply doesn't appear.
 
-   {/* CAPTURE: the top toolbar search open, showing results split into Pages and Students */}
+   ![The top-toolbar search open, with results split into Pages and Students](./images/find-student-profile-2.png)
 
 3. Confirm you're on the right student
 

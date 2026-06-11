@@ -27,4 +27,4 @@ a fire-drill backup — you can print it straight from the roll.
    Printing needs a live connection — if you're offline it fails with a message,
    so reconnect and try again.
 
-   {/* CAPTURE: an attendance roll with the toolbar print icon highlighted */}
+   ![The roll toolbar with the print icon highlighted and its Print attendance table tooltip](./images/print-roll-1.png)

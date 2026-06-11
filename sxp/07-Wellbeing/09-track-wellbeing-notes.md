@@ -19,7 +19,7 @@ to you and the wellbeing notes you own, split across three tabs.
 
    On the **Wellbeing** landing page, click **Track my notes** at the top right.
 
-   {/* CAPTURE: Wellbeing landing page with the Track my notes button at the top right */}
+   ![The Wellbeing landing page header with the Track my notes button at the top right](./images/track-wellbeing-notes-1.png)
 
 2. Check your open tasks
 
@@ -30,7 +30,7 @@ to you and the wellbeing notes you own, split across three tabs.
    **expand** it for the description, status, created/updated dates, and
    **Open case** / **Edit task** buttons.
 
-   {/* CAPTURE: Open tasks tab with one row expanded showing Open case and Edit task buttons */}
+   ![The Track wellbeing notes workspace on the Open tasks tab, with one row expanded to show its description, status, dates, and the Open case and Edit task buttons](./images/track-wellbeing-notes-2.png)
 
 3. Review your active notes
 

@@ -23,7 +23,7 @@ appear on the leader / officer dashboard.
    On the **Attendance overview**, click a **View trends** tile. It opens the
    **Attendance trends** page.
 
-   {/* CAPTURE: A View trends tile on the leader/officer Attendance overview */}
+   ![The View trends tile on the leader/officer Attendance overview](./images/view-attendance-trends-1.png)
 
 2. Set the filters
 
@@ -37,4 +37,4 @@ appear on the leader / officer dashboard.
    **Learning-area attendance trends** (attendance by subject area). Each list
    plots its pattern as horizontal bars with a one-line summary above it.
 
-   {/* CAPTURE: The Attendance trends page showing the three bar lists — Absence timing, Tardiness timing, and Learning-area attendance trends */}
+   ![The Attendance trends page — the period, class, and year filters above the three bar lists: Absence timing, Tardiness timing, and Learning-area attendance trends](./images/view-attendance-trends-2.png)

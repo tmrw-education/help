@@ -23,7 +23,7 @@ only set the new dates and change whatever's different.
    **Approved** request, then use its row action **Replicate**. You can also
    start from a row in **All activities** using the **Duplicate** action.
 
-   {/* CAPTURE: an Approved request row with the Replicate row action visible */}
+   ![An Approved request row in the table with the Replicate row action visible](./images/duplicate-an-approved-activity-1.png)
 
 2. Open the pre-filled request
 

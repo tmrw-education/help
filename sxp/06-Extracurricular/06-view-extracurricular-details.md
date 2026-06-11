@@ -20,7 +20,7 @@ The details page is the management page for a live, approved activity.
    details page opens. This tab lists only **Approved** and **Rejected**
    activities.
 
-   {/* CAPTURE: the Supervising activities tab with an activity name link about to be clicked */}
+   ![The Supervising activities tab — a table of approved activities with Name, Event type, Event start/end, Activity lead, and Status, the names as clickable links](./images/view-extracurricular-details-1.png)
 
 2. Read the header
 
@@ -28,7 +28,7 @@ The details page is the management page for a live, approved activity.
    attributes row: **Dates**, **Lead**, **Year groups**, and **Attendees**. The
    **Attendees** value is shown as registered out of maximum, for example 18 / 30.
 
-   {/* CAPTURE: activity details header with name, approval status tag, and the Dates / Lead / Year groups / Attendees row */}
+   ![The activity details header — name with the Approved status tag and the attributes row: Dates, Lead, Year groups, and Attendees](./images/view-extracurricular-details-2.png)
 
 3. Check the venue details
 
@@ -36,7 +36,7 @@ The details page is the management page for a live, approved activity.
    room configuration, capacity, address, and contact details. If a fixtures file
    was attached, a **View fixture** link appears here.
 
-   {/* CAPTURE: Venue details panel with the View fixture link */}
+   ![The Venue details panel — location type, room, configuration, capacity, and the View fixture link](./images/view-extracurricular-details-3.png)
 
 4. Review the staffing
 
@@ -49,7 +49,7 @@ The details page is the management page for a live, approved activity.
    anyone waiting for a place. Each table shows **Name**, **Year group/s**, and
    **Gender**, with the maximum places labelled on the table.
 
-   {/* CAPTURE: Registered participants and Waitlist tables side by side */}
+   ![The Registered participants table and the Waitlist table, each with Name, Year group/s, and Gender columns and a labelled maximum](./images/view-extracurricular-details-4.png)
 
 6. Find post-event feedback
 

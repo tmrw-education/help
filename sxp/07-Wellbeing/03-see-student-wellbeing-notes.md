@@ -19,7 +19,7 @@ wellbeing note raised for that one student.
 
    Go to the student's profile and select the **Wellbeing** tab.
 
-   {/* CAPTURE: a student profile with the Wellbeing tab selected, showing Staff to notify and the Wellbeing notes table */}
+   ![A student profile with the Wellbeing tab selected, showing Staff to notify and the Wellbeing notes table](./images/see-student-wellbeing-notes-1.png)
 
 2. Check who gets notified
 

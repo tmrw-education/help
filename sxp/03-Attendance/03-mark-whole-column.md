@@ -22,11 +22,11 @@ hidden.
    On the roll, click the **action control on today's column header**. The menu
    reflects the column's current state.
 
-   {/* CAPTURE: an attendance roll with the today column header action control open, showing mark all Present / mark all Absent and reset */}
+   ![Today's column header menu open on the roll, showing All present and All absent](./images/mark-whole-column-1.png)
 
 2. Mark everyone at once
 
-   Choose **mark all Present** or **mark all Absent**. Every student in today's
+   Choose **All present** or **All absent**. Every student in today's
    column is set to that status, except any student who already holds an
    **approved absence** — bulk marking skips those so it never overwrites a
    resolved absence.

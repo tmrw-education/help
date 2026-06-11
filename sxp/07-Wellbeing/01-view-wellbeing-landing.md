@@ -20,15 +20,15 @@ top, then a table of your wellbeing notes below.
    Click **Wellbeing** in the main navigation. The page opens on the metrics
    strip and your notes table.
 
-   {/* CAPTURE: The Wellbeing landing page showing the Metrics strip of stat cards across the top and the notes table below */}
+   ![The Wellbeing landing page — the Metrics strip of stat cards across the top and the notes table below](./images/view-wellbeing-landing-1.png)
 
 2. Read the metrics strip
 
    The **Metrics** cards show this month's figures with a "from previous month"
    change. **Total wellbeing notes** combines every category, and there is one
-   card per sentiment (for example Positive, Neutral, Negative, High concern)
-   with that month's count. The cards are read-only summary figures, not
-   clickable filters.
+   card per wellbeing category (Mental, Academic, Social, Emotional, Physical,
+   Environmental, Community) with that month's count. The cards are read-only
+   summary figures, not clickable filters.
 
 3. Browse the notes table
 

@@ -21,7 +21,7 @@ case from this page.
 
    On the student profile, click the **Wellbeing** tab.
 
-   {/* CAPTURE: a student profile with the Wellbeing tab selected */}
+   ![A student profile with the Wellbeing tab selected, showing Staff to notify and the Wellbeing notes table](./images/view-student-wellbeing-1.png)
 
 2. Check who to notify
 
@@ -37,7 +37,7 @@ case from this page.
    and set how many rows show per page — 10, 25, 50 or 100. When there are no
    notes the table reads **No wellbeing notes yet**.
 
-   {/* CAPTURE: the Wellbeing notes table showing Date, Title, Priority icon and Status tag columns */}
+   ![The Wellbeing notes table showing the Date, Title, Priority icon, and Status tag columns](./images/view-student-wellbeing-2.png)
 
    This table only shows notes. To raise a note or manage a case, work in the
    Wellbeing feature rather than here.

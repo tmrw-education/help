@@ -25,7 +25,7 @@ see them.
    correction requests to action), and **Resolved requests** (the history of
    what you've already cleared).
 
-   {/* CAPTURE: the Attendance overview with the officer tab bar showing Leave requests, Class rolls, Unresolved attendance, Correction request, and Resolved requests */}
+   ![The officer tab bar on the Attendance overview — Leave requests, Class rolls, Unresolved attendance, Correction request, and Resolved requests — with the Leave requests queue open below](./images/resolve-attendance-marks-1.png)
 
 2. Pick a tab and work the list
 

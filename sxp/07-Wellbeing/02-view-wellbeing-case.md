@@ -18,7 +18,7 @@ The case detail page is the full workspace for one wellbeing note.
 
    Click a **Case title** in any wellbeing table. The case detail page opens.
 
-   {/* CAPTURE: a wellbeing notes table with a Case title link about to be clicked */}
+   ![A wellbeing notes table with a Case title link highlighted, ready to click](./images/view-wellbeing-case-1.png)
 
 2. Read the header
 
@@ -31,7 +31,7 @@ The case detail page is the full workspace for one wellbeing note.
    The **Attachments** and **Linked records** in the header are clickable: images
    open in a preview, and other files download.
 
-   {/* CAPTURE: case detail header with status pill, student block, and attribute chips */}
+   ![The case detail header — title with the Active status pill, the student block, and the attribute chips for note type, staff notified, sentiment, priority, linked records, and attachments](./images/view-wellbeing-case-2.png)
 
 3. Work the case body
 
@@ -39,7 +39,7 @@ The case detail page is the full workspace for one wellbeing note.
    "last updated" label. **Comments** is the timeline of follow-up comments.
    **Tasks** lists the follow-up tasks for the case.
 
-   {/* CAPTURE: case body showing the Summary, Comments, and Tasks tiles */}
+   ![The case body — the Summary, Comments, and Tasks tiles side by side](./images/view-wellbeing-case-3.png)
 
 4. Edit the details
 

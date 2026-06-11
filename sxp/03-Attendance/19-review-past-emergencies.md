@@ -22,7 +22,7 @@ history is reachable by school leaders, not teachers or attendance officers.
    On the **Attendance** page, open **Emergency**. This shows a history table of
    past incidents — both drills and real emergencies.
 
-   {/* CAPTURE: the Emergency analytics history table of past incidents */}
+   ![The Emergency analytics history table — past incidents with Reason, Date, and Clear time](./images/review-past-emergencies-1.png)
 
 2. Read the history table
 
@@ -35,7 +35,7 @@ history is reachable by school leaders, not teachers or attendance officers.
    breaks down **time taken** per class and per muster point, and compares
    present against absent numbers.
 
-   {/* CAPTURE: the Emergency details page for a single incident showing per-class and per-muster-point timings */}
+   ![The Emergency details page for one incident — clear-time stat cards plus the per-class Emergency attendance table and per-muster-point breakdown](./images/review-past-emergencies-2.png)
 
 4. Print the report
 

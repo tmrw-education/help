@@ -23,7 +23,7 @@ member can open it.
    items you have (for example "View all (12)"). There is no main-navigation
    link — the bell panel is the only way in.
 
-   {/* CAPTURE: The bell slide-out panel with the View all link (showing its count) at the bottom */}
+   ![The bell slide-out panel with the View all link (showing its count, for example View all (14)) highlighted at the bottom](./images/view-all-notifications-1.png)
 
 2. Switch between Messages and Alerts
 
@@ -33,7 +33,7 @@ member can open it.
    tab — unlike the bell panel, where the same-looking tag shows only the unread
    count.
 
-   {/* CAPTURE: The Notifications page with the Messages and Alerts tabs, each showing a total count tag */}
+   ![The Notifications page with the Messages and Alerts tabs each showing a total count tag, plus the All / Unread / Read filter](./images/view-all-notifications-2.png)
 
 3. Filter the list
 

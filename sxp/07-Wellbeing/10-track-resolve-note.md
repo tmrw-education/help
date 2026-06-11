@@ -20,7 +20,7 @@ Move a wellbeing case between **Active**, **Resolved**, and **Cancelled**. Resol
 
    On the **Wellbeing** landing page, or on the **Active notes** tab in **Track wellbeing notes**, use the tick-boxes to select one or more notes. You can select several at once and change them all together.
 
-   {/* CAPTURE: the wellbeing notes table with two or three rows ticked and the batch action bar visible above it */}
+   ![The wellbeing notes table with two rows ticked and the batch action bar above it showing Mark Active, Mark Resolved, and Mark Cancelled](./images/track-resolve-note-1.png)
 
 2. Choose the new status
 

@@ -23,7 +23,7 @@ dashboard as leaders, plus an extra set of officer tabs.
    Click **Attendance** in the main navigation. As a leader or officer you land
    on **Attendance overview** instead of the teacher page.
 
-   {/* CAPTURE: The Attendance overview dashboard showing the top tile row, the chart row, and the Class rolls list below */}
+   ![The Attendance overview dashboard — the top tile row (Roll reminders, Students at risk, View trends), the chart row, and the Class rolls list below](./images/use-attendance-overview-1.png)
 
 2. Read the top tiles
 

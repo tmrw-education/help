@@ -25,7 +25,7 @@ class out of emergency mode and return the school to normal attendance.
    top app toolbar and on the **Emergency coordinator** page. Click it from either
    place.
 
-   {/* CAPTURE: Emergency coordinator page showing the Turn off emergency protocol button */}
+   ![The Emergency coordinator page with the Turn off emergency protocol button — in the red top toolbar and at the top of the page](./images/end-emergency-1.png)
 
 2. Confirm in the dialog
 

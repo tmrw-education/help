@@ -21,7 +21,7 @@ before starting a request.
 
    On the **Activities** overview, open the **All venues** tab.
 
-   {/* CAPTURE: the Activities overview with the All venues tab selected */}
+   ![The All venues tab selected on the Activities overview, listing venues with Venue name, Address, Learning area, Phone, and Status](./images/browse-approved-venues-1.png)
 
 2. Read the table
 

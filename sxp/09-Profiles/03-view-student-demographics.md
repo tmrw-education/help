@@ -21,7 +21,7 @@ read-only: you view and copy, you don't edit a student's record here.
    On a student profile, open the **Demographics** tab. It sits alongside the
    other profile tabs.
 
-   {/* CAPTURE: the student profile tab row with Demographics selected */}
+   ![A student profile with the Demographics tab selected, showing the Student details block](./images/view-student-demographics-1.png)
 
 2. Read Student details
 
@@ -44,6 +44,6 @@ read-only: you view and copy, you don't edit a student's record here.
    **Name**, **Relationship type**, **Academic year group**, and **Date of
    birth**. If the student has none, it shows **No enrolled siblings**.
 
-   {/* CAPTURE: the Enrolled siblings table on the Demographics tab */}
+   ![The Enrolled siblings table on the Demographics tab — Name, Relationship type, Academic year group, and Date of birth](./images/view-student-demographics-2.png)
 
    Any field with no value shows a dash (**—**) — this is normal, not an error.

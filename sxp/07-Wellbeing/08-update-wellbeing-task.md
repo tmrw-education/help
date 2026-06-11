@@ -18,15 +18,15 @@ Change a task's details, reassign it to a colleague, or move it through its stat
 
 1. Open the task
 
-   On the case detail page, click the **pencil** on the task in the **Tasks** list. Or from **Track my notes → Open tasks**, expand the task's row and click **Edit task**.
+   On the case detail page, open the task's **⋮** (options) menu in the **Tasks** list and choose **Edit**. Or from **Track my notes → Open tasks**, expand the task's row and click **Edit task**.
 
-   {/* CAPTURE: the Tasks tile on a case detail page with the pencil edit icon on a task row */}
+   ![A task's options menu open in the Tasks tile, showing the Open, Completed, Cancelled, and Edit actions](./images/update-wellbeing-task-1.png)
 
 2. Change the details
 
    In **Edit task**, update the **Title**, the **Assignee**, the **Status** (**Open**, **Completed**, or **Cancelled**), or the **Notes**. To hand the task to a different colleague, change the **Assignee** — the task moves to their **Open tasks** list.
 
-   {/* CAPTURE: the Edit task panel showing the Title, Assignee, Status and Notes fields */}
+   ![The Edit task panel showing the Title, Assignee, Status, and Notes fields](./images/update-wellbeing-task-2.png)
 
 3. Save
 

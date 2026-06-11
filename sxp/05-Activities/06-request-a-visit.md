@@ -22,7 +22,7 @@ It then goes to an activity coordinator as a **Pending** request for sign-off.
    On the **Activities** overview, click **Request activity**, choose **Visit**,
    and click **Submit**. To check a date first, use the **Calendar view** card.
 
-   {/* CAPTURE: the Request activity type picker with Visit selected */}
+   ![The Request activity type picker with Visit chosen in the Event type dropdown](./images/request-a-visit-1.png)
 
 2. Fill in the activity details
 
@@ -35,7 +35,7 @@ It then goes to an activity coordinator as a **Pending** request for sign-off.
    manually. In **Alignment and purpose** record the purpose and curriculum
    alignment and upload a **schedule file**.
 
-   {/* CAPTURE: Step 1 Activity details with the four-section list on the left */}
+   ![The Activity details step (Step 1 of 4) with the four-section list on the left — General information, Attendees, Venue details, Alignment and purpose](./images/request-a-visit-2.png)
 
 3. Book resources (optional)
 

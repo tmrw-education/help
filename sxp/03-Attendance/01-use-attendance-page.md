@@ -23,7 +23,7 @@ officer.
    Click **Attendance** in the main navigation. As a regular teacher you land on
    the stat cards and your day's calendar.
 
-   {/* CAPTURE: The teacher Attendance page showing three stat cards across the top and the day's class calendar below */}
+   ![The teacher Attendance page — three stat cards (Late students, Unexcused absences, Absent students) across the top and the day's class calendar below](./images/use-attendance-page-1.png)
 
 2. Read the three stat cards
 
@@ -36,7 +36,7 @@ officer.
 
    Click a card's **Show top 10** to open a list of those students.
 
-   {/* CAPTURE: The Show top 10 modal listing the students behind a stat card */}
+   ![The Top 10 late students modal — a table of Student ID, Student name, Late count, and Attendance %](./images/use-attendance-page-2.png)
 
 4. Open a class roll
 

@@ -22,7 +22,7 @@ and submit.
    **class name**, the **period and student count** (for example "Period 2 · 24
    students"), and the date.
 
-   {/* CAPTURE: Attendance calendar with a class ready to click to open its roll */}
+   ![The Attendance calendar with a class block highlighted, ready to click to open its roll](./images/take-attendance-roll-1.png)
 
 2. Read the roll table
 
@@ -38,11 +38,11 @@ and submit.
    Click the **status icon** in today's column to open the menu, then pick
    **Present**, **Absent**, or **Late**. The menu only lists the statuses you
    aren't already on. To set a whole column in one go, use the action control on
-   the today column header (**mark all Present** / **mark all Absent**), then
+   the today column header (**All present** / **All absent**), then
    adjust individuals — bulk marking skips students who already hold an approved
    absence.
 
-   {/* CAPTURE: A roll row with the status menu open showing Present, Absent, Late */}
+   ![A roll row with today's status menu open, showing Present, Absent, and Late](./images/take-attendance-roll-2.png)
 
 4. Submit the roll
 
@@ -66,4 +66,4 @@ and submit.
    you; clicking it opens the absence's details) and **Not yet marked** (the
    default before you mark, which still blocks Submit).
 
-   {/* CAPTURE: The attendance key popover showing the You set and System status groups */}
+   ![The attendance key popover — a You set group (Present, Absent, Unresolved late) and a System group (Approved absence, Not yet marked)](./images/take-attendance-roll-3.png)

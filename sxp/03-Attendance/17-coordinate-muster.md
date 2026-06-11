@@ -32,14 +32,14 @@ depends on your role, and both pages exist only while an emergency is active.
    submitted and where students still need accounting for. The figures update as
    teachers submit their emergency rolls.
 
-   {/* CAPTURE: Emergency coordinator page with the live muster table of all classes and muster points */}
+   ![The Emergency coordinator page Missing students table — live counts and rows grouped by muster point, each class showing its submission status](./images/coordinate-muster-1.png)
 
 3. Confirm cleared classes
 
    A **Cleared classes** table lists the classes that are fully accounted for, so
    you can focus on the ones still outstanding.
 
-   {/* CAPTURE: Cleared classes table on the Emergency coordinator page */}
+   ![The Cleared classes table on the Emergency coordinator page — Class, Muster point, Students, and Cleared at](./images/coordinate-muster-2.png)
 
 4. Watch your own muster point (Muster coordinator)
 
@@ -47,7 +47,7 @@ depends on your role, and both pages exist only while an emergency is active.
    the cleared classes for that point — your slice of the evacuation rather than
    the whole school.
 
-   {/* CAPTURE: Muster coordinator page showing one muster point's headcount and its cleared classes */}
+   ![The Muster coordinator page — one muster point's headcount and its cleared classes](./images/coordinate-muster-3.png)
 
 5. End the emergency (leaders only)
 

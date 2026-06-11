@@ -22,7 +22,7 @@ can open it.
    on the action card at the top of the hub. The calendar opens in the canvas
    pane.
 
-   {/* CAPTURE: The extra-curricular hub with the View calendar action card */}
+   ![The two action cards on the Extra-curricular hub, with the Extra-curricular calendar (View calendar) card highlighted](./images/view-extracurricular-calendar-1.png)
 
 2. Choose the view and dates
 
@@ -30,7 +30,7 @@ can open it.
    period you want. The next upcoming activity is highlighted for you
    automatically.
 
-   {/* CAPTURE: The calendar in Month view with colour-coded events */}
+   ![The extra-curricular calendar in Month view with colour-coded events and the Month / Week toggle](./images/view-extracurricular-calendar-2.png)
 
 3. Read the events
 

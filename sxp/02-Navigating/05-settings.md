@@ -3,7 +3,7 @@ id: staffxp-settings
 summary:
   - "Open the **User** icon ▸ **Settings**."
   - "Adjust **Appearance** (theme, font size), **Accessibility**, and **Notifications**."
-  - "Click **Save changes**."
+  - "Changes apply instantly — there's nothing to save."
 keywords: [settings, preferences, font size, accessibility, high contrast, reduced motion, push notifications, appearance]
 video:
   youtube:
@@ -18,7 +18,7 @@ Personalise StaffXP — appearance, readability, and notifications — from one 
 
    Click the **User** icon ▸ **Settings**.
 
-   {/* CAPTURE: the Settings panel showing Appearance, Accessibility, Notifications */}
+   ![The Settings page with the Appearance, Accessibility, and Notifications sections](./images/staffxp-settings-1.png)
 
 2. Appearance
 
@@ -34,6 +34,4 @@ Personalise StaffXP — appearance, readability, and notifications — from one 
 
    Toggle push notifications **on** or **off**.
 
-5. Save
-
-   Click **Save changes** (top right) to apply.
+Every change applies instantly across the platform — there's nothing to save.

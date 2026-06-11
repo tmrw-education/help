@@ -21,7 +21,7 @@ add them so they're accounted for in the headcount.
    On the **Emergency roll**, click **Students not on roll**. The button shows a
    live count once you've added anyone.
 
-   {/* CAPTURE: emergency roll header with the Students not on roll button */}
+   ![The emergency roll toolbar with the Students not on roll button](./images/add-off-roll-student-1.png)
 
 2. Add the student
 
@@ -29,7 +29,7 @@ add them so they're accounted for in the headcount.
    optional **reason** of up to 100 characters. The same student can't be added
    twice — try it and you'll get an **Already added** warning.
 
-   {/* CAPTURE: Students not on roll modal with the search picker and reason field */}
+   ![The Students not on roll modal — student-name search pickers each paired with a Reason / where from field, and an Add button](./images/add-off-roll-student-2.png)
 
 3. Check the off-roll group
 

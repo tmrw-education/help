@@ -22,7 +22,7 @@ when it's due back.
    On the **Activities** overview, open the **Booking status** tab. Any staff member
    with activity access can view it.
 
-   {/* CAPTURE: Activities overview with the Booking status tab selected and the bookings table below */}
+   ![The Booking status tab selected on the Activities overview, with the bookings table — Event, Resource, Quantity, Picked up by, Return date, and Status](./images/check-resource-bookings-1.png)
 
 2. Read the table
 

@@ -22,7 +22,7 @@ status.
    general staff, or **All requests** for coordinators and leaders. Each row
    shows one action icon, set by the request's status.
 
-   {/* CAPTURE: A request table row showing the Edit (pencil) and Delete (bin) actions on a Draft request */}
+   ![A Draft request row in the table showing the Edit (pencil) and Delete (bin) actions](./images/edit-or-delete-a-request-1.png)
 
 2. Edit a draft
 

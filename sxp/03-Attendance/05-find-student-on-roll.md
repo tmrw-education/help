@@ -20,14 +20,14 @@ roll down to just the students carrying an alert.
    Type into **Search students…** in the roll toolbar. The roll filters to
    matching names as you type.
 
-   {/* CAPTURE: an open class roll with the Search students… box in the toolbar */}
+   ![The roll toolbar with the Search students… box open and a name typed in](./images/find-student-on-roll-1.png)
 
 2. Show only flagged students
 
    Use the **filter** control to show only students carrying an alert —
    **Physical / wellbeing**, **Medical**, **Custody**, or **Learning**.
 
-   {/* CAPTURE: the roll filter control open with the alert options Physical / wellbeing, Medical, Custody, Learning */}
+   ![The roll filter control open — Student alert filter options with checkboxes for Custody, Physical, Learning, and Medical](./images/find-student-on-roll-2.png)
 
 3. Combine and reset
 

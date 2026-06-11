@@ -24,7 +24,7 @@ header.
    **Pending** request and click **Review** (the row action). The **Review**
    action only appears on Pending requests and only for coordinators.
 
-   {/* CAPTURE: All requests table with a Pending row and its Review action */}
+   ![The All requests table filtered to Pending, with Pending request rows ready to open for review](./images/review-a-request-1.png)
 
 2. Read the submitted details
 
@@ -46,7 +46,7 @@ header.
    **Decline** and **Request more info** both require notes — the requester reads
    them back via **View review notes** on the request row.
 
-   {/* CAPTURE: Request header showing the Approve / Decline / Request more info controls */}
+   ![The request header with the decision controls — Approve, Decline, and More actions (which holds Request more info)](./images/review-a-request-2.png)
 
 4. Edit on behalf if needed
 

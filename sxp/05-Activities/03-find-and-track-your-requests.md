@@ -22,7 +22,7 @@ you've requested and see where each one is up to.
    coordinator or school leader you instead see an **All requests** tab (everyone's
    requests) plus a **My requests** tab for just your own submissions.
 
-   {/* CAPTURE: Activities overview with the Your requests tab selected and the request table below */}
+   ![The Your requests tab selected on the Activities overview, with the request table below — Requests, Activity lead, Type, and Status](./images/find-and-track-your-requests-1.png)
 
 2. Read the table
 
@@ -58,4 +58,4 @@ you've requested and see where each one is up to.
    and **Rejected / Denied** (red) was declined — open **View review notes** to see
    what was said.
 
-   {/* CAPTURE: Close-up of the Status column showing the coloured status tags */}
+   ![Close-up of the Status column — coloured tags for Pending, Approved, Draft, and Declined, with each row's matching action icon](./images/find-and-track-your-requests-2.png)

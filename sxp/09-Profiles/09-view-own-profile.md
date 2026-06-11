@@ -25,7 +25,7 @@ from any student profile.
    Choose **Profile** from the menu. The page opens showing your avatar and
    name, with **Role** and **Department** as header attributes.
 
-   {/* CAPTURE: The user menu open from the top-right avatar with the Profile item */}
+   ![The user menu open from the top-right avatar, with the Profile item highlighted](./images/view-own-profile-1.png)
 
 3. Read your details
 
@@ -39,7 +39,7 @@ from any student profile.
    Only fields that have a value are shown within a card; a card with nothing on
    file shows **Not provided**.
 
-   {/* CAPTURE: The Profile page showing the avatar and name header with Role and Department, and the three information cards below */}
+   ![Your Profile page — the avatar and name header with Role and Department, and the Personal, Professional, and Work Information cards below](./images/view-own-profile-2.png)
 
 4. Editing your details
 

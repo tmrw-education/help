@@ -24,7 +24,7 @@ member of staff can start it.
    **Venue details**, **Risk management**, **Review and submit** — shown in the
    left rail.
 
-   {/* CAPTURE: the Activities overview with the Request venue card highlighted alongside the Calendar view and Request activity cards */}
+   ![The three action cards on the Activities overview, with the Request venue card highlighted](./images/request-a-venue-1.png)
 
 2. Fill in the venue details
 

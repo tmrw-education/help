@@ -22,7 +22,7 @@ all read-only.
    read top to bottom: **Parent 1**, **Parent 2**, **Custody arrangements**,
    **Emergency contacts** and **Authorised contacts**.
 
-   {/* CAPTURE: a student profile with the Caregivers tab selected, showing the Parent 1 contact details and the contacts tables below */}
+   ![A student profile with the Caregivers tab selected, showing the Parent 1 contact details](./images/view-student-caregivers-1.png)
 
 2. Read the parent contact details
 
@@ -56,4 +56,4 @@ all read-only.
    first. **Authorised contacts** lists the people cleared to collect the student,
    with **Contact full name**, **Address** and **Phone number**.
 
-   {/* CAPTURE: the Emergency contacts and Authorised contacts tables on the Caregivers tab */}
+   ![The Emergency contacts and Authorised contacts tables on the Caregivers tab](./images/view-student-caregivers-2.png)

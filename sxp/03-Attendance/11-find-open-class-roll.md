@@ -23,7 +23,7 @@ their own calendar instead.
    On the dashboard, scroll to the **Class rolls** table below the chart row. It
    lists every class's roll.
 
-   {/* CAPTURE: the Attendance overview dashboard with the Class rolls table below the charts, showing its search, year-group filter and date trigger */}
+   ![The Class rolls table on the Attendance overview — with its search, filter, and date-range trigger above the Class, Teacher, Year, Period, and Students columns](./images/find-open-class-roll-1.png)
 
 2. Search and filter
 

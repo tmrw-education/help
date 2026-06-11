@@ -25,7 +25,7 @@ is for everyone.
    per-period history and Attendance % are hidden and nothing competes with
    marking.
 
-   {/* CAPTURE: An open roll showing the red Emergency roll tag and the two-column table */}
+   ![An open roll with the red Emergency roll tag in the header and the stripped-back two-column table — Student name and Emergency roll](./images/take-emergency-roll-1.png)
 
 2. Mark each student Present or Missing
 
@@ -34,7 +34,7 @@ is for everyone.
    counter strip in the card header shows running **Unmarked**, **Missing**, and
    **Present** totals.
 
-   {/* CAPTURE: Emergency roll with the Unmarked / Missing / Present counter strip */}
+   ![The emergency roll card header with the live Unmarked, Missing, and Present counter strip](./images/take-emergency-roll-2.png)
 
 3. Add a note where needed
 

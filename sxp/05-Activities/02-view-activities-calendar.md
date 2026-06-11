@@ -21,14 +21,14 @@ handy for checking a date is clear before you submit a request.
    preferred date before submitting request"), or open **Calendar view** from
    the navigation.
 
-   {/* CAPTURE: The Activities overview with the Calendar view card highlighted among the three action cards */}
+   ![The three action cards on the Activities overview, with the Calendar view card highlighted](./images/view-activities-calendar-1.png)
 
 2. Choose how to view dates
 
    Switch between **Month**, **Week** and **Day**, and page forward or back
    through dates to find the period you need.
 
-   {/* CAPTURE: The activities calendar in Month view showing coloured activity blocks, with the Month / Week / Day toggle */}
+   ![The activities calendar in Month view — coloured activity blocks across the month, with the Month / Week / Day toggle at the top right](./images/view-activities-calendar-2.png)
 
 3. Read an activity
 

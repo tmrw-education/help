@@ -21,7 +21,7 @@ cards sit across the top, and a set of tabs sits below.
    Click **Activities** in the main navigation. Anyone with activity access can
    open it. The page opens on the action cards and the tabs below.
 
-   {/* CAPTURE: The Activities overview showing the three action cards across the top and the row of tabs below */}
+   ![The Activities overview — the three action cards (Request venue, Calendar view, Request activity) across the top and the row of tabs and request table below](./images/open-activities-overview-1.png)
 
 2. Use the action cards
 

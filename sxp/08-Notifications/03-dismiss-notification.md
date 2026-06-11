@@ -22,11 +22,11 @@ anyone else.
    Hover (or keyboard-focus) the notification you're done with and click its
    **dismiss (✕)** control. The item is removed from the list straight away.
 
-   {/* CAPTURE: a notification row in the bell panel with the dismiss (✕) control showing on hover */}
+   ![A notification row in the bell panel, hovered, with the dismiss (✕) control showing at the top right](./images/dismiss-notification-1.png)
 
 2. Or from the Notifications page
 
    On the **Notifications** page, each row has its own **✕** button — click it to
    dismiss that item. This works on either the **Messages** or **Alerts** tab.
 
-   {/* CAPTURE: a notification row on the Notifications page with the ✕ dismiss button */}
+   ![Notification rows on the Notifications page, each with its own ✕ dismiss button at the right](./images/dismiss-notification-2.png)

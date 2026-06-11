@@ -23,7 +23,7 @@ Switch StaffXP between light and dark looks to suit your screen and lighting.
    Choose **Light**, **Subtle light**, **Subtle dark**, or **Dark** — it applies
    instantly across the platform.
 
-   {/* CAPTURE: the User menu open, showing the four theme options */}
+   ![The User menu open with the four theme options — Light, Subtle light, Subtle dark, and Dark](./images/change-theme-1.png)
 
    > **Note:** Light mode reads best in bright rooms, dark mode in dim ones — but
    > it's whatever's comfortable for you. You can also set this in **Settings**.

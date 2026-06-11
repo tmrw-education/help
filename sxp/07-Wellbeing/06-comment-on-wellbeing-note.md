@@ -20,7 +20,7 @@ update, an action you took, or anything worth recording against the case.
    On the case detail page, in the **Comments** tile, click the **+** (Add
    comment).
 
-   {/* CAPTURE: the Comments tile on a case detail page with the + add-comment button */}
+   ![The Comments tile on a case detail page with the + add-comment button at the top right](./images/comment-on-wellbeing-note-1.png)
 
    > **Note:** The **+** only appears for staff with wellbeing **write** access,
    > and it is hidden once a case is **resolved** or **cancelled**. Reopen the
@@ -32,7 +32,7 @@ update, an action you took, or anything worth recording against the case.
    text (up to 250 characters). Optionally attach one supporting file (max 10 MB,
    any file type).
 
-   {/* CAPTURE: the Add comment form showing Title, Notes, and Upload file */}
+   ![The Add comment form showing the Title field, Notes field, and Upload file control](./images/comment-on-wellbeing-note-2.png)
 
 3. Save it
 

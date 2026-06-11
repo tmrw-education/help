@@ -21,7 +21,7 @@ behind the bell in the top bar, ready on every page.
    slide-out panel opens. When you have unread items, a red badge on the bell
    shows the count (it reads **99+** above 99).
 
-   {/* CAPTURE: The top-bar bell icon with a red unread badge, and the Notifications slide-out panel open beside it */}
+   ![The top-bar bell with a red unread badge and the Notifications slide-out panel open — Do not disturb, Dismiss all, the Messages and Alerts tabs, the notification list, and View all at the bottom](./images/check-notifications-1.png)
 
 2. Choose a tab
 

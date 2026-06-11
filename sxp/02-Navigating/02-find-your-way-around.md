@@ -20,7 +20,7 @@ The **navigation bar** sits across the top of every screen. Here's what's on it.
    any time to return. Next to it are the section links: **Attendance**,
    **Notices**, **Wellbeing**, and **Extra curricular**.
 
-   {/* CAPTURE: the full top navigation bar, labelled */}
+   ![The StaffXP top navigation bar — section links across the centre and the Search, Notifications, and User menu icons at the right](./images/navigate-staffxp-1.png)
 
 2. The menu icon
 

@@ -24,13 +24,13 @@ Assign a follow-up action on a wellbeing case to a colleague.
 
    In the **Tasks** tile, click the **+** (Add task). The **+** is hidden when the case is **resolved** or **cancelled**, so reopen the case first if you need to add a task.
 
-   {/* CAPTURE: the case detail page with the Tasks tile, the + add-button highlighted */}
+   ![The Tasks tile on a case detail page with the + add-task button at the top right](./images/wellbeing-task-from-note-1.png)
 
 3. Fill in the task
 
    In **Add new task**, enter a **Title** (up to 100 characters), search and pick an **Assignee**, and write the **Notes** (what needs doing, up to 250 characters). All three fields are required, and **Save** stays disabled until each one is filled.
 
-   {/* CAPTURE: the Add new task panel showing the Title, Assignee, and Notes fields */}
+   ![The Add new task panel showing the Title, Assignee, and Notes fields](./images/wellbeing-task-from-note-2.png)
 
 4. Save
 

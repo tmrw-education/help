@@ -25,7 +25,7 @@ approves it.
    **Submit**. (Click **Calendar view** first if you want to check your preferred
    dates are clear.)
 
-   {/* CAPTURE: the Activities overview with the Request activity card, and the activity-type picker open on Camp */}
+   ![The Request activity type picker with Camp chosen in the Event type dropdown](./images/request-a-camp-1.png)
 
 2. Fill in the activity details
 

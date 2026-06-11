@@ -22,7 +22,7 @@ own **details** page.
    example, **Maximum: 20**), and each row lists the student's **Name**, **Year
    group/s**, and **Gender**.
 
-   {/* CAPTURE: An approved activity details page showing the Registered participants table with its Maximum count, columns, and a bin icon on each row */}
+   ![The Registered participants table on an activity details page — the Maximum count, the Name / Year group/s / Gender columns, and a bin (remove) icon on each row](./images/manage-extracurricular-participants-1.png)
 
 2. Find a participant
 

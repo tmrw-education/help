@@ -23,7 +23,7 @@ their requests, bookings, approved activities and assigned staff.
    set of tabs. Anyone with extra-curricular access can open the hub, but what
    each tab shows depends on your role.
 
-   {/* CAPTURE: Extra curricular hub showing the two action cards above the row of tabs */}
+   ![The Extra-curricular hub — the two action cards (Request an extra-curricular activity, Extra-curricular calendar) above the row of tabs and the request table](./images/browse-extracurricular-1.png)
 
 2. Choose a tab
 
@@ -82,6 +82,6 @@ their requests, bookings, approved activities and assigned staff.
    resubmit; **Approved** means it's live and open for enrolment; and **Declined
    / Rejected** was turned down — open **View review notes** to read why.
 
-   {/* CAPTURE: Close-up of the Status column showing the coloured status tags */}
+   ![Close-up of the Status column — coloured tags for Pending, Approved, More info, Draft, and Declined, with each row's matching action icon](./images/browse-extracurricular-2.png)
 
    Every table sets how many rows show per page (10, 25, 50 or 100).

@@ -22,7 +22,7 @@ it any time by clicking **StaffXP** in the navigation bar.
    week's **birthdays**, open **wellbeing tasks**, the **canteen specials**, and a
    **professional learning** summary.
 
-   {/* CAPTURE: the MyDay page showing the tile layout */}
+   ![The MyDay home page — the greeting and day-stats banner, today's schedule, and the tile grid of calendar, to-do, notices, assignments, and wellbeing tasks](./images/myday-home-1.png)
 
 2. Quick links
 

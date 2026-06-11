@@ -24,7 +24,7 @@ jump between steps.
    **Excursion**, and click **Submit**. To check a date is clear first, use the
    **Calendar view** card before you start.
 
-   {/* CAPTURE: the Activities overview with the Request activity card and the activity-type picker open on Excursion */}
+   ![The Request activity type picker with Excursion chosen in the Event type dropdown](./images/request-an-excursion-1.png)
 
 2. Fill in the activity details
 
@@ -39,7 +39,7 @@ jump between steps.
    entries must be valid. In **Alignment and purpose**, add the purpose,
    curriculum alignment and an optional schedule file. Click **Next**.
 
-   {/* CAPTURE: Step 1 Activity details with the four-section left rail (General information, Attendees, Venue details, Alignment and purpose) */}
+   ![The Activity details step (Step 1 of 4) with the four-section left rail — General information, Attendees, Venue details, Alignment and purpose — and the General information form](./images/request-an-excursion-2.png)
 
 3. Book resources (optional)
 

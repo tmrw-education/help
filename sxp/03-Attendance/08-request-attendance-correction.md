@@ -23,7 +23,7 @@ officer then reviews and resolves.
    attendance mark" or "fix the roll". Felix confirms that submitted rolls are
    read-only and opens a **correction form** pre-filled for a recent session.
 
-   {/* CAPTURE: Felix chat with a correction request, showing the pre-filled correction form for a recent session */}
+   ![Felix with the correction request open — the pre-filled Attendance correction request form (teacher, date, class, period, student, current mark) beside the Felix chat](./images/request-attendance-correction-1.png)
 
 2. Set the corrected mark and reason
 
