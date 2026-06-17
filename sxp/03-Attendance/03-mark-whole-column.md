@@ -28,12 +28,12 @@ hidden.
 
    Choose **All present** or **All absent**. Every student in today's
    column is set to that status, except any student who already holds an
-   **approved absence** — bulk marking skips those so it never overwrites a
+   **approved absence** — bulk marking skips those, so it never overwrites a
    resolved absence.
 
 3. Clear the column if needed
 
-   To start over, open the menu again and choose **reset**, which clears your
+   To start over, open the menu again and choose **Reset**, which clears your
    pending marks for today's column.
 
 4. Submit the roll
