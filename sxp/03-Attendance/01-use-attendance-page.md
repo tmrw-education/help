@@ -13,8 +13,8 @@ video:
 
 # Use your Attendance page
 
-The Attendance page is your teacher landing screen: three stat cards across the
-top and a calendar of your day's classes below. The same **Attendance** nav item
+The Attendance page is your teacher landing screen: three stat cards on the
+left and a calendar of your day's classes below. The same **Attendance** nav item
 opens a whole-school dashboard instead if you're a school leader or attendance
 officer.
 
@@ -23,7 +23,7 @@ officer.
    Click **Attendance** in the main navigation. As a regular teacher you land on
    the stat cards and your day's calendar.
 
-   ![The teacher Attendance page — three stat cards (Late students, Unexcused absences, Absent students) across the top and the day's class calendar below](./images/use-attendance-page-1.png)
+   ![The teacher Attendance page — three stat cards (Late students, Unexcused absences, Absent students) along the left and the day's class calendar below](./images/use-attendance-page-1.png)
 
 2. Read the three stat cards
 
