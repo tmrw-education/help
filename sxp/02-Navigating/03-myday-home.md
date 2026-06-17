@@ -19,8 +19,7 @@ it any time by clicking **StaffXP** in the navigation bar.
 
    The tiles pull together what you need for the day: **Today's schedule** and
    timetable, **assignments to mark**, your **to-do list**, **notices**, this
-   week's **birthdays**, open **wellbeing tasks**, the **canteen specials**, and a
-   **professional learning** summary.
+   week's **birthdays**, and open **wellbeing tasks**.
 
    ![The MyDay home page — the greeting and day-stats banner, today's schedule, and the tile grid of calendar, to-do, notices, assignments, and wellbeing tasks](./images/myday-home-1.png)
 
