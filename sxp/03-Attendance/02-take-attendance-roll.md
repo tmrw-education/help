@@ -38,7 +38,7 @@ and submit.
    Click the **status icon** in today's column to open the menu, then pick
    **Present**, **Absent**, or **Late**. The menu only shows options different
    to the current status. To mark all students at once, use the action
-   control on the today column header (**All present** / **All absent**), then
+   control on today's column header (**All present** / **All absent**), then
    adjust individuals if needed. Bulk marking skips students who already hold an
    approved absence.
 
