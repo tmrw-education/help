@@ -16,7 +16,7 @@ The **navigation bar** sits across the top of every screen. Here's what's on it.
 
 1. The main links
 
-   **StaffXP** (far left of the links) is your home — the **MyDay** page; click it
+   **StaffXP** (far left) is your home, called the **MyDay** page; click it
    any time to return. Next to it are the section links: **Attendance**,
    **Notices**, **Activities**, **Wellbeing**, and **Extra curricular**.
 
