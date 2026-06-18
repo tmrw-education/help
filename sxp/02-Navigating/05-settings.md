@@ -4,7 +4,7 @@ summary:
   - "Open the **User** icon ▸ **Settings**."
   - "Adjust **Appearance** (theme, font size), **Accessibility**, and **Notifications**."
   - "Changes apply instantly — there's nothing to save."
-keywords: [settings, preferences, font size, accessibility, high contrast, reduced motion, push notifications, appearance]
+keywords: [settings, preferences, font size, accessibility, readability, high contrast, reduced motion, push notifications, appearance]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Adjust your settings
 
-Personalise StaffXP — appearance, readability, and notifications — from one place.
+Personalise StaffXP — appearance, accessibility, and notifications — from one place.
 
 1. Open Settings
 
@@ -34,4 +34,5 @@ Personalise StaffXP — appearance, readability, and notifications — from one 
 
    Toggle push notifications **on** or **off**.
 
-Every change applies instantly across the platform — there's nothing to save.
+   > **Note:** Every change applies instantly across the platform — there is no
+   > need to save.
