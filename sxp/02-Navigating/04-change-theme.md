@@ -12,9 +12,9 @@ video:
 
 # Change the theme
 
-Switch StaffXP between light and dark looks to suit your screen and lighting.
+Switch the StaffXP theme between light and dark to suit your screen and lighting.
 
-1. Open the theme picker
+1. Open the theme picker in the User menu
 
    Click the **User** icon (top right). The **Theme** row sits at the top of the menu.
 
