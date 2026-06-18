@@ -12,12 +12,12 @@ video:
 
 # Your MyDay home page
 
-**MyDay** is the StaffXP landing page — your at-a-glance view of the day. Return to
+**MyDay** is the StaffXP landing page — your quick view of the day. Return to
 it any time by clicking **StaffXP** in the navigation bar.
 
 1. What's on it
 
-   The tiles pull together what you need for the day: **Today's schedule** and
+   The tiles display what you need for the day: **Today's schedule** and
    timetable, **assignments to mark**, your **to-do list**, **notices**, this
    week's **birthdays**, and open **wellbeing tasks**.
 
