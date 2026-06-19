@@ -28,4 +28,4 @@ tag on the card front.
 
    > **Note:** Accepting **adds the event to your Outlook calendar** — it's a
    > calendar add, not a yes/no reply to the organiser. You can only RSVP once;
-   > afterwards the button is disabled so you can't add it twice.
+   > after that, the button is disabled, so you can't add it again.
