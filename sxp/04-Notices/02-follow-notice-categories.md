@@ -12,21 +12,20 @@ video:
 
 # Follow notice categories
 
-Choose the notice categories that matter to you. They collect under the
-**Your interests** tab so you see them first.
+Select notice categories you want to follow. These appear first under the 
+**Your interests** tab.
 
 1. Open the Interests dropdown
 
-   On the **Notices** board, open the **Interests** dropdown at the top-right
-   (next to the filter icon).
+   On the **Notices** board, click the **Interests** dropdown at the top right next
+   to the filter icon.
 
    ![The Notices board with the Interests dropdown open at the top-right](./images/follow-notice-categories-1.png)
 
-2. Pick your categories
+3. Pick your categories
 
-   Tick the categories you want — **General**, **Sport**, **Cultural**, **Arts**,
-   **Community**. Untick to stop following one. Your choice saves immediately and
-   is remembered next time.
+   Check the categories you wish to follow: **General**, **Sport**, **Cultural**,
+   **Arts**, and **Community**. Uncheck to unfollow. Choices save automatically.
 
    > **Note:** This is personal to you — it doesn't change what anyone else sees,
    > and every notice is still available under its own category tab.
