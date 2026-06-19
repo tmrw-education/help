@@ -13,7 +13,8 @@ video:
 # Create a notice
 
 Notices are announcements you publish to staff, parents, and/or students.
-Creating one is a short wizard: **Information → Audience type → Review & publish**.
+Creating requires completing three sections: 
+**Information → Audience type → Review & publish**.
 
 1. Open the notice form
 
