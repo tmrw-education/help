@@ -24,7 +24,7 @@ The **navigation bar** sits across the top of every screen. Here's what's on it.
 
 2. The menu icon
 
-   The icon at the far left opens **Training**, **Reporting**, and
+   The first icon on the left opens **Training**, **Reporting**, and
    **Administration** links.
 
 3. The far-right icons
