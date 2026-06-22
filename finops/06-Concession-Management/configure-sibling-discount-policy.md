@@ -10,7 +10,7 @@ video:
   youtube:
   bunny:
 ---
-<!-- GEMS: review destination -->
+{/* GEMS: review destination */}
 
 # Configure the Sibling Discount Policy
 
