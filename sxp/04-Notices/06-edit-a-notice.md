@@ -12,9 +12,9 @@ video:
 
 # Edit a notice
 
-Update a notice you've already created — its details, audience, or visibility.
+Update a notice you already created by changing its details, audience, or visibility.
 
-> **Note:** You can only edit a notice that **you** created.
+> **Note:** You can only edit a notice that **you** have created.
 
 1. Open Manage notices
 
@@ -22,14 +22,13 @@ Update a notice you've already created — its details, audience, or visibility.
 
 2. Find your notice
 
-   In the **Your notices** list, click the **edit icon** on its row. (Filter with
-   the **Active notices** and **Scheduled notices** tiles if it helps.)
+   Click the **edit icon** in your notice's row in the **Your notices** list.
+   Use the **Active notices** and **Scheduled notices** tiles to filter if needed.
 
-3. Make your changes and save
+4. Make your changes and save
 
-   In **Edit notice details**, expand the section you want to change — **Details**,
-   **Audience type**, or **Visibility** — edit the fields, then click **Save
-   changes**.
+   Expand the section you want to change in **Edit notice details**—**Details**,
+   **Audience type**, or **Visibility**—edit the fields, then click **Save changes**.
 
    > **Note:** **Save changes** only becomes active once you've changed something.
 
