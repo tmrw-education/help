@@ -12,6 +12,7 @@ video:
 
 # Manage your notices
 
+
 **Manage notices** has the table of notices you've created. Here, you can find, 
 open, edit, and feature them.
 
