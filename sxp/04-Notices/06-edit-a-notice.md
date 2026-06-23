@@ -30,7 +30,7 @@ Update a notice you already created by changing its details, audience, or visibi
    Expand the section you eant to change in **Edit notice details**—**Details**,
    **Audience type**, or **Visibility**—edit the fields, then click **Save changes**.
 
-> **Note:** **Save changes** only becomes active once you've changed something.
+   > **Note:** **Save changes** only becomes active once you've changed something.
 
 
    ![The Edit notice details window with the Details section expanded, showing the editable fields and the Save changes button](./images/edit-a-notice-1.png)
