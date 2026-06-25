@@ -5,6 +5,18 @@ summary:
   - "Generate a contract template in **Contract Specifics** and add a risk assessment form."
   - "Select the contract manager and **Submit to Contract Manager**."
 keywords: [generate a contract, starting a contract, initiating a contract, contract initiator, contract management, new contract, creating a new contract]
+video:
+  youtube: ""
+  bunny: ""
+---
+
+# Create a new contract - Initiator
+
+Typically, the approval workflow starts with the contract **Initiator → Contract Manager → Legal → Business → Vendor**.  
+There are four steps to complete to initiate a contract: **Basic information, Contract Specifics, Attachment, Reviews and approvers**. As the creator of a new contract, you are the first step, the initiator.
+
+1. Click **New Contract +**  
+   A panel across the top of the page shows the current stage of the contract approval.
 
 2. Fill in the required fields  
    Click **Next** to complete all parts of the form, or you can click **Save draft** to complete the form later.
