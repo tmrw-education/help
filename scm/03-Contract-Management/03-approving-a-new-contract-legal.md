@@ -1,14 +1,4 @@
----
-id: approving-a-new-contract-legal
-summary:
-   - "Review the contract information already in the form."
-   - "Update and upload the contract."
-   - "Approve the contract and send it to the business team or the vendor."
-keywords: [approving a contract, contract approval, legal contract, contract legal review, legal review contract, legal contract check]
-video:
-   youtube:
-   bunny:
----
+
 
 # Approving a new contract - Legal
 
