@@ -1,4 +1,14 @@
-
+---
+id: create-a-new-contract-contract-manager
+summary:
+  - "Review the contract details."
+  - "Update and upload any contract modifications."
+  - "Select the reviewers from the **Legal** and **Business** teams, assign the **CPO** and **CEO** for contract approval."
+keywords: [generate a contract, starting a contract, initiating a contract, contract manager, contract management, new contract, creating a new contract, contract review, contract updates, contract follow-up]
+video:
+  youtube:
+  bunny:
+---
 
 # Create a new contract - Contract manager
 
