@@ -1,4 +1,14 @@
-
+---
+id: create-a-new-contract-initiator
+summary:
+   - "Click **New Contract +**, complete basic information."
+   - "Generate a contract template in **Contract Specifics** and add a risk assessment."
+   - "Select the contract manager and **Submit to Contract Manager**."
+keywords: [generate a contract, starting a contract, initiating a contract, contract initiator, contract management, new contract, creating a new contract]
+video:
+   youtube:
+   bunny:
+---
 
 # Create a new contract - Initiator
 
