@@ -8,6 +8,8 @@ on:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # hourly catch-all (picks up help-site tooling changes too)
 
 permissions:
   contents: write
