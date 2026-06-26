@@ -1,23 +1,31 @@
+---
 id: gems-hr-part1-setup
 summary:
-"Before opening the sourcing portal, raise a Purchase Requisition in Dynamics F&O with the line items you are procuring."
-"Log in to the sourcing portal, go to Projects, and create a new project — selecting RFQ or RFP and giving it a clear name."
-"Link the PR to the project on the Requisitions screen so that line items populate automatically."
+  - "Raise a **Purchase Requisition** in **D365 Finance & Operations** with a line item for each product or service."
+  - "Log in to the sourcing portal, create a new project, and select **RFQ** or **RFP**."
+  - "Link the purchase requisition so its line items populate the project automatically."
 keywords: [purchase requisition, PR, F&O, dynamics, sourcing project, new project, RFQ, RFP, create project, link PR, requisition, setup, procurement]
-video: youtube:
-bunny:
+video:
+  youtube:
+  bunny:
+---
 
-Part 1 — Setup: Creating a PR and Sourcing Project
+# Part 1 — Setup: Creating a PR and Sourcing Project
 
-Before you can run a sourcing event, you need two things: a Purchase Requisition raised in Dynamics F&O, and a new project created in the sourcing portal. This section covers both.
-Create a Purchase Requisition in F&O
+Running a sourcing event requires two things in place first: a purchase requisition raised in **D365 Finance & Operations**, and a new project created in the sourcing portal. This section covers both.
 
-Log in to Dynamics F&O and go to Procurement and Sourcing, then Purchase Requisitions, then All Purchase Requisitions. Click New and fill in the requisition name and the relevant department or business unit. Add each product or service you are procuring as a separate line item, including a description, quantity, and estimated unit price. Once complete, save the PR and submit it for approval if your organisation's workflow requires it. The PR does not need to be fully approved before you start building the sourcing project — but it must be saved and visible in the system so you can link it in the next step.
+1. Create a Purchase Requisition in F&O
 
-Create a New Sourcing Project
+   Log in to **D365 Finance & Operations** and open **Procurement and sourcing** ▸ **Purchase requisitions** ▸ **All purchase requisitions**. Click **New** and enter the requisition **Name** and the relevant **Department** or business unit. Add each product or service you are procuring as a separate line item, including a description, quantity, and estimated unit price. Click **Save**, then **Submit** for approval if your organisation's workflow requires it.
 
-Log in to the sourcing portal and navigate to Projects from the top menu. Click New Project. Select the process type — RFQ (Request for Quotation) or RFP (Request for Proposal) depending on the nature of the procurement. Enter a clear project name and a short description summarising the scope. If price weighting applies to this procurement, complete that field now — it cannot be changed after vendors have been invited.
+   > **Note:** *The requisition does not need to be fully approved before you build the sourcing project, but it must be saved and visible in the system so you can link it in the next step.*
 
-Link the Purchase Requisition
+2. Create a New Sourcing Project
 
-On the Requisitions screen within the new project, search for the PR you just created using its number or description. Select it and confirm. The line items from the PR will populate into the project automatically. Review them for accuracy — check descriptions, quantities, and units of measure — before moving on to Part 2.
+   Log in to the sourcing portal and open **Projects** from the top menu. Click **New project** and select the **Process type** — **RFQ** (Request for Quotation) or **RFP** (Request for Proposal) depending on the nature of the procurement. Enter a clear **Project name** and a short **Description** summarising the scope. Enter the **Price weighting** if it applies to this procurement.
+
+   > **Note:** *Price weighting cannot be changed after vendors have been invited.*
+
+3. Link the Purchase Requisition
+
+   Open the **Requisitions** screen within the new project and search for the purchase requisition by its number or description. Select it and click **Confirm**. The line items from the requisition populate into the project automatically. Review them for accuracy — check descriptions, quantities, and units of measure — before moving on to Part 2.
