@@ -22,7 +22,7 @@ Once vendors have submitted their bids you review all submissions side by side, 
 
 2. Award the project
 
-   Select the winning vendor and click **Award this item to this vendor**, then click **Confirm**. Attach the risk assessment document if required, then approve the award.
+   In the **Approve Quotations** page, select the winning vendor and click **Award items to vendor**, then click **Confirm**. Attach the risk assessment document if required, then approve the award.
 
    > **Note:** Awarding closes the project. The status changes to closed and awarded and this cannot be undone.
 
