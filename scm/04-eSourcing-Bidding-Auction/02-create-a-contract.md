@@ -30,6 +30,6 @@ Once vendors have submitted their bids you review all submissions side by side, 
 
 3. Create the contract
 
-   Navigate to **Contracts**, click on **New Contract** search for the awarded vendor and open their **Approved bids** section. Select the awarded project and click **Create new contract**. Enter the **Department** details, select the **Categories**, and fill in the **Contract value**, **Financial year**, and any remaining required fields. Review the contract summary — the details from the project carry across automatically, including the vendor's submitted attachments — then create the contract. The contract is created in D365 F&O and appears in the contract section.
+   Navigate to **Contracts**, click on **New Contract** search for the awarded vendor and open their **Approved bids** section. Select the awarded project and fill in the remainder of the details. Complete the other pages of the contract creation until you can review the contract summary — the details from the project carry across automatically, including the vendor's submitted attachments — then create the contract. The contract is created in D365 F&O and appears in the contract section.
 
    ![The contract summary showing the carried-over project details and vendor attachments](./images/create-contract-3.png)
