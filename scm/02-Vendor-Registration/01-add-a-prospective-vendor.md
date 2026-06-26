@@ -12,7 +12,7 @@ video:
 
 # Add a new prospective vendor
 
-Add a new prospective vendor to the database and invite them to share their details.
+Add a new prospective vendor and invite them to share their details.
 
 1. Add a new prospective vendor
 
@@ -20,10 +20,10 @@ Add a new prospective vendor to the database and invite them to share their deta
    
 2. Fill in the form
 
-   Identify if the vendor is local or from overseas. Complete the required fields in the form. Then, click **Submit**.
+   Identify whether the vendor is local or overseas. Complete the required fields, then click **Submit**.
    
 3. Send the vendor invitation
 
-   In the **Prospective Vendors** table, find the vendor, and in the far-right column, click **Invite vendor**. Fill in the details and click **Submit.**
+   In the **Prospective Vendors** table, find the vendor. In the far-right column, click **Invite vendor**. Fill in the details, then click **Submit.**
 
    ![Invite vendor button to allow prospective vendors to add their details](./images/add_new_prospective_vendor_1.png)  
