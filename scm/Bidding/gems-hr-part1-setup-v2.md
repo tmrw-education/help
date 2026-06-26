@@ -20,6 +20,8 @@ Before you can run a sourcing event, you need two things: a Purchase Requisition
 
    > **Note:** *The PR does not need to be fully approved before you start building the sourcing project — but it must be saved and visible in the system so you can link it in the next step.*
 
+![Purchase Requisitions screen in the sourcing portal](./images/setup-1.png)
+
 2. **Create a New Sourcing Project**
 
    Log in to the sourcing portal and navigate to **Projects** from the top menu. Click **New Project**. Complete the following fields:
