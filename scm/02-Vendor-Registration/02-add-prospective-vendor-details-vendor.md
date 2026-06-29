@@ -21,6 +21,12 @@ Once a prospective vendor request is submitted internally, the vendor will recei
 
    ![The Click here button in the Vendor Invitation email](./images/add_prospective_vendor_details_vendor_1.png)
 
+2. Sign in to the vendor platform
+
+   Below the main procurement sign-in square, the prompt says: **Are you a vendor? Sign in here**. Use the assigned login details to access the platform.
+
+   ![Sign in to the Vendor Platform](./images/add_prospective_vendor_details_vendor_1.png)
+   
 3. Fill in the required fields
 
    Complete the required fields under **Vendor details**. The details pre-filled by the school will appear in your form. Upload any relevant documents. The complete list of required documents is in the invitation email.
