@@ -1,7 +1,0 @@
-# Benefits
-
----
-
-## Benefit Visibility
-
----

@@ -1,0 +1,47 @@
+---
+id: visa-status-setup
+summary:
+  - "Go to **Visa Master ▸ Visa Label Status** in D365."
+  - "Review the configured lifecycle statuses."
+  - "Edit a status or export the list as needed, then **Save**."
+keywords: [visa status, label status, visa lifecycle, created, submitted, approved, rejected, finished, visa stages]
+video:
+  youtube:
+  bunny:
+---
+
+# Manage visa status setup
+
+Visa statuses define the lifecycle stages used to track the progress of visa and labour card applications. These values are set during initial configuration and apply to all employee visa records.
+
+1. Navigate to Visa Label Status
+
+   From D365, go to **Visa Master ▸ Visa Label Status**.
+
+   ![The D365 navigation showing Visa Master expanded with Visa Label Status highlighted](./images/visa-status-setup-1.png)
+
+2. Review the configured statuses
+
+   The list shows all available statuses. The default statuses are:
+
+   | Status | Description |
+   |---|---|
+   | **Created** | Record has been created in the system |
+   | **Submitted** | Application has been submitted to the relevant authority |
+   | **Approved** | Application has been approved |
+   | **Rejected** | Application has been rejected |
+   | **Finished** | Process has been completed |
+
+   ![The Visa Label Status list showing all configured status rows in the D365 grid](./images/visa-status-setup-2.png)
+
+3. Edit a status
+
+   To modify an existing status, click **Edit** on the relevant row and make your changes.
+
+4. Export the list
+
+   Click **Export to Excel** to download the full list if needed.
+
+5. Save
+
+   Click **Save** when complete.
