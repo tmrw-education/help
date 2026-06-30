@@ -20,7 +20,7 @@ Typically, the approval workflow starts with the contract **Initiator → Contra
 
 2. Fill in the required fields
 
-   Click **Next** ti complete all parts of the form, or you can click **Save draft** to complete the form later.
+   Click **Next** to complete all parts of the form, or you can click **Save draft** to complete the form later.
    
 3. Generate a contract document
 
