@@ -13,7 +13,7 @@ video:
 # View the activities calendar
 
 The activities calendar is a month, week or day view of scheduled activities —
-handy for checking a date is clear before you submit a request.
+handy for checking whether a date is free before you submit a request.
 
 1. Open the calendar
 
@@ -32,9 +32,9 @@ handy for checking a date is clear before you submit a request.
 
 3. Read an activity
 
-   Activities show as coloured blocks, with the colour set by activity type.
+   Activities are shown as coloured blocks, with the colour set by activity type.
    **Click an event** to open a pop-up with its name, type, dates, and the year
    group, house or class it's for.
 
-   The calendar is read-only — you can't create or edit an activity from it, it's
-   only there to help you pick a clear date.
+   > **Note:** The calendar is read-only — you can't create or edit an activity from it; it's
+   only there to help you pick an available date.
