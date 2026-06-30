@@ -12,13 +12,13 @@ video:
 
 # Open the Activities overview
 
-The Activities overview is the hub for off-class events — excursions, visits,
-camps and overseas trips, plus the venues and resources they use. Three action
+The Activities overview is the hub for out-of-class events — excursions, visits,
+camps and overseas trips — along with the venues and resources used for them. Three action
 cards sit across the top, and a set of tabs sits below.
 
 1. Open Activities
 
-   Click **Activities** in the main navigation. Anyone with activity access can
+   Click **Activities** in the navigation bar. Anyone with activity access can
    open it. The page opens on the action cards and the tabs below.
 
    ![The Activities overview — the three action cards (Request venue, Calendar view, Request activity) across the top and the row of tabs and request table below](./images/open-activities-overview-1.png)
@@ -28,16 +28,16 @@ cards sit across the top, and a set of tabs sits below.
    Three cards run across the top:
    - **Request venue** — "Not listed in Approved Venues? Request a venue first."
      Opens the venue request.
-   - **Calendar view** — "Check your preferred date before submitting request."
-     Opens the read-only activities calendar so you can pick a clear date.
+   - **Calendar view** — "Check your preferred date before submitting a request."
+     Opens the read-only activities calendar so you can pick a free date.
    - **Request activity** — "Plan a new activity with risk assessment." Opens the
-     activity-type picker (excursion, visit, camp or overseas trip).
+     activity-type dropdown (excursion, visit, camp or overseas trip).
 
 3. Find the request queue
 
    The first tab is your request table. General staff see **Your requests** —
    only the requests you submitted. Activity coordinators and school leaders see
-   **All requests** instead, plus a separate **My requests** tab for just their
+   **All requests** instead, plus a separate **My requests** tab for their
    own submissions.
 
 4. Browse the other tabs
@@ -50,4 +50,4 @@ cards sit across the top, and a set of tabs sits below.
    - **Parent volunteers** — parent helper sign-ups awaiting review.
 
    A notification can deep-link you straight to a specific tab — for example,
-   opening the overview with **All venues** already in focus.
+   open the overview with **All venues** already in focus.
