@@ -6,7 +6,7 @@ summary:
   - "Click **Save**."
 keywords: [edit wellbeing note, update wellbeing note, change note details, amend pastoral note, edit case details, change sentiment, change priority]
 video:
-  youtube:
+  youtube: https://youtu.be/Bp-P1SZouFk
   bunny:
 ---
 
