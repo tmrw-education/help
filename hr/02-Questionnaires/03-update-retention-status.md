@@ -12,7 +12,7 @@ video:
 
 # Update an employee's retention status
 
-As your retention conversation with an employee progresses, update their status in the Intentions Inquiry to keep the record current.
+As your retention conversation with an employee progresses, update their status in the Intentions Inquiry to keep the record up to date.
 
 1. Open the intentions inquiry
 
@@ -30,11 +30,11 @@ As your retention conversation with an employee progresses, update their status 
 
    | Status | When to use |
    |---|---|
-   | **In Discussion** | A retention conversation has been initiated |
-   | **Retained** | The employee has agreed to remain |
-   | **Exit Confirmed** | The employee is confirmed as leaving — triggers the recruitment process |
+   | **HR Discussion** | A retention conversation has been initiated |
+   | **Retained successfully** | The employee has agreed to remain |
+   | **Exit confirmed** | The employee is confirmed as leaving — triggers the recruitment process |
 
-   ![The Retention Status dropdown open on an employee record, showing In Discussion, Retained, and Exit Confirmed options](./images/update-retention-status-2.png)
+   ![The Retention Status dropdown open on an employee record, showing HR Discussion, Retained successfully, and Exit confirmed options](./images/update-retention-status-2.png)
 
 4. Add a comment
 
