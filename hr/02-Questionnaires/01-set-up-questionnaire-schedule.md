@@ -16,11 +16,11 @@ Questionnaire schedules target a questionnaire to specific employees across one 
 
 1. Open the Questionnaire module
 
-   From the D365 navigation pane, go to **Modules ▸ Human Resources ▸ Questionnaire** (or navigate directly to the Questionnaire module).
+   From the D365 navigation pane, go to **Modules ▸ Questionnaire ▸ Distribute ▸ Questionnaire schedules**.
 
 2. Create a new schedule
 
-   Click **Questionnaire Schedule** in the left menu, then click **New**.
+   Click **Questionnaire schedules** in the left menu, then click **New**.
 
    ![The Questionnaire Schedule list view in D365 with the New button highlighted in the Action Pane](./images/set-up-questionnaire-schedule-1.png)
 
