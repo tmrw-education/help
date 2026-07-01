@@ -6,7 +6,7 @@ summary:
   - "Expand a section, make your changes, then **Save changes**."
 keywords: [edit notice, change notice, update notice, modify notice, amend notice]
 video:
-  youtube:
+  youtube: https://youtu.be/i-Ptl11D2q0
   bunny:
 ---
 
