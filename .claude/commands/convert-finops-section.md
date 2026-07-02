@@ -45,7 +45,7 @@ Create the `finops/<folder>/images/` directory.
 - Filename = `<id>.md`
 - Output path: `finops/<folder>/<id>.md`
 
-**GEMS sections:** If the section heading contains `(GEMS)`, still convert it fully — do not skip or stub it. Add `gems: true` to the frontmatter and place `<!-- GEMS: review destination -->` on the line immediately after the closing `---` of the frontmatter. Drop `(GEMS)` from the H1 title; add a short note at the top of the body: `This page covers GEMS-specific configuration. General setup is on [the product page](./link).`
+**GEMS sections:** If the section heading contains `(GEMS)`, still convert it fully — do not skip or stub it. Add `gems: true` to the frontmatter. Drop `(GEMS)` from the H1 title; add a short note at the top of the body: `This page covers GEMS-specific configuration. General setup is on [the product page](./link).`
 
 ---
 
