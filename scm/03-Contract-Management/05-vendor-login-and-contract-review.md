@@ -19,7 +19,7 @@ The vendor can access the contract through the sign-in page. They will receive t
 
    Below the main procurement sign-in square, the prompt says: **Are you a vendor? Sign in here**. Use the assigned login details to access the platform.
 
-   ![View contract version history](./images/vendor_login_and_contract_review_1.png)
+   ![Vendor sign in](./images/vendor_login_and_contract_review_1.png)
    
 3. Review the contract
 
@@ -27,7 +27,7 @@ The vendor can access the contract through the sign-in page. They will receive t
    
 4. Upload and submit the counteroffer or modified contract
 
-   Uploading the updated contract changes the progress status to **In negotiation**.
+   Upload the updated contract under **Description of goods/service**. Add a comment, then click **Submit updated version**. This changes the progress status to **In negotiation**.
 
    > **Note:** You can access previous contract versions during negotiations by clicking **View version history**.
 
