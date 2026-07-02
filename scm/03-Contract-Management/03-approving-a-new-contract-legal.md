@@ -20,7 +20,7 @@ Some new contracts require alignment with the school's legal framework and the s
    
 3. Update and upload the contract
 
-   Add necessary modifications and upload this latest version in the **Attachment** tab, under the **Contract Version Upload**.
+   Add the necessary modifications, then download the latest contract by clicking **Download current version**. Upload this latest version in the **Attachment** tab, under the **Contract Version Upload**.
 
 4. Approve the contract
 
