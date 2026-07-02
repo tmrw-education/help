@@ -13,7 +13,7 @@ video:
 
 # Vendor Login and Contract Review
 
-The vendor can access the contract through the sign-in page. They will receive the sign-in details from the school.
+The vendor can access the contract through the sign-in page. They will receive the sign-in details from the school. Internal staff can use these instructions to walk a vendor through the process if the vendor needs support.
 
 1. Sign in
 
