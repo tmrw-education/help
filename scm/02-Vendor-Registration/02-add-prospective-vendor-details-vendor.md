@@ -13,7 +13,7 @@ video:
 
 # Add a Prospective Vendor - Vendor
 
-Once a prospective vendor request is submitted internally, the vendor will receive an email prompting them to enter their details on the platform. This is also the space to upload relevant documents, such as a VAT certificate and a trade license. You will also have the opportunity to submit your proposal here.
+Once a prospective vendor request is submitted internally, the vendor will receive an email prompting them to enter their details on the platform. This is also the space to upload relevant documents, such as a VAT certificate and a trade license. Vendors will also have the opportunity to submit their proposal here. Internal staff can use these instructions to walk a vendor through the process if they need support.
 
 1. Open your email
 
