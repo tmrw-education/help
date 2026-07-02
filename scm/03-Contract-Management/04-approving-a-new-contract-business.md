@@ -20,7 +20,7 @@ There are two situations in which the Business team reviews a contract: after th
    
 3. Update and upload the contract
 
-   Add necessary changes and upload the updated version in the **Attachment** tab under **Contract Version Upload**.
+   Add necessary changes, then download the latest contract by clicking **Download current version**. Then, upload the updated version in the **Attachment** tab under **Contract Version Upload**.
    
 4. Approve the contract
 
