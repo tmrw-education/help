@@ -16,16 +16,18 @@ As the contract manager, you are assigned by the initiator after a contract is s
 
 1. Review the contract details
 
-   If you notice any edits or issues, click **Send back…** to return the contract to the initiator for updating or modifying.
+   If you notice any edits or issues, click **Send back…** to return the contract to the initiator for updating or modifying. Once finalised, download the current version by clicking **Download current version** on the right side of the screen.
 
-2. Upload the updated Contract
+   ![Download current contract version button](./images/create-a-new-contract-contract-manager-1.png)
+
+3. Upload the updated Contract
 
    Attach the modified or updated contract in the **Attachment** tab under **Contract Version Upload**.
    
-3. Identify and assign the next set of reviewers
+4. Identify and assign the next set of reviewers
    
    Select reviewers from **Legal**, **Business**, **CPO**, and **CEO** for contract approval.
    
-4. Approve and Submit
+5. Approve and Submit
    
    Assign the next reviewer for the contract. Choose from the **Legal** or **Business** team, or bypass both and submit the contract directly to the **Vendor**.
