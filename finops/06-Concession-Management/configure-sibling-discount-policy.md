@@ -10,8 +10,6 @@ video:
   youtube:
   bunny:
 ---
-{/* GEMS: review destination */}
-
 # Configure the Sibling Discount Policy
 
 This page covers GEMS-specific configuration. General concession setup is on the [Concession Management overview](./index.md).
