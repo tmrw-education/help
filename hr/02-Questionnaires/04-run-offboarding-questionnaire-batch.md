@@ -22,15 +22,15 @@ The offboarding exit survey is generated automatically via a batch job that dete
 
 2. Run the schedule
 
-   Click **Run** (or **Re-run**) to trigger the batch job. The job:
+   Click **OK** to trigger the batch job. The job:
    - Finds all employees who have been assigned an offboarding checklist.
    - Generates a questionnaire for each employee based on the offset dates defined in the checklist.
    - Assigns the questionnaire to each employee for completion in ESS.
 
-   ![The offboarding questionnaire schedule record with the Run button highlighted in the Action Pane](./images/run-offboarding-questionnaire-batch-2.png)
+   ![The offboarding questionnaire schedule record with the OK button highlighted](./images/run-offboarding-questionnaire-batch-2.png)
 
    > **Note:** This batch can be configured to run nightly as a recurring job — no manual intervention is required once scheduled. Run it manually only when you need to trigger it outside the normal cycle.
 
 3. Confirm generation
 
-   After the batch runs, a questionnaire ID is generated for each affected employee. Employees will see the questionnaire appear in their ESS portal under the **Questionnaires** tab.
+   After the batch runs, a questionnaire ID is generated for each affected employee. Employees will see the questionnaire appear in their ESS portal under the **Questionnaires** tab. To check the answers in D365, go to **Questionnaire ▸ View and analyse results ▸ Answers by person**. Filter the name required, then click **Answers** in the Action Pane. Use the questionnaire number as a reference.
