@@ -28,11 +28,11 @@ Questionnaire schedules target a questionnaire to specific employees across one 
 
    In the **Questionnaire** field, select the questionnaire to distribute. The questionnaire must already exist in the system before it can be scheduled.
 
-4. Target the audience
+4. Set up the questionnaire details
 
-   Set the **Legal entity** (or select multiple companies or business segments) to specify which school or group of schools the questionnaire is released to. Leave this global if it applies to all entities.
+   Click **Setup details** in the Action Pane. Select the person, teams or business segments to specify which school or group of schools the questionnaire is released to.
 
-   ![The Questionnaire Schedule form showing the Questionnaire field and Legal entity selection](./images/set-up-questionnaire-schedule-2.png)
+   ![The Questionnaire Schedule form showing the recipient selection](./images/set-up-questionnaire-schedule-2.png)
 
 5. Set the date range
 
