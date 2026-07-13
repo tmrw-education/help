@@ -12,7 +12,7 @@ video:
 
 # Configure an onboarding checklist
 
-Onboarding checklists define the tasks assigned to a new employee and their supporting teams when they join the organisation. Tasks can be assigned to a specific person, a user group, or left for manual assignment at hire time.
+Onboarding checklists define the tasks assigned to a new employee and their supporting teams upon joining the organisation. Tasks can be assigned to a specific person, a user group, or left for manual assignment at the time of hire.
 
 1. Open Onboarding checklists
 
@@ -27,15 +27,15 @@ Onboarding checklists define the tasks assigned to a new employee and their supp
 3. Edit the checklist
 
    Click **Edit** to enter edit mode. For each task, configure:
-   - **Task name** and description
+   - **Task** name and description
    - **Assigned to** — a specific person, a user group, or left blank for manual assignment at hire
-   - **Offset date** — the due date, calculated as a number of days relative to the employee's start date
+   - **Due date offset from start date** — the due date, calculated as a number of days relative to the employee's start date
 
    ![The onboarding checklist tasks grid showing task names, assigned groups, and offset day columns](./images/configure-onboarding-checklist-2.png)
 
 4. Assign to a group
 
-   If using group assignment, click **View Details** on the group to see its members filtered by legal entity. Select one member and click **Make Primary** — tasks route to the primary only, not all group members. If the primary has an active delegation configured, the delegated person receives the task automatically.
+   If using a group assignment, right-click to **View Details** to see its members filtered by legal entity. Select one member and click **Make Primary** — tasks route to the primary only, not all group members. If the primary has an active delegation configured, the delegated person automatically receives the task.
 
    ![The group detail view with a member selected and the Make Primary button highlighted](./images/configure-onboarding-checklist-3.png)
 
