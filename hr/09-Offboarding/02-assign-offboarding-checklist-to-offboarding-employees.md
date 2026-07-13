@@ -33,4 +33,7 @@ Send out the offboarding checklist to employees who are leaving the company.
 
 5. Assign a checklist for the employee
 
-   Select **Actions** from the Action pane. Under Action, click **Checklists**. Click **Apply checklist.** In the pop-up, update the **Process type** to Offboarding. Select the **Target date** from the dropdown. The target date should match the selected end date from the previous step. Select the checklist and press the right-facing arrow. Click **OK**.
+   - Select **Actions** from the Action pane. Under Action, click **Checklists**.
+   - Click **Apply checklist.** In the pop-up, update the **Process type** to Offboarding.
+   - Select the **Target date** from the dropdown. The target date should match the selected end date from the previous step.
+   - Select the checklist and press the right-facing arrow. Click **OK**.
