@@ -23,13 +23,17 @@ A sourcing project takes a purchase requisition raised in **D365 Finance & Opera
 
 2. Build the project content
 
-   Work through the content sections in order. In **Technical**, enter the introduction text — click **Copy from library** to reuse a saved version, or **Generate with AI** to draft one from a description. Add the **Scope of work** and any **Additional requirements** the same way. In **Technical document**, enter or upload the specifications vendors must meet. In **Terms and conditions**, click **Import from Template** to reuse an approved set or **Add item** to write new terms for this project. In **Price Bid**, select the **Currency** and enter the number of items the project covers.
+   Work through the content sections in order.
+   - In **Technical**, enter the introduction text — click **Copy from library** to reuse a saved version, or **Generate with AI** to draft one from a description. Add the **Scope of work** and any **Additional requirements** the same way.
+   - In **Technical document**, enter or upload the specifications vendors must meet.
+   - In **Terms and conditions**, click **Import from Template** to reuse an approved set or **Add item** to write new terms for this project.
+   - In **Price Bid**, select the **Currency** and enter the number of items the project covers.
 
-3. Set up the project
+4. Set up the project
 
-   Open **Service providers** and select the vendors to invite. Prospective vendors can be included — they receive the invitation email but must complete full onboarding before their bid can be accepted. Optionally, in **Collaboration**, add any users who will work on the project with you, and set the access level for each. Also optionally, in **Assessments**, select the **Company type**, then select the assessments required — the assessments that apply depend on the company type, so a service company may need only a few or none.
+   Open **Service providers** and select the vendors to invite. Prospective vendors can be included — they receive the invitation email but must complete full onboarding before their bid can be accepted. Optionally, in **Collaboration**, add any users who will work on the project with you and set their access level. Also, optionally, in **Assessments**, select the **Company type**, then select the required assessments — the assessments that apply depend on the company type, so a service company may need only a few or none.
 
-4. Schedule, review, and publish the message
+5. Schedule, review, and publish the message
 
    Open **Schedule** and set the submission close date — the last day vendors can submit. Open **Project Messages** to review the invitation email to be sent to vendors and add any additional information as needed. Click **Publish**, then **Confirm**.
 
