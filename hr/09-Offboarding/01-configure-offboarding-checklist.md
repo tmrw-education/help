@@ -10,7 +10,7 @@ video:
    bunny:
 ---
 
-#Configure an Offboarding Checklist
+# Configure an Offboarding Checklist
 
 Prepare the offboarding checklist for staff members who are leaving the company. Assign the primary user who will follow up on the offboarding process and identify who the task can be delegated to.
 
