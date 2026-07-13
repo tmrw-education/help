@@ -26,7 +26,7 @@ Dependencies prevent a task from being completed until a prerequisite task is fi
 
    Click **Set Dependency** and select the task that must be completed beforehand. A task can have multiple dependencies.
 
-   ![The onboarding checklist task selected, with the Set Dependency button highlighted in the Action Pane](./images/set-checklist-dependencies-1.png)
+   ![The onboarding checklist task selected, with the Set Dependency button highlighted in the task bar](./images/set-checklist-dependencies-1.png)
 
 4. Save
 
