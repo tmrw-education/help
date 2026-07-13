@@ -2,8 +2,8 @@
 id: configure-offboarding-checklist
 summary:
    - "Go to to **Modules ▸ Human Resources ▸ Task Management ▸ Offboarding checklists**."
-  - "Select a checklist, click **Edit**, and configure tasks with owners and offset dates."
-  - "Click **Save** to apply."
+   - "Select a checklist, click **Edit**, and configure tasks with owners and offset dates."
+   - "Click **Save** to apply."
 keywords: [offboarding checklist, assigning offboarding checklist, offboarding employees, exit interview, leaving employees, task assignment, task management, configure offboarding checklist]
 video:
    youtube:
