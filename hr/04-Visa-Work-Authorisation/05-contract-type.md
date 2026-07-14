@@ -16,7 +16,7 @@ Contract types define the employment contract categories used when recording vis
 
 1. Navigate to Contract Type
 
-   From D365, go to **Visa Master ▸ Contract Type**. The configured contract types are displayed — typically 5–6 values.
+   From D365, go to **Human resources ▸ Setup ▸ Visa Master ▸ Contract Type**. The configured contract types are displayed.
 
    ![The Contract Type list in D365 showing the configured contract type rows](./images/manage-contract-types-1.png)
 
