@@ -27,3 +27,5 @@ Visa types define the categories of visas available when recording employee visa
 3. Export the list
 
    Click **Export to Excel** to download the list if needed.
+
+   ![Dropdown menu to export to excel](./images/visa-type-setup-2.png)
