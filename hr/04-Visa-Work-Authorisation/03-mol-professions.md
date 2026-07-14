@@ -16,7 +16,7 @@ MOL (Ministry of Labour) professions define the occupational classifications req
 
 1. Navigate to MOL Profession
 
-   From D365, go to **Visa Master ▸ MOL Profession**. The full list of MOL professions is displayed, including profession codes and descriptions. Descriptions are shown alongside codes in all dropdown selections to ensure clarity.
+   From D365, go to **Human Resources** ▸ **Setup** ▸ **Visa master ▸ MOL Profession**. The full list of MOL professions is displayed, including profession codes and descriptions. Descriptions are shown alongside codes in all dropdown selections to ensure clarity.
 
    ![The MOL Profession list in D365 showing profession code and description columns](./images/manage-mol-professions-1.png)
 
