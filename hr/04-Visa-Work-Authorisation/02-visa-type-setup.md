@@ -12,11 +12,11 @@ video:
 
 # Manage visa type setup
 
-Visa types define the categories of visa available when recording employee visa information. These values were pre-loaded from the organisation's prior system during migration.
+Visa types define the categories of visas available when recording employee visa information. These values were pre-loaded from the organisation's prior system during migration.
 
 1. Navigate to Visa Type
 
-   From D365, go to **Visa Master ▸ Visa Type**. The full list of configured visa types is displayed.
+   From D365, go to **Human Resources** ▸ **Setup** ▸ **Visa master ▸ Visa Type**. The full list of configured visa types is displayed.
 
    ![The Visa Type list in D365 showing configured visa type rows with labels and descriptions](./images/visa-type-setup-1.png)
 
