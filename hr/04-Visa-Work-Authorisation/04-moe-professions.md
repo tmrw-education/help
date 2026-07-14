@@ -16,7 +16,7 @@ MOE (Ministry of Education) professions define the occupational classifications 
 
 1. Navigate to MOE Profession
 
-   From D365, go to **Visa Master ▸ MOE Profession**. The full list of configured professions is displayed.
+   From D365, go to **Human Resources ▸ Setup ▸ Visa Master ▸ MOE Profession**. The full list of configured professions is displayed.
 
    ![The MOE Profession list in D365 showing profession code and description columns](./images/manage-moe-professions-1.png)
 
