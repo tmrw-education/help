@@ -26,11 +26,10 @@ Visa statuses define the lifecycle stages used to track the progress of visa and
 
    | Status | Description |
    |---|---|
-   | **Created** | Record has been created in the system |
-   | **Submitted** | Application has been submitted to the relevant authority |
-   | **Approved** | Application has been approved |
-   | **Rejected** | Application has been rejected |
-   | **Finished** | Process has been completed |
+   | **Applied** | Application has been submitted to the relevant authority |
+   | **Not Applied** | Application has not been submitted to the relevant authority |
+   | **Visa Holder** | Visa holder |
+   | **LC Holder** | Labour card holder |
 
    ![The Visa Label Status list showing all configured status rows in the D365 grid](./images/visa-status-setup-2.png)
 
