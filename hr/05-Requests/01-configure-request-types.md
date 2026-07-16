@@ -14,9 +14,9 @@ video:
 
 Request types define what employees can request through the ESS portal, which fields appear on the submission form, what is required before submitting, and which approval workflow the request follows.
 
-1. Open the Request Types form
+1. Open the HR request types form
 
-   In D365, navigate to the **Request Types** form within the Human Resources module.
+   In D365, navigate to the **HR request types** form within the Human Resources module: **Human resources ▸ Setup ▸ HR request types**.
 
 2. Select a request type
 
@@ -30,8 +30,8 @@ Request types define what employees can request through the ESS portal, which fi
 
    | Toggle | What it does |
    |---|---|
-   | **Visible** | Shows the field on the employee's ESS submission form |
-   | **Mandatory** | Requires the employee to complete this field before submitting |
+   | **WebESS display** | Shows the field on the employee's ESS submission form |
+   | **Attachment mandatory** | Requires the employee to complete this field before submitting |
 
    The **Attachment** option is present on every request type by default — employees can always attach a file, so it does not appear in the field list.
 
@@ -43,7 +43,7 @@ Request types define what employees can request through the ESS portal, which fi
 
 5. Control ESS visibility
 
-   Toggle **Display on web ESS** on or off to show or hide this request type in the employee portal. Request types that HR initiates internally should be set to not display in ESS.
+   Toggle **Display on web ESS** to show or hide this request type in the employee portal. Request types that HR initiates internally should be set not to display in ESS.
 
 6. Set the display order
 
