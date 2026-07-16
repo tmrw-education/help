@@ -12,7 +12,7 @@ video:
 
 # Review pending worker visa information
 
-When an applicant is hired through the recruitment process, any identification records added to the applicant record (such as passport or visa details) carry over automatically into the Pending Worker Visa Information form. The HR or PRO team uses this form to confirm documents are present and to complete additional visa-related fields before finalising the hire. When the worker action is completed, all information publishes to the employee record.
+When an applicant is hired through the recruitment process, any identification records added to the applicant record (such as passport or visa details) automatically carry over to the Pending Worker Visa Information form. The HR or PRO team uses this form to confirm documents are present and to complete additional visa-related fields before finalising the hire. When the worker's action is completed, all information is published to the employee's record.
 
 1. Open Pending Worker Visa Information
 
@@ -26,7 +26,7 @@ When an applicant is hired through the recruitment process, any identification r
 
 3. Confirm identification documents
 
-   Click **View Documents** to see the identification records (such as passport or visa) that were entered at the applicant stage. Confirm that the expected records are present. Attachments uploaded to the applicant record are also visible here.
+   Click **View Documents** to view the identification records (such as a passport or visa) entered at the applicant stage. Confirm that the expected records are present. Attachments uploaded to the applicant record are also visible here.
 
    ![The Pending Worker Visa Information form with the View Documents button visible and a list of identification records displayed](./images/review-pending-worker-visa-2.png)
 
@@ -39,7 +39,7 @@ When an applicant is hired through the recruitment process, any identification r
    Click **Edit** and record the following fields as applicable. Default values configured in system setup will pre-populate where they apply:
 
    - **MOL Profession** — Ministry of Labour classification
-   - **MOA Profession** — Ministry of Education classification (where applicable)
+   - **MOE Profession** — Ministry of Education classification (where applicable)
    - **Visa Issuing Unit** — the issuing authority (for example, WSO)
    - **Visa Labour Card Status** — select the status that applies to this worker
    - **Visa Type** — select the visa category (for example, Employment Visa A). The **ABC Category** field updates automatically based on the visa type selected.
@@ -56,7 +56,7 @@ When an applicant is hired through the recruitment process, any identification r
 
 8. Verify the employee record
 
-   Once the worker action is completed, confirm that the information has published correctly:
+   Once the worker action is completed, confirm that the information has been published correctly:
 
    - Open the **Employee Visa Information** form and search for the new employee — visa fields and identification records should be present.
    - Open the employee's record in the **Human Resources** module and navigate to **Person Identifications** to confirm identification documents (for example, passport, visa) are listed.
