@@ -34,7 +34,7 @@ When an employee submits a request through ESS, it is routed to the HR team via 
 
 4. Enter HR Feedback
 
-   In the **HR Feedback** field, enter your response or notes. This text is visible to the employee when they view their completed request in ESS.
+   In the **HR notes** field, enter your response or notes. This text is visible to the employee when they view their completed request in ESS.
 
 5. Attach a document (optional)
 
