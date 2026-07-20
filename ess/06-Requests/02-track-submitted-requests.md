@@ -1,7 +1,7 @@
 ---
 id: track-submitted-requests
 summary:
-  - "From ESS, navigate to **HR Requests** to see a list of all your submitted requests."
+  - "From ESS, on the **Submit request** tile, click **My requests →** to see a list of all your submitted requests."
   - "Open a completed request to view its status, any **HR Feedback**, and attached documents."
   - "Use the **Download** link to save any documents HR has attached."
 keywords: [track request, my requests, request status, submitted requests, HR feedback, download document, request history]
@@ -16,7 +16,7 @@ All requests you have submitted are visible in the HR Requests section. Once HR 
 
 1. Open HR Requests
 
-   From the ESS home page, navigate to the **HR Requests** section. Your request history is listed here, each showing a request number and current status.
+   From the ESS home page, on the **Submit request** tile, click **My requests →**. Your request history is listed here, each showing a request number and current status.
 
 2. Open a request
 
