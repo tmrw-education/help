@@ -1,7 +1,7 @@
 ---
 id: nps-questionnaire
 summary:
-  - "Go to the **Questionnaires** tab in ESS and find the NPS survey."
+  - "Go to the **My work** tab, click **Questionnaires** and find the NPS survey."
   - "Click **Start**, provide your rating and optional comments."
   - "Click **Submit** to complete it."
 keywords: [NPS, net promoter score, pulse survey, employee feedback, rating survey, recommend GEMS]
@@ -16,7 +16,7 @@ The NPS (Net Promoter Score) questionnaire is a brief pulse survey that captures
 
 1. Open the Questionnaires tab
 
-   From the ESS portal, go to **Employment ▸ Questionnaires** or click the **Questionnaires** tab.
+   From the ESS portal, click the **My work** tab and scroll down to **Questionnaires**.
 
 2. Find the NPS questionnaire
 
