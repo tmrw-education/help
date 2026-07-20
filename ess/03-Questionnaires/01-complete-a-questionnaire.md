@@ -16,7 +16,7 @@ Questionnaires are assigned by HR and appear in the Questionnaires tab of your E
 
 1. Open the Questionnaires tab
 
-   From the ESS portal, click the **My work** tab, and scroll down to **Questionnaires**.
+   From the ESS portal, click the **My work** tab and scroll down to **Questionnaires**.
 
    ![Accessing the questionnaires tab from My work in the navigation bar](./images/complete-a-questionnaire-1.png)
 
