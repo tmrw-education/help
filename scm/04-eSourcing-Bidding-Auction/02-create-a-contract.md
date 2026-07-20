@@ -30,9 +30,23 @@ Once vendors have submitted their bids, you review all submissions side by side,
 
 3. Create the contract
 
-   - Navigate to **Contracts**, click on **New Contract** search for the awarded vendor under **Supplier name** and find their **Approved bids** section.
-   - Select the awarded project and fill in the remainder of the details.
-   - Complete the remaining pages of the contract creation until you can review the contract summary — the project details carry over automatically, under **Review bid documents**, including the vendor's submitted attachments — then create the contract.
-   - The contract is created in D365 F&O and appears in the procurement contract section.
+   Navigate to **Contracts**, click **New Contract**, search for the awarded vendor under **Supplier name**, and find their **Approved bids** section. Select the awarded project — the project details carry over automatically — then work through the form sections to complete the contract.
+
+   - **Technical documents** — upload the technical documents for the contract.
+   - **Terms and conditions** — enter the terms and conditions that apply to the vendor. You can download the existing terms or create a new set.
+   - **Price Bid** — upload the items and their prices. These are created from the purchase requisition lines or imported from an Excel sheet.
+   - **Service providers** — select the vendors, or prospective vendors, the contract applies to.
+   - **Collaboration** *(optional)* — add any users who will work on the contract with you and set their access level.
+   - **Assessments** *(optional)* — select the company type, then choose the required assessments. The assessments that apply depend on the company type.
+   - **Schedule** — set the date and time the RFP or auction is scheduled to run, along with the end date.
+   - **Project messages** — the email communication sent to vendors and its related details are captured here.
+   - **Review and publish** — check the details and publish the RFP or auction so vendors are notified. The timer is set and the countdown begins after this stage.
+   - **Overview** — review the project summary and the vendor details carried across from the awarded sourcing project.
+   - **Event communication** — review the notifications and correspondence for this event.
+   - **View quotations** — compare each vendor's submitted price and terms side by side.
+   - **Approve quotations** — select the winning vendor and award the items to them.
+   - **Order confirmation** — confirm the order to finalise it with the awarded vendor.
+
+   Once published, the contract is created in D365 F&O and appears in the procurement contract section.
 
    ![The contract summary showing the carried-over project details and vendor attachments](./images/create-contract-3.png)
