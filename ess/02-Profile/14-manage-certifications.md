@@ -31,7 +31,7 @@ The certifications section tracks your professional and compliance certificates,
 
    You will also receive expiry notifications through the **notification bell** on the ESS home screen.
 
-   ![The certifications list showing certificate names and status badges including Valid, Expiring, and Expired labels](./images/manage-certifications-1.png)
+   ![The certifications landing page to view Total skills, Certificates and Performance goals](./images/manage-certifications-1.png)
 
 3. Add a new certificate
 
