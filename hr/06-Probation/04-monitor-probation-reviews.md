@@ -41,7 +41,7 @@ HR can view all probation reviews — in progress or completed — from a centra
 
    Click **View History** to trace the full workflow routing — who took each action, which workflow conditions evaluated to true or false, and when each step completed.
 
-   ![The Review menu expanded to show how to view workflow history](./images/monitor-probation-review-3.png)
+   ![The Review menu expanded to show how to view workflow history](./images/monitor-probation-reviews-3.png)
 
 6. Confirm successful completion
 
