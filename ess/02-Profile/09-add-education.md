@@ -20,7 +20,7 @@ Education records are submitted through ESS and reviewed by HR before they appea
 
 2. Add a new qualification
 
-   Click **Add New Qualification**.
+   Click **Add new qualification +**.
 
 3. Select the qualification type
 
@@ -28,7 +28,7 @@ Education records are submitted through ESS and reviewed by HR before they appea
 
 4. Complete the details
 
-   Fill in the relevant fields: field of study, institution, start date, and completion status.
+   Fill in the relevant fields: field of study, level of education, institution, start date, and completion status.
 
 5. Upload your certificate
 
