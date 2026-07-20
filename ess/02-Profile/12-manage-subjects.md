@@ -12,7 +12,7 @@ video:
 
 # Manage your subjects
 
-The Subjects tab lets you declare the subjects you are qualified or available to teach. Subject submissions are routed through the approval workflow.
+The Subjects tab lets you declare the subjects you are qualified in or available to teach. Subject submissions are routed through the approval workflow.
 
 1. Open the Subjects tab
 
@@ -20,7 +20,7 @@ The Subjects tab lets you declare the subjects you are qualified or available to
 
 2. Add a subject
 
-   Click **Add New Subject**.
+   Click **Add New Subject +**.
 
 3. Select the subject
 
