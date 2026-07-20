@@ -21,9 +21,9 @@ ESS is built around a home page of tiles. Click any tile to go directly to that 
    | Tile | What you'll find there |
    |---|---|
    | **My Profile** | Your personal details, identification, contacts, payment information, skills, and certifications |
-   | **Tasks / Onboarding** | Checklists of tasks assigned to you |
-   | **Questionnaires** | Surveys and forms assigned by HR |
-   | **Approvals** | Items waiting for your review and approval |
+   | **Tasks/Onboarding** | Checklists of tasks assigned to you |
+   | **Submit request** | Submit request items to HR |
+   | **Learning and Professional Development** | Lists of courses overdue, due soon or assigned courses |
    | **Company Directory** | Search for colleagues by name or reporting manager |
    | **Org chart** | Visual view of your team structure and reporting lines |
 
@@ -31,8 +31,8 @@ ESS is built around a home page of tiles. Click any tile to go directly to that 
 
 2. Check the notification bell
 
-   The bell icon in the top-right corner alerts you when action is needed — for example, a document approaching expiry, a new questionnaire assigned, or a new approval request. Click a notification to jump directly to the relevant record.
+   The bell icon in the top-right corner alerts you when action is needed — for example, when a document is approaching expiry, a new questionnaire is assigned, or a new approval request is submitted. Click a notification to jump directly to the relevant record.
 
 3. Navigate back to home
 
-   To return to the home page at any time, click the **Home** icon or use your browser's back button. ESS runs in any web browser — there is nothing to install.
+   To return to the home page at any time, click **ESS System** in the navigation bar or use your browser's back button. ESS runs in any web browser — there is nothing to install.
