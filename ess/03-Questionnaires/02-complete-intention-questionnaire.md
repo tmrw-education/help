@@ -1,7 +1,7 @@
 ---
 id: complete-intention-questionnaire
 summary:
-  - "Go to the **Questionnaires** tab in ESS and find the Intention Questionnaire."
+  - "Go to the **My work** tab, click **Questionnaires** and find the Intention Questionnaire."
   - "Click **Start**, answer whether you intend to leave the organisation, and provide any comments."
   - "Click **Submit** to complete it."
 keywords: [intention questionnaire, intention survey, stay or leave, intend to leave, retention survey, intention to leave]
@@ -16,15 +16,15 @@ The Intention Questionnaire is a survey distributed to specific employee groups 
 
 1. Open the Questionnaires tab
 
-   From the ESS portal, go to **Employment ▸ Questionnaires** or click the **Questionnaires** tab.
+   From the ESS portal, go to **My work** in the Navigation bar, then click **Questionnaires** from the dropdown.
 
 2. Find the Intention Questionnaire
 
-   Locate the questionnaire in the list. It appears with an **Assigned** status and shows the questionnaire ID.
+   Locate the questionnaire in the list.
 
 3. Start the questionnaire
 
-   Click on the questionnaire to open it and click **Start**.
+   Click the questionnaire to open it, then click **Start**.
 
 4. Answer the questions
 
