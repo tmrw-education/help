@@ -2,7 +2,7 @@
 id: manage-skills
 summary:
   - "From the **Skills & performance** tile, click **View skills**."
-  - "Click **Add new skill**, choose the skill type, set proficiency and dates."
+  - "Click **Add new skill +**, choose the skill type, set proficiency and dates."
   - "Click **Submit** — the record goes to your manager or HR for approval."
 keywords: [skills, add skill, skill management, proficiency, competency, skills update, skills profile]
 video:
@@ -20,13 +20,11 @@ The skills section lets you keep your competency profile current. Any skill you 
 
 2. Review existing skills
 
-   Your current skills are listed with their status. You can filter or search by keyword or skill type.
-
-   ![The skills list showing skill names, types, and approval statuses](./images/manage-skills-1.png)
+   Your current skills are listed with their status. You can filter or search by keyword or skill type. Select the relevant skill from the dropdown.
 
 3. Add a new skill
 
-   Click **Add new skill**.
+   Click **Add new skill +**.
 
 4. Complete the details
 
@@ -34,6 +32,8 @@ The skills section lets you keep your competency profile current. Any skill you 
    - Proficiency level
    - Date acquired
    - Years of experience
+
+   ![The form to add a new skill to platform](./images/manage-skills-1.png)
 
 5. Submit for approval
 
