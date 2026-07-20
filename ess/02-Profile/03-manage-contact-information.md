@@ -22,11 +22,11 @@ The Contact Information tab lets you manage your phone numbers, email addresses,
 
 2. Add a new contact record
 
-   Click **Add New Contact** and complete the fields:
-   - **Contact type** — for example, phone or email
+   Click the relevant contact tile and complete the fields:
+   - **Contact type** — for example, phone or email; these are pre-assigned to the tiles
    - **Number or address** — the phone number or email address
    - **Purpose** — for example, home or local
-   - **Primary** — toggle on if this is your main contact method
+   - **Primary** — there are tiles with the primary tag in place; the address or number in these fields is the primary contact detail
 
 3. Edit an existing contact
 
