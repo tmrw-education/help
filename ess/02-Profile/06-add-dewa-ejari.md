@@ -20,7 +20,7 @@ DEWA (Dubai Electricity and Water Authority) account and Ejari tenancy registrat
 
 2. Add a new record
 
-   Click **Add New**.
+   Click **Add new identification +**.
 
 3. Select the document type
 
