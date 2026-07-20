@@ -1,7 +1,7 @@
 ---
 id: submit-tuition-fee-request
 summary:
-  - "From ESS, navigate to the **Tuition Fee** request."
+  - "From ESS, navigate to the **Tuition Fee Concession** request."
   - "Select the **child/dependent**, add any notes or reason code, and click **Submit**."
   - "The button is only active when your dependent has been approved and is flagged as a GEMS student."
 keywords: [tuition fee, school fees, child, dependent, tuition request, fee concession, student benefit]
@@ -12,11 +12,11 @@ video:
 
 # Submit a tuition fee request
 
-The Tuition Fee request lets eligible employees apply for a tuition fee concession for a dependent child enrolled at a GEMS school. The request button is only active once your dependent is approved in the system and marked as a full-time GEMS student.
+The Tuition Fee Concession request lets eligible employees apply for a tuition fee concession for a dependent child enrolled at a GEMS school. The request button is only active once your dependent is approved in the system and marked as a full-time GEMS student.
 
-1. Navigate to the Tuition Fee request
+1. Navigate to the Tuition Fee Concession request
 
-   From the ESS home page, navigate to the **HR Requests** section and locate the **Tuition Fee** request.
+   From the ESS home page, navigate to the **Submit request** tile and locate the **Tuition Fee Concession** request.
 
 2. Check eligibility
 
