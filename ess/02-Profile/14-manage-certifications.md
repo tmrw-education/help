@@ -12,7 +12,7 @@ video:
 
 # Manage your certifications
 
-The certifications section tracks your professional and compliance certificates, monitoring expiry dates and surfacing alerts when renewal is needed.
+The certifications section tracks your professional and compliance certificates, monitors expiry dates, and surfaces alerts when renewal is needed.
 
 1. Open your certificates
 
@@ -35,11 +35,11 @@ The certifications section tracks your professional and compliance certificates,
 
 3. Add a new certificate
 
-   Click **Add new certificate**.
+   Click **Add new certificate +**.
 
 4. Complete the details
 
-   Select the **Certificate type**, enter the relevant dates and details.
+   Select the **Certificate** type, enter the relevant dates and details.
 
 5. Upload the document
 
