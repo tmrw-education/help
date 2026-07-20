@@ -4,7 +4,7 @@ summary:
   - "Go to **Full Profile ▸ Professional experience** tab and click **Add new experience**."
   - "Enter the Employer/referee's details."
   - "Click **Submit** — the record is sent for approval."
-keywords: [reference, referee, professional reference, add reference, employment reference]
+keywords: [reference, referee, professional reference, add reference, employment reference. preofessional experience, previous expereince, work expereince]
 video:
   youtube:
   bunny:
