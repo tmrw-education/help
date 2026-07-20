@@ -20,7 +20,7 @@ The Subjects tab lets you declare the subjects you are qualified in or available
 
 2. Add a subject
 
-   Click **Add New Subject +**.
+   Click **Add new subject +**.
 
 3. Select the subject
 
