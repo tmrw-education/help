@@ -20,7 +20,7 @@ The Personal contacts tab lets you record family members, emergency contacts, de
 
 2. Add a new contact
 
-   Click **Add New Personal Contact**.
+   Click **Add New Personal Contact +**.
 
 3. Complete Basic Details
 
