@@ -29,11 +29,10 @@ The Personal contacts tab lets you record family members, emergency contacts, de
    Three buttons are available at the bottom of each sub-tab:
    - **Save** — saves and stays on this sub-tab
    - **Next** — saves and moves to the next sub-tab
-   - **Skip** — moves to the next sub-tab without saving
 
    ![The Add Personal Contact form showing the Basic Details sub-tab with name, relationship type, and Emergency Contact and Beneficiary toggle fields](./images/add-personal-contact-1.png)
 
-4. Complete remaining sub-tabs
+4. Complete the remaining sub-tabs
 
    Work through the following tabs, filling in what is relevant:
 
@@ -42,7 +41,6 @@ The Personal contacts tab lets you record family members, emergency contacts, de
    | **Dependent Details** | Gender, date of birth, student status, disability, order eligibility. Set **Full-Time Student** if applicable — this is required for tuition fee and transport requests |
    | **Dependent Address** | Address details for the dependent |
    | **Dependent Contact Information** | Phone numbers and email for the dependent |
-   | **Dependent Identification** | Document type, number, issuing authority, and validity dates |
 
 5. Save
 
