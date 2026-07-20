@@ -18,9 +18,9 @@ This is useful for HR and admin teams where several people share responsibility 
 
 1. Open User Groups
 
-   From the D365 navigation pane, go to **Modules ▸ Human Resources ▸ Task Management ▸ User Groups**.
+   From the D365 navigation pane, go to **Modules ▸ System administration ▸ Users ▸ User groups**.
 
-   ![The D365 navigation pane with Human Resources, Task Management, and User Groups highlighted](./images/configure-task-user-groups-1.png)
+   ![The D365 navigation pane with System administration, Users, and User groups highlighted](./images/configure-task-user-groups-1.png)
 
 2. Select or create a group
 
