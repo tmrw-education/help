@@ -1,7 +1,7 @@
 ---
 id: add-personal-contact
 summary:
-  - "Go to **Full Profile ▸ Personal contacts** tab and click **Add New Personal Contact**."
+  - "Go to **Full Profile ▸ Personal contacts** tab and click **Add new personal contact +**."
   - "Fill in the sub-tabs: Basic Details, Dependent Details, Address, Contact Information, Identification."
   - "Click **Save** when complete."
 keywords: [personal contact, dependent, emergency contact, beneficiary, add dependent, family member, next of kin]
@@ -20,7 +20,7 @@ The Personal contacts tab lets you record family members, emergency contacts, de
 
 2. Add a new contact
 
-   Click **Add New Personal Contact +**.
+   Click **Add new personal contact +**.
 
 3. Complete Basic Details
 
