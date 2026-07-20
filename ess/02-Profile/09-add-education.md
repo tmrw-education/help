@@ -24,7 +24,7 @@ Education records are submitted through ESS and reviewed by HR before they appea
 
 3. Select the qualification type
 
-   Choose the **Education type** from the dropdown — for example, Master's or Bachelor's.
+   Choose the **Education type** from the dropdown — for example, Masters or Bachelors.
 
 4. Complete the details
 
