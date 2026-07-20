@@ -1,9 +1,9 @@
 ---
 id: submit-an-hr-request
 summary:
-  - "From ESS, navigate to **HR Requests** and select the type of request."
+  - "From ESS, navigate to the **Submit request** tile and select the type of request."
   - "Fill in the visible fields and optionally attach a file."
-  - "Click **Submit** — a request number is generated and your request enters the approval workflow."
+  - "Click **Submit** — a request number is generated, and your request enters the approval workflow."
 keywords: [HR request, submit request, police clearance, early exit, destination change, request form, submit, ESS request]
 video:
   youtube:
@@ -16,7 +16,7 @@ HR Requests lets you submit formal requests to the HR team directly through ESS.
 
 1. Navigate to HR Requests
 
-   From the ESS home page, navigate to the **HR Requests** section.
+   From the ESS home page, navigate to the **Submit request** tile.
 
 2. Select a request type
 
@@ -34,7 +34,7 @@ HR Requests lets you submit formal requests to the HR team directly through ESS.
 
 5. Submit
 
-   Click **Submit** to send your request. A system-generated **request number** is assigned and the current status is displayed.
+   Click **Submit** to send your request. A system-generated **request number** is assigned, and the current status is displayed.
 
 6. Cancel if needed
 
