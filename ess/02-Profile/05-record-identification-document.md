@@ -20,7 +20,7 @@ Identification documents are submitted through ESS and reviewed by HR before the
 
 2. Add a new record
 
-   Click **Add New** to start a new identification record.
+   Click **Add new identification +** to start a new identification record.
 
 3. Select the document type
 
