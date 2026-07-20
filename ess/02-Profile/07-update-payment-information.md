@@ -28,11 +28,7 @@ Your payment information records the bank account where your salary is deposited
 
    ![The Add New Payment Method form showing the bank name, account name, account number, and IBAN fields](./images/update-payment-information-1.png)
 
-3. Set the account to active
-
-   Toggle the account status to **Active** to designate this as your current salary account.
-
-4. Submit
+3. Submit
 
    Click **Submit** to save your changes.
 
