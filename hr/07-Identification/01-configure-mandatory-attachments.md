@@ -14,9 +14,9 @@ video:
 
 Each identification document type can have its own set of required fields and attachment rules. When an attachment is made mandatory, the Submit button in ESS is disabled until the employee uploads a file — preventing incomplete submissions.
 
-1. Navigate to Identification Types setup
+1. Navigate to the Identification types setup
 
-   In D365, go to the **Identification Types** setup form within the Human Resources configuration area.
+   In D365, go to the **Identification types** setup form within the Human Resources configuration area.
 
    ![The D365 navigation showing the Identification Types setup form within the Human Resources configuration area](./images/configure-mandatory-attachments-1.png)
 
@@ -35,11 +35,11 @@ Each identification document type can have its own set of required fields and at
 
 4. Set the attachment requirement
 
-   Toggle the **Attachment Required** flag on or off for this document type. When enabled, employees cannot submit the identification record without uploading a supporting file.
+   In the **Identification type details**, update the **Attachment mandatory for company** where needed, and add the company details where an attachment is required. When enabled, employees cannot submit the identification record without uploading a supporting file. If no attachment is needed, leave the field blank.
 
 5. Scope by company and worker country/region
 
-   Rules can be scoped per **legal entity (company)** and per **worker country/region**, allowing different requirements for employees across different schools or locations.
+   Rules can be scoped per legal entity (company) and per **Worker region**, allowing different requirements for employees across different schools or locations.
 
 6. Save
 
