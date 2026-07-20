@@ -22,7 +22,7 @@ Your profile must always have at least one address marked as your primary reside
 
 2. Add a new address
 
-   Click **Add New Address** and complete the fields: description, purpose, street, city, and country.
+   Click the relevant address tile and complete the fields: description, purpose, street, city, and country.
 
 3. Set a primary address
 
