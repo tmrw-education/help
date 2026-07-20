@@ -26,7 +26,7 @@ Previous experience records are submitted through ESS and go through the approva
 
    Fill in the required fields: Employer's name, your position, and the company's contact details.
 
-   ![The Add New experience form showing the Employer's name, position, and start/end date fields](./images/add-professiona-experience-1.png)
+   ![The Add New experience form showing the Employer's name, position, and start/end date fields](./images/add-professional-experience-1.png)
 
 4. Submit for approval
 
