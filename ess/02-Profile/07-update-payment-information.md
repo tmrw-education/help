@@ -20,7 +20,7 @@ Your payment information records the bank account where your salary is deposited
 
 2. Add a new payment method
 
-   Click **Add new payment method** and complete the required fields:
+   Click **Add new payment method +** and complete the required fields:
    - Bank name
    - Account name
    - Account number
