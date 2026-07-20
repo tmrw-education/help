@@ -16,7 +16,7 @@ The Company Directory lets you find any colleague's contact details, department,
 
 1. Open Company Directory
 
-   From the ESS home page, navigate to **Company Directory**.
+   From the ESS home page, navigate to **Company directory**.
 
 2. Search for a colleague
 
