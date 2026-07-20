@@ -16,7 +16,7 @@ The **Reward Type** field on the component master classifies compensation and be
 
 1. Open the Component Master
 
-   In D365, navigate to the **Component Master** form within the **Human Resources** or **Compensation** module.
+   In D365, navigate to the **Component master** form. **Human Resources** ▸ **Setup** ▸ **Compensation**.
 
    ![The D365 navigation pane with the Component Master option highlighted](./images/configure-reward-types-1.png)
 
@@ -26,7 +26,7 @@ The **Reward Type** field on the component master classifies compensation and be
 
    To find components that still need to be configured, clear the filter and review all components.
 
-   ![The Component Master list with the Reward Type column visible and a filter applied to show non-empty values](./images/configure-reward-types-2.png)
+   ![The Component Master list with the Reward Type column visible and a filter menu open](./images/configure-reward-types-2.png)
 
 3. Open a component
 
