@@ -16,7 +16,7 @@ The Generate Probation Reviews batch process scans employee records for upcoming
 
 1. Navigate to the batch process
 
-   In D365, go to **System Administration ▸ Batch Processes** and select **Generate Probation Reviews**.
+   In D365, go to **System Administration ▸ Periodic tasks ▸ Batch** and select **Generate probation review**.
 
    ![The D365 Batch Processes list with Generate Probation Reviews highlighted](./images/generate-probation-reviews-1.png)
 
@@ -24,7 +24,7 @@ The Generate Probation Reviews batch process scans employee records for upcoming
 
    Enter a value in the **Probation Horizon Days** parameter. The batch generates reviews for any employee whose Stage 1 or Stage 2 probation date falls within this many days from today.
 
-   For example: setting the horizon to 10 days will capture any review date falling within the next 10 days. If a probation date has already passed, no review is generated for it.
+   For example, setting the horizon to 10 days will capture any review date falling within the next 10 days. If a probation date has already passed, no review is generated for it.
 
    ![The Generate Probation Reviews parameters screen showing the Probation Horizon Days input field](./images/generate-probation-reviews-2.png)
 
@@ -36,5 +36,5 @@ The Generate Probation Reviews batch process scans employee records for upcoming
 
    After the batch runs:
    - The **Review 1 Generated** or **Final Review Generated** flag on the employee record is set to **Yes**.
-   - A probation review record is created and submitted into the workflow.
+   - A probation review record is created and submitted to the workflow.
    - The review appears in the manager's ESS queue under **Team Probation Review Requests**.
