@@ -30,4 +30,4 @@ Whenever you need to perform a new task or switch contexts:
 2. Select "Modules" to view all available functional areas.
 3. Drill down into the relevant module and submenu to find the page you need.
 
-> **Note:** *You can always return to your dashboard (the landing page) by clicking the Home icon at the top of the navigation pane. Or open a module/form from the search bar at the top of the page.*
+> **Note:** You can always return to your dashboard (the landing page) by clicking the Home icon at the top of the navigation pane. Or open a module/form from the search bar at the top of the page.
