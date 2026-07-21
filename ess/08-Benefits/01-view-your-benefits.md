@@ -1,7 +1,7 @@
 ---
 id: view-rewards-statement
 summary:
-  - "From the ESS portal, navigate to the **Benefits** section to open your rewards statement."
+  - "From the ESS portal, navigate to the **Rewards & Benefits** section to open your rewards statement."
   - "Review your total reward, pay, benefits breakdown, variable pay, concessions, and bonuses."
 keywords: [rewards statement, total reward, pay, allowances, variable pay, concessions, tuition, transport, visa disbursement, bonus, children's concessions, airfare, ESS, employee benefits]
 video:
@@ -15,11 +15,11 @@ Your rewards statement in ESS gives you a personalised view of your total compen
 
 1. Open the Benefits section
 
-   From the ESS portal, navigate to the **Benefits** section to open your rewards statement.
+   From the ESS portal, navigate to the **Rewards & Benefits** tile to open your rewards statement.
 
 2. Review your total reward
 
-   At the top of the statement you can see your **total reward** — the combined value of your salary, benefits, and variable pay.
+   At the top of the statement, you can see your **Total reward** — the combined value of your salary, benefits, and variable pay.
 
    ![The ESS rewards statement showing total reward at the top, with sections for pay, benefits, and variable pay](./images/view-rewards-statement-1.png)
 
@@ -27,7 +27,7 @@ Your rewards statement in ESS gives you a personalised view of your total compen
 
    Scroll through the statement to review:
 
-   - **Pay** — your base salary
+   - **Annual pay** — your base salary
    - **Benefits** — the combined value of your benefit entitlements
    - **Variable pay** — bonuses or other variable components
 
@@ -35,7 +35,7 @@ Your rewards statement in ESS gives you a personalised view of your total compen
 
 4. Review concessions and additional entitlements
 
-   Further down the statement you can see:
+   Further down the statement, you can see:
 
    - **Children's concessions** — tuition fee and transport concessions listed per child, including the student ID
    - **Visa disbursements** — any visa-related allowances
