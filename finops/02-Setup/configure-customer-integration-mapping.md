@@ -15,20 +15,20 @@ This process defines how customer data is mapped and synchronised between the so
 
 1. Create a Report type
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type**. Click **New**, fill in the **Record type** and **Description** fields, then click **Save** and close the page.
+   From the **FNO dashboard**, navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type**. Click **New**, fill in the **Record type** and **Description** fields (③), then click **Save** and close the page (④). 
 
-2. Configure Customer integration mapping
+   ![Configure Customer Integration Mapping — the Report type form with Record type and Description fields](./images/configure-customer-integration-mapping-1.png)
 
-   Navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Customer integration mapping**. Click **New** and complete the following:
+3. Configure Customer integration mapping
+
+   Navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Customer integration mapping**. Click **New** and complete the following (⑦-⑨):
 
    - **Record type** — select from the dropdown. The Record type description fills in automatically.
    - **Customer type** — select *Student* or *Fee payer*.
    - **Customer group** — select the appropriate group from the dropdown.
 
-3. Save
+4. Save
 
-   Click **Save**.
+   Click **Save** (⑩).
 
-![Configure Customer Integration Mapping — the Report type form with Record type and Description fields](./images/configure-customer-integration-mapping-1.png)
-
-![Configure Customer Integration Mapping — the Customer integration mapping form with Record type, Customer type, and Customer group fields](./images/configure-customer-integration-mapping-2.png)
+   ![Configure Customer Integration Mapping — the Customer integration mapping form with Record type, Customer type, and Customer group fields](./images/configure-customer-integration-mapping-2.png)
