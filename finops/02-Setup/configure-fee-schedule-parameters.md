@@ -11,7 +11,7 @@ video:
 
 # Configure Fee Schedule Parameters
 
-Fee schedule parameters is where the billing module's core settings live — journals for deposits and payments, user group access, integration relationship types, and pro rata joining and leaving logic. Complete this once during implementation and revisit only when new functionality is enabled or organisational settings change. All journals referenced here must already exist in the system.
+Fee schedule parameters are where the billing module's core settings live — journals for deposits and payments, user group access, integration of relationship types, and pro rata joining and leaving logic. Complete this once during implementation and revisit only when new functionality is enabled, or organisational settings change. All journals referenced here must already exist in the system.
 
 1. Open Fee schedule parameters
 
