@@ -1,6 +1,6 @@
 ---
-gems: true
 id: set-up-advance-discount-policy
+gems: true
 summary:
   - "Open **Academic Management ▸ Setup ▸ Advance discount policy**, click **New**, set the policy code, fee and charges interval, charges code, discount value, and date range, then save."
 keywords: [advance discount policy, advance discount, GEMS discount, early payment policy, discount policy setup]

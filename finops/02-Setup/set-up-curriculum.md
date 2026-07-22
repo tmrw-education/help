@@ -1,6 +1,6 @@
 ---
-gems: true
 id: set-up-curriculum
+gems: true
 summary:
   - "Open **Academic Management ▸ Setup ▸ Curriculum**, click **New**, select the curriculum option and dimension, then save."
   - "Curriculum codes must match the setup in the student management system."

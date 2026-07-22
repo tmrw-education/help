@@ -1,6 +1,6 @@
 ---
-gems: true
 id: transfer-gems-reward-points
+gems: true
 summary:
   - "Process the GEMS reward payment in **Cashier receipt** using the GEMSPR method of payment, click **Get GEMS reward points**, mark the invoice, and Post."
   - "Check the trial balance to determine the transfer amount, then run **Academic management ▸ Periodic tasks ▸ Transfer GEMS reward balances**."

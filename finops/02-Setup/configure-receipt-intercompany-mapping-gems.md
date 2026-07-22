@@ -1,6 +1,6 @@
 ---
-gems: true
 id: configure-receipt-intercompany-mapping-gems
+gems: true
 summary:
   - "Open **Academic Management ▸ Setup ▸ Cashier Receipt ▸ Receipt intercompany mapping**, click **New**, and select the method of payment, destination school, account type/account, and intercompany journal."
   - "Primarily used for GEMS Rewards (GRL), where financial liability from reward points is recorded at the receiving school and transferred daily to the GEMS Rewards legal entity."

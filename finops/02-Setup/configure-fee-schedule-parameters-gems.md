@@ -1,6 +1,6 @@
 ---
-gems: true
 id: configure-fee-schedule-parameters-gems
+gems: true
 summary:
   - "Open **Academic Management ▸ Setup ▸ Fee schedule parameters** and complete the General, Integrations, Pro rata adjustment, and Number sequences tabs."
   - "Relationship type = Sibling is used for brother/sister relationships and for calculating sibling order."

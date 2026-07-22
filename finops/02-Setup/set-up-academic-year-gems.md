@@ -1,6 +1,6 @@
 ---
-gems: true
 id: set-up-academic-year-gems
+gems: true
 summary:
   - "Open **Academic Management ▸ Setup ▸ Academic year**, click **New**, enter the sequence number and remaining fields, then save."
   - "Select the record and click **Tuition fees** to add the re-enrolment deposit fee, enrolment deposit fee, and any additional tuition fee items."
