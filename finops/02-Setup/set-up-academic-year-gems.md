@@ -1,8 +1,8 @@
-﻿---
+---
 gems: true
 id: set-up-academic-year-gems
 summary:
-  - "Open **Academic Management â–¸ Setup â–¸ Academic year**, click **New**, enter the sequence number and remaining fields, then save."
+  - "Open **Academic Management ▸ Setup ▸ Academic year**, click **New**, enter the sequence number and remaining fields, then save."
   - "Select the record and click **Tuition fees** to add the re-enrolment deposit fee, enrolment deposit fee, and any additional tuition fee items."
   - "Academic year IDs must match the setup in the student management system."
 keywords: [academic year setup GEMS, academic year GEMS, sequence number, deposit fee item, GEMS academic year]
@@ -18,7 +18,7 @@ Academic year IDs must match the setup in the student management system. The seq
 
 1. Create the academic year record
 
-   From the **FNO dashboard**, open **Modules â–¸ Academic management**, expand **Setup**, and click **Academic year**. Click **New** in the toolbar. Enter the next **sequence number** in order and complete the remaining fields in the row. Click **Save**.
+   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Academic year**. Click **New** in the toolbar. Enter the next **sequence number** in order and complete the remaining fields in the row. Click **Save**.
 
 2. Add tuition fee items
 
@@ -28,8 +28,8 @@ Academic year IDs must match the setup in the student management system. The seq
 
    Click **Save**.
 
-![Set Up Academic Year â€” the Academic year list with the new record and Sequence number visible](./images/set-up-academic-year-gems-1.png)
+![Set Up Academic Year — the Academic year list with the new record and Sequence number visible](./images/set-up-academic-year-gems-1.png)
 
-![Set Up Academic Year â€” the Tuition fees panel with the re-enrolment and enrolment deposit fee items](./images/set-up-academic-year-gems-2.png)
+![Set Up Academic Year — the Tuition fees panel with the re-enrolment and enrolment deposit fee items](./images/set-up-academic-year-gems-2.png)
 
-![Set Up Academic Year â€” the completed Tuition fees panel showing all fee items including the additional tuition fee](./images/set-up-academic-year-gems-3.png)
+![Set Up Academic Year — the completed Tuition fees panel showing all fee items including the additional tuition fee](./images/set-up-academic-year-gems-3.png)
