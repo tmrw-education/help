@@ -15,7 +15,7 @@ This step is required for enrolment deposit calculations. The system uses this l
 
 1. Open the academic year and add the tuition fee item
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Academic year** (③). Select the relevant academic year record and click **Tuition fee items** (④). Click **New** in the tuition fee items section and complete the columns to link the tuition fee item.
+   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Academic year**. Select the relevant academic year record (③) and click **Tuition fee items** (④). Click **New** in the tuition fee items section and complete the columns to link the tuition fee item.
 
    ![Link Tuition Fee to Academic Year — the Academic year form with the Tuition fee items panel open showing the new item row](./images/link-tuition-fee-to-academic-year-1.png)
 
