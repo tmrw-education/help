@@ -18,26 +18,26 @@ Advance discount policies reward families who pay fees ahead of schedule by appl
 
    From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Advance discount policy**. Click **New** and complete the following on the **Overview** tab:
 
-   - **Policy code** — enter a value.
-   - **Fee and charges interval** — select the billing cycle that applies to this policy.
+   - **Policy code** (③) — enter a value.
+   - **Fee and charges interval** (④) — select the billing cycle that applies to this policy.
+
+   ![Set Up Advance Discount Policy — the Overview tab with Policy code, Fee and charges interval, and the Charges code and Discount fields](./images/set-up-advance-discount-policy-1.png)
 
 2. Configure the General tab
 
-   Click the **General** tab. In the **Period name** field, select the relevant time period (more than one may be selected). Click **Select**. Return to the **Overview** tab.
+   Click the **General** tab (⑤). In the **Period name** field (⑥), select the relevant time period (more than one may be selected). Click **Select** (⑦). Return to the **Overview** tab (⑧).
+
+   ![Set Up Advance Discount Policy — the General tab with Period name field and Select button](./images/set-up-advance-discount-policy-2.png)
 
 3. Complete the discount details and save
 
    On the **Overview** tab, complete the remaining fields:
 
-   - **Charges code** — select **Advance Discount**.
-   - **Discount** — enter the discount value.
-   - **From date** and **To date** — enter the period during which the discount applies.
-   - **Description** — enter a description for reporting reference.
+   - **Charges code** (⑨) — select **Advance Discount**.
+   - **Discount rate** (⑩) — enter the discount value.
+   - **From date** and **To date** (⑪) — enter the period during which the discount applies.
+   - **Description** (⑫) — enter a description for reporting reference.
 
-   Click **Save**.
+   Click **Save** (⑬).
 
-![Set Up Advance Discount Policy — the Overview tab with Policy code, Fee and charges interval, and the Charges code and Discount fields](./images/set-up-advance-discount-policy-1.png)
-
-![Set Up Advance Discount Policy — the General tab with Period name field and Select button](./images/set-up-advance-discount-policy-2.png)
-
-![Set Up Advance Discount Policy — the completed Overview tab showing the policy with From date, To date, and Description](./images/set-up-advance-discount-policy-3.png)
+   ![Set Up Advance Discount Policy — the completed Overview tab showing the policy with From date, To date, and Description](./images/set-up-advance-discount-policy-3.png)
