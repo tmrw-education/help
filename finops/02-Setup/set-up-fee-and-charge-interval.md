@@ -12,19 +12,21 @@ video:
 
 # Set Up Fee and Charge Interval
 
-The fee and charge interval defines the academic billing cycle and the individual periods within it. It is the link between students, fee schedule templates, and the fee generation batch — any student whose academic enrolment record does not contain a matching interval will be excluded from billing runs.
+The fee and charge interval defines the academic billing cycle and the individual periods within it. It links students, fee schedule templates, and the fee generation batch — any student whose academic enrolment record does not contain a matching interval will be excluded from billing runs.
 
 1. Create the interval
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee and Charge Interval**. Click **New** in the toolbar and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee and Charge Interval**. Click **New** in the toolbar (③) and complete the following:
 
-   - **Fee generation interval ID** — enter a code (e.g., *2025-2026*).
-   - **Description** — enter a description.
-   - **Start date** and **End date** — enter the start and end of the school's academic year.
-   - **Period option** — select Month or Week based on the school's pricing method.
-   - **Number of intervals** — enter the number of invoices to be generated in the year (e.g., *3* for termly, *10* for monthly).
+   - **Fee generation interval ID** (④) — enter a code (e.g., *2025-2026*).
+   - **Description** (⑤) — enter a description.
+   - **Start date** and **End date** (⑥) — enter the start and end of the school's academic year.
+   - **Period option** (⑦) — select Month or Week based on the school's pricing method.
+   - **Number of intervals** (⑧) — enter the number of invoices to be generated in the year (e.g., *3* for termly, *10* for monthly).
 
-   Click **Generate** in the toolbar to create the periods.
+   Click **Generate** in the toolbar (⑨) to create the periods.
+
+   ![Set Up Fee and Charge Interval — the new interval form with ID, start/end dates, period option, and number of intervals](./images/set-up-fee-and-charge-interval-1.png)
 
 2. Complete each period
 
@@ -35,16 +37,14 @@ The fee and charge interval defines the academic billing cycle and the individua
    - **Due date** — enter when payment is expected.
    - **Revenue recognition date** — enter if deferral is required.
 
-   Click **Update unit quantity** so the system calculates the number of months or weeks within the period.
+   Click **Update unit quantity** (⑩) so the system calculates the number of months or weeks within the period.
 
 3. Generate weeks and months
 
-   Click **Weeks** in the Periods toolbar and then **Generate** to populate the week dates for each period. This is required only for pro-rata joining and leaving policies. Then click **Months** and **Generate** to populate the month dates.
+   Click **Weeks** (⑪) in the Periods toolbar and then **Generate** to populate the week dates for each period. This is required only for pro-rata joining and leaving policies. Then click **Months** (⑫) and **Generate** to populate the month dates.
+
+   ![Set Up Fee and Charge Interval — the generated periods list with Period description, dates, and Due date columns](./images/set-up-fee-and-charge-interval-2.png)
 
 4. Save
 
-   Validate all entered data for accuracy, then click **Save**.
-
-![Set Up Fee and Charge Interval — the new interval form with ID, start/end dates, period option, and number of intervals](./images/set-up-fee-and-charge-interval-1.png)
-
-![Set Up Fee and Charge Interval — the generated periods list with Period description, dates, and Due date columns](./images/set-up-fee-and-charge-interval-2.png)
+   Validate all entered data for accuracy, then click **Save** (⑬).
