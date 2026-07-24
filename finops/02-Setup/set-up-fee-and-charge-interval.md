@@ -30,14 +30,14 @@ The fee and charge interval defines the academic billing cycle and the individua
 
 2. Complete each period
 
-   For each period generated:
+   For each period generated (⑩):
 
    - **Period description** — enter a description.
    - **Start date** and **End date** — enter the period dates.
    - **Due date** — enter when payment is expected.
    - **Revenue recognition date** — enter if deferral is required.
 
-   Click **Update unit quantity** (⑩) so the system calculates the number of months or weeks within the period.
+   Click **Update unit quantity** so the system calculates the number of months or weeks within the period.
 
 3. Generate weeks and months
 
