@@ -15,14 +15,14 @@ Fee categories classify the type of activity associated with each fee item and a
 
 1. Create fee categories
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee categories**. Click **New** in the top toolbar and complete the columns to create new fee categories. Click **Save**.
+   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee categories**. Click **New** in the top toolbar and complete the columns to create new fee categories (④). Click **Save**.
+
+   ![Set Up Fee Categories — the Fee categories form with new category entries](./images/set-up-fee-categories-1.png)
 
 2. Link categories to released products
 
-   Navigate to **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Filter by **Item number** to locate the items that correspond to the fee categories just created (categories related to Academic Management start with the letters AM). Select the item, expand the **Sell** tab, and locate **Activity ▸ Fee category**. Ensure the fee category aligns with the category it will be billed as.
+   Navigate to **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Filter by **Item number** to locate the items that correspond to the fee categories just created (categories related to Academic Management start with the letters AM) (⑥). Select the item, expand the **Sell** tab, and locate **Activity ▸ Fee category**. Ensure the fee category aligns with the category it will be billed as (⑧).
 
-![Set Up Fee Categories — the Fee categories form with new category entries](./images/set-up-fee-categories-1.png)
+   ![Set Up Fee Categories — the Released products list filtered to show AM fee category items](./images/set-up-fee-categories-2.png)
 
-![Set Up Fee Categories — the Released products list filtered to show AM fee category items](./images/set-up-fee-categories-2.png)
-
-![Set Up Fee Categories — the Sell tab on a released product showing the Activity section with the Fee category field](./images/set-up-fee-categories-3.png)
+   ![Set Up Fee Categories — the Sell tab on a released product showing the Activity section with the Fee category field](./images/set-up-fee-categories-3.png)
