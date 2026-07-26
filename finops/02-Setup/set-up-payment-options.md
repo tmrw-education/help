@@ -17,12 +17,12 @@ video:
 
    - **Payment plan** — select from the dropdown.
    - **Payment option** — enter the option code.
-   - **Description** — enter a description.
+   - **Description** — enter a description. (④)
 
    Once saved, the payment option appears on the Customer master or Student master.
+
+   ![Set Up Payment Options — the Payment option setup form with Payment plan, Payment option, and Description fields](./images/set-up-payment-options-1.png)
 
 2. Save
 
    Click **Save**.
-
-![Set Up Payment Options — the Payment option setup form with Payment plan, Payment option, and Description fields](./images/set-up-payment-options-1.png)
