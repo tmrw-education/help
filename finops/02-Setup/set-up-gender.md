@@ -12,13 +12,13 @@ video:
 
 1. Open Gender setup and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Gender setup**. Click **New** and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Gender setup**. Click **New** (②) and complete the following:
 
-   - **Gender** — enter the gender code.
-   - **Name** — enter the name.
+   - **Gender** (③) — enter the gender code.
+   - **Name** (④) — enter the name.
+
+   ![Set Up Gender — the Gender setup form with Gender and Name fields](./images/set-up-gender-1.png)
 
 2. Save
 
    Click **Save**.
-
-![Set Up Gender — the Gender setup form with Gender and Name fields](./images/set-up-gender-1.png)
