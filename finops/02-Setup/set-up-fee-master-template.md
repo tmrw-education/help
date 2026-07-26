@@ -26,7 +26,7 @@ This setup creates a fee master list template that determines the fee items sync
    - **Quantity** (⑧) — set to *1*.
    - **Unit** (⑨) — select the annual option.
 
-   In the **Switch view** field, select **All**, then select your template row. Click **Save**.
+   In the **Switch view** field, select **All**, then select your template row. Click **Save** (⑪).
 
    ![Set Up Fee Master Template — the Fee master list template form with Code, Name, Effective date, and the Products section showing Item number, Quantity, and Unit](./images/set-up-fee-master-template-1.png)
 
