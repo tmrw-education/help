@@ -34,7 +34,7 @@ available when you run the fee generation batch.
    > **Note:** Enable **Quantity** for items charged monthly; enable
    > **Consolidate all periods** for recurring items such as tuition.
 
-   ![Fee schedule header — Customer type ④, Description ⑤, Fee and charge interval ⑥, the +Add line button ⑦, the line fields ⑧–⑫, the Condition checkbox ⑬ and Condition toolbar button ⑭](./99-Images/create_fee_schedule_templates_1.png)
+   ![Fee schedule header — Customer type ④, Description ⑤, Fee and charge interval ⑥, the +Add line button ⑦, the line fields ⑧–⑫, the Condition checkbox ⑬ and Condition toolbar button ⑭](./images/create-fee-schedule-template-1.png)
 
 3. Add a condition (optional)
 
@@ -43,7 +43,7 @@ available when you run the fee generation batch.
    click **Condition** in the toolbar (⑭). Select the **Field**, enter the value
    in the **Criteria** column (⑮), then click **OK**.
 
-   ![The Condition query dialog, with the Field and Criteria columns marked ⑮](./99-Images/create_fee_schedule_templates_2.png)
+   ![The Condition query dialog, with the Field and Criteria columns marked ⑮](./images/create-fee-schedule-template-2.png)
 
 4. Set up revenue recognition (optional)
 
@@ -54,7 +54,7 @@ available when you run the fee generation batch.
    > **Note:** If a revenue-recognition date is set on the fee and charge
    > interval, **Deferral start date** fills automatically.
 
-   ![The Deferral panel — the Deferrals toolbar button ⑱, the Deferred toggle ⑲, and the Template field ⑳](./99-Images/create_fee_schedule_templates_3.png)
+   ![The Deferral panel — the Deferrals toolbar button ⑱, the Deferred toggle ⑲, and the Template field ⑳](./images/create-fee-schedule-template-3.png)
 
 5. Save
 
