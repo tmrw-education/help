@@ -19,13 +19,13 @@ Fee types define the default general ledger account and tax postings for miscell
 
    Click **New** in the toolbar and complete the following:
 
-   - **Fee type** — enter a value (e.g., *Security deposit*, *Transport*).
+   - **Fee type** (⑤) — enter a value (e.g., *Security deposit*, *Transport*).
    - **Account** — select the general ledger account (e.g., *Transport fee*).
    - **Tax Group** — select the appropriate tax group.
-   - **Tax Item Group** — select the appropriate tax item group.
+   - **Tax Item Group** — select the appropriate tax item group (⑥).
+
+   ![Set Up Fee Type — the Fee type list with a new entry showing the Fee type, Account, Tax Group, and Tax Item Group fields](./images/set-up-fee-type-1.png)
 
 2. Save
 
-   Click **Save**.
-
-![Set Up Fee Type — the Fee type list with a new entry showing the Fee type, Account, Tax Group, and Tax Item Group fields](./images/set-up-fee-type-1.png)
+   Click **Save** (⑦).
