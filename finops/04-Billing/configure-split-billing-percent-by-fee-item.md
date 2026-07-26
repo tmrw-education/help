@@ -24,10 +24,10 @@ By default, the financial responsibility split between fee payers applies equall
 
 2. Add the second payer
 
-   Repeat step 1 for the other payer with the remaining percentage (e.g., *40%* for Mum). Ensure the percentages total 100%.
+   Repeat step 1 for the other payer with the remaining percentage (e.g., *40%* for Mum) (④). Ensure the percentages total 100%.
+
+   ![Configure Split Billing Percent by Fee Item — the Split percent by fee items form with Student, Fee item, Percentage, Effective date, and Expiration date columns showing two payer rows](./images/configure-split-billing-percent-by-fee-item-1.png)
 
 3. Save
 
    Click **Save**.
-
-![Configure Split Billing Percent by Fee Item — the Split percent by fee items form with Student, Fee item, Percentage, Effective date, and Expiration date columns showing two payer rows](./images/configure-split-billing-percent-by-fee-item-1.png)
