@@ -15,14 +15,16 @@ Non-tuition items such as ID cards use a standard trade agreement. Academic attr
 
 1. Create the trade agreement journal and add lines
 
-   From the **FNO dashboard**, open **Modules ▸ Sales and marketing**, expand **Prices and discounts**, and click **Trade agreement journals**. Click **New** and in the **Name** field select the standard journal name (without academic attributes enabled). Click **Lines**.
+   From the **FNO dashboard**, open **Modules ▸ Sales and marketing**, expand **Prices and discounts**, and click **Trade agreement journals**. Click **New** and in the **Name** field select the standard journal name (without academic attributes enabled). Click **Lines** (⑤).
 
-   Click **New** and complete the required fields for the item. Click **Add products** and repeat for each additional item.
+   ![Set Up Non-Tuition Item Prices — the Trade agreement journal Lines view with item rows and required fields](./images/set-up-non-tuition-item-prices-1.png)
 
-2. Post
+2. Complete the required fields
 
-   Click **Post** to activate the prices.
+   Click **New** and complete the required fields (⑥) for the item. Click **Add products** (⑦) and repeat for each additional item.
 
-![Set Up Non-Tuition Item Prices — the Trade agreement journal Lines view with item rows and required fields](./images/set-up-non-tuition-item-prices-1.png)
+   ![Set Up Non-Tuition Item Prices — the Post confirmation for the journal](./images/set-up-non-tuition-item-prices-2.png)
 
-![Set Up Non-Tuition Item Prices — the Post confirmation for the journal](./images/set-up-non-tuition-item-prices-2.png)
+3. Post
+
+   Click **Post** (⑧) to activate the prices.
