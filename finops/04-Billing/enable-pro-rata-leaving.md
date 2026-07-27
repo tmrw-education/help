@@ -19,7 +19,7 @@ When a student leaves the school before the end of a term, any fees already invo
 
    ![Enable Pro Rata Adjustments — Leaving Students — the Released products Sell section with the Pro rata field set to a non-None value](./images/enable-pro-rata-leaving-1.png)
 
-2. Enable Pro rata and save
+2. Enable Pro rata
 
    Open the **Sell** section and locate the **Pro rata** field. Set this field to any option except *None* to activate pro rata adjustment for leaving students.
 
