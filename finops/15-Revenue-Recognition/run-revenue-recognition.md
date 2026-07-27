@@ -21,17 +21,17 @@ Run this process at month-end to recognise deferred revenue across all eligible 
 
    Complete the following fields:
 
-   - **Cutoff date** — enter the last day of the month being closed.
-   - **Description** — enter a description for the processing run.
-   - **Override transaction date** — select *Yes*.
-   - **Transaction date** — enter the last day of the month.
+   - **Cutoff date** (③) — enter the last day of the month being closed.
+   - **Description** (④) — enter a description for the processing run.
+   - **Override transaction date** (⑤) — select *Yes*.
+   - **Transaction date** (⑥) — enter the last day of the month.
 
    Setting **Override transaction date** to Yes ensures the journal posts with the correct period date regardless of when the process is run. The **Cutoff date** and **Transaction date** should both be the last day of the same month.
 
+   ![Revenue Recognition Processing — the Recognition processing form with Cutoff date, Description, Override transaction date, and Transaction date fields](./images/run-revenue-recognition-1.png)
+
 3. Preview and process
 
-   Click **View preview** to review all deferral schedule lines that will be recognised up to the cutoff date. Confirm the entries are correct, then click **Process** to post the revenue recognition journal.
+   Click **View preview** (⑦) to review all deferral schedule lines that will be recognised up to the cutoff date. Confirm the entries are correct, then click **Process** (⑧) to post the revenue recognition journal.
 
-![Revenue Recognition Processing — the Recognition processing form with Cutoff date, Description, Override transaction date, and Transaction date fields](./images/run-revenue-recognition-1.png)
-
-![Revenue Recognition Processing — the preview list showing deferral lines to be recognised](./images/run-revenue-recognition-2.png)
+   ![Revenue Recognition Processing — the preview list showing deferral lines to be recognised](./images/run-revenue-recognition-2.png)
