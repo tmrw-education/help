@@ -24,23 +24,23 @@ With student data confirmed and fee schedule templates in place, run the fee gen
 
    Complete the following:
 
-   - **Fee generation date** — set to the start date of the academic year or the start date of the fee charge interval.
-   - **Posting date** — required only if using Post invoice automatically; leave blank to create open sales orders for manual review.
-   - **Posting option** — select *Create sale orders* to generate open orders for review, or *Post invoice automatically* to create and post invoices in a single step.
-   - **Fee and charge interval** — select the interval to filter which students are included.
-   - **Batch description** — enter a description.
-   - **Fee schedule template number** — select a specific template, or leave blank to include all active templates.
+   - **Fee generation date** (③) — set to the start date of the academic year or the start date of the fee charge interval.
+   - **Posting date** (④) — required only if using Post invoice automatically; leave blank to create open sales orders for manual review.
+   - **Posting option** (⑤) — select *Create sale orders* to generate open orders for review, or *Post invoice automatically* to create and post invoices in a single step.
+   - **Fee and charge interval** (⑥) — select the interval to filter which students are included.
+   - **Batch description** (⑦) — enter a description.
+   - **Fee schedule template number** (⑧) — select a specific template, or leave blank to include all active templates.
 
-   In **Records to include**, add filters for a specific cohort, academic year, or student if needed. Leave blank to run across all eligible students.
+   In **Records to include**, add filters for a specific cohort, academic year, or student if needed (⑨). Leave blank to run across all eligible students.
+
+   ![Run the Fee Schedule Batch — the Generate sale order batch processing dialog with Fee generation date, Posting option, Fee and charge interval, and Batch description fields](./images/run-fee-schedule-batch-1.png)
+
+   ![Run the Fee Schedule Batch — the Records to include filter section](./images/run-fee-schedule-batch-2.png)
 
 3. Submit and review
 
-   Click **OK** to submit the batch job. Once complete, navigate to **Fee schedule batches ▸ All fee schedule batches** and click the batch number to review all generated sales orders.
+   Click **OK** to submit the batch job. Once complete, navigate to **Fee schedule batches ▸ All fee schedule batches** and click the batch number to review all generated sales orders (⑬).
 
    The system reuses an existing deposit sales order if the student has already paid an enrolment deposit; otherwise it creates a new sales order.
 
-![Run the Fee Schedule Batch — the Generate sale order batch processing dialog with Fee generation date, Posting option, Fee and charge interval, and Batch description fields](./images/run-fee-schedule-batch-1.png)
-
-![Run the Fee Schedule Batch — the Records to include filter section](./images/run-fee-schedule-batch-2.png)
-
-![Run the Fee Schedule Batch — the All fee schedule batches list with the newly created batch and the batch detail view](./images/run-fee-schedule-batch-3.png)
+   ![Run the Fee Schedule Batch — the All fee schedule batches list with the newly created batch and the batch detail view](./images/run-fee-schedule-batch-3.png)
