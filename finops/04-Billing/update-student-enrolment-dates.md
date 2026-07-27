@@ -17,14 +17,12 @@ Academic enrolment dates are maintained in the Student Management System, which 
 
 1. Open the student's enrolment record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Select students who will begin after the term start date. Click the **Academic** tab (if not visible, click the ellipsis) and then click **Academic enrolments**.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Select students who will begin after the term start date. Click the **Academic** tab (if not visible, click the ellipsis) (③) and then click **Academic enrolments** (④).
+
+   ![Update Student Enrolment Dates — the All Students list with the Academic tab visible](./images/update-student-enrolment-dates-1.png)
 
 2. Update the effective date and save
 
-   Edit each student's enrolment record and set the **Effective date** to the actual start date. Click **Save**.
+   Edit each student's enrolment record and set the **Effective date** (⑤) to the actual start date. Click **Save**.
 
-![Update Student Enrolment Dates — the All Students list with the Academic tab visible](./images/update-student-enrolment-dates-1.png)
-
-![Update Student Enrolment Dates — the Academic enrolments panel with the Effective date field being updated](./images/update-student-enrolment-dates-2.png)
-
-![Update Student Enrolment Dates — the saved enrolment record showing the updated Effective date](./images/update-student-enrolment-dates-3.png)
+   ![Update Student Enrolment Dates — the Academic enrolments panel with the Effective date field being updated](./images/update-student-enrolment-dates-2.png)
