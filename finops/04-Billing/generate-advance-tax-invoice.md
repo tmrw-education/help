@@ -15,22 +15,22 @@ The advance tax invoice feature generates a tax invoice against a fee payer's op
 
 1. Find the student's sales order
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter for the student using the **Account** column with the *contains* operator. Click **Sell** on the Action Pane, then click **Orders ▸ All sales orders** to locate the open proforma invoice.
+   From the **FNO dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter for the student using the **Account** column with the *contains* operator (③). Click **Sell** on the Action Pane, then click **Orders ▸ All sales orders** to locate the open proforma invoice (⑤).
+
+   ![Generate an Advance Tax Invoice — the All sales orders view for the student with Invoice selected on the Action Pane](./images/generate-advance-tax-invoice-1.png)
+
+   ![Generate an Advance Tax Invoice — the Add prepayment invoice dialog with the Mark checkbox, Amount to invoice, and Sales category fields](./images/generate-advance-tax-invoice-2.png)
 
 2. Add the prepayment invoice
 
-   Click **Invoice** on the Action Pane, then click **Add prepayment invoice**. Select the **Mark** checkbox to confirm the selection. If invoicing for a partial amount only, enter the amount in the **Amount to invoice** field before proceeding. In the **Sales category** field, enter or select *Advance tax invoice request category*. Click **Post**.
+   Click **Invoice** on the Action Pane (⑥), then click **Add prepayment invoice** (⑦). Select the **Mark** checkbox to confirm the selection (⑧). If invoicing for a partial amount only, enter the amount in the **Amount to invoice** field before proceeding. In the **Sales category** field, enter or select **Advance tax invoice request** (⑨). Click **Post** (⑩).
+
+   ![Generate an Advance Tax Invoice — the Post confirmation for the prepayment invoice](./images/generate-advance-tax-invoice-3.png)
+
+   ![Generate an Advance Tax Invoice — the Prepayment invoice view with Print option](./images/generate-advance-tax-invoice-4.png)
 
 3. Print the invoice
 
-   Click **Prepayment invoice**, click **Show or hide controls** if necessary, then click **Print**.
+   Click **Prepayment invoice** (⑪), click **Show or hide controls** if necessary (⑫), then click **Print** (⑬).
 
-![Generate an Advance Tax Invoice — the All sales orders view for the student with Invoice selected on the Action Pane](./images/generate-advance-tax-invoice-1.png)
-
-![Generate an Advance Tax Invoice — the Add prepayment invoice dialog with the Mark checkbox, Amount to invoice, and Sales category fields](./images/generate-advance-tax-invoice-2.png)
-
-![Generate an Advance Tax Invoice — the Post confirmation for the prepayment invoice](./images/generate-advance-tax-invoice-3.png)
-
-![Generate an Advance Tax Invoice — the Prepayment invoice view with Print option](./images/generate-advance-tax-invoice-4.png)
-
-![Generate an Advance Tax Invoice — the printed advance tax invoice document](./images/generate-advance-tax-invoice-5.png)
+   ![Generate an Advance Tax Invoice — the printed advance tax invoice document](./images/generate-advance-tax-invoice-5.png)
