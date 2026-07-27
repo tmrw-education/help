@@ -17,14 +17,14 @@ After a fee price change is posted, open proforma sales orders generated under t
 
    From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic Tasks**, and click **Recalculate Open Sales Order**. Set the following:
 
-   - **Recalculate sales price** — toggle to *Yes*.
+   - **Recalculate sales price** — toggle to *Yes* (④).
 
-   In **Records to include**, filter by **Student account** or a specific **Sales order** number. You can also filter for an entire fee and charge interval to reprice all students in a billing cycle.
+   In **Records to include**, filter by **Student account** or a specific **Sales order** number (⑤). You can also filter for an entire fee and charge interval to reprice all students in a billing cycle.
 
    Click **OK**.
+
+   ![Recalculate Open Sales Order Prices — the Recalculate Open Sales Order dialog with Recalculate sales price set to Yes and the Records to include filter](./images/recalculate-open-sales-order-prices-1.png)
 
 2. Verify the updated price
 
    Return to the sales order and refresh the page to confirm that future terms show the updated price.
-
-![Recalculate Open Sales Order Prices — the Recalculate Open Sales Order dialog with Recalculate sales price set to Yes and the Records to include filter](./images/recalculate-open-sales-order-prices-1.png)
