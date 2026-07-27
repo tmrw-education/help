@@ -15,6 +15,6 @@ Use this task to process fee adjustments for students leaving mid-term. The syst
 
 1. Run the adjustment task
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Calculate fee and charge adjustment**. In the dialogue, enter the **student's last day at school** (③), then click **OK** (④). The system calculates the refund based on the remaining school days after the leaving date.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Calculate fee and charge adjustment**. In the dialog, enter the **student's last day at school** (③), then click **OK** (④). The system calculates the refund based on the remaining school days after the leaving date.
 
    ![Calculate Fee and Charge Adjustment — the dialog with the last day at school date field](./images/calculate-fee-and-charge-adjustment-1.png)
