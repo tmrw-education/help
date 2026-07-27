@@ -17,12 +17,12 @@ When a student begins their enrolment after the official term start date, the pr
 
    From the **FNO dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Locate and select the tuition fee item (e.g., *FS1*) (③).
 
-2. Enable Pro rata and save
+      ![Enable Pro Rata Adjustments — Joining Students — the Released products Sell section with the Pro rata field set to a non-None value](./images/enable-pro-rata-joining-1.png)
+
+2. Enable Pro rata
 
    Open the **Sell** section and locate the **Pro rata** field (④). Set this field to any option except *None* to activate pro rata adjustment for joining students.
 
-   ![Enable Pro Rata Adjustments — Joining Students — the Released products Sell section with the Pro rata field set to a non-None value](./images/enable-pro-rata-joining-1.png)
-
 3. Save
 
-  Click **Save**.
+   Click **Save**.
