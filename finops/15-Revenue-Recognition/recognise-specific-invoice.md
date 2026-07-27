@@ -16,29 +16,29 @@ Use this process to recognise deferred revenue for a single invoice outside of t
 
 1. Open the deferral schedule
 
-   From the **FNO dashboard**, open **Modules ▸ Subscription billing ▸ Revenue and expense deferrals**, expand **Deferral schedules**, and click **All deferral schedules**. Locate and select the posted invoice, then click the **deferral number** to open its schedule.
+   From the **FNO dashboard**, open **Modules ▸ Subscription billing ▸ Revenue and expense deferrals**, expand **Deferral schedules**, and click **All deferral schedules**. Locate and select the posted invoice, then click the **deferral number** (④) to open its schedule.
+
+   ![Recognise a Specific Invoice — the All deferral schedules list with a posted invoice selected](./images/recognise-specific-invoice-1.png)
 
 2. Initiate recognition
 
-   Select the **Line** and click **Recognize**. Complete the following fields:
+   Select the **Line** (⑤) and click **Recognize** in the toolbar below (⑥). Complete the following fields:
 
-   - **Cutoff date** — enter the last day of the month.
-   - **Description** — enter a description.
-   - **Override transaction date** — select *Yes*.
-   - **Transaction date** — enter the last day of the month.
+   - **Cutoff date** (⑦) — enter the last day of the month.
+   - **Description** (⑧) — enter a description.
+   - **Override transaction date** (⑨) — select *Yes*.
+   - **Transaction date** (⑩) — enter the last day of the month.
+
+   ![Recognise a Specific Invoice — the deferral schedule with a line selected and the Recognize button](./images/recognise-specific-invoice-2.png)
+
+   ![Recognise a Specific Invoice — the Recognition processing form with Cutoff date, Override transaction date, and Transaction date fields](./images/recognise-specific-invoice-3.png)
 
 3. Preview and process
 
-   Click **View preview** to confirm the lines to be recognised, then click **Process** to post.
+   Click **View preview** (⑪) to confirm the lines to be recognised, then click **Process** (⑫) to post.
+
+   ![Recognise a Specific Invoice — the Audit trail and Voucher transaction buttons for post-processing verification](./images/recognise-specific-invoice-4.png)
 
 4. Verify the posting
 
-   After posting, click **Audit trail** to confirm the journal entry was created, then click **Voucher transaction** to review the posted voucher detail.
-
-![Recognise a Specific Invoice — the All deferral schedules list with a posted invoice selected](./images/recognise-specific-invoice-1.png)
-
-![Recognise a Specific Invoice — the deferral schedule with a line selected and the Recognize button](./images/recognise-specific-invoice-2.png)
-
-![Recognise a Specific Invoice — the Recognition processing form with Cutoff date, Override transaction date, and Transaction date fields](./images/recognise-specific-invoice-3.png)
-
-![Recognise a Specific Invoice — the Audit trail and Voucher transaction buttons for post-processing verification](./images/recognise-specific-invoice-4.png)
+   After posting, click **Audit trail** to confirm the journal entry was created, then click **Event voucher** to review the posted voucher detail.
