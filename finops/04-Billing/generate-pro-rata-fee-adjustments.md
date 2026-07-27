@@ -12,7 +12,7 @@ video:
 
 1. Run the batch processing task
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Generate sales order batch processing**. In the dialogue, enter a **batch description** (e.g., *Fee invoice for Term 1 2025*) (③). In **Records to include (customers)** (④), choose the appropriate **customer academic year**. In **Records to include (fee schedule templates)** (⑤), choose the appropriate **billing schedule**. Click **OK** to run the task (⑥).
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Generate sales order batch processing**. In the dialog, enter a **batch description** (e.g., *Fee invoice for Term 1 2025*) (③). In **Records to include (customers)** (④), choose the appropriate **customer academic year**. In **Records to include (fee schedule templates)** (⑤), choose the appropriate **billing schedule**. Click **OK** to run the task (⑥).
 
    ![Generate Pro Rata Fee Adjustments — the fee schedule batch list showing the newly generated batch with reduced amounts for late-joining students](./images/generate-pro-rata-fee-adjustments-1.png)
 
