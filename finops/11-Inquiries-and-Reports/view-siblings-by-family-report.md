@@ -19,6 +19,6 @@ The Number of Siblings by Family report shows how many siblings are enrolled per
 
 2. Filter and review
 
-   Enter the relevant date in the **As on** field and click **Show data** to load results. The report shows the sibling count per family as of that date.
+   Enter the relevant date in the **As on** (④) field and click **Show data** (⑤) to load results. The report shows the sibling count per family as of that date (⑥).
 
-![Number of Siblings by Family Report — the report with the As on date field and sibling count data](./images/view-siblings-by-family-report-1.png)
+   ![Number of Siblings by Family Report — the report with the As on date field and sibling count data](./images/view-siblings-by-family-report-1.png)
