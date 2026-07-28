@@ -15,10 +15,10 @@ In most cases, enrolment fee records are created automatically when the student 
 
 1. Open All pre-admission fees and create the record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Click **New** in the toolbar and enter the required information for each column.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Click **New** in the toolbar and enter the required information for each column (⑤).
+
+   ![Manually Add Enrolment Fee Record — the All pre-admission fees form with a new record being created and the required columns visible](./images/manually-add-enrolment-fee-record-1.png)
 
 2. Post and save
 
-   Click **Post** in the toolbar. The status updates from Created to Posted. Click **Save**.
-
-![Manually Add Enrolment Fee Record — the All pre-admission fees form with a new record being created and the required columns visible](./images/manually-add-enrolment-fee-record-1.png)
+   Click **Post** in the Action Pane (⑥). The status updates from Created to Posted. Click **Save**.
