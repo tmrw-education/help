@@ -28,12 +28,12 @@ Transaction type reference:
 
    Click **New** in the toolbar and complete the following:
 
-   - **Pre-admission type** — enter a value (e.g., *Application fee*, *Enrolment fee*).
-   - **Description** — enter a matching value. In most cases match the description to the type name for easier identification.
-   - **Deposit** — tick this checkbox only when the type represents a deposit (e.g., *Enrolment deposit*).
+   - **Pre-admission type** (⑥) — enter a value (e.g., *Application fee*, *Enrolment fee*).
+   - **Description** (⑦) — enter a matching value. In most cases, match the description to the type name for easier identification.
+   - **Deposit** (⑧) — tick this checkbox only when the type represents a deposit (e.g., *Enrolment deposit*).
+
+   ![Set Up Pre-Admission Types — the Pre-admission types form with a new type entry showing the Pre-admission type, Description, and Deposit checkbox](./images/set-up-pre-admission-types-1.png)
 
 3. Save
 
    Click **Save**.
-
-![Set Up Pre-Admission Types — the Pre-admission types form with a new type entry showing the Pre-admission type, Description, and Deposit checkbox](./images/set-up-pre-admission-types-1.png)
