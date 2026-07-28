@@ -17,14 +17,14 @@ When a student transfers from one school to another within the group, their cred
 
 1. Open the student record and confirm destination
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Search for and open the student record. Expand **Other Information** and verify the **Destination school** field has been populated by the CE system — this field identifies which company the credit balance will transfer to.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Search for and open the student record. Expand **Other Information** (④) and verify the **Destination school** (⑤) field has been populated by the CE system — this field identifies which company the credit balance will transfer to.
+
+   ![Transfer Customer Credit Balance — the student record with Other Information expanded showing the Destination school field](./images/transfer-customer-credit-balance-1.png)
 
 2. Initiate the transfer
 
-   Click **Academic** in the toolbar and select **Transfer**. Confirm the student's balance is in credit and no advanced tax invoices remain outstanding.
+   Click **Academic** (⑥) in the toolbar and select **Transfer** (⑦). Confirm the student's balance is in credit and no advanced tax invoices remain outstanding.
 
 3. Confirm and post
 
    Review the credit balance shown in the confirmation dialog and click **OK**. The system automatically generates two transfer journals — one in the originating school to clear the credit, and one in the destination school to post the corresponding credit to the student's account.
-
-![Transfer Customer Credit Balance — the student record with Other Information expanded showing the Destination school field](./images/transfer-customer-credit-balance-1.png)
