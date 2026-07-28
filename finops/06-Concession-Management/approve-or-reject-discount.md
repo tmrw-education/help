@@ -18,12 +18,12 @@ video:
 
 2. Select the discount and open the student record
 
-   Check the circle to the left of the scholarship or discount. Click **General** in the toolbar, choose **Students** under the Students tab, then select the student whose discount requires action.
+   Check the circle to the left of the scholarship or discount (③). Click **General** in the Action Pane (④), choose **Students** under the Students tab (⑤), then select the student whose discount requires action (⑥).
+
+   ![Approve or reject discount — the Students tab with a student record selected](./images/approve-or-reject-discount-1.png)
+
+   ![Approve or reject discount — the Approval dropdown showing Approve and Reject options](./images/approve-or-reject-discount-2.png)
 
 3. Set the approval status
 
-   Click the **Approval** dropdown and choose **Approve** or **Reject**. Click **Save**.
-
-![Approve or reject discount — the Students tab with a student record selected](./images/approve-or-reject-discount-1.png)
-
-![Approve or reject discount — the Approval dropdown showing Approve and Reject options](./images/approve-or-reject-discount-2.png)
+   Click the **Approval** dropdown and choose **Approve** or **Reject**. Click **Save** (⑦).
