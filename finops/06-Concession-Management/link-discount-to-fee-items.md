@@ -20,12 +20,12 @@ Fee items must be linked to a scholarship or discount code before the discount a
 
 2. Select the discount code and open Fee Items
 
-   Check the circle to the left of the scholarship or discount you want to configure. Click **General** in the toolbar, then choose **Items** under the Fees tab.
+   Check the circle to the left of the scholarship or discount you want to configure (③). Click **General** in the Action Pane (④), then choose **Items** under the Fees tab (⑤).
+
+   ![Link discount to fee items — the Items section under the Fees tab with the New button](./images/link-discount-to-fee-items-1.png)
 
 3. Add a fee item
 
-   Click **New**, enter the required fee item details, and click **Save**. Repeat for each additional fee item.
+   Click **New**, enter the required fee item details (⑦), and click **Save**. Repeat for each additional fee item.
 
-![Link discount to fee items — the Items section under the Fees tab with the New button](./images/link-discount-to-fee-items-1.png)
-
-![Link discount to fee items — a fee item line being added](./images/link-discount-to-fee-items-2.png)
+   ![Link discount to fee items — a fee item line being added](./images/link-discount-to-fee-items-2.png)
