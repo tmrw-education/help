@@ -39,6 +39,6 @@ Deposits are refunded when a student does not proceed with enrolment and the sch
 
 4. Check the balance
 
-   The system will show the amount deducted from the selected bank account (or mention if it is a cash refund) (⑬). The amount will be cleared from the refunded account. Check that the amounts are correct, then click **Post** (⑭). The status will update to Refunded.
+   The system will show the amount deducted from the selected bank account (or mention if it is a cash refund) (⑬). The amount will be cleared from the refunded account. Check that the amounts are correct, then click **Post** (⑭). The deposit status will update to Refunded.
 
    ![Refunding Deposits — the final transaction confirmation view](./images/refund-deposit-7.png)
