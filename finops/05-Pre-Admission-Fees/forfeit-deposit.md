@@ -17,24 +17,26 @@ Deposits are forfeited when a student does not proceed with enrolment and the sc
 
 1. Open Pre-admission deposits and select the deposit
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **Pre-admission deposits**. When the deposit criteria window opens, click **OK** to view all deposits. Check the deposit to be forfeited using the checkbox on the far-left column.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **Pre-admission deposits**. When the deposit criteria window opens, click **OK** (④) to view all deposits. Check the deposit to be forfeited using the checkbox in the far-left column (⑤).
+
+   ![Forfeiting Deposits — the Pre-admission deposits list with a deposit checked for forfeiture](./images/forfeit-deposit-1.png)
+
+   ![Forfeiting Deposits — the Forfeit dialog with the Preview toggle](./images/forfeit-deposit-2.png)
 
 2. Initiate the forfeit
 
-   Click **Forfeit** in the toolbar. In the dialogue on the right, choose whether to enable **Preview** (to review before posting) or disable it to post automatically. Click **OK**.
+   Click **Forfeit** in the Action Pane (⑥). In the dialog on the right, choose whether to enable **Preview** (to review before posting) or disable it to post automatically (⑦). Click **OK** (⑧).
+
+   ![Forfeiting Deposits — the forfeit journal number link after clicking OK](./images/forfeit-deposit-3.png)
 
 3. Review and post the forfeit journal
 
-   If you selected Preview, click the **Forfeit journal number** link. Open the journal by clicking **Lines** in the toolbar. Select the credit line using the checkbox, review or edit the VAT as required, and click **Post**. Click **Save** in the toolbar.
+   If you selected Preview, click the **Forfeit journal number** link (⑨). Open the journal by clicking **Lines** in the toolbar. Select the credit line using the checkbox (⑩), review or edit the VAT as required, and click **Post** (⑪). Click **Save** in the toolbar (⑫).
 
-![Forfeiting Deposits — the Pre-admission deposits list with a deposit checked for forfeiture](./images/forfeit-deposit-1.png)
+   ![Forfeiting Deposits — the journal Lines view with the credit line selected](./images/forfeit-deposit-4.png)
 
-![Forfeiting Deposits — the Forfeit dialog with the Preview toggle](./images/forfeit-deposit-2.png)
+   ![Forfeiting Deposits — the posted forfeit journal entry](./images/forfeit-deposit-5.png)
 
-![Forfeiting Deposits — the forfeit journal number link after clicking OK](./images/forfeit-deposit-3.png)
+   **Note:** The system will transfer the balance from the forfeited payment to another invoice.
 
-![Forfeiting Deposits — the journal Lines view with the credit line selected](./images/forfeit-deposit-4.png)
-
-![Forfeiting Deposits — the posted forfeit journal entry](./images/forfeit-deposit-5.png)
-
-![Forfeiting Deposits — the final transaction confirmation view](./images/forfeit-deposit-6.png)
+   ![Forfeiting Deposits — the final transaction confirmation view](./images/forfeit-deposit-6.png)
