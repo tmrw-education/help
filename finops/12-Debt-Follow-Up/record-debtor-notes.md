@@ -36,7 +36,7 @@ Debtor notes record interactions with fee payers — such as phone calls or paym
 
 3. Review all notes
 
-   Click **View customer** (⑪) to open the full note history. Open **Collect**, click **Collections** (⑫), then click **Show** (⑬) in **All activities**. Select **Open and closed** (⑭) to display all notes including resolved items, then click the **Notes** tab (⑮) to review.
+   Click **View customer** (⑪) to open the full note history. Click **Collect** in the Action Pane, click **Collections** (⑫), then click **Show** (⑬) in **All activities**. Select **Open and closed** (⑭) to display all notes including resolved items, then click the **Notes** tab (⑮) to review.
 
    ![Record Debtor Notes — the Events list on the Customer detail screen with a note hovering to show preview](./images/record-debtor-notes-3.png)
 
