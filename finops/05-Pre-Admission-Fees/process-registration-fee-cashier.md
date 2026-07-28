@@ -17,31 +17,31 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 
 1. Filter and post the fee record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Pre-admission fees**, and click **All admission fees**. Filter **Pre-admission type** by *Application fee*, locate and select the correct student record. Click **Post** with **Preview** toggled on. Click the **General** tab to view the created sales order — it will now be available in Cashier receipt for payment.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Pre-admission fees**, and click **All admission fees**. Filter **Pre-admission type** by *Application fee* (②), locate and select the correct student record. Click **Post** (④) with **Preview** toggled on. Click the **General** (⑥) tab to view the created sales order — it will now be available in Cashier receipt for payment.
+
+   ![Application / Registration Fee Process via Cashier — the All admission fees list filtered by Application fee with the student record selected](./images/process-registration-fee-cashier-1.png)
+
+   ![Application / Registration Fee Process via Cashier — the new cashier receipt form with the student selected and the Pre-admissions tab open](./images/process-registration-fee-cashier-2.png)
 
 2. Create a cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **New cashier receipt** in the toolbar.
+   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** in the Action Pane (⑨).
 
-   Select the **student name** from the fee payer list. Open the **Pre-admissions** tab and tick the **Mark** checkbox next to the registration fee. Complete the payment details:
+   Select the **student name** from the fee payer list. Open the **Pre-admission fees** tab (⑪) and tick the **Mark** checkbox (⑫) next to the registration fee. Complete the payment details in the **Method of payment and invoice marking** tab:
 
-   - **Method of payment** — select the payment method from the dropdown.
-   - **Amount** — enter the fee amount.
-   - **Payment account** — select the deposit account.
-   - **Payment reference** — enter a payment reference.
+   - **Method of payment** (⑬) — select the payment method from the dropdown.
+   - **Amount** (⑭) — enter the fee amount.
+   - **Payment account** (⑮) — select the deposit account.
+   - **Payment reference** (⑯) — enter a payment reference.
 
    Verify the fee is fully allocated in the allocations summary.
 
+   ![Application / Registration Fee Process via Cashier — the Pre-admissions tab with the registration fee marked and payment fields visible](./images/process-registration-fee-cashier-3.png)
+
+   ![Application / Registration Fee Process via Cashier — the receipt delivery dialog with the Print and Email options](./images/process-registration-fee-cashier-4.png)
+
 3. Post and deliver the receipt
 
-   Click **Post** in the toolbar. Select the receipt delivery option — **Print receipt** to print a physical copy or **Email receipt** to send to the fee payer. Click **OK**.
+   Click **Post** in the Action Pane (⑱). Select the receipt delivery option — **Print receipt** to print a physical copy or **Email receipt** to send to the fee payer. Click **OK**.
 
    Once posted, the receipt journal flows back to the student management system, allowing the enrolment record to proceed to the next stage.
-
-![Application / Registration Fee Process via Cashier — the All admission fees list filtered by Application fee with the student record selected](./images/process-registration-fee-cashier-1.png)
-
-![Application / Registration Fee Process via Cashier — the new cashier receipt form with the student selected and the Pre-admissions tab open](./images/process-registration-fee-cashier-2.png)
-
-![Application / Registration Fee Process via Cashier — the Pre-admissions tab with the registration fee marked and payment fields visible](./images/process-registration-fee-cashier-3.png)
-
-![Application / Registration Fee Process via Cashier — the receipt delivery dialog with the Print and Email options](./images/process-registration-fee-cashier-4.png)
