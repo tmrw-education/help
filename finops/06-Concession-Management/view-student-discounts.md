@@ -14,16 +14,16 @@ video:
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Search for and select the student.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Search for and select the student (③).
 
 2. Open the Scholarships and Discounts panel
 
-   Click the **Academic** tab in the toolbar. Under **Related information**, click **Scholarship and discounts**.
+   Click **Academic** in the Action Pane (④). Under **Related information**, click **Scholarship and discounts** (⑤).
+
+   ![View student discounts — the Academic tab with the Related information section](./images/view-student-discounts-1.png)
 
 3. Filter the results
 
-   Use the **checkbox** to filter the list by activity status.
+   Use the checkboxes (⑥) to filter the list by activity status.
 
-![View student discounts — the Academic tab with the Related information section](./images/view-student-discounts-1.png)
-
-![View student discounts — the Scholarship and discounts list with the activity filter checkbox](./images/view-student-discounts-2.png)
+   ![View student discounts — the Scholarship and discounts list with the activity filter checkbox](./images/view-student-discounts-2.png)
