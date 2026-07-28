@@ -37,6 +37,6 @@ Deposits are forfeited when a student does not proceed with enrolment and the sc
 
    ![Forfeiting Deposits — the posted forfeit journal entry](./images/forfeit-deposit-5.png)
 
-   > **Note:** The system will transfer the balance from the forfeited payment to another invoice.
+   > **Note:** The system will transfer the balance from the forfeited payment to another income amount.
 
    ![Forfeiting Deposits — the final transaction confirmation view](./images/forfeit-deposit-6.png)
