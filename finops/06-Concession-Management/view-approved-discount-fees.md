@@ -18,12 +18,12 @@ video:
 
 2. Open the fee record
 
-   Search for and open the fee record you want to review.
+   Search for and open the fee record you want to review (③-④).
+
+   ![View approved discount fees — the All fee schedule batches list](./images/view-approved-discount-fees-1.png)
 
 3. View the discount amount
 
-   Under **Sales order lines**, scroll to the right to see the **discount amount** applied to each line.
+   Under **Sales order lines**, scroll to the right to see the **Discount** amount (⑤) applied to each line.
 
-![View approved discount fees — the All fee schedule batches list](./images/view-approved-discount-fees-1.png)
-
-![View approved discount fees — Sales order lines with the discount amount column visible](./images/view-approved-discount-fees-2.png)
+   ![View approved discount fees — Sales order lines with the discount amount column visible](./images/view-approved-discount-fees-2.png)
