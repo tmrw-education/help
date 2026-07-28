@@ -15,12 +15,12 @@ Use this process when a posted enrolment fee or deposit needs to be reversed —
 
 1. Find the posted fee
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Filter the **Status** column to show only *Posted* entries and select the enrolment deposit or fee using the checkbox on the far-left column.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Filter the **Status** column to show only *Posted* entries (⑤) and select the enrolment deposit or fee using the checkbox on the far-left column (⑥).
+
+   ![Reverse Enrolment Deposit or Fee — All pre-admission fees filtered by Posted status with the deposit selected](./images/reverse-enrolment-deposit-or-fee-1.png)
 
 2. Reverse the fee
 
-   Click **Cancel** in the toolbar. In the dialogue on the right, set the **Reverse posting date**, then click **OK**.
+   Click **Cancel** in the Action Pane (⑦). In the dialog on the right, set the **Reverse posting date** (⑧), then click **OK**.
 
-![Reverse Enrolment Deposit or Fee — All pre-admission fees filtered by Posted status with the deposit selected](./images/reverse-enrolment-deposit-or-fee-1.png)
-
-![Reverse Enrolment Deposit or Fee — the Cancel dialog with the Reverse posting date field](./images/reverse-enrolment-deposit-or-fee-2.png)
+   ![Reverse Enrolment Deposit or Fee — the Cancel dialog with the Reverse posting date field](./images/reverse-enrolment-deposit-or-fee-2.png)
