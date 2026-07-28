@@ -15,18 +15,18 @@ video:
 
 1. Filter and select the fee record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Filter the **Pre-admission type** column by *Application Fee* and locate the correct student record. Select the record using the checkbox.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Filter the **Pre-admission type** column by *Application Fee* (③) and locate the correct student record. Select the record using the checkbox (⑤).
+
+   ![Manually Post Pre-Admission Fee — the All pre-admission fees list filtered by Application Fee with the student record selected](./images/manually-post-pre-admission-fee-1.png)
 
 2. Post the fee
 
-   Click **Post** in the toolbar. Ensure the **Preview** toggle is set to *Yes* to review the posting before it is finalised, then click **OK**.
+   Click **Post** in the Action Pane (⑥). Ensure the **Preview** toggle is set to *Yes* (⑦) to review the posting before it is finalised, then click **OK** (⑧).
+
+   ![Manually Post Pre-Admission Fee — the Post dialog with the Preview toggle set to Yes](./images/manually-post-pre-admission-fee-2.png)
 
 3. View the sales order
 
-   Click the **General** tab to view the created sales order number. Once posted, the sales order is available in Cashier receipt for payment processing.
+   Click the **General** tab (⑨) to view the created sales order number. Once posted, the sales order is available in Cashier receipt for payment processing.
 
-![Manually Post Pre-Admission Fee — the All pre-admission fees list filtered by Application Fee with the student record selected](./images/manually-post-pre-admission-fee-1.png)
-
-![Manually Post Pre-Admission Fee — the Post dialog with the Preview toggle set to Yes](./images/manually-post-pre-admission-fee-2.png)
-
-![Manually Post Pre-Admission Fee — the General tab showing the created sales order number](./images/manually-post-pre-admission-fee-3.png)
+   ![Manually Post Pre-Admission Fee — the General tab showing the created sales order number](./images/manually-post-pre-admission-fee-3.png)
