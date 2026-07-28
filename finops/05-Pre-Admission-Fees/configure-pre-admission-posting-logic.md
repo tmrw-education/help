@@ -18,22 +18,22 @@ This page walks through configuring the three standard posting entries — Appli
 
 2. Add the Application Fee entry
 
-   Click **New** in the toolbar. Select *Application fee* in **Pre-admission type** and complete all required columns in the row.
+   Click **New** in the toolbar. Select *Application fee* in **Pre-admission type** and complete all required columns in the row (⑤).
+
+   ![Configure Posting Logic — the Pre-admission posting table with the Application Fee entry selected and its fields visible](./images/configure-pre-admission-posting-logic-1.png)
 
 3. Add the Enrolment Fee entry
 
-   Click **New** in the toolbar. Select *Enrolment fee* in **Pre-admission type** and complete all required columns in the row.
+   Click **New** in the toolbar. Select *Enrolment fee* in **Pre-admission type** and complete all required columns in the row (⑦).
+
+   ![Configure Posting Logic — the Pre-admission posting table with the Enrolment Fee entry visible below the Application Fee](./images/configure-pre-admission-posting-logic-2.png)
 
 4. Add the Enrolment Deposit entry
 
-   Click **New** in the toolbar. Select *Enrolment deposit* in **Pre-admission type** and complete all required columns. Do not select an **Item number** for deposit types.
+   Click **New** in the toolbar. Select *Enrolment deposit* in **Pre-admission type** and complete all required columns (⑨). Do not select an **Item number** for deposit types.
+
+   ![Configure Posting Logic — the completed Pre-admission posting table showing all three entries: Application Fee, Enrolment Fee, and Enrolment Deposit](./images/configure-pre-admission-posting-logic-3.png)
 
 5. Save
 
    Click **Save**.
-
-![Configure Posting Logic — the Pre-admission posting table with the Application Fee entry selected and its fields visible](./images/configure-pre-admission-posting-logic-1.png)
-
-![Configure Posting Logic — the Pre-admission posting table with the Enrolment Fee entry visible below the Application Fee](./images/configure-pre-admission-posting-logic-2.png)
-
-![Configure Posting Logic — the completed Pre-admission posting table showing all three entries: Application Fee, Enrolment Fee, and Enrolment Deposit](./images/configure-pre-admission-posting-logic-3.png)
