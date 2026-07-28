@@ -19,6 +19,6 @@ The Eldest Child in Family report identifies the eldest sibling in each enrolled
 
 2. Review the data
 
-   The report lists the eldest sibling per family. Use this to confirm sibling order before running fee batches or applying family discounts.
+   The report lists the eldest sibling per family (④). Use this to confirm sibling order before running fee batches or applying family discounts.
 
-![View Eldest Child in Family — the report listing eldest siblings per family](./images/view-eldest-child-in-family-1.png)
+   ![View Eldest Child in Family — the report listing eldest siblings per family](./images/view-eldest-child-in-family-1.png)
