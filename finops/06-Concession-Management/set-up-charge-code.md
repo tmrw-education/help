@@ -20,14 +20,14 @@ Staff concession discounts are applied to fee invoices through the auto charges 
 
 2. Set the level and create a new record
 
-   Change the **Level** to **Line**. Click **New** in the toolbar.
+   Change the **Level** to **Line** (③). Click **New** in the toolbar.
 
 3. Configure the charge code
 
-   Enter the **Charge description**, then configure the required charge settings for the concession type.
+   Enter the **Charge description** (⑤), then configure the required charge settings for the concession type (⑥).
+
+   ![Set up charge code — the Auto charges list filtered to Line level with a new record](./images/set-up-charge-code-1.png)
 
 4. Save
 
    Click **Save**.
-
-![Set up charge code — the Auto charges list filtered to Line level with a new record](./images/set-up-charge-code-1.png)
