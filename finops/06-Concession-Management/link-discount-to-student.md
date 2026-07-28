@@ -18,20 +18,20 @@ video:
 
 2. Select the discount code and open Students
 
-   Check the circle to the left of the scholarship or discount you want to configure. Click **General** in the toolbar, then choose **Students** under the Students tab.
+   Check the circle to the left of the scholarship or discount you want to configure (③). Click **General** in the Action Pane (④), then choose **Students** under the Students tab (⑤).
+
+   ![Link discount to student — the Students tab with the New button](./images/link-discount-to-student-1.png)
 
 3. Add a student record
 
-   Click **New** and complete the following columns — the **Student Name**, **Code**, and **Scholarship / Discount Name** will prepopulate automatically:
+   Click **New** and complete the following columns (⑦)— the **Student Name**, **Code**, and **Scholarship / Discount Name** will prepopulate automatically:
 
    - **Student Account** — select the student from the dropdown.
    - **Discount %** — enter the percentage or total discount amount.
-   - **Start date** and **Expiration date** — set the dates the discount is active.
+   - **Effective date** and **Expiration date** — set the dates the discount is active.
+
+   ![Link discount to student — a new student record with Discount %, start date, and expiration date fields](./images/link-discount-to-student-2.png)
 
 4. Save
 
    Click **Save**.
-
-![Link discount to student — the Students tab with the New button](./images/link-discount-to-student-1.png)
-
-![Link discount to student — a new student record with Discount %, start date, and expiration date fields](./images/link-discount-to-student-2.png)
