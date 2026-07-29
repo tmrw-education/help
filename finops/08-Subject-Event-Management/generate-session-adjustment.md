@@ -11,12 +11,12 @@ video:
 
 # Generate the Session Adjustment
 
-Run this task after updating the session record status to Change.
+Run this task after updating the session record status to Changed.
 
 1. Run the adjustment task
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Generate sessional class and event adjustments**. Enter the **adjustment date**, and expand **Records to include** to filter for a specific student if needed (leave blank to process all records with a Change status). Click **OK**.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Generate sessional class and event adjustments**. Enter the adjustment **Date** (③), and expand **Records to include** to filter (④) for a specific student if needed (leave blank to process all records with a Changed status). Click **OK** (⑤).
 
    The system creates a new sales order reflecting the correct session count and the adjusted charge amount.
 
-![Generate Session Adjustment — the Generate sessional class and event adjustments dialog with the adjustment date and Records to include filter](./images/generate-session-adjustment-1.png)
+   ![Generate Session Adjustment — the Generate sessional class and event adjustments dialog with the adjustment date and Records to include filter](./images/generate-session-adjustment-1.png)
