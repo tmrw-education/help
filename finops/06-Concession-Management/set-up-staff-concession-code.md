@@ -22,21 +22,21 @@ Staff concessions apply fee reductions to dependants of staff members. The syste
 
 2. Enter the concession name
 
-   Enter the **name** of the concession.
+   Enter the **Name** of the concession (④).
+   
+   ![Set up staff concession code — the Scholarship and discount new record form with Type, Charge code, and Activate](./images/set-up-staff-concession-code-1.png)
 
 3. Select the type
 
-   Select the **Type**:
+   Select the **Type** (⑤):
 
    - **Staff concession** — for staff tuition fee reductions. The record is captured in the Staff Tuition Fee Concession table and is automatically set to Approved status — the approval workflow does not apply.
-   - **Scholarship and discount** — for corporate or commercial concessions. The record is captured in the Scholarship and Discount table and can require an approver.
+   - **Scholarship/Discount** — for corporate or commercial concessions. The record is captured in the Scholarship and Discount table and can require an approver.
 
 4. Link the charge code and activate
 
-   Select the **Charge code** to link to this discount code. Click **Activate** in the toolbar to make the code available for use.
+   Select the **Charge code** to link to this discount code (⑥). Check the **Active** box (⑦) to make the code available for use.
 
 5. Configure approval and save
 
-   In the **Approval** section, enable **Approval** if concession records require an approver, then identify the authorised **user**. Click **Save**.
-
-![Set up staff concession code — the Scholarship and discount new record form with Type, Charge code, and Activate](./images/set-up-staff-concession-code-1.png)
+   In the **Approval** section, enable **Approval** (⑧) if concession records require an approver, then identify the authorised **User Group**. Click **Save**.
