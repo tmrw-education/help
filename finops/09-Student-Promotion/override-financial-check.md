@@ -19,8 +19,8 @@ Where a payment arrangement is in place and the school does not want to block a 
 
 2. Apply the override
 
-   Set the **Financial check override** toggle to **Yes** and select a **Reason code** from the dropdown. Reason codes are configured by the school (e.g., *Fee check — payment plan in place*) and create an audit record for the override. Click **Save**.
+   In the **Enrolment details** tab, set the **Financial check override** toggle to **Yes** (④) and select an **Override reason code** from the dropdown (⑤). Reason codes are configured by the school (e.g., *Fee check — payment plan in place*) and create an audit record for the override. Click **Save**.
 
    On the next system poll, the student will be excluded from the financial check and their status will update to **Re-enrolment open**.
 
-![Override Financial Check for Re-Enrolment — the student record with Financial check override set to Yes and a Reason code selected](./images/override-financial-check-1.png)
+   ![Override Financial Check for Re-Enrolment — the student record with Financial check override set to Yes and a Reason code selected](./images/override-financial-check-1.png)
