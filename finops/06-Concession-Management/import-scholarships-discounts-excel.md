@@ -16,19 +16,35 @@ Use this process to enter or update scholarship and discount records in bulk usi
 
 1. Download the Excel template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Scholarship and discount details**. Click **Open in Microsoft Office** in the toolbar, select **TMRW Student scholarship discount entity (AKN)**, and click **Download**. An Excel file containing the pre-configured data entity template will download to your computer.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Scholarship and discount details**. Click **Open in Microsoft Office** in the Action Pane (③), select **TMRW Student scholarship discount entity** (④), and click **Download** (⑤). An Excel file containing the pre-configured data entity template will download to your computer.
+
+   ![Import scholarships via Excel — the Scholarship and discount details page with Open in Microsoft Office](./images/import-scholarships-discounts-excel-1.png)
+
+   ![Import scholarships via Excel — the Open in Microsoft Office dialog with the TMRW entity selected](./images/import-scholarships-discounts-excel-2.png)
 
 2. Open the file and wait for the add-in
 
-   Open the downloaded Excel file, click **Enable Editing**, and open it in the desktop app. Wait for the Excel add-in to complete sign-in before proceeding — the add-in connects to the environment to read and write data.
+   Open the downloaded Excel file, click **Edit a copy** (⑦), and open it in the desktop app. Wait for the Excel add-in to complete sign-in before proceeding — the add-in connects to the environment to read and write data.
+
+   ![Import scholarships via Excel — the Design panel in the Excel add-in with the Edit button](./images/import-scholarships-discounts-excel-3.png)
 
 3. Add all available fields
 
-   Click **Design** in the add-in panel (bottom-right corner), then click the **Edit** button (pencil icon) next to the entity. Double-click each field in the **Available fields** list to move all fields across to the selected fields. Click **Update**, click **Yes** in the confirmation prompt, then click **Done**.
+   Click **Design** in the add-in panel (bottom-right corner) (⑧, then click the **Edit** button (pencil icon) next to the entity (⑨). Double-click each field in the **Available fields** list (⑩) to move all fields across to the selected fields. Click **Update** (⑪), click **Yes** in the confirmation prompt, then click **Done** (⑬).
+
+   ![Import scholarships via Excel — the Available fields list being moved to selected fields](./images/import-scholarships-discounts-excel-4.png)
+
+   ![Import scholarships via Excel — the add-in panel showing the Refresh button](./images/import-scholarships-discounts-excel-5.png)
+
+   ![Import scholarships via Excel — new rows entered below existing data](./images/import-scholarships-discounts-excel-6.png)
+
+   ![Import scholarships via Excel — the Publish button in the add-in panel](./images/import-scholarships-discounts-excel-7.png)
 
 4. Refresh the data
 
-   Click **Refresh** in the add-in panel. This pulls the latest records from the system into the spreadsheet, including any records already saved.
+   Click **Refresh** in the add-in panel (⑭). This pulls the latest records from the system into the spreadsheet, including any records already saved.
+
+   ![Import scholarships via Excel — the Scholarships and discounts master confirming records were accepted](./images/import-scholarships-discounts-excel-8.png)
 
 5. Enter or update records
 
@@ -43,19 +59,3 @@ Use this process to enter or update scholarship and discount records in bulk usi
 7. Confirm the records
 
    Verify that all records have been accepted and are visible in the **Scholarships and discounts** master.
-
-![Import scholarships via Excel — the Scholarship and discount details page with Open in Microsoft Office](./images/import-scholarships-discounts-excel-1.png)
-
-![Import scholarships via Excel — the Open in Microsoft Office dialog with the TMRW entity selected](./images/import-scholarships-discounts-excel-2.png)
-
-![Import scholarships via Excel — the Design panel in the Excel add-in with the Edit button](./images/import-scholarships-discounts-excel-3.png)
-
-![Import scholarships via Excel — the Available fields list being moved to selected fields](./images/import-scholarships-discounts-excel-4.png)
-
-![Import scholarships via Excel — the add-in panel showing the Refresh button](./images/import-scholarships-discounts-excel-5.png)
-
-![Import scholarships via Excel — new rows entered below existing data](./images/import-scholarships-discounts-excel-6.png)
-
-![Import scholarships via Excel — the Publish button in the add-in panel](./images/import-scholarships-discounts-excel-7.png)
-
-![Import scholarships via Excel — the Scholarships and discounts master confirming records were accepted](./images/import-scholarships-discounts-excel-8.png)
