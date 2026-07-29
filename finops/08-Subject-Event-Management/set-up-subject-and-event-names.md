@@ -15,11 +15,11 @@ Before students can be enrolled in sessional classes or events and invoiced, the
 
 1. Open Subject and event names
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Subject and event names**. Click **New** in the toolbar.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Subject and event names**. Click **New** in the Action Pane.
 
 2. Complete the record
 
-   Fill in the following fields:
+   Fill in the following fields (④):
 
    - **Code** — enter or create a unique code.
    - **Name** — enter the subject or event name.
@@ -27,8 +27,8 @@ Before students can be enrolled in sessional classes or events and invoiced, the
    - **Active** — check the box to activate the record.
    - **Item number** — select the item number from the dropdown.
 
+   ![Set Up Subject and Event Names — the Subject and event names form with Code, Name, Category, Active, and Item number fields](./images/set-up-subject-and-event-names-1.png)
+
 3. Save
 
    Click **Save**.
-
-![Set Up Subject and Event Names — the Subject and event names form with Code, Name, Category, Active, and Item number fields](./images/set-up-subject-and-event-names-1.png)
