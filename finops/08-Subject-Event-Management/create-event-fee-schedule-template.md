@@ -15,14 +15,14 @@ Before the fee generation batch can invoice students for sessional classes or ev
 
 1. Open All fee schedules and create a new template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** in the toolbar.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** in the Action Pane.
 
 2. Complete the template header and fee lines
 
-   Enter a **Description** (e.g., *Event template*) and choose the **Billing interval**. Click **+ Add line** and complete the required fields for each line. Add **conditions** to restrict the template to specific event codes or student groups if required.
+   Enter a **Description** (e.g., *Event template*) (④) and choose the **Billing interval** (⑤). Click **+ Add line** (⑥) and complete the required fields for each line. If required, a **Condition** can be added to restrict the template to specific event codes or student groups.
+
+   ![Create Event Fee Schedule Template — the fee schedule template form with Description, Billing interval, and fee schedule lines](./images/create-event-fee-schedule-template-1.png)
 
 3. Save
 
    Click **Save**.
-
-![Create Event Fee Schedule Template — the fee schedule template form with Description, Billing interval, and fee schedule lines](./images/create-event-fee-schedule-template-1.png)
