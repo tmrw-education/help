@@ -11,16 +11,16 @@ video:
 
 # Enable Session-Based Invoicing
 
-If **Session Based** is not enabled, the system charges a flat fee (quantity = 1). Delete any previously generated sales order for this event and student before rerunning the fee generation batch.
+If **Session Based** is not enabled, the system charges a flat fee (quantity = 1). Delete any previously generated sales orders for this event and student before rerunning the fee-generation batch.
 
 1. Open the fee schedule template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Find and open the relevant fee schedule template.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Find and open the relevant fee schedule template (③).
+
+   ![Enable Session-Based Invoicing — A selected fee schedule template](./images/enable-session-based-invoicing-1.png)
 
 2. Enable and save
 
-   Enable the **Session Based** option and click **Save**. Then run the fee schedule batch to generate the invoices.
+   Click **Edit** in the Action Pane. Enable the **Session Based** option (④) and click **Save**. Then run the fee schedule batch to generate the invoices.
 
-![Enable Session-Based Invoicing — the fee schedule template with the Session Based toggle enabled](./images/enable-session-based-invoicing-1.png)
-
-![Enable Session-Based Invoicing — the resulting sales order showing session-based quantity rather than a flat amount](./images/enable-session-based-invoicing-2.png)
+   ![Enable Session-Based Invoicing — the fee schedule template with the Session Based toggle enabled](./images/enable-session-based-invoicing-2.png)
