@@ -18,10 +18,12 @@ Before a student can be promoted, their academic enrolment record must show both
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Open the relevant student record.
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Open the relevant student record (④).
+
+   ![View Student Enrolment Dates — using the filter function to find a student record](./images/view-student-enrolment-dates-1.png)
 
 2. Confirm enrolment status and academic records
 
-   Confirm the student's enrolment status shows as **Re-enrolment open**. Select **Academic** from the Action Pane and click the **Academic enrolments** tab. Verify the table shows both the student's current grade/year and the next grade/year for promotion.
+   Confirm the student's enrolment status shows as **Re-enrolment open**. Select **Academic** from the Action Pane and click the **Academic enrolments** tab (⑤). Verify the table shows both the student's current grade/year and the next grade/year for promotion.
 
-![View Student Enrolment Dates — the student record showing Re-enrolment open status](./images/view-student-enrolment-dates-1.png)
+   ![View Student Enrolment Dates — the Academic enrolments tab highlighted in the Action Pane](./images/view-student-enrolment-dates-2.png)
