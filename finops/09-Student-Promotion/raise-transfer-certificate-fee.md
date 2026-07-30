@@ -11,27 +11,27 @@ video:
 
 # Raise a Transfer Certificate Fee
 
-When a student withdraws and requests a transfer certificate, a free text invoice is raised using the pre-configured TCINV template. In a live environment, this step is triggered by a request from the customer experience team.
+When a student withdraws and requests a transfer certificate, a free-text invoice is generated using the preconfigured TCINV template. In a live environment, this step is triggered by a request from the customer experience team.
 
 1. Create the invoice from template
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Invoices**, and click **All free text invoices**. Click **New from template** in the toolbar, select **TCINV** in the **Template** field, and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Invoices**, and click **All free text invoices**. Click **New from template** in the Action Pane (③), select **TCINV** in the **Template** field (④), and complete the following:
 
-   - **Customer account** — enter or select the fee payer.
-   - **Create invoice by using the default values from** — select *Free text invoice template*.
+   - **Customer account** (⑤) — enter or select the fee payer.
+   - **Create invoice by using the default values from** — select *Free text invoice template* (⑥).
 
    Click **OK**. The template pre-populates the invoice line with the transfer certificate fee configuration.
 
+   ![Raise Transfer Certificate Fee — the All free text invoices list with New from template selected and TCINV chosen](./images/raise-transfer-certificate-fee-1.png)
+
 2. Complete invoice details
 
-   In the **Description** field, enter a description. Scroll down and expand the **Line details** tab, then open the **Financial dimension line** tab. Set the financial dimensions — select **Curriculum**, **School Levels**, and **Year Group**. The **Fee Head** field is auto-populated from the free text invoice template setup.
+   In the **Description** field, enter a description (⑧). Scroll down and expand the **Line details** tab (⑨), then open the **Financial dimensions line** tab (⑩). Set the financial dimensions (⑪) — select **Curriculum**, **School Levels**, and **Year Group**. The **Fee Head** field is auto-populated from the free text invoice template setup.
+
+   ![Raise Transfer Certificate Fee — the invoice form with Description and the Line details Financial dimension tab open](./images/raise-transfer-certificate-fee-2.png)
 
 3. Post the invoice
 
-   Click **Post**, set **Batch processing** to *No*, click **OK**, and close the page.
+   Click **Post** (⑫), set **Batch processing** to *No* (⑬), click **OK**, and close the page.
 
-![Raise Transfer Certificate Fee — the All free text invoices list with New from template selected and TCINV chosen](./images/raise-transfer-certificate-fee-1.png)
-
-![Raise Transfer Certificate Fee — the invoice form with Description and the Line details Financial dimension tab open](./images/raise-transfer-certificate-fee-2.png)
-
-![Raise Transfer Certificate Fee — the Post dialog with Batch processing set to No](./images/raise-transfer-certificate-fee-3.png)
+   ![Raise Transfer Certificate Fee — the Post dialog with Batch processing set to No](./images/raise-transfer-certificate-fee-3.png)
