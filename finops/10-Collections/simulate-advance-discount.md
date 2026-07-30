@@ -19,12 +19,12 @@ The advance discount simulation tool calculates the discount a fee payer would r
 
    Complete the following:
 
-   - **Customer** — enter the student account.
-   - **Method of Payment** — select the co-branded method.
-   - **Amount** — enter the amount to simulate. Enter a single term amount, a two-term total, or the full period total to compare discount rates.
+   - **Customer** (③) — enter the student account.
+   - **Method of Payment** (④) — select the co-branded method.
+   - **Amount** (⑤) — enter the amount to simulate. Enter a single term amount, a two-term total, or the full period total to compare discount rates.
+
+   ![Simulate an Advance Discount — the Advanced Discount Policy simulation form with Customer, Method of Payment, and Amount fields and the Simulate button](./images/simulate-advance-discount-1.png)
 
 2. Simulate
 
-   Click **Simulate**. The system displays the discount rate and amount that would apply for the entered amount. No transaction is created.
-
-![Simulate an Advance Discount — the Advanced Discount Policy simulation form with Customer, Method of Payment, and Amount fields and the Simulate button](./images/simulate-advance-discount-1.png)
+   Click **Simulate** (⑥). The system displays the discount rate and amount that would apply for the entered amount. No transaction is created.
