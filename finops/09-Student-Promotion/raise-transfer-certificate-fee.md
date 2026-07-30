@@ -26,7 +26,7 @@ When a student withdraws and requests a transfer certificate, a free-text invoic
 
 2. Complete invoice details
 
-   In the **Description** field, enter a description (⑧). Scroll down and expand the **Line details** tab (⑨), then open the **Financial dimensions line** tab (⑩). Set the financial dimensions (⑪) — select **Curriculum**, **School Levels**, and **Year Group**. The **Fee Head** field is auto-populated from the free text invoice template setup.
+   In the **Description** field, enter a description (⑧). Scroll down and expand the **Line details** tab (⑨), then open the **Financial dimensions line** tab (⑩). Set the financial dimensions (⑪) — select **Curriculum**, **School Levels**, and **Year Group**. The **Fee Head** field is auto-populated based on the free-text invoice template setup.
 
    ![Raise Transfer Certificate Fee — the invoice form with Description and the Line details Financial dimension tab open](./images/raise-transfer-certificate-fee-2.png)
 
