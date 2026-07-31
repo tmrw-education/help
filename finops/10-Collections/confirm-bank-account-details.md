@@ -21,4 +21,4 @@ Confirm a fee payer's bank details before paying any refund via bank file.
 
    If no bank account is listed, click **New**, enter the bank details (bank name, IBAN, SWIFT, currency), then click **Save**. If necessary, update an existing bank account and click **Save**.
 
-![Confirm Bank Account Details — the Customer Bank accounts view showing an active bank account with refund marker](./images/confirm-bank-account-details-1.png)
+   ![Confirm Bank Account Details — the Customer Bank accounts view showing an active bank account with refund marker](./images/confirm-bank-account-details-1.png)
