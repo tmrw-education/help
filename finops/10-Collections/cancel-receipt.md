@@ -15,14 +15,14 @@ Used when a posted customer payment needs to be reversed. The reversal date cann
 
 1. Locate the transaction
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter the list to locate the required student. Click **Customer** on the Action Pane, then click **Transactions**. Select the transaction to reverse.
+   From the **FNO dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter the list to locate the required student. Click **Customer** on the Action Pane (③), then click **Transactions** (④). Select the transaction to reverse (⑤).
+
+   ![Cancel a Receipt — the Customer transactions list with the payment transaction selected and the Reverse option in the toolbar](./images/cancel-receipt-1.png)
 
 2. Reverse and set the date
 
-   Click **Reverse**, then click **Cancel payment**. Select the **reversal date** from the date picker. Select a value from the **Reason code** dropdown. Click **OK**.
+   Click **Reverse**, (⑥) then click **Cancel payment** (⑦). Select the **reversal date** (⑧) from the date picker. Select a value from the **Reason code** dropdown (⑨). Click **OK**.
 
-![Cancel a Receipt — the Customer transactions list with the payment transaction selected and the Reverse option in the toolbar](./images/cancel-receipt-1.png)
+   ![Cancel a Receipt — the Cancel payment dialog with the reversal date and Reason code fields](./images/cancel-receipt-2.png)
 
-![Cancel a Receipt — the Cancel payment dialog with the reversal date and Reason code fields](./images/cancel-receipt-2.png)
-
-![Cancel a Receipt — the confirmation result showing the reversed transaction](./images/cancel-receipt-3.png)
+   ![Cancel a Receipt — the confirmation result showing the reversed transaction](./images/cancel-receipt-3.png)
