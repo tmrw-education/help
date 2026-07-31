@@ -1,7 +1,7 @@
 ---
 id: confirm-bank-account-details
 summary:
-  - "Open the student or fee payer record, click **Customer ▸ Setup ▸ Bank accounts**, confirm an active bank account is marked for refunds. If none exists, click **New** and enter the bank details."
+  - "Open the student or fee payer record, click **Customer ▸ Setup ▸ Bank accounts**, and confirm an active bank account is marked for refunds. If none exists, click **New** and enter the bank details."
   - "Confirm bank details before processing any bank file refund."
 keywords: [bank account, confirm bank details, customer bank account, refund bank account, IBAN, SWIFT, fee payer bank]
 video:
@@ -15,7 +15,7 @@ Confirm a fee payer's bank details before paying any refund via bank file.
 
 1. Open the bank accounts and verify
 
-   Navigate to **Modules ▸ Academic management ▸ Students ▸ All students** (or **Fee payer** if using fee payer as the customer). Select the relevant record. On the Action Pane, click **Customer**, then under **Setup** find **Bank accounts**.
+   Navigate to **Modules ▸ Academic management ▸ Students ▸ All students** (or **Fee payer** if using fee payer as the customer). Select the relevant record. On the Action Pane, click **Customer**, then under **Setup** find **Bank accounts** (④).
 
    Confirm that an active bank account exists and is marked for refunds or payment processing.
 
