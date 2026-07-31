@@ -25,6 +25,6 @@ Fee payer account statements provide a consolidated view of outstanding invoices
 
 2. Generate and distribute
 
-   Click **OK** to generate the statement (⑦). Review the completed statement and distribute it to the fee payer as required.
+   Click **OK** to generate the statement (⑦). Review the completed statement (⑧) and distribute it to the fee payer as required.
    
    ![Generate Fee Statements in Bulk — the generated fee payer account statement showing outstanding invoices and payment history](./images/generate-fee-statements-2.png)
