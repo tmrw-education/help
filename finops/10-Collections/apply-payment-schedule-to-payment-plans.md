@@ -15,15 +15,15 @@ This process defines the payment options available to parents and controls which
 
 1. Open Payment option setup and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Payment option setup**. Click **New** and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Payment option setup**. Click **New** and complete the following (④):
 
    - **Payment plan** — select the required payment plan.
-   - **Option name** — enter a name.
+   - **Payment option** — enter a name.
    - **Description** — enter a description.
-   - **Start date** and **End date** — set the dates for when this payment option is available.
+   - Start date and End date — set the dates for when this payment option is available.
+
+   ![Apply the Payment Schedule to Payment Plans — the Payment option setup form with Payment plan, Option name, Description, and Start/End date fields](./images/apply-payment-schedule-to-payment-plans-1.png)
 
 2. Save
 
    Click **Save**.
-
-![Apply the Payment Schedule to Payment Plans — the Payment option setup form with Payment plan, Option name, Description, and Start/End date fields](./images/apply-payment-schedule-to-payment-plans-1.png)
