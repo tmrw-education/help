@@ -17,28 +17,28 @@ Proceed with the refund only after confirming the bank details. See [Confirm Ban
 
 1. Create the refund journal
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Accounts receivable ▸ Payments ▸ Customer payment journal**. Click **New** and in the **Name** field select **Customer refund journal**. Click **Lines**.
+   From the **FNO dashboard**, navigate to **Modules ▸ Accounts receivable ▸ Payments ▸ Customer payment journal**. Click **New** and in the **Name** field select **Customer refund journal** (③). Click **Lines** (④).
+
+   ![Process a Fee Refund — the Customer payment journal with Customer refund journal selected in the Name field](./images/process-fee-refund-1.png)
 
 2. Select the student and settle the credit invoice
 
-   Mark the selected row in the list. In the **Account** field, select the **Student account**. Enter a value in the **Description** field. In the **Method of payment** field (on the far right), select the refund method.
+   Mark the selected row in the list. In the **Account** field (⑤), select the **Student account**. Enter a value in the **Description** field (⑥). In the **Method of payment** field (on the far right) (⑦), select the refund method.
 
-   Click **Settle transactions** to find and select the credit invoice. Select the **Mark** checkbox for the desired invoice, then click **OK**.
+   Click **Settle transactions** (⑧) to find and select the credit invoice. Select the **Mark** checkbox (⑨) for the desired invoice, then click **OK** (⑩).
 
-3. Set financial dimensions and post
+   ![Process a Fee Refund — the journal lines with Student account, Description, and Method of payment fields visible](./images/process-fee-refund-2.png)
 
-   Click **Financial dimensions** and select **Account**. In the **Feehead value** field, select a value and click **OK**. Click **Financial dimensions** again, click on the **Offset account** field, and in the **Cashflow** field select **Refund**. Click **OK**.
+   ![Process a Fee Refund — the Settle transactions dialog with the credit invoice marked](./images/process-fee-refund-3.png)
 
-   Click **Post**.
+4. Set financial dimensions and post
 
-![Process a Fee Refund — the Customer payment journal with Customer refund journal selected in the Name field](./images/process-fee-refund-1.png)
+   Click **Financial dimensions** and select **Account** (⑪). In the **Feehead value** field (⑫), select a value and click **OK** (⑬). Click **Financial dimensions** again, click on the **Offset account** field, and in the **Cashflow** field select **Refund** (⑭). Click **OK**.
 
-![Process a Fee Refund — the journal lines with Student account, Description, and Method of payment fields visible](./images/process-fee-refund-2.png)
+   Click **Post** (⑯).
 
-![Process a Fee Refund — the Settle transactions dialog with the credit invoice marked](./images/process-fee-refund-3.png)
+   ![Process a Fee Refund — the Financial dimensions dialog for Account with the Feehead value selected](./images/process-fee-refund-4.png)
 
-![Process a Fee Refund — the Financial dimensions dialog for Account with the Feehead value selected](./images/process-fee-refund-4.png)
+   ![Process a Fee Refund — the Financial dimensions dialog for Offset account with Cashflow set to Refund](./images/process-fee-refund-5.png)
 
-![Process a Fee Refund — the Financial dimensions dialog for Offset account with Cashflow set to Refund](./images/process-fee-refund-5.png)
-
-![Process a Fee Refund — the Post button in the Action Pane](./images/process-fee-refund-6.png)
+   ![Process a Fee Refund — the Post button in the Action Pane](./images/process-fee-refund-6.png)
