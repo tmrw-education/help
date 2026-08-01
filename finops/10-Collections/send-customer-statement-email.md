@@ -15,7 +15,7 @@ Use this process to send balance or transaction details to customers or fee paye
 
 1. Find the customer in Aged balances
 
-   From the **FNO dashboard**, open **Workspaces ▸ Customer credit and collections**. In **Collections**, click **Aged balances** to view the customer list and balances. Filter the list by **Pool** to find the customer and select them.
+   From the **FNO dashboard**, open **Workspaces ▸ Credit and collections**. In **Collections**, click **Aged balances** to view the customer list and balances. Filter the list by **Pool** to find the customer and select them.
 
 2. Configure and send the statement email
 
