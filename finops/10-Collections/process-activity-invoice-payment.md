@@ -14,19 +14,19 @@ Use this process to receipt a payment against an activity or sessional class inv
 
 1. Create the cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
 
-   - **Customer** — select the student account.
-   - **Description** — enter a description.
-   - Tick the **Mark** checkbox for the activity fee invoice in the invoices panel on the right.
-   - **Method of payment** — select the payment method.
-   - **Amount** — enter the activity fee amount.
+   - **Customer** (④) — select the student account.
+   - **Description** (⑤) — enter a description.
+   - Tick the **Mark** checkbox (⑥) for the activity fee invoice in the invoices panel on the right.
+   - **Method of payment** (⑦) — select the payment method.
+   - **Amount** (⑧) — enter the activity fee amount.
    - **Payment reference** — enter a reference if required.
+
+   ![Process an Activity Invoice Payment — the Cashier receipt form with the activity invoice marked and payment details entered](./images/process-activity-invoice-payment-1.png)
+
+   ![Process an Activity Invoice Payment — the Post receipt dialog with the Print receipt toggle enabled](./images/process-activity-invoice-payment-2.png)
 
 2. Post and deliver the receipt
 
-   Click **Post** in the Action Pane. Enable the **Print receipt** toggle and click **OK** to post the journal.
-
-![Process an Activity Invoice Payment — the Cashier receipt form with the activity invoice marked and payment details entered](./images/process-activity-invoice-payment-1.png)
-
-![Process an Activity Invoice Payment — the Post receipt dialog with the Print receipt toggle enabled](./images/process-activity-invoice-payment-2.png)
+   Click **Post** in the Action Pane (⑩). Enable the **Print receipt** toggle and click **OK** to post the journal.
