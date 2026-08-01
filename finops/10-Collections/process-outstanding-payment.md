@@ -14,7 +14,7 @@ Use this process to receipt a payment against an open student invoice at the cas
 
 1. Create the cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③ ④ ⑤ ⑥ ⑦ ⑧ ⑨) to create a new cashier receipt journal and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) to create a new cashier receipt journal and complete the following:
 
    - **Customer** (④) — enter the student account. The description auto-populates but can be edited.
    - **Invoice** (⑤) — tick the invoice to be paid in the panel on the right.
