@@ -15,32 +15,32 @@ When a fee payer provides a cheque dated for future settlement, record it as a p
 
 1. Create the cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
 
-   - **Customer** — select the student account.
-   - Mark the **payment** to be applied on the right-hand side.
-   - **Method of payment** — select *Cheque*.
-   - **Amount** — enter the amount.
+   - **Customer** (④) — select the student account.
+   - **Mark** the payment (⑤) to be applied on the right-hand side.
+   - **Method of payment** (⑥) — select *Cheque*.
+   - **Amount** (⑦) — enter the amount.
    - **Payment reference** — enter a reference if required.
+
+   ![Process a Post-Dated Cheque — the Cashier receipt form with Cheque selected as the Method of payment and the Check details button visible](./images/process-post-dated-cheque-1.png)
+
+   ![Process a Post-Dated Cheque — the Check details dialog with Postdated check enabled, Maturity date, Check number, and Issuing bank fields](./images/process-post-dated-cheque-2.png)
 
 2. Enter cheque details
 
-   Click **Check details** (this button only becomes active when the Method of payment is set to Cheque). Enable the **Postdated check** toggle and complete the following:
+   Click **Check details** (⑨)(this button only becomes active when the Method of payment is set to Cheque). Enable the **Postdate check** toggle (⑩) and complete the following:
 
-   - **Maturity date** — enter the cheque maturity date.
-   - **Received date** — enter the date the cheque was received.
-   - **Check number** — enter the cheque number.
-   - **Cashier** — enter the name of the cashier who collected the cheque.
-   - **Issuing bank** — select the customer's bank.
+   - **Maturity date** (⑪) — enter the cheque maturity date.
+   - **Received date** (⑫) — enter the date the cheque was received.
+   - **Check number** (⑬) — enter the cheque number.
+   - **Cashier** (⑭) — enter the name of the cashier who collected the cheque.
+   - **Issuing bank** (⑮) — select the customer's bank.
 
    Click **OK**.
 
+   ![Process a Post-Dated Cheque — the Post receipt dialog with the Print receipt toggle](./images/process-post-dated-cheque-3.png)
+
 3. Post and deliver the receipt
 
-   Click **Post** on the Action Pane. Enable the **Print receipt** toggle and click **OK** to post the journal.
-
-![Process a Post-Dated Cheque — the Cashier receipt form with Cheque selected as the Method of payment and the Check details button visible](./images/process-post-dated-cheque-1.png)
-
-![Process a Post-Dated Cheque — the Check details dialog with Postdated check enabled, Maturity date, Check number, and Issuing bank fields](./images/process-post-dated-cheque-2.png)
-
-![Process a Post-Dated Cheque — the Post receipt dialog with the Print receipt toggle](./images/process-post-dated-cheque-3.png)
+   Click **Post** on the Action Pane (⑯). Enable the **Print receipt** toggle and click **OK** to post the journal.
