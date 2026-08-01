@@ -15,19 +15,19 @@ Used to record incoming payments not linked to a specific student invoice or cus
 
 1. Create the miscellaneous receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Miscellaneous receipt**. Click **+ Miscellaneous receipt** and complete the following:
+   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Miscellaneous receipt**. Click **+ Miscellaneous receipt** (③) and complete the following:
 
-   - **Received From** — enter the cashier or payer name.
-   - **Method of payment** — select the method. The **Payment account** populates automatically.
-   - **Amount** — enter the amount.
-   - **Payment reference** — enter a reference.
-   - **Fee type** — select from the dropdown. The **Account**, **Description**, and **Sales tax group** fields populate automatically.
-   - **Credit** — enter the amount in the Credit field.
+   - **Received From** (④) — enter the cashier or payer name.
+   - **Method of payment** (⑤) — select the method. The **Payment account** populates automatically.
+   - **Amount** (⑥) — enter the amount.
+   - **Payment reference** (⑦) — enter a reference.
+   - **Fee type** (⑧) — select from the dropdown. The **Account**, **Description**, and **Sales tax group** fields populate automatically.
+   - **Credit** (⑨) — enter the amount in the Credit field.
+
+   ![Process a Miscellaneous Receipt — the Miscellaneous receipt form with Received From, Method of payment, Amount, Fee type, and Credit fields](./images/process-miscellaneous-receipt-1.png)
+
+   ![Process a Miscellaneous Receipt — the Post button highlighted](./images/process-miscellaneous-receipt-2.png)
 
 2. Post and deliver the receipt
 
-   Click **Post**. Enable the **Print receipt** toggle if a printed receipt is required. Click **OK** to complete the transaction.
-
-![Process a Miscellaneous Receipt — the Miscellaneous receipt form with Received From, Method of payment, Amount, Fee type, and Credit fields](./images/process-miscellaneous-receipt-1.png)
-
-![Process a Miscellaneous Receipt — the Post receipt dialog with the Print receipt toggle](./images/process-miscellaneous-receipt-2.png)
+   Click **Post** (⑩). Enable the **Print receipt** toggle if a printed receipt is required. Click **OK** to complete the transaction.
