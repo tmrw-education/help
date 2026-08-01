@@ -11,16 +11,16 @@ video:
 
 # Process an Over-the-Counter Payment
 
-Over-the-counter payment processing is used when a fee payer makes a payment directly at the school.
+Over-the-counter payment processing is used when a fee payer pays directly at the school.
 
 1. Create the payment
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Over the counter payment**. Click **+ Create Customer Payment** in the Action Pane. Choose the **fee payer** from the list. Select the **payment method** (e.g., credit card or cash) from the **Method of payment** column. Enter the **amount being paid** and select the **payment account** where the funds will be deposited. Mark the invoices the payment should be applied to.
+   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Over the counter payment**. Click **+ Create Customer Payment** in the Action Pane. Choose the **Customer** ID from the list (④). Select the payment method (e.g., credit card or cash) from the **Method of payment** column (⑥). Enter the **Amount** being paid (⑦) and select the **payment account** where the funds will be deposited. **Mark** the invoices to which the payment should be applied (⑧).
 
    If the payment exceeds the invoice total, the system automatically checks the **Pay in Advance** box and records the extra amount as an advance.
+
+   ![Process an Over-the-Counter Payment — the Over the counter payment form with the fee payer selected, invoice marked, Method of payment, and Amount fields](./images/process-over-the-counter-payment-1.png)
 
 2. Post and deliver the receipt
 
    Click **Post** to finalise the entry. In the dialog, select your print and/or email receipt options and click **OK**.
-
-![Process an Over-the-Counter Payment — the Over the counter payment form with the fee payer selected, invoice marked, Method of payment, and Amount fields](./images/process-over-the-counter-payment-1.png)
