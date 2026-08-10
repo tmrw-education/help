@@ -20,10 +20,10 @@ There are two situations in which the Business team reviews a contract: after th
    
 3. Update and upload the contract
 
-   Add necessary changes, then download the latest contract by clicking **Download current version**. Then, upload the updated version in the **Attachment** tab under **Contract Version Upload**.
+   Add necessary changes, then download the latest contract by clicking **Download current version**. Then, upload the updated version in the **Attachment** tab under **Upload Contract**.
    
 4. Approve the contract
 
-   This forwards the contract to the assigned **Vendor** for their review.
+   This forwards the contract to the assigned **Vendor** for their review. After Vendor approval, the contract will move to CPO approval.
 
    > **Note:** The approval pathway remains blocked until the vendor approves the contract or requests changes to it. The negotiations occur on the platform.
