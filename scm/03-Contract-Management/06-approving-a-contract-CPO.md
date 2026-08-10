@@ -21,11 +21,13 @@ After the vendor approves the contract, the CPO is assigned for approval.
    
 3. Update and upload the contract
 
-   Add necessary changes, then download the latest contract by clicking **Download current version**. Upload the updated version in the **Attachment** tab under **Contract Version Upload**.
+   Add necessary changes, then download the latest contract by clicking **Download current version**. Upload the updated version in the **Attachment** tab under **Upload Contract**.
    
 4. Confirm risk and government compliance
 
    The CPO has an extra step to check **Risk Confirmation** and **Government compliance confirmation**.
+
+   ![CPO tab showing Risk confirmation and Government compliance confirmation](./images/create-a-new-contract-cpo-1.png)
    
 5. Submit the contract to the CEO
 
