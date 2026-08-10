@@ -25,10 +25,12 @@ The CEO review is the final step before signing a contract.
 3. Check execution compliance
 
    The CEO can check **Execution confirmation** before final contract approval. The process will move to the **Signed** step.
+
+   ![Checked Execution confirmation box in the CEO tab](./images/create-a-new-contract-ceo-1.png)
    
 4. Sign the contract
 
-   Upload the signed contract. Complete the **Signed date** field and mark the **Execution confirmation**.
+   Upload the signed contract. Complete the **Signed date** field.
    
 5. Mark as signed
 
