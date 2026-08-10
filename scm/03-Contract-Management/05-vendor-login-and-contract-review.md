@@ -27,9 +27,9 @@ The vendor can access the contract through the sign-in page. They will receive t
    
 4. Upload and submit the counteroffer or modified contract
 
-   Upload the updated contract under **Description of goods/service**. Add a comment, then click **Submit updated version**. This changes the progress status to **In negotiation**.
+   Upload the updated contract under **Upload Contract**. This changes the progress status to **In negotiation**.
 
-   > **Note:** You can access previous contract versions during negotiations by clicking **View version history**.
+   > **Note:** You can access previous contract versions during negotiations by clicking **View version history** in the top left corner.
 
    ![View contract version history](./images/vendor_login_and_contract_review_2.png)
    
