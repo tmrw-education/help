@@ -1,8 +1,8 @@
 ---
 id: create-a-new-contract-initiator
 summary:
-   - "Click **New Contract +**, complete basic information."
-   - "Generate a contract template in **Contract Specifics** and add a risk assessment."
+   - "Click **New Contract +**, complete basic contract information."
+   - "Upload the contract, add a risk assessment and update the **Applicable Mandatory Policy**."
    - "Select the contract manager and **Submit to Contract Manager**."
 keywords: [generate a contract, starting a contract, initiating a contract, contract initiator, contract management, new contract, creating a new contract]
 video:
@@ -16,7 +16,7 @@ Typically, the approval workflow starts with the contract **Initiator → Contra
 
 1. Create a New Contract
 
-   Click **New Contract +**. A panel across the top of the page shows the current stage of the contract approval.
+   Click **New Contract +**. A panel at the top of the page shows the current stage of the contract approval process.
 
    ![Panel showing the current stage of the contract approval process](./images/create_a_new_contract_1.png)
 
@@ -26,15 +26,15 @@ Typically, the approval workflow starts with the contract **Initiator → Contra
    
 4. Generate a contract document
 
-   Select a **Contract Template Type** in the **Contract Specifics** section. The contract template will fill in automatically. If additional sections are required, then click **Add another section +**. Then, at the bottom of the page, click **Generate contract document**. This will automatically download the contract.
+   Complete the fields in the **Basic contract information** tab.
 
-   ![Select a contract template from the dropdown menu](./images/create_a_new_contract_2.png)
-
-   ![Generate a contract document from the existing templates](./images/create_a_new_contract_3.png)
+   ![Complete the empty fields in Basic contract information](./images/create_a_new_contract_2.png)
    
-6. Attach Risk Assessment
+5. Attach Risk Assessment
 
-   Upload **Risk Assessment** documents and identify the risk level in the **Risk Category**.
+   Upload a copy of the contract and **Risk Assessment** documents and identify the risk level in the **Risk Category**. Here, you can also identify the **Applicable Mandatory Policy**.
+
+   ![The space to upload a contract copy and the Risk Assessment documents](./images/create_a_new_contract_3.png)
    
 7. Select the Contract Manager
 
