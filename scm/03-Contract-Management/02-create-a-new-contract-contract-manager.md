@@ -22,7 +22,7 @@ As the contract manager, you are assigned by the initiator after a contract is s
 
 3. Upload the updated Contract
 
-   Attach the modified or updated contract in the **Attachment** tab under **Contract Version Upload**.
+   Attach the modified or updated contract in the **Attachment** tab under **Upload Contract**.
    
 4. Identify and assign the next set of reviewers
    
@@ -31,3 +31,5 @@ As the contract manager, you are assigned by the initiator after a contract is s
 5. Approve and Submit
    
    Assign the next reviewer for the contract. Choose from the **Legal** or **Business** team, or bypass both and submit the contract directly to the **Vendor**.
+
+   ![Dropdown menu showing the options for which department should receive the contract](./images/create-a-new-contract-contract-manager-2.png)
