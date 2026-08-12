@@ -16,7 +16,7 @@ Once vendors have submitted their bids, you review all submissions side by side,
 
 1. Review submitted bids
 
-   In the **Projects** tab, open the sourcing project. Scroll down to the **Overview** step (on the left) to see every vendor the project was sent to and which have participated and submitted. Click **View quotations** to compare each vendor's submitted price and terms side by side.
+   In the **Projects** tab, open the sourcing project. Scroll down to the **Overview** step (on the left) to see every vendor the project was sent to and which have participated and submitted. There is a space to communicate with Vendors in the **Event Communication** tab. Click **View quotations** to compare each vendor's submitted price and terms side by side.
 
    ![The overview page showing each vendor and their submission status](./images/create-contract-1.png)
 
