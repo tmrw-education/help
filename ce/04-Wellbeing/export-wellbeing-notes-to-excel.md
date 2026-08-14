@@ -1,10 +1,11 @@
 ---
+draft: true
 id: export-wellbeing-notes-excel
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [track and manage a wellbeing note]
+  - "Filter the **Wellbeing notes** list down to the records you want."
+  - "Click **Export to Excel**."
+  - "Open the downloaded workbook to review or share the results."
+keywords: [export wellbeing notes, wellbeing notes to Excel, download wellbeing notes, wellbeing report, export filtered wellbeing notes, wellbeing data extract]
 video:
   youtube:
   bunny:
@@ -19,10 +20,28 @@ Role:    School Admin, Office Admin
 
 # Export wellbeing notes to Excel
 
-TODO — intro line.
+Exporting produces a workbook containing exactly the records currently shown by
+your filter — useful for reporting or for sharing a summary outside CE.
 
-1. TODO — step title
+1. Filter the list first
 
-   TODO — step detail. Bold the **exact on-screen label**.
+   Open **Wellbeing notes** and filter it down to what you need. For example,
+   click **Add row**, set **Wellbeing note type** equals Physical wellbeing, and
+   **Apply**. Only the matching notes remain on screen.
 
-   ![TODO — alt text describing the action](./images/export-wellbeing-notes-to-excel-1.png)
+   ![The wellbeing notes list filtered by wellbeing note type](./images/export-wellbeing-notes-to-excel-1.png)
+
+2. Export
+
+   Click **Export to Excel**. The workbook is built from the filtered view, not
+   from every note in the system.
+
+3. Open the workbook
+
+   Open the downloaded file to review the results before sending them on.
+
+   > **Note:** Wellbeing data is sensitive. Check who you are sending the
+   > workbook to — once it leaves CE it is outside the platform's access
+   > controls.
+
+   ![The exported workbook showing the filtered wellbeing notes](./images/export-wellbeing-notes-to-excel-2.png)

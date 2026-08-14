@@ -1,10 +1,11 @@
 ---
+draft: true
 id: add-comment-wellbeing-case
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [track and manage a wellbeing note]
+  - "Open the wellbeing case and scroll to the **Timeline**."
+  - "Click the **+** button and choose **Note**."
+  - "Type your comment and save it to the timeline."
+keywords: [comment on wellbeing case, add note to wellbeing case, wellbeing case timeline, record an update on a case, case notes wellbeing, log a comment on a case]
 video:
   youtube:
   bunny:
@@ -19,10 +20,26 @@ Role:    School Admin, Office Admin
 
 # Add a comment to a wellbeing case
 
-TODO — intro line.
+The case timeline is the running record of what has happened. Add a comment
+whenever you take an action, receive information, or hand the case on, so the
+next person has the full picture.
 
-1. TODO — step title
+1. Open the case timeline
 
-   TODO — step detail. Bold the **exact on-screen label**.
+   Open the wellbeing case and scroll to the **Timeline**.
 
-   ![TODO — alt text describing the action](./images/add-a-comment-to-a-wellbeing-case-1.png)
+2. Create the note
+
+   Click the **+** button on the timeline and choose **Note**.
+
+   ![The wellbeing case timeline with the add note option open](./images/add-a-comment-to-a-wellbeing-case-1.png)
+
+3. Write and save
+
+   Type your comment and save it. The note is added to the timeline
+   immediately, stamped with your name and the date.
+
+   > **Note:** Timeline entries cannot be deleted by most roles. Write comments
+   > as you would want them read back — they form part of the case record.
+
+   ![The comment added to the case timeline](./images/add-a-comment-to-a-wellbeing-case-2.png)

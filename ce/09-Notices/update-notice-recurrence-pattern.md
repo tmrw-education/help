@@ -1,10 +1,11 @@
 ---
+draft: true
 id: update-notice-recurrence-pattern
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [edit and manage a notice]
+  - "Open the notice and go to the recurrence section."
+  - "Change the **Monthly recurrence pattern** type or the day."
+  - "Save — future occurrences follow the new pattern."
+keywords: [change notice recurrence, edit recurring notice, update recurrence pattern, change repeat day notice, amend monthly notice]
 video:
   youtube:
   bunny:
@@ -19,10 +20,24 @@ Role:    Office Admin, School Admin
 
 # Update notice recurrence pattern
 
-TODO — intro line.
+Change when a recurring notice repeats without recreating it.
 
-1. TODO — step title
+1. Open the notice
 
-   TODO — step detail. Bold the **exact on-screen label**.
+   In the **Administration** app, open the **Service Management** area and go to
+**Communications**. Open the recurring notice you want to change.
 
-   ![TODO — alt text describing the action](./images/update-notice-recurrence-pattern-1.png)
+2. Change the pattern
+
+   In the recurrence section, switch the **Monthly recurrence pattern** between
+   **Same day pattern each month** and **New pattern each month**, or change the
+   day.
+
+   ![Changing the recurrence pattern on an existing notice](./images/update-notice-recurrence-pattern-1.png)
+
+3. Save
+
+   Save the notice. Future occurrences follow the new pattern.
+
+   > **Note:** Changing the pattern does not retrospectively change occurrences
+   > that have already surfaced.

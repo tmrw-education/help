@@ -1,4 +1,5 @@
 ---
+draft: true
 id: view-medical-detail-records-student-medical-profil
 summary:
   - "TODO — step 1 (bold the **button names**)."

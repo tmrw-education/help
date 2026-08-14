@@ -1,4 +1,5 @@
 ---
+draft: true
 id: assign-symptoms-72-options-across-8-categories-dur
 summary:
   - "TODO — step 1 (bold the **button names**)."

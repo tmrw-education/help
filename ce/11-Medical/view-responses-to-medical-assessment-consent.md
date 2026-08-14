@@ -1,4 +1,5 @@
 ---
+draft: true
 id: view-responses-medical-assessment-consent
 summary:
   - "TODO — step 1 (bold the **button names**)."

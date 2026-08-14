@@ -1,4 +1,5 @@
 ---
+draft: true
 id: auto-generate-certificate-when-milestone-reached
 summary:
   - "TODO — step 1 (bold the **button names**)."

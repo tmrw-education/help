@@ -1,4 +1,5 @@
 ---
+draft: true
 id: generate-teaching-schedules-imported-timetable-dat
 summary:
   - "TODO — step 1 (bold the **button names**)."

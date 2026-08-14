@@ -1,4 +1,5 @@
 ---
+draft: true
 id: import-timetable-weekly-pattern-untis-ce
 summary:
   - "TODO — step 1 (bold the **button names**)."

@@ -1,4 +1,5 @@
 ---
+draft: true
 id: it-admin-configures-daily-cut-off-time-gate-pass-s
 summary:
   - "TODO — step 1 (bold the **button names**)."

@@ -1,4 +1,5 @@
 ---
+draft: true
 id: receptionist-verifies-parent-s-passcode
 summary:
   - "TODO — step 1 (bold the **button names**)."

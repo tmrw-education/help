@@ -1,4 +1,5 @@
 ---
+draft: true
 id: sync-lessons-ce-untis
 summary:
   - "TODO — step 1 (bold the **button names**)."

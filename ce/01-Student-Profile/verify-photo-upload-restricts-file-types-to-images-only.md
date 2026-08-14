@@ -1,4 +1,5 @@
 ---
+draft: true
 id: verify-photo-upload-restricts-file-types-images-on
 summary:
   - "TODO — step 1 (bold the **button names**)."

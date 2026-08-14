@@ -1,4 +1,5 @@
 ---
+draft: true
 id: schedule-notice-draft-scheduled
 summary:
   - "TODO — step 1 (bold the **button names**)."

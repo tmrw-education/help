@@ -1,10 +1,11 @@
 ---
+draft: true
 id: update-existing-identity-document-contact
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [identity documents]
+  - "Open the student's **Contact** record and find the existing document."
+  - "Upload the replacement against the same document type."
+  - "Confirm the version increments and the earlier copy is retained."
+keywords: [update identity document, replace expired passport, renew visa document, document versioning SharePoint, expired document student]
 video:
   youtube:
   bunny:
@@ -17,12 +18,46 @@ Area:    CE
 Role:    Registrar, School Admin
 -->
 
-# Update an existing identity document on Contact — change expiry date or replace the file
+<!-- TODO — THIN SOURCE, UPDATE WHEN MORE INFORMATION IS AVAILABLE
+Written from: School, Parent & Student Profiles (16 Apr) 55:00-57:39.
+Gap: versioning behaviour is discussed at length and confirmed, but the update is
+NEVER PERFORMED on screen. No form, no navigation path, no field labels.
+IMPORTANT: the same SharePoint cross-school browsing issue applies here — see the
+note on the upload topic.
+Needs: a walkthrough of updating an existing document, once the SharePoint access
+issue is resolved.
+-->
 
-TODO — intro line.
+# Update an existing identity document on Contact
 
-1. TODO — step title
+When a passport or visa expires, the replacement is uploaded against the same
+document type. The earlier copy is kept as a previous version rather than being
+overwritten.
 
-   TODO — step detail. Bold the **exact on-screen label**.
+1. Open the contact
 
-   ![TODO — alt text describing the action](./images/update-an-existing-identity-document-on-contact-1.png)
+   Open the student's **Contact** record and find the existing document.
+
+2. Upload the replacement
+
+   Upload the new file against the **same document type**.
+
+   ![Uploading a replacement document against an existing document type](./images/update-an-existing-identity-document-on-contact-1.png)
+
+3. Update the values
+
+   Update the expiry date and any other detail that has changed.
+
+4. Confirm the version incremented
+
+   Check the document in SharePoint. The earlier copy is retained as version 1.0
+   and the replacement becomes 2.0.
+
+   > **Note:** Versioning is keyed on the **document type**, not on the file
+   > name. Two files with the same name under different document types are
+   > treated as separate documents; a new file under the same document type
+   > becomes a new version.
+
+   > **Note:** Parents are prompted in the Parent Experience Platform when a
+   > document is close to expiry. There is currently no report showing which
+   > families have responded and which have not.

@@ -1,10 +1,11 @@
 ---
+draft: true
 id: record-outcome-notify-parent-visit
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [medical centre visit]
+  - "Set the **Final outcome type** on the visit."
+  - "Add the **Final outcome note**."
+  - "Turn on the parent notification, write the message, and save."
+keywords: [record visit outcome, notify parent medical visit, send student home, hospital transfer student, return to class, parent notification medical]
 video:
   youtube:
   bunny:
@@ -19,10 +20,33 @@ Role:    Nurse / Wellbeing Officer
 
 # Record outcome and notify parent on a visit
 
-TODO — intro line.
+The outcome closes the visit and is what triggers the message to the parent.
 
-1. TODO — step title
+> **Note:** Medical centre records are restricted. Creating a visit record is
+> limited to medical centre staff; viewing is limited to medical centre staff and
+> the principal.
 
-   TODO — step detail. Bold the **exact on-screen label**.
+1. Set the outcome
 
-   ![TODO — alt text describing the action](./images/record-outcome-and-notify-parent-on-a-visit-1.png)
+   On the **Medical centre visit**, set the **Final outcome type**:
+
+   - **Return to class**
+   - **Send home**
+   - **Hospital transfer**
+
+   ![The final outcome type options on a visit](./images/record-outcome-and-notify-parent-on-a-visit-1.png)
+
+2. Add the outcome note
+
+   Write the **Final outcome note** explaining the decision.
+
+3. Notify the parent
+
+   Turn on the parent notification and write the message the parent will receive.
+
+4. Save
+
+   Save the visit.
+
+   > **Note:** Where the outcome is Send home, create a gate pass as well so the
+   > student is authorised to leave and the parent knows to collect them.

@@ -1,4 +1,5 @@
 ---
+draft: true
 id: auto-create-follow-up-case-consequence
 summary:
   - "TODO — step 1 (bold the **button names**)."

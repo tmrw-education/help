@@ -1,4 +1,5 @@
 ---
+draft: true
 id: view-all-behavior-categories
 summary:
   - "TODO — step 1 (bold the **button names**)."

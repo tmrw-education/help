@@ -1,10 +1,11 @@
 ---
+draft: true
 id: log-medication-administration
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [medication administration]
+  - "Open the visit and add a medication record."
+  - "Select the **Medicine type** and set the **Dose**, **Unit** and **Frequency**."
+  - "Add the start and end dates and the instruction, then save."
+keywords: [log medication, administer medication to student, medication dose record, medicine given at school, medication frequency instruction]
 video:
   youtube:
   bunny:
@@ -17,12 +18,39 @@ Area:    CE
 Role:    Nurse / Wellbeing Officer
 -->
 
-# Log medication administration — dose, time, and administering staff
+# Log medication administration
 
-TODO — intro line.
+Medication given to a student is recorded against the visit, so that the dose,
+the time and the staff member are all on the record.
 
-1. TODO — step title
+> **Note:** Medical centre records are restricted. Creating a visit record is
+> limited to medical centre staff; viewing is limited to medical centre staff and
+> the principal.
 
-   TODO — step detail. Bold the **exact on-screen label**.
+1. Open the medication section
 
-   ![TODO — alt text describing the action](./images/log-medication-administration-1.png)
+   Open the **Medical centre visit** and add a medication record.
+
+2. Select the medicine
+
+   Choose the **Medicine type** the medical centre is providing.
+
+3. Set the dose and frequency
+
+   Record:
+
+   - **Start date** and **End date** for the course of medication
+   - **Dose**
+   - **Medication unit** — for example capsule
+   - **Frequency**
+   - **Instruction**
+
+   ![The medication section on a visit showing dose, unit and frequency](./images/log-medication-administration-1.png)
+
+4. Save
+
+   Save the record against the visit.
+
+   > **Note:** Medication brought in by a parent for the school to administer is
+   > recorded the same way — see
+   > [Record medication received from parents](./record-medication-received-from-parents-for-school-administration.md).

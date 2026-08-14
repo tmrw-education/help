@@ -1,4 +1,5 @@
 ---
+draft: true
 id: admin-creates-gate-pass-request
 summary:
   - "TODO — step 1 (bold the **button names**)."

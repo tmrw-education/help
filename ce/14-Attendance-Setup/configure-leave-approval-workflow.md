@@ -1,4 +1,5 @@
 ---
+draft: true
 id: configure-leave-approval-workflow
 summary:
   - "TODO — step 1 (bold the **button names**)."

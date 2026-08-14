@@ -1,4 +1,5 @@
 ---
+draft: true
 id: configure-behavior-milestone-settings
 summary:
   - "TODO — step 1 (bold the **button names**)."

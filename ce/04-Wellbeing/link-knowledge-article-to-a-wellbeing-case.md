@@ -1,10 +1,11 @@
 ---
+draft: true
 id: link-knowledge-article-wellbeing-case
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [create and share a wellbeing note]
+  - "Open the wellbeing case you want to attach guidance to."
+  - "Find the **Knowledge articles** section and search for the article."
+  - "Select the article to link it to the case."
+keywords: [link knowledge article, attach knowledge base article to case, wellbeing guidance article, knowledge article wellbeing case, add guidance to a case]
 video:
   youtube:
   bunny:
@@ -19,10 +20,26 @@ Role:    School Admin, Office Admin
 
 # Link knowledge article to a wellbeing case
 
-TODO — intro line.
+Knowledge articles hold your school's standing guidance — safeguarding steps,
+escalation routes, referral criteria. Linking one to a case puts the right
+guidance in front of whoever picks the case up.
 
-1. TODO — step title
+1. Open the case
 
-   TODO — step detail. Bold the **exact on-screen label**.
+   From the wellbeing note, open the linked **wellbeing case**.
 
-   ![TODO — alt text describing the action](./images/link-knowledge-article-to-a-wellbeing-case-1.png)
+2. Search for the article
+
+   Go to the **Knowledge articles** section and search for the article you want.
+   Press Enter to run the search.
+
+   ![The wellbeing case with the knowledge article search open](./images/link-knowledge-article-to-a-wellbeing-case-1.png)
+
+3. Link it
+
+   Select the article. It is now attached to the case and visible to everyone
+   who can see the case.
+
+   > **Note:** Articles must already exist in the knowledge base before they can
+   > be linked. If the article you need is not there, it has to be authored
+   > first.

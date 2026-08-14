@@ -1,10 +1,11 @@
 ---
+draft: true
 id: toggle-medication-plan-fields-based-medication-req
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [medical detail]
+  - "Open the medical detail record."
+  - "Set **Is medication required** to Yes."
+  - "The medication plan fields appear — complete them and save."
+keywords: [medication required toggle, show medication plan fields, medication plan medical detail, conditional medication fields]
 video:
   youtube:
   bunny:
@@ -19,10 +20,27 @@ Role:    Nurse / Wellbeing Officer
 
 # Toggle Medication Plan fields based on 'Is Medication Required'
 
-TODO — intro line.
+The medication plan section only appears when the condition actually needs one.
+This keeps the form short for conditions that do not involve medication.
 
-1. TODO — step title
+1. Open the medical detail
 
-   TODO — step detail. Bold the **exact on-screen label**.
+   Open the student's medical detail record.
 
-   ![TODO — alt text describing the action](./images/toggle-medication-plan-fields-based-on-is-medication-required-1.png)
+2. Turn the toggle on
+
+   Set **Is medication required** to Yes. The medication plan fields appear.
+
+   ![A medical detail record with the medication plan fields revealed](./images/toggle-medication-plan-fields-based-on-is-medication-required-1.png)
+
+3. Complete the medication plan
+
+   Record the medication treatment for the condition.
+
+4. Save
+
+   Save the record.
+
+   > **Note:** Turning the toggle back to No hides the fields again. Check what
+   > happens to data already entered before you switch it off — see
+   > [Test conditional display](./test-conditional-display.md).

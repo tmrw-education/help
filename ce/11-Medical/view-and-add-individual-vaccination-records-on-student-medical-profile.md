@@ -1,4 +1,5 @@
 ---
+draft: true
 id: view-add-individual-vaccination-records-student-me
 summary:
   - "TODO — step 1 (bold the **button names**)."

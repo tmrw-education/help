@@ -1,10 +1,11 @@
 ---
+draft: true
 id: search-notices-by-title-or-keyword
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [view and search notices]
+  - "Open **Communications**."
+  - "Type the title or a keyword into the list search box."
+  - "Open the matching notice from the results."
+keywords: [search notices, find a notice by title, notice keyword search, look up a notice, search communications]
 video:
   youtube:
   bunny:
@@ -17,12 +18,36 @@ Area:    CE
 Role:    Office Admin, School Admin
 -->
 
+<!-- TODO — THIN SOURCE, UPDATE WHEN MORE INFORMATION IS AVAILABLE
+Written from: no direct source.
+Gap: searching the Communications list is not demonstrated in ANY recording.
+This page describes the standard list search behaviour and has been written so
+the topic is not left empty, but nothing here has been verified against the
+build — including whether search covers the notice content as well as the title.
+Needs: a short walkthrough of search on the Communications list. Treat this page
+as unverified until then.
+-->
+
 # Search notices by title or keyword
 
-TODO — intro line.
+Use search when you know roughly what the notice was called and want to get to it
+quickly.
 
-1. TODO — step title
+1. Open the list
 
-   TODO — step detail. Bold the **exact on-screen label**.
+   In the **Administration** app, open the **Service Management** area and go to
+**Communications**.
 
-   ![TODO — alt text describing the action](./images/search-notices-by-title-or-keyword-1.png)
+2. Search
+
+   Type the title or a keyword into the list search box and run the search.
+
+3. Open the result
+
+   Open the matching notice to check its detail — see
+   [View notice details](./view-notice-details.md).
+
+   ![Searching the Communications list by notice title](./images/search-notices-by-title-or-keyword-1.png)
+
+   > **Note:** If a search returns nothing, check you are not still filtered to a
+   > narrower set of records from a previous session.

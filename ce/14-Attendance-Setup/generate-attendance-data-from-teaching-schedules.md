@@ -1,4 +1,5 @@
 ---
+draft: true
 id: generate-attendance-data-teaching-schedules
 summary:
   - "TODO — step 1 (bold the **button names**)."

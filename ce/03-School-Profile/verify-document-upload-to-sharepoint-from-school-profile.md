@@ -1,4 +1,5 @@
 ---
+draft: true
 id: verify-document-upload-sharepoint-school-profile
 summary:
   - "TODO — step 1 (bold the **button names**)."

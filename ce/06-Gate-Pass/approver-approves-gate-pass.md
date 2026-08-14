@@ -1,4 +1,5 @@
 ---
+draft: true
 id: approver-approves-gate-pass
 summary:
   - "TODO — step 1 (bold the **button names**)."

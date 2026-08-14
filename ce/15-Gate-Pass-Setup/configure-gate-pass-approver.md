@@ -1,4 +1,5 @@
 ---
+draft: true
 id: configure-gate-pass-approver
 summary:
   - "TODO — step 1 (bold the **button names**)."

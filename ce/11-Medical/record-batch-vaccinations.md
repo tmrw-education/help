@@ -1,4 +1,5 @@
 ---
+draft: true
 id: record-batch-vaccinations
 summary:
   - "TODO — step 1 (bold the **button names**)."
