@@ -24,4 +24,4 @@ The ParentExperience Place (PxP) app uses the same email you use for GEMS commun
 
    Enter the email and password you use for all GEMS communications, then click **Sign in**.
 
-   **Note:** After signing in, a pop-up will ask if you wish to enable fingerprint sign-in.
+   > **Note:** After signing in, a pop-up will ask if you wish to enable fingerprint sign-in.
