@@ -20,13 +20,14 @@ video:
 
 2. Use the Navigation Bar
 
-   The **navigation bar** runs across the top of the app at all times. There is a hamburger menu (≡) on the left; here you can view **Notifications**, **Topics**, **Settings** and **GEMS Rewards**. You can change the app's theme to dark or light mode, or both. At the bottom of the hamburger menu is the log out icon. On the right of the **Navigation bar** is a **Notifications** bell icon.
+   The **navigation bar** runs across the top of the app at all times. A hamburger menu (≡) is on the left; here you can view **Notifications**, **Topics**, **Settings**, and **GEMS Rewards**. You can change the app's theme to dark or light mode, or both. At the bottom of the hamburger menu is the log out icon. On the right of the **Navigation bar** is a **Notifications** bell icon.
    
    ![The ParentExperience navigation bar showing the User hamburger menu and Notifications icon](./images/homescreen-2.png)
 
 3. Asking Nova Questions
 
-   Nova is the intelligent chat agent that will help you complete different tasks in the PxP app. The Nova chat runs across the base of the app on any screen. Click on the **Ask me anything** space to type, or click the **microphone icon** to ask about a task. Click the arrow icon to receive the instructions or support.
+   Nova is an intelligent chat agent that helps you complete different tasks in the PXP app. The Nova chat runs across the base of the app on any screen. Click on the **Ask me anything** space to type, or click the **microphone icon** to ask about a task. Click the arrow icon to receive instructions or support.
 
    ![The ParentExperience AI agent (Nova) support bar](./images/homescreen-3.png)
 
+   > **Note:** To return to the home page from any screen, click the **+** on the right.
