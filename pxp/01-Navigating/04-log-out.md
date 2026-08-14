@@ -10,16 +10,16 @@ video:
    bunny:
 ---
 
-# Log out of Parent Experience Place (PxP)
+# Log out of Parent Experience Place (PXP)
 
 1. Open the hamburger menu
 
-   At the top left of any screen in the app on the navigation bar, select the hamburger menu (≡).
+   At the top left of any screen in the app on the navigation bar, tap the hamburger menu (≡).
    
 3. Click Log out
 
    At the bottom of the menu, you will find the **Log out** button. Click it.
 
-   ![Log out of the PxP app](./images/log-out-pxp-1.png)
+   ![Log out of the PXP app](./images/log-out-pxp-1.png)
 
    > **Note:** A pop-up will appear asking you to confirm that you want to log out.
