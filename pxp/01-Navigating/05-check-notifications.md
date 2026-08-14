@@ -1,5 +1,5 @@
 ---
-id: notifications-pxp
+id: check-notifications-pxp
 summary:
    - "Tap the **Notifications** bell icon."
    - "Select the child's name (if you have more than one)."
@@ -22,6 +22,6 @@ video:
 
 3. Choose between Messages, Alerts or Favourites
 
-   You can select the **Messages**, **Alerts**, or **Favourites** tabs to view. Click the filter icon in the **navigation bar** to filter Notifications, as **All**, **Unread**, or **Read**. On the right, there is a circled checkmark, tapping this gives the option to mark all notifications as read.
+   You can select the **Messages**, **Alerts**, or **Favourites** tabs to view. Click the filter icon in the **navigation bar** to filter Notifications, as **All**, **Unread**, or **Read**. On the right, a circled checkmark lets you mark all notifications as read.
 
-   ![Notifications page showing different notification tabs](./images/notifications-pxp-1.png)
+   ![Notifications page showing different notification tabs](./images/check-notifications-pxp-1.png)
