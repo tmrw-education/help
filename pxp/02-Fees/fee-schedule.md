@@ -2,7 +2,7 @@
 id: fee-schedule-pxp
 summary:
    - "Click the **Fees** tile."
-   - "Select **Fees Schedule (current academic year)** from the prompts.
+   - "Select **Fees Schedule (current academic year)** from the prompts."
    - "Read the information provided."
 keywords: [fee schedule, fee timetable, fee dates, fees schedule, fees dates, fee due dates]
 video:
