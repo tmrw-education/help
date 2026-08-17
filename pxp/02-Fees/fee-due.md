@@ -16,4 +16,4 @@ The app connects to the school's finance system. You can view invoices with fees
 
 1. Select Fee Due from the Fees screen
 
-   Click the **Fees** tile on the home screen. Select the **Fee Due** prompt. The app will load your invoices from the school.
+   Click the **Fees** tile on the home screen. Select the **Fee Due** prompt. The app will load your invoices from the school for the current academic year.
