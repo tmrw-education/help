@@ -31,6 +31,9 @@ bar up top, or ask **Felix**, the in-app assistant.
   messages and alerts.
 - **[Student & parent profiles](./09-Profiles/01-find-student-profile.md)** —
   look up student and parent information.
+- **[Troubleshooting](./11-Troubleshooting.md)** — common problems and how to
+  resolve them.
+- **[Glossary](./12-Glossary.md)** — the terms used across StaffXP.
 
 ## New here?
 

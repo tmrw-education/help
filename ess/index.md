@@ -20,3 +20,5 @@ Use the sidebar to navigate by topic, or use the search bar to find what you nee
 - **HR Requests** — submitting requests and tracking their status
 - **Probation** — completing probation reviews (managers) and submitting your feedback (employees)
 - **Benefits** — viewing your benefits statement
+- **Troubleshooting** — common problems and how to resolve them
+- **Glossary** — the terms used across ESS

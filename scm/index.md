@@ -14,3 +14,5 @@ Use the sidebar to navigate by topic, or use the search bar to find a specific p
 - **Vendor Registration** — adding prospective vendors and the procurement/finance approval steps
 - **Contract Management** — creating, reviewing, and approving contracts through legal, business, CPO, and CEO sign-off
 - **eSourcing, Bidding, and Auction** — creating sourcing projects and contracts, and submitting bids
+- **Troubleshooting** — common problems and how to resolve them
+- **Glossary** — the terms used across Procurement XP

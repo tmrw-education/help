@@ -17,3 +17,7 @@ Use the sidebar to navigate by topic, or use the search bar to find a specific p
 - **HR Requests** — configuring request types and processing submitted requests
 - **Probation** — configuring parameters, running the review batch, and monitoring reviews
 - **Identification** — configuring mandatory attachment rules per document type
+- **Benefits** — configuring reward types for the ESS rewards statement
+- **Offboarding** — configuring the offboarding checklist and assigning it to leavers
+- **Troubleshooting** — common problems and how to resolve them
+- **Glossary** — the terms used across D365 HR
