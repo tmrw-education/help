@@ -24,6 +24,6 @@ If your child will arrive late to school or will be picked up early, you can sub
 
    > **Note:** The arrow to send the form only becomes active when all the fields are completed. 
 
-   > **Note:** You will receive a confirmation message when the form is successfully submitted. 
+   > **Note:** You will receive a confirmation message when you successfully submit the form. 
 
    ![Completed late/early notice form with the send arrow active](./images/attendance-notice-1.png) 
