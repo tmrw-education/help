@@ -27,4 +27,4 @@ video:
 
    The outstanding fees will automatically display in a table by child and amount due. You can pay the outstanding fees at this point. Below the table, you can either **Edit amounts** or **Proceed to payment**.
 
-   ![Options to proceed to payment or edit amounts for outstanding fees](./images/voew-outstanding-fees-2.png)
+   ![Options to proceed to payment or edit amounts for outstanding fees](./images/view-outstanding-fees-2.png)
