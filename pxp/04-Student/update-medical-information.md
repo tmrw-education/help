@@ -6,7 +6,7 @@ summary:
    - "Choose the child whose information you want to update."
    - "Press the **+** symbol in the top right to add new information."
 keywords: [new medical information, update medical information, update medical record, add medical records, new medical file]
-videos:
+video:
    youtube:
    bunny:
 ---
