@@ -4,16 +4,21 @@ summary:
    - "Click the **Student** tile."
    - "Select **Update Student Profile** from the prompts."
    - "Select the child's name from the list."
-keywords: [view student profile, view child's profile, child profile, school profile]
+   - "Update the information and share with the school."
+keywords: [update student profile, edit child's profile, child profile, school profile, information update]
 video:
    youtube:
    bunny:
 ---
 
-# View Student Profile
+# Update Student Profile
 
-The student profile is the information shared with the school; it includes details like date of birth and nationality.
+Use this feature if you need to update information you already shared with the school about your child.
 
-1. Select View Student Profile
+1. Select Update Student Profile
 
-   Click the **Student** tile from the home screen. Tap the **View Student Profile** prompt. Select your child's name from the list. Their profile will display automatically.
+   Click the **Student** tile from the home screen. Tap the **Update Student Profile** prompt. Select your child's name from the list. Their profile will display automatically.
+
+2. Update the details and share with the school
+
+   The fields in the profile can be edited. When you update them, the arrow at the top right activates. Click the arrow to save the updates.
