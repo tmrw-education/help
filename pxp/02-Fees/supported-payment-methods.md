@@ -18,4 +18,4 @@ The app provides information on the payment methods the school accepts.
 
    Select the **Fees** tile on the home screen. Then select **Supported payment methods** from the tabs. The information will display automatically. The information includes a note on the school office hours for in-person payments.
 
-![Table showing different supported payment methods at the school, including in-person office hours](./image/supported-payment-methods-1.png)
+![Table showing different supported payment methods at the school, including in-person office hours](./images/supported-payment-methods-1.png)
