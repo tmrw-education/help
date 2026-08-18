@@ -39,7 +39,7 @@ up.
 
    Identify who will act as emergency coordinator for the school. This person
    creates the emergency case, which is what switches the school into emergency
-   mode — see [Initiate Emergency](../07-Emergency-Attendance/initiate-emergency.md).
+   mode — see [Initiate Emergency](../05-Emergency-Attendance/initiate-emergency.md).
 
 2. Assign muster point coordinators
 

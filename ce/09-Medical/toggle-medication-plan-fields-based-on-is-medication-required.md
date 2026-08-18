@@ -42,5 +42,4 @@ This keeps the form short for conditions that do not involve medication.
    Save the record.
 
    > **Note:** Turning the toggle back to No hides the fields again. Check what
-   > happens to data already entered before you switch it off — see
-   > [Test conditional display](./test-conditional-display.md).
+   > happens to data already entered before you switch it off.

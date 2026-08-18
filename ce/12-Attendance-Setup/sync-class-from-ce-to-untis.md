@@ -1,6 +1,6 @@
 ---
 draft: true
-id: sync-lessons-ce-untis
+id: sync-class-ce-untis
 summary:
   - "TODO — step 1 (bold the **button names**)."
   - "TODO — step 2."
@@ -18,7 +18,7 @@ Area:    CE
 Role:    Timetable coordinator
 -->
 
-# Sync Lessons from CE to Untis
+# Sync Class from CE to Untis
 
 TODO — intro line.
 
@@ -26,4 +26,4 @@ TODO — intro line.
 
    TODO — step detail. Bold the **exact on-screen label**.
 
-   ![TODO — alt text describing the action](./images/sync-lessons-from-ce-to-untis-1.png)
+   ![TODO — alt text describing the action](./images/sync-class-from-ce-to-untis-1.png)

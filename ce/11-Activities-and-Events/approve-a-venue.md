@@ -56,4 +56,4 @@ A new venue has to be approved before it can be selected on an event.
 
    > **Note:** If approval requests are not reaching the right person, check the
    > approval matrix for that school and process type — see
-   > [Configure approval for venue](../20-Activities-and-Events-Setup/configure-approval-for-venue.md).
+   > [Configure approval for venue](../18-Activities-and-Events-Setup/configure-approval-for-venue.md).

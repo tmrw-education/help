@@ -1,6 +1,6 @@
 ---
 draft: true
-id: add-wellbeing-note-task
+id: add-wellbeing-case-task
 summary:
   - "Open the wellbeing case and go to **Activities**."
   - "Click **Task**, give it a **Subject**, and check the **Regarding** field."
@@ -18,7 +18,7 @@ Area:    CE
 Role:    School Admin, Office Admin
 -->
 
-# Add a wellbeing note task
+# Add a wellbeing case task
 
 Tasks are how follow-up work on a case gets assigned and tracked. Create one for
 each action that needs doing — a phone call home, a counsellor check-in, a
@@ -29,7 +29,7 @@ referral.
    From the wellbeing note, open the linked **wellbeing case**, then go to
    **Activities** and select **Task**.
 
-   ![The wellbeing case Activities tab with the Task option](./images/add-a-wellbeing-note-task-1.png)
+   ![The wellbeing case Activities tab with the Task option](./images/add-a-wellbeing-case-task-1.png)
 
 2. Describe the task
 
@@ -45,7 +45,7 @@ referral.
    > **Note:** Assigning the task to someone else does not move the case itself.
    > To hand over the whole case, change the case **Owner**.
 
-   ![The task form with owner and due date set](./images/add-a-wellbeing-note-task-2.png)
+   ![The task form with owner and due date set](./images/add-a-wellbeing-case-task-2.png)
 
 4. Save
 
