@@ -25,4 +25,4 @@ In cases where you need to add new medical information to your child's profile, 
 
    > **Note:** The arrow will only activate when all the fields in the form are complete.
 
-   |![New Medical Details form with the send arrow inactive top half](./images/create-medical-information-1.png)|![New Medical Details form lower half](./images/create-medical-information-2.png)|
+   ![New Medical Details form with the send arrow inactive top half](./images/create-medical-information-1.png)![New Medical Details form lower half](./images/create-medical-information-2.png)
