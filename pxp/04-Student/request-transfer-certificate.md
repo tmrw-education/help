@@ -23,4 +23,6 @@ When your child moves to a new school or campus, they will need a transfer certi
 
    The app will prompt you to complete a short form. Click **Request transfer certificate**. Complete the form and press the arrow in the top right of the screen. A success message appears after sending the form.
 
-   |![Transfer request form with the send arrow activated](./images/request-transfer-certificate-1.png)|![Transfer request form success message](./images/request-transfer-certificate-2.png)|
+   ![Transfer request form with the send arrow activated](./images/request-transfer-certificate-1.png)
+
+   ![Transfer request form success message](./images/request-transfer-certificate-2.png)
