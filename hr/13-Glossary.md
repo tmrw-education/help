@@ -9,7 +9,9 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | ABC Category | A classification on a worker's visa record that updates automatically based on the visa type selected. |
+| Accrual Type | How a leave type accrues — by **months of service** or **hours worked**. Set on the leave type alongside accrual amount, carry forward and minimum balance. |
 | Action Pane | The toolbar at the top of any D365 record. **Back**, **Save / Edit** and **New** are always present and stay anchored as you move between tabs and sections. |
+| Advance Notice Rule | A validation on a leave type pairing a consecutive-day trigger with a required notice period — for example, 14 or more days must be requested 40 days ahead. Enforced when the employee submits in ESS. |
 | Answers by Person | The form under **Questionnaire ▸ View and analyse results** used to retrieve an individual employee's questionnaire responses. Filter to the employee, then click **Answers** in the Action Pane. |
 | Apply Checklist | The button on a worker action or employee record used to attach an onboarding, pre-onboarding, or offboarding checklist and set its target date. |
 | Apply Onboarding Checklist | A flag on a personal action type that causes the nominated default onboarding checklist to be applied automatically when a worker action of that type completes. |
@@ -21,22 +23,27 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | Batch Process | A job that runs in the background to process records in bulk — used to generate probation reviews and offboarding questionnaires. Batches can be run manually or scheduled to run nightly. |
+| Bulk Request Time Off | The D365 form used to submit the same leave for many workers at once. Filterable by position type, department and staff category; the requests it creates are system generated and auto-approved. |
 | Business Segment | A grouping of schools or entities used to target questionnaire schedules and to segment employees in reporting. |
 
 ## C
 
 | Term | Definition |
 |---|---|
+| Cancellation Window | The parameter limiting how far back leave can be cancelled from ESS, measured from the leave start date rather than the submission date. Set per legal entity. |
 | Company | A legal entity in D365 — in practice, an individual school. Used to scope checklist tasks, user groups, and identification rules. |
 | Competency | An assessed area on a probation review template. The template defines which competencies are included and the rating model used. |
 | Component Master | The compensation setup form listing every pay and benefit component. The **Reward Type** field on each component determines whether and where it appears on the ESS rewards statement. |
 | Contract Type | An employment contract category — Full Time, Limited, Part Time — configured under Visa master and used when recording visa and employment information. |
+| Course Status | The employee's progress on a GEMSU course — not started, in progress, or completed. Sourced from GEMSU. |
+| Course Type | Whether a GEMSU course is mandatory or recommended. Drives the tag the employee sees in ESS. |
 
 ## D
 
 | Term | Definition |
 |---|---|
 | D365 | Microsoft Dynamics 365. The platform hosting the Human Resources module covered by this guide. |
+| Data Entity | An import structure used with Data management to load records into D365 from a file. The GEMSU course entity is used for cutover and historical course data. |
 | Default Category | Used with staff level to define a unique combination for probation configuration — for example, Teacher + Grade 1. Each combination has its own Stage 1 and Stage 2 review days and template. |
 | Delegation | A configured arrangement that routes a person's tasks to a nominated delegate. If a group's primary member has an active delegation, checklist tasks go to the delegate automatically. |
 | Dependency | A prerequisite relationship between checklist tasks. A dependent task stays locked in ESS until its prerequisites are complete, and the task detail view shows what is blocking it. |
@@ -60,6 +67,7 @@ Terms used across Dynamics 365 HR and this guide.
 |---|---|
 | Final Review Generated | A flag set to Yes on an employee record when the probation batch creates their Stage 2 review. |
 | Fixed Allowance | A reward type category for recurring fixed allowance components on the rewards statement. |
+| Full Entitlement at Once | A flag on a leave type forcing the whole grant to be taken as a single block. ESS calculates the end date from the start date and prevents the employee shortening it. |
 
 ## G
 
@@ -67,13 +75,18 @@ Terms used across Dynamics 365 HR and this guide.
 |---|---|
 | GCO | The group legal entity in which questionnaire schedules are typically created before being released to individual schools or across all companies. |
 | Gemsstatus | A status dropdown completed on the termination personnel action when offboarding an employee. |
+| GEMSU | The GEMS learning platform. Course assignments and completions flow from GEMSU into D365 through the GEMSU integration, and on into ESS for the employee. |
+| GEMSU Course Tracker | The list on an employee record showing their GEMSU courses with course status, course type, start date and date registered. Populated by the integration; not maintained by hand. |
+| GEMSU Integration Log | The log recording every message received from GEMSU, viewable per employee or across all employees, with the state of each record — successful import or error. The first place to check when course data is missing. |
 | Generate Probation Review | The batch process that scans employee records for upcoming probation dates and creates review records, routing them to the assigned manager. |
+| Grant Amount | The fixed entitlement in working days configured against a grant-based leave type — 60 days for maternity leave, for example. |
 
 ## H
 
 | Term | Definition |
 |---|---|
 | Header Setup | The area of a request type configuration where each field is set as **Visible** and/or **Mandatory** for the ESS submission form. |
+| Holidays and Closures | The calendar records holding announced public holidays. Moving a holiday here triggers automatic adjustment of every affected leave request in that legal entity. |
 | HR Discussion | A retention status indicating a retention conversation has been initiated with the employee. |
 | HR Notes | The field on an HR request where HR records their response. This text is what the employee sees on their completed request in ESS. |
 | HR Probation Reviews | The central form where HR views all probation reviews — in progress or complete — with ratings, comments, workflow status and outcome. |
@@ -86,6 +99,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | Identification Types | The setup form defining each document type (passport, Emirates ID, labour card, medical insurance and others), its mandatory fields, and whether an attachment is required. |
+| Integration Log | See **GEMSU Integration Log**. |
 | Intention Questionnaire | The survey asking employees whether they intend to leave. Yes responses populate the Employee Intention Survey Result form live. |
 
 ## K
@@ -99,6 +113,9 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | Labour Card | A work authorisation document recorded against an employee alongside their visa. Has its own status values and expiry monitoring. |
+| Leave and Absence Request Workflow | The legal-entity-specific workflow that routes leave requests. Its key condition auto-approves requests where the system generated leave flag is Yes. |
+| Leave Plan | A container grouping leave types. There is no limit on how many plans exist or how types are grouped, and each plan carries its own ESS visibility flag and enrolled worker list. |
+| Leave Type | An individual kind of leave within a plan, carrying its own accrual, eligibility, grant, certificate and advance notice configuration, plus its ESS visibility and sort order. |
 | Legal Entity | See **Company**. |
 | Living | A reward type category for living and accommodation-related allowances on the rewards statement. |
 
@@ -124,6 +141,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Offboarding Checklist | The set of tasks assigned to a leaving employee and the teams supporting their exit. Also the trigger the offboarding questionnaire batch looks for when generating exit surveys. |
 | Offset Date | The number of days *before* the target date by which a pre-onboarding task must be completed. Compare with **Due Date Offset from Start Date**, used by onboarding checklists. |
 | Onboarding Checklist | The set of tasks assigned to a new employee and supporting teams on joining. Applied automatically when a hire worker action completes, if configured in HR parameters and on the personal action type. |
+| Outside Probation Certificate Threshold | The field on a leave type setting how many days an absence can run before a confirmed employee must attach a medical certificate. Employees within probation must attach one from the first day. |
 
 ## P
 
@@ -164,9 +182,10 @@ Terms used across Dynamics 365 HR and this guide.
 
 | Term | Definition |
 |---|---|
-| Staff Level | An employee classification used with default category to determine probation review days and template. |
+| Staff Level | An employee classification driven by the position. Used with default category to determine probation review days and template, and on the staff level form it holds the calendar and the leave plans an employee is enrolled in per legal entity. |
 | Stage 1 Review | The first probation review, generated a configured number of days after the employee's start date. |
 | Stage 2 Review | The final probation review. Displays Stage 1 comments alongside Stage 2 for comparison, and carries the review outcome. |
+| System Generated Leave | A flag identifying a leave request raised by the system rather than by an employee — calendar adjustments and bulk submissions. The workflow condition uses it to auto-approve. |
 
 ## T
 
@@ -182,6 +201,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | UID Number | The unique identifier recorded on an employee's visa information and shown on expiring records lists. |
+| Update Leave and Absence Plan | The flag on a personnel action type that makes hire, transfer and promotion actions apply the leave plans configured against the staff level. Without it, the position changes but the enrolment does not. |
 | User Group | A set of employees assigned to checklist tasks together. When any member completes the task it is marked complete for all. Groups are scoped by legal entity. |
 
 ## V

@@ -2,12 +2,13 @@
 
 Terms used across the Employee Self-Service portal and this guide.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [V](#v)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [V](#v)
 
 ## A
 
 | Term | Definition |
 |---|---|
+| Advance Notice | A rule on some leave types requiring longer periods to be requested a set number of days ahead. Submitting inside the notice period returns an error naming both the day count and the notice required. |
 | Approval Delegation | An arrangement that hands your approval responsibilities to a colleague for a set date range — used when you are on leave. Must be enabled to take effect, and expires automatically at the end date. Offboarding checklist tasks also respect active delegations. |
 | Approvals Tab | The tab in the Tasks workspace listing items awaiting your review — identification, education, subject, professional experience and skill submissions from your direct reports. |
 
@@ -22,10 +23,12 @@ Terms used across the Employee Self-Service portal and this guide.
 
 | Term | Definition |
 |---|---|
+| Cancellation Window | The limit on how far back leave can be cancelled, measured from the leave's start date rather than the date you submitted it. Requests outside it return *Cancellation is not permitted*. |
 | Certificate Status | The state of a certification record: **Valid** (current), **Expiring** (approaching expiry), **Expired** (past expiry, renewal required), or **Invalid** (marked no longer valid). |
 | Children's Concessions | Tuition fee and transport concessions listed per child on the rewards statement, each shown with the student ID. |
 | Company Directory | The ESS area used to find any colleague's contact details, job title, department and location. Searchable by the colleague's name or by their reporting manager's name. |
 | Competency | An individual assessed area on a probation review. Each carries a manager rating, manager comments, and an employee comment field. |
+| Course Status | Where you have got to on a GEMSU course — **Not started**, **In progress**, or **Completed**. Set in GEMSU and carried into ESS by the integration. |
 
 ## D
 
@@ -56,6 +59,8 @@ Terms used across the Employee Self-Service portal and this guide.
 
 | Term | Definition |
 |---|---|
+| GEMSU | The GEMS learning platform. Courses assigned to you in GEMSU appear in ESS under Learning and Professional Development, so you can track your learning without leaving the portal. |
+| Grant-Based Leave | A leave type granted as a fixed entitlement that must be taken as one block — maternity leave, for example. You choose the start date and the system calculates the end date from the full grant. |
 | Gratuity | An end-of-service value shown on the Benefits tab, calculated from your payroll disbursement record. |
 
 ## H
@@ -74,11 +79,20 @@ Terms used across the Employee Self-Service portal and this guide.
 | In Review | The status of a submitted education record while it awaits HR approval. |
 | Intention Questionnaire | A survey distributed to specific employee groups — typically teaching staff — asking whether you intend to leave the organisation. A Yes response is what prompts HR to follow up. |
 
+## L
+
+| Term | Definition |
+|---|---|
+| Learning and Professional Development | The ESS home page tile that opens your GEMSU course list, showing courses in progress, not started and completed. |
+| Leave Plan | A group of leave types you are enrolled in. Enrolment comes from your position, so it updates when you change role. You only see the plans your school has made visible in ESS. |
+| Leave Type | The individual kind of leave within a plan — annual, casual, sick, maternity and so on. Determines the rules applied when you submit: reason codes, certificates, notice periods, and whether the entitlement must be taken in one block. |
+
 ## M
 
 | Term | Definition |
 |---|---|
 | Manager Comments | The field on a probation review where a manager records their assessment against each competency. An **Overall Manager Comments** field covers the summary. |
+| Mandatory Course | A GEMSU course you are required to complete. Shown with a **Mandatory** tag on your course list in ESS. |
 | Meets Expectations | A Stage 2 probation outcome. The review passes to the employee for their feedback and HR is notified at the same time. |
 | My Requests | The view listing every HR request you have submitted, with request numbers and current statuses. Reached from the Submit request tile. |
 | My Work | The ESS navigation area holding your Questionnaires. |
@@ -97,6 +111,7 @@ Terms used across the Employee Self-Service portal and this guide.
 | Offboarding Survey | The exit survey assigned as part of your offboarding checklist. After submitting it, you must also mark the associated checklist task complete. |
 | Onboarding Checklist | The set of tasks assigned to you automatically when you join. Each task carries a status — Open, In Progress, or Completed — and some are blocked by dependencies. |
 | Org Chart | A live visual of the organisation's reporting structure, drawn from Dynamics 365. Hover for a person's details, click to move to their part of the hierarchy. |
+| Overdue | A flag on a GEMSU course whose start date has passed. Use it to prioritise — an overdue mandatory course should be picked up first. |
 
 ## P
 
@@ -121,6 +136,9 @@ Terms used across the Employee Self-Service portal and this guide.
 
 | Term | Definition |
 |---|---|
+| Reason Code | The reason selected against a leave request — illness against sick leave, for example. Which codes are available depends on the leave type. |
+| Recommended Course | A GEMSU course suggested to you but not compulsory. Shown with a **Recommended** tag on your course list in ESS. |
+| Request Time Off | The ESS form used to submit a leave request — leave plan, leave type, reason code and dates. |
 | Rewards & Benefits | The ESS section holding your rewards statement and Benefits tab. |
 | Rewards Statement | A read-only personalised view of your total compensation — total reward, annual pay, benefits breakdown, variable pay, children's concessions, visa disbursements and bonuses. Maintained by HR and Finance. |
 
@@ -130,11 +148,13 @@ Terms used across the Employee Self-Service portal and this guide.
 |---|---|
 | Save as Draft | The option that preserves your progress through a questionnaire so you can return later. Sets the status to In Progress; resume with **Continue**. |
 | Screenings | The profile tab showing compliance and pre-employment checks assigned to you. Most records are read-only; only items HR has enabled for employee action can be updated. |
+| Sick Leave Certificate | The medical certificate required on a sick leave request. Needed for any request while you are within probation, and beyond a set number of days once you are confirmed. |
 | Skills & Performance | The ESS tile giving access to your skills, certificates, performance goals and — for managers — the team probation review queue. |
 | Stage 1 Review | The first probation review. Completed by your manager, then passed to you for feedback. |
 | Stage 2 Review | The final probation review. Displays Stage 1 ratings and comments alongside Stage 2 fields, and carries the review outcome. |
 | Subjects | The profile tab where you declare the subjects you are qualified in or available to teach. Submissions go through the approval workflow. |
 | Submit Request | The ESS tile used to raise HR requests and, via **My requests →**, to track them. |
+| System Generated Request | A leave request the system raised on your behalf after a calendar change. Flagged as system generated and approved automatically, so it never reaches your manager. |
 
 ## T
 
@@ -142,6 +162,7 @@ Terms used across the Employee Self-Service portal and this guide.
 |---|---|
 | Tasks | The ESS workspace holding your assigned checklist items (Tasks tab) and anything awaiting your approval (Approvals tab). |
 | Team Probation Review Requests | The manager queue under **Skills & performance ▸ Performance Management** listing probation reviews awaiting your assessment. |
+| Time Off Request | A submitted leave request. Listed with its status — In review, approved, cancelled or completed — under your time off requests. |
 | Total Reward | The combined value of your salary, benefits and variable pay, shown at the top of the rewards statement. |
 | Transport Request | A request for school transport for an approved dependent. Runs as an integration with Phoenix, which validates the student ID and school before the request proceeds. |
 | Tuition Fee Concession | A request for a tuition fee concession for a dependent child at a GEMS school. Only available where the dependent is approved and flagged as a full-time student, and only once per dependent. |

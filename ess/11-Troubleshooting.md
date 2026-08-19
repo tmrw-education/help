@@ -307,3 +307,95 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 **Cause** — Children's concessions appear on the statement per child once processed, including the student ID.
 
 **Fix** — Confirm the tuition fee or transport request has been submitted and approved. If it has and the concession still isn't showing, contact HR.
+
+---
+
+## Learning
+
+### I can't find my GEMSU courses
+
+**Cause** — GEMSU courses are surfaced through a tile on the ESS home page rather than a menu.
+
+**Fix** — Click the **Learning and Professional Development** tile on the home page. If the tile isn't there, contact HR to confirm your role and permissions.
+
+### A course I've completed in GEMSU still shows as in progress
+
+**Cause** — Course status reaches ESS through the integration with GEMSU, so there is a delay between finishing a course and the status updating.
+
+**Fix** — Allow time for the integration to run, then check again. If the status still hasn't changed, contact your HR team.
+
+### A course I've been assigned isn't showing in ESS
+
+**Cause** — The course hasn't come through from GEMSU.
+
+**Fix** — Confirm in GEMSU that the course is assigned to you. If it is and it still isn't in ESS, contact your HR team — they can check the integration log.
+
+### I don't know which courses I have to complete
+
+**Cause** — Not every assigned course is compulsory.
+
+**Fix** — Check the tag on each course. **Mandatory** courses are required; **Recommended** courses are optional. Anything flagged **Overdue** has passed its start date and should be picked up first.
+
+### I can't update or complete a course from ESS
+
+**Cause** — The ESS course list is a read-only view of your GEMSU record.
+
+**Fix** — Complete the course itself in GEMSU. Your progress flows back into ESS through the integration.
+
+---
+
+## Leave
+
+### The leave plan or leave type I want isn't in the list
+
+**Cause** — HR controls which plans and types are visible in ESS, and you only see the plans you are enrolled in.
+
+**Fix** — Your enrolment comes from your position, so it updates when you move roles. If a plan or type you expect is missing, contact your HR team.
+
+### I can't change the end date on my maternity leave request
+
+**Cause** — Grant-based leave types must be taken as one full block.
+
+**Fix** — Select your start date and let the system calculate the end date from the full grant. The block can't be shortened in ESS — speak to HR if you need a different arrangement.
+
+### My leave is longer than the days I requested
+
+**Cause** — Weekends and public holidays already in your calendar are skipped rather than deducted.
+
+**Fix** — No action needed. The greyed-out days on the request are the ones not being taken from your balance.
+
+### My request was rejected for advance notice
+
+**Cause** — Longer periods of some leave types have to be requested a set number of days ahead.
+
+**Fix** — The message names both figures — for example, requests of 14 days or more needing 40 days' notice. Either move your dates further out or shorten the request.
+
+### I see 'Please record at least one document' when submitting sick leave
+
+**Cause** — A medical certificate is required for this request.
+
+**Fix** — Attach the certificate and submit again. During probation a certificate is needed for any sick leave; once you're confirmed, it's only needed beyond the number of days set for your school.
+
+### I can't cancel an old leave request
+
+**Cause** — There is a limit on how far back leave can be cancelled, measured from the leave's start date rather than the date you submitted it.
+
+**Fix** — The message tells you how old the request is. Leave outside the window has to be reversed by your HR team.
+
+### A leave request appeared that I didn't submit
+
+**Cause** — A public holiday was announced or moved, and the system adjusted your leave for you.
+
+**Fix** — No action needed. These requests are flagged as system generated and approve automatically. See [Understand how calendar changes affect your leave](./10-Leave/05-understand-calendar-changes.md).
+
+### The number of days on my request changed
+
+**Cause** — A day inside your requested period was announced as a public holiday, so it was removed from the request.
+
+**Fix** — No action needed. The request keeps its original submission date and stays with your approver.
+
+### My leave balance has changed unexpectedly
+
+**Cause** — Balances update when a calendar change is applied, or when a request is approved or cancelled.
+
+**Fix** — Check your recent time off requests for a system-generated entry. If the balance still looks wrong, contact your HR team — they can see the full history against each request.

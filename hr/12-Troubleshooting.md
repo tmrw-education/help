@@ -329,3 +329,101 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 **Cause** — Task dates are calculated from the target date set when the checklist is applied.
 
 **Fix** — Set the **Target date** to match the termination end date entered on the personnel action. Individual task dates are then derived from each task's offset.
+
+---
+
+## Learning
+
+### An employee's GEMSU courses aren't showing on their record
+
+**Cause** — Nothing has been received from GEMSU for that employee, or the message failed to import.
+
+**Fix** — Open the **GEMSU integration log** for the employee. If there is no entry, confirm with the GEMSU team that the course was assigned at source. If there is an entry in an error state, raise it with the GEMSU team — the message arrived but couldn't be written to the course tables.
+
+### The employee says the course is complete but D365 shows it in progress
+
+**Cause** — The status update hasn't come through from GEMSU yet.
+
+**Fix** — Check the integration log for a more recent message against that employee. If the latest message imported successfully and still shows the old status, the source record in GEMSU hasn't been updated.
+
+### I can't edit a course record on the employee's tracker
+
+**Cause** — GEMSU course records are written by the integration and are not maintained by hand in D365.
+
+**Fix** — Correct the record in GEMSU and let it flow through, or load the correction through the GEMSU course data entity.
+
+### I need to see course status across the workforce, not one employee at a time
+
+**Cause** — The tracker on the employee record is scoped to that employee.
+
+**Fix** — Use the all-employee GEMSU course form and filter by course status or course type — for example, to list everyone with an outstanding mandatory course.
+
+### My Excel import of course data failed
+
+**Cause** — The most common reason is an employee ID in the file that doesn't match a personnel number in D365.
+
+**Fix** — Review the failed rows reported against the import project, correct the employee IDs and any field mapping, then re-run just the failures.
+
+### Historical course data from before go-live is missing
+
+**Cause** — The integration carries current course data; it does not backfill history.
+
+**Fix** — Load the historical records through the GEMSU course data entity. See [Import GEMSU course data manually](./10-Learning/03-import-gemsu-course-data.md).
+
+---
+
+## Leave
+
+### An employee can't see a leave plan in ESS
+
+**Cause** — Either the plan is hidden at header level, the leave type is restricted, or the employee isn't enrolled.
+
+**Fix** — Check the ESS visibility flag on the leave plan header, then the restriction on the individual leave type — either one hides the type on its own. If both are set correctly, check the employee's enrolment under **Leave and absence** on their record.
+
+### Leave types appear in the wrong order in ESS
+
+**Cause** — The dropdown follows the sort order set on each leave type.
+
+**Fix** — Set the **sort order** on the leave types so the most commonly requested appear first.
+
+### A new starter has no leave plans
+
+**Cause** — The hire action ran without the leave plan flag, or no plans are configured against their staff level.
+
+**Fix** — Check that the **personnel action type** has **Update leave and absence plan** set to **Yes**, and that the staff level for that position has leave plans assigned for the legal entity. Enabling the flag afterwards does not retrospectively enrol the employee — the enrolment has to be corrected separately.
+
+### A promoted employee kept their old leave plans
+
+**Cause** — A promotion adds the new staff level's plans alongside the existing enrolment; the old ones go when the previous position is retired.
+
+**Fix** — Retire the previous position if that is your process. Retiring the position also retires the plans attached to it.
+
+### Calendar-change requests are sitting in review instead of auto-approving
+
+**Cause** — The workflow has no condition on the system generated leave flag.
+
+**Fix** — Open the **Leave and absence request** workflow for that legal entity and add the condition that auto-approves requests where **system generated leave** is **Yes**. See [Configure the leave approval workflow](./11-Leave/02-configure-leave-approval-workflow.md).
+
+### I moved a holiday but the balance hasn't changed
+
+**Cause** — Balances recalculate when the system-generated request completes, not at the moment the holiday is moved.
+
+**Fix** — Wait for the adjustment requests to reach completed, then check the balance again as of a date after the change.
+
+### Bulk leave requests were created for the wrong staff
+
+**Cause** — The filters were cleared or **select all** was used on an unfiltered list.
+
+**Fix** — The requests are created and approved immediately, so they have to be cancelled individually. Filter by position type, department or staff category and confirm the selection before clicking **Assign leave**.
+
+### An employee is being asked for a medical certificate on a short absence
+
+**Cause** — They are still within probation, where a certificate is required from the first day.
+
+**Fix** — Check their probation status on their work history. The threshold on the leave type only applies once the employee is **Confirmed**.
+
+### An employee can't cancel leave they need reversed
+
+**Cause** — The leave falls outside the cancellation window, which is measured from the leave start date.
+
+**Fix** — Cancel it in D365 on their behalf, or adjust the parameter if the window is consistently too short for your schools.
