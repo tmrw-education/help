@@ -26,7 +26,7 @@ video:
 
 3. Asking Nova Questions
 
-   Nova is an intelligent chat agent that helps you complete different tasks in the PXP app. The Nova chat runs across the base of the app on any screen. Click on the **Ask me anything** space to type, or click the **microphone icon** to ask about a task. Click the arrow icon to receive instructions or support.
+   Nova is an intelligent chat agent that helps you complete different tasks in the PXP app. The Nova input box runs across the base of the app on any screen. Click on the **Ask me anything** space to type, or click the **microphone icon** to ask about a task. Click the arrow icon to receive instructions or support.
 
    ![The ParentExperience AI agent (Nova) support bar](./images/homescreen-3.png)
 
