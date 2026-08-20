@@ -4,7 +4,7 @@ summary:
   - "Click the **Events and Activities** tile."
   - "Select **Cancel event/activity registration** from the suggested prompts."
   - "Choose the child whose activities you want to check."
-keywords: [activity registration cancellation, cancelling activity attendance, withdrawing from an activity, cancel event registration, pull out of an activity, unregister from an activity or event]]
+keywords: [activity registration cancellation, cancelling activity attendance, withdrawing from an activity, cancel event registration, pull out of an activity, unregister from an activity or event]
 video:
   youtube:
   bunny:
