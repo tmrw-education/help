@@ -1,5 +1,5 @@
 ---
-id:view-exam-timetable-pxp
+id: view-exam-timetable-pxp
 summary:
    - "Click the **Timetable** tile."
    - "Select **View Exam Timetable** from the suggested prompts."
