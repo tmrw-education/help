@@ -16,4 +16,4 @@ Use this to cancel or withdraw your child from an activity or event they are alr
 
 1. Select Cancel event/activity registration from the suggested prompts
 
-   Click **Events and Activities** from the home screen tiles. Select **Cancel event/activity registration** from the suggested prompts. Choose the child whose events you want to see. The activities page will automatically load. Select the activity you wish to cancel registration or withdraw from.
+   Click **Events and Activities** from the home screen tiles. Select **Cancel event/activity registration** from the suggested prompts. Choose the child whose events you want to see. The activities page will automatically load. Select the activity you wish to cancel registration for or withdraw from.
