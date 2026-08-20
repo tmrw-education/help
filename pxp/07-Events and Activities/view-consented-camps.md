@@ -1,5 +1,5 @@
 ---
-id: view-consented-campss-pxp
+id: view-consented-camps-pxp
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **View consented camps** from the suggested prompts."
@@ -20,4 +20,4 @@ Use this page to search for upcoming camps that you have already consented to yo
 
    > **Note:** The app will ask if you want to view withdrawn activities, consented excursions or any events with RSVPs.
 
-   ![App giving feedback on consented camps, follow up prompts are also showing](./images/view-consented-excursions-1.png)
+   ![App giving feedback on consented camps, follow up prompts are also showing](./images/view-consented-camps-1.png)
