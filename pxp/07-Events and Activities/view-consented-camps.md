@@ -16,7 +16,7 @@ Use this page to search for upcoming camps that you have already consented to yo
 
 1. Select View consented camps from the suggested prompts
 
-   Click **Events and Activities** from the home screen tiles. Select **View consented camps** from the suggested prompts. Choose the child whose events you want to see. The app will notify you of any consented excursions (if any).
+   Click **Events and Activities** from the home screen tiles. Select **View consented camps** from the suggested prompts. Choose the child whose events you want to see. The app will notify you of any consented camps (if any).
 
    > **Note:** The app will ask if you want to view withdrawn activities, consented excursions or any events with RSVPs.
 
