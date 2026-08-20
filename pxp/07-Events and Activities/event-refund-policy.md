@@ -14,7 +14,7 @@ video:
 
 In the event that the activity is cancelled or your child is unable to attend an activity, you may be eligible for a refund. View the refund policy here.
 
-1. Select **Event Refund Policy** from the suggested prompts
+1. Select Event Refund Policy from the suggested prompts
 
    Click **Events and Activities** from the home screen tiles. Select **Event Refund Policy** from the suggested prompts. Choose the child whose events you want to see.
    
