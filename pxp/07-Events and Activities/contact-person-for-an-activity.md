@@ -14,6 +14,6 @@ video:
 
 Use this page to search for the member of staff heading a particular event or activity.
 
-1. Select **Contact Person for an Activity** from the suggested prompts
+1. Select Contact Person for an Activity from the suggested prompts
 
    Click **Events and Activities** from the home screen tiles. Select **Contact Person for an Activity** from the suggested prompts. Choose the child whose events you want to see. The activities page will automatically load.
