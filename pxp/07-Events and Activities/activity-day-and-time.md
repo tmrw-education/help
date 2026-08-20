@@ -14,6 +14,6 @@ video:
 
 Use this page to search for dates and times of the activities your child is enrolled in.
 
-1. Select **View Event** from the suggested prompts
+1. Select **Activity Day and Time** from the suggested prompts
 
    Click **Events and Activities** from the home screen tiles. Select **Activity Day and Time** from the suggested prompts. Choose the child whose events you want to see. The activities page will automatically load.
