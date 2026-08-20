@@ -7,7 +7,7 @@ summary:
 keywords: [newsletters and circulars, school communications, school newsletters, newsletter]
 video:
    youtube:
-bunny:
+   bunny:
 ---
 
 # Newsletters and Circulars
