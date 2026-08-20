@@ -1,13 +1,13 @@
 ---
 id: early-payment-discount-pxp
 summary:
-   - "Click **Fees** on the home screen."
-   - "Select **Early payment discount**."
-   - "Read the terms and conditions for the early payment discount."
+  - "Click **Fees** on the home screen."
+  - "Select **Early payment discount**."
+  - "Read the terms and conditions for the early payment discount."
 keywords: [early payment discount, payment discount, early payment benefits, early payment terms, discount]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Early Payment Discount

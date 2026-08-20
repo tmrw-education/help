@@ -1,13 +1,13 @@
 ---
 id: navigation-pxp
 summary:
-   - "The **navigation bar** runs across the top of the home screen."
-   - "Use the tiles to access different parts of the app."
-   - "There is a User hamburger menu on the left of the screen and a **Notifications** icon on the right."
+  - "The **navigation bar** runs across the top of the home screen."
+  - "Use the tiles to access different parts of the app."
+  - "There is a User hamburger menu on the left of the screen and a **Notifications** icon on the right."
 keywords: [navigate, navigation bar, finding your way around, menu, get around, tiles, toolbar, tool bar, home screen, nova, using nova]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Find Your Way Around

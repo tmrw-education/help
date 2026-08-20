@@ -1,13 +1,13 @@
 ---
 id: attendance-notice-pxp
 summary:
-   - "Click the **Attendance** tile."
-   - “Select **Attendance Notice** and the relevant child.” 
-   - “Complete and submit the **Submit late/early notice** form.” 
+  - "Click the **Attendance** tile."
+  - “Select **Attendance Notice** and the relevant child.” 
+  - “Complete and submit the **Submit late/early notice** form.” 
 keywords: [attendance notice, late arrival, early pickup, attendance update]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Attendance Notice

@@ -1,12 +1,12 @@
 ---
 id: view-my-profile-pxp
 summary:
-   - "Click the **Parent** tile."
-   - "Select **View My Profile** from the prompts."
+  - "Click the **Parent** tile."
+  - "Select **View My Profile** from the prompts."
 keywords: [view parent profile, view my profile, parent profile, parents profile]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View My Profile

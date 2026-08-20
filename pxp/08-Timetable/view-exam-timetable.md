@@ -1,13 +1,13 @@
 ---
 id: view-exam-timetable-pxp
 summary:
-   - "Click the **Timetable** tile."
-   - "Select **View Exam Timetable** from the suggested prompts."
-   - "Choose your child whose schedule you want to see."
+  - "Click the **Timetable** tile."
+  - "Select **View Exam Timetable** from the suggested prompts."
+  - "Choose your child whose schedule you want to see."
 keywords: [exam timetable, exam schedule, exams, exam, view exam timetable]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Exam Timetable

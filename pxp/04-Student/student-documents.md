@@ -1,13 +1,13 @@
 ---
 id: student-documents-pxp
 summary:
-   - "Click on the **Student** tile."
-   - "Select **Student Documents** from the prompts."
-   - "Choose your child whose documents you want to see."
+  - "Click on the **Student** tile."
+  - "Select **Student Documents** from the prompts."
+  - "Choose your child whose documents you want to see."
 keywords: [viewing student documents, updating student documents, student documents, student paperwork, student ID, student passport]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Student Documents

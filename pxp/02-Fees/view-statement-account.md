@@ -1,13 +1,13 @@
 ---
 id: view-statement-account-pxp
 summary:
-   - "Click **Fees** on the home screen."
-   - "Select **View Statement of Account**."
-   - "Select the child's statement you wish to view."
+  - "Click **Fees** on the home screen."
+  - "Select **View Statement of Account**."
+  - "Select the child's statement you wish to view."
 keywords: [account statement, view statements, view account statement, child's statement, child statement]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Statement of Account

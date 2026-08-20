@@ -1,13 +1,13 @@
 ---
 id: sibling-discount-pxp
 summary:
-   - "Click the **Fees** tile."
-   - "Select **Sibling Discount** from the prompts."
-   - "Select the child to see what discounts are applicable to your situation."
+  - "Click the **Fees** tile."
+  - "Select **Sibling Discount** from the prompts."
+  - "Select the child to see what discounts are applicable to your situation."
 keywords: [sibling discount, siblings, sibling rates, sibling offers, reduced prices for siblings]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Sibling Discount

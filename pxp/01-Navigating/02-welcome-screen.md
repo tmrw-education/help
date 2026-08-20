@@ -1,13 +1,13 @@
 ---
 id: welcome-screen-pxp
 summary:
-   - "Sign into the ParentExperience app, **Watch video**."
-   - "Or **Skip and get started**."
-   - "Click **Don't show video again** to start the app without going through this welcome screen."
+  - "Sign into the ParentExperience app, **Watch video**."
+  - "Or **Skip and get started**."
+  - "Click **Don't show video again** to start the app without going through this welcome screen."
 keywords: [welcome screen, pxp welcome, parent experience welcome, pxp video, GEMS app video, GEMS app welcome screen]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Welcome Screen

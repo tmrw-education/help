@@ -1,13 +1,13 @@
 ---
 id: sign-in
 summary:
-   - "Open ParentExperience Place app, click **log in**."
-   - "Use your GEMS email and password."
-   - "Click **sign in**."
+  - "Open ParentExperience Place app, click **log in**."
+  - "Use your GEMS email and password."
+  - "Click **sign in**."
 keywords: [sign in, log in, GEMS email, GEMS app sign in, GEMS app, PXP app, ParentExperience app, Parent app, parent xp, get in]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Sign in to Parent Experience Place (PXP)

@@ -1,13 +1,13 @@
 ---
 id: log-out-pxp
 summary:
-   - "Click the hamburger menu at the top left of the navigation bar."
-   - "Click **Log out**."
-   - "Confirm that you wish to log out."
+  - "Click the hamburger menu at the top left of the navigation bar."
+  - "Click **Log out**."
+  - "Confirm that you wish to log out."
 keywords: [log out, sign out, quit app, close app]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Log out of Parent Experience Place (PXP)

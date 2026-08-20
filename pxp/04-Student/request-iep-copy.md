@@ -1,13 +1,13 @@
 ---
 id: request-iep-copy-pxp
 summary:
-   - "Click **Student** from the home screen."
-   - "Select **Request copy IEP** from the prompts."
-   - "Choose the child whose IEP you want to see."
+  - "Click **Student** from the home screen."
+  - "Select **Request copy IEP** from the prompts."
+  - "Choose the child whose IEP you want to see."
 keywords: [IEP, child's IEP, copy of the IEP, view IEP]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Request an IEP Copy

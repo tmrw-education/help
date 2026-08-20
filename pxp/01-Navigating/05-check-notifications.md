@@ -1,13 +1,13 @@
 ---
 id: check-notifications-pxp
 summary:
-   - "Tap the **Notifications** bell icon."
-   - "Select the child's name (if you have more than one)."
-   - "Choose whether to view **Messages**, **Alerts** or **Favourites**."
+  - "Tap the **Notifications** bell icon."
+  - "Select the child's name (if you have more than one)."
+  - "Choose whether to view **Messages**, **Alerts** or **Favourites**."
 keywords: [notifications, notices, child updates, updates, app notices]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Check Notifications

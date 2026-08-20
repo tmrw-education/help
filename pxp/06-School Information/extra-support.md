@@ -1,13 +1,13 @@
 ---
 id: extra-support-pxp
 summary:
-   - "Click the **School Information** tile."
-   - Select **Extra Support** from the suggested prompts."
-   - "Choose the child who needs extra support."
+  - "Click the **School Information** tile."
+  - Select **Extra Support** from the suggested prompts."
+  - "Choose the child who needs extra support."
 keywords: [extra support, extra learning support, support with learning, additional learning support]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Extra Support

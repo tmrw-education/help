@@ -1,12 +1,12 @@
 ---
 id: school-time-pxp
 summary:
-   - "Click the **School Information** tile."
-   - "Select **School Time** from the prompts."
+  - "Click the **School Information** tile."
+  - "Select **School Time** from the prompts."
 keywords: [school time, school hours, alternate schedule hours, school timings, school timing]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # School Time

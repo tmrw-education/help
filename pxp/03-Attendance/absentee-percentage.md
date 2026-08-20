@@ -1,13 +1,13 @@
 ---
 id: absentee-percentage-pxp
 summary:
-   - "Click the **Attendance** tile."
-   - "Select **Absentee Percentage** from the prompts."
-   - "Select the child's attendance record."
+  - "Click the **Attendance** tile."
+  - "Select **Absentee Percentage** from the prompts."
+  - "Select the child's attendance record."
 keywords: [absentee percentage, amount of absences, absent days, child absence percentage, absences]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Absentee Percentage

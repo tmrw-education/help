@@ -1,13 +1,13 @@
 ---
 id: view-notices-pxp
 summary:
-   - "Click the **School Information** tile."
-   - "Select **View notice** from the suggested prompts."
-   - "Select between **All** notices and **Your Interests**."
+  - "Click the **School Information** tile."
+  - "Select **View notice** from the suggested prompts."
+  - "Select between **All** notices and **Your Interests**."
 keywords: [notices, my notices, notices for my children, my interests, view notices, see notices, notice]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Notices

@@ -1,12 +1,12 @@
 ---
 id: watch-welcome-video
 summary:
-   - "Type the prompt: **Show me the welcome video** into Nova."
-   - "Tap the **Welcome video** link."
+  - "Type the prompt: **Show me the welcome video** into Nova."
+  - "Tap the **Welcome video** link."
 keywords: [watch the welcome video, rewatch welcome video, find the welcome video, welcome video, app video]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Show Me the Welcome Video

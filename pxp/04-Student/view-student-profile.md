@@ -1,13 +1,13 @@
 ---
 id: view-student-profile-pxp
 summary:
-   - "Click the **Student** tile."
-   - "Select **View Student Profile** from the prompts."
-   - "Select the child's name from the list."
+  - "Click the **Student** tile."
+  - "Select **View Student Profile** from the prompts."
+  - "Select the child's name from the list."
 keywords: [view student profile, view child's profile, child profile, school profile]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Student Profile

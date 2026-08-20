@@ -1,13 +1,13 @@
 ---
 id: uniform-requirement-pxp
 summary:
-   - "Click the **School Information** tile."
-   - "Select the **Uniform Requirement** from the prompts."
-   - "Choose the child you want to see the uniform requirements for."
+  - "Click the **School Information** tile."
+  - "Select the **Uniform Requirement** from the prompts."
+  - "Choose the child you want to see the uniform requirements for."
 keywords: [uniform, uniform requirements, uniform rules, uniform guidelines]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Uniform Requirement

@@ -1,13 +1,13 @@
 ---
 id: teacher-list-pxp
 summary:
-   - "Click the **Timetable** tile."
-   - "Select **Teacher List** from the suggested prompts."
-   - "Select the child whose teachers you want to see."
+  - "Click the **Timetable** tile."
+  - "Select **Teacher List** from the suggested prompts."
+  - "Select the child whose teachers you want to see."
 keywords: [teacher list, list of teachers, my child's teachers, my kid's teachers]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Teacher List

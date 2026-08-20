@@ -1,13 +1,13 @@
 ---
 id: update-my-profile-pxp
 summary:
-   - "Click the **Parent** tile."
-   - "Select **Update My Profile** from the prompts."
-   - "Update the information and share with the school."
+  - "Click the **Parent** tile."
+  - "Select **Update My Profile** from the prompts."
+  - "Update the information and share with the school."
 keywords: [update parent profile, update my profile, edit parent profile, update parents profile]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Update My Profile

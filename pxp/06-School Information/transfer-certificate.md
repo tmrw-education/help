@@ -1,14 +1,14 @@
 ---
 id: transfer-certificate-pxp
 summary:
-   - "Select the **School Information** tile."
-   - "Click Transfer Certificate from the suggested prompts."
-   - "Choose the child you need the certificate for."
-   - "Complete the **Request transfer certificate** form."
+  - "Select the **School Information** tile."
+  - "Click Transfer Certificate from the suggested prompts."
+  - "Choose the child you need the certificate for."
+  - "Complete the **Request transfer certificate** form."
 keywords: [request transfer certificate, transfer certificate, transfer documents, school transfer papers]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Transfer Certificate

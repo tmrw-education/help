@@ -1,13 +1,13 @@
 ---
 id: view-event-pxp
 summary:
-   - "Click the **Events and Activities** tile."
-   - "Select **View Event** from the suggested prompts."
-   - "Choose the child whose activities you want to check."
+  - "Click the **Events and Activities** tile."
+  - "Select **View Event** from the suggested prompts."
+  - "Choose the child whose activities you want to check."
 keywords: [activities, excursions, events, camps, extra-curricular, ECAs, after-school activities, in-school activities, upcoming activities, current activities, past activities]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Event

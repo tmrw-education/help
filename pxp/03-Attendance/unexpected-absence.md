@@ -1,13 +1,13 @@
 ---
 id: unexpected-absence-pxp
 summary:
-   - “Click the **Attendance** tile on the home screen.” 
-   - “Click the **Unexpected Absence** prompt.” 
-   - “Complete and submit the **Open leave request form** for the appropriate child.” 
+  - “Click the **Attendance** tile on the home screen.” 
+  - “Click the **Unexpected Absence** prompt.” 
+  - “Complete and submit the **Open leave request form** for the appropriate child.” 
 keywords: [unexpected absence, unexpected leave, sudden absence, sudden leave, unplanned leave, unplanned absence]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Unexpected Absence

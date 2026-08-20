@@ -1,13 +1,13 @@
 ---
 id: fee-due-pxp
 summary:
-   - "Click **Fees** from the home screen."
-   - "Select **Fee Due** from the prompts."
-   - "View the invoice."
+  - "Click **Fees** from the home screen."
+  - "Select **Fee Due** from the prompts."
+  - "View the invoice."
 keywords: [fee invoice, fee due, when are fees due, school fee payment, due fees]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Fee Due

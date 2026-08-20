@@ -1,14 +1,14 @@
 ---
 id: create-medical-information-pxp
 summary:
-   - "Click the **Student** tile."
-   - "Select **Create medical information**."
-   - "Choose the child you need to add information for."
-   - "Complete the **New Medical Details** form."
+  - "Click the **Student** tile."
+  - "Select **Create medical information**."
+  - "Choose the child you need to add information for."
+  - "Complete the **New Medical Details** form."
 keywords: [new medical details, add new medical information, medical information, new medical details, adding new medical records, new medical record]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Create Medical Information

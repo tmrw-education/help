@@ -1,14 +1,14 @@
 ---
 id: someone-else-collects-my-child
 summary:
-   - "Click the **Attendance** tile."
-   - "Select **Someone Else to Collect My Child** from the prompts."
-   - "Select the child in question."
-   - "Complete the **Request pickup change** form."
+  - "Click the **Attendance** tile."
+  - "Select **Someone Else to Collect My Child** from the prompts."
+  - "Select the child in question."
+  - "Complete the **Request pickup change** form."
 keywords: [pickup change, pick up change, request pickup change, someone else to pickup my child, child collection change, changes to child pick up, child going home with someone else]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Someone Else to Collect My Child

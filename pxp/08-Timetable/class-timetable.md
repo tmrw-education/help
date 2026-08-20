@@ -1,13 +1,13 @@
 ---
 id: class-timetable-pxp
 summary:
-   - "Click the **Timetable** tile."
-   - "Select **View Class Timetable** from the suggested prompts."
-   - "Choose the child whose timetable you want to see."
+  - "Click the **Timetable** tile."
+  - "Select **View Class Timetable** from the suggested prompts."
+  - "Choose the child whose timetable you want to see."
 keywords: [class timetable, class schedule, timetable]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Class Timetable

@@ -1,14 +1,14 @@
 ---
 id: view-outstanding-fees-pxp
 summary:
-   - "Click the **Fees** tile."
-   - "Select **View Outstanding Fees** from the prompts."
-   - "Select your child's name from the dropdown menu."
-   - "Press the credit card icon to view the invoice and make a payment."
+  - "Click the **Fees** tile."
+  - "Select **View Outstanding Fees** from the prompts."
+  - "Select your child's name from the dropdown menu."
+  - "Press the credit card icon to view the invoice and make a payment."
 keywords: [view outstanding fees, pay outstanding fees, view fees, fee payment, overdue fees, unpaid fees]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Outstanding Fees

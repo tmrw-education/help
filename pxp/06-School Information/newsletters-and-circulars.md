@@ -1,13 +1,13 @@
 ---
 id: newsletters-circulars-pxp
 summary:
-   - "Click **School Information** from the home screen."
-   - "Select **Newsletters and Circulars** from the prompts."
-   - "Choose which child you wish to see the communications for."
+  - "Click **School Information** from the home screen."
+  - "Select **Newsletters and Circulars** from the prompts."
+  - "Choose which child you wish to see the communications for."
 keywords: [newsletters and circulars, school communications, school newsletters, newsletter]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Newsletters and Circulars

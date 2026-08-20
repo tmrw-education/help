@@ -1,12 +1,12 @@
 ---
 id: view-upcoming-tuition-fees-pxp
 summary:
-   - "Click **Fees** from the home screen."
-   - "Select **View Upcoming Tuition Fees** from the prompts."
+  - "Click **Fees** from the home screen."
+  - "Select **View Upcoming Tuition Fees** from the prompts."
 keywords: [upcoming fees, tuition fees, fees for next year]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Upcoming Tuition Fees

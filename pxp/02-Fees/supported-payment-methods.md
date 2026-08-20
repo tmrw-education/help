@@ -1,13 +1,13 @@
 ---
 id: supported-payment-methods-pxp
 summary:
-   - "Tap the **Fees** tile."
-   - "Select **Supported payment methods** from the prompts."
-   - "Read the guidelines and information for making payments to the school."
+  - "Tap the **Fees** tile."
+  - "Select **Supported payment methods** from the prompts."
+  - "Read the guidelines and information for making payments to the school."
 keywords: [supported payment methods, payment methods, types of payment, ways to pay, payment types, making payments, cash payments, credit card payments, cheque payments, check payments]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Supported Payment Methods

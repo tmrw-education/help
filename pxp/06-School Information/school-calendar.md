@@ -1,13 +1,13 @@
 ---
 id: school-calendar-pxp
 summary:
-   - "Click the **School Information** tile on the home screen."
-   - "Select **School Calendar** from the suggested prompts."
-   - "Select your child from the list to view their calendar."
+  - "Click the **School Information** tile on the home screen."
+  - "Select **School Calendar** from the suggested prompts."
+  - "Select your child from the list to view their calendar."
 keywords: [school calendar, school dates, term dates]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # School Calendar

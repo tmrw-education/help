@@ -1,14 +1,14 @@
 ---
 id: update-medical-information-pxp
 summary:
-   - "Click the **Student** tile."
-   - "Select **Update medical information** from the prompts."
-   - "Choose the child whose information you want to update."
-   - "Press the **+** symbol in the top right to add new information."
+  - "Click the **Student** tile."
+  - "Select **Update medical information** from the prompts."
+  - "Choose the child whose information you want to update."
+  - "Press the **+** symbol in the top right to add new information."
 keywords: [new medical information, update medical information, update medical record, add medical records, new medical file]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Update Medical Information

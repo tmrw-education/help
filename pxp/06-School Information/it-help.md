@@ -1,14 +1,14 @@
 ---
 id: it-help-pxp
 summary:
-   - "Click the **School Information** tile."
-   - "Select **IT Help** from the prompts."
-   - "Choose the child who needs IT support."
-   - "Follow the steps."
+  - "Click the **School Information** tile."
+  - "Select **IT Help** from the prompts."
+  - "Choose the child who needs IT support."
+  - "Follow the steps."
 keywords: [IT support, IT help, IT helpdesk, IT help desk]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # IT Help

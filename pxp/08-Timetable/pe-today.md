@@ -1,13 +1,13 @@
 ---
 id: pe-today-pxp
 summary:
-   - "Select the **Timetable** tile."
-   - "Click **PE Today** from the suggested prompts."
-   - "Choose which child you want to check for PE today."
+  - "Select the **Timetable** tile."
+  - "Click **PE Today** from the suggested prompts."
+  - "Choose which child you want to check for PE today."
 keywords: [pe today, pe schedule, sport schedule, sport today, sport kit, pe kit]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # PE Today

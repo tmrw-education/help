@@ -1,14 +1,14 @@
 ---
 id: days-absent-pxp
 summary:
-   - "Click the **Attendance** tile."
-   - "Select **Days Absent** from the suggested prompts."
-   - "Choose the child's record you want to see."
-   - "Identify the time frame of absence you wish to review."
+  - "Click the **Attendance** tile."
+  - "Select **Days Absent** from the suggested prompts."
+  - "Choose the child's record you want to see."
+  - "Identify the time frame of absence you wish to review."
 keywords: [days absent, number of absent days, missing days, sick leave days, absence, days of absence, absent days]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Days Absent

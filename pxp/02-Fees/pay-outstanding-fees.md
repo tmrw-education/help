@@ -1,13 +1,13 @@
 ---
 id: pay-outstanding-fees
 summary:
-   - "Click the **Fees** tile."
-   - "Click the **Pay outstanding fees** prompt bubble."
-   - "Say a prayer"
+  - "Click the **Fees** tile."
+  - "Click the **Pay outstanding fees** prompt bubble."
+  - "Say a prayer"
 keywords: [pay fees, pay outstanding fees, pay overdue fees, school fees]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Pay Outstanding Fees

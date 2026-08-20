@@ -1,13 +1,13 @@
 ---
 id: school-policy-pxp
 summary:
-   - "Select the **School Information** tile."
-   - "Tap the **School Policy** prompt."
-   - "Select your child from the list to see the relevant school policy."
+  - "Select the **School Information** tile."
+  - "Tap the **School Policy** prompt."
+  - "Select your child from the list to see the relevant school policy."
 keywords: [school policy, school policies, policies, policy]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # School Policy

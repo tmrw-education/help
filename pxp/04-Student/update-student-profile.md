@@ -1,14 +1,14 @@
 ---
 id: update-student-profile-pxp
 summary:
-   - "Click the **Student** tile."
-   - "Select **Update Student Profile** from the prompts."
-   - "Select the child's name from the list."
-   - "Update the information and share with the school."
+  - "Click the **Student** tile."
+  - "Select **Update Student Profile** from the prompts."
+  - "Select the child's name from the list."
+  - "Update the information and share with the school."
 keywords: [update student profile, edit child's profile, child profile, school profile, information update]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # Update Student Profile

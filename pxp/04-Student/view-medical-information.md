@@ -1,13 +1,13 @@
 ---
 id: view-medical-information-pxp
 summary:
-   - "Click **Student** from the home screen."
-   - "Select **View Medical Information** from the prompts."
-   - "Choose the child whose medical profile you want to view."
+  - "Click **Student** from the home screen."
+  - "Select **View Medical Information** from the prompts."
+  - "Choose the child whose medical profile you want to view."
 keywords: [view medical profile, view medical details, medical history, child's medical profile, medical profile]
 video:
-   youtube:
-   bunny:
+  youtube:
+  bunny:
 ---
 
 # View Medical Information
