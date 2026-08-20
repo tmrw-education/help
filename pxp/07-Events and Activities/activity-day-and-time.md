@@ -12,7 +12,7 @@ video:
 
 # Activity Day and Time
 
-Use this page to search for upcoming and current activities your child is enrolled in.
+Use this page to search for dates and times of the activities your child is enrolled in.
 
 1. Select **View Event** from the suggested prompts
 
