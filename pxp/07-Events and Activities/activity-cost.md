@@ -14,6 +14,6 @@ video:
 
 Use this page to search for the cost of upcoming activities your child is interested in enrolling in.
 
-1. Select **Activity Cost** from the suggested prompts
+1. Select Activity Cost from the suggested prompts
 
    Click **Events and Activities** from the home screen tiles. Select **Activity Cost** from the suggested prompts. Follow the prompts to prepare an enquiry in the app about activity costs. The app will automatically send your enquiry to the relevant parties.
