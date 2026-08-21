@@ -41,7 +41,7 @@ The GEMSU integration writes GEMSU course data into D365, giving HR a view of wh
 
 4. Review courses across all employees
 
-   To review learning across the workforce rather than one person at a time, open the all-employee GEMSU course form. **Human Resources ▸ Courses ▸ GemsU Courses** It shows the same course lines for every employee, so you can filter by course status or course type to find, for example, everyone with an outstanding mandatory course.
+   To review learning across the workforce rather than one person at a time, open the all-employee GEMSU course form. **Human Resources ▸ Courses ▸ GemsU Courses**. It shows the same course lines for every employee, so you can filter by course status or course type to find, for example, everyone with an outstanding mandatory course. Similarly, check the GEMSU integration log (**HR integration ▸ Inbound ▸ GemsU courses integration Log**).
 
    ![The all-employee GEMSU course form in D365 showing course lines across multiple employees](./images/view-gemsu-courses-for-an-employee-2.png)
 
