@@ -2,7 +2,7 @@
 id: attach-a-medical-certificate
 summary:
   - "Sick leave requests may require a medical certificate before you can submit."
-  - "During probation a certificate is required from the first day; once confirmed, it is only required beyond a set number of days."
+  - "During probation, a certificate is required from the first day; once confirmed, it is only required beyond a set number of days."
   - "Upload the document to the request, then click **Submit**."
 keywords: [sick leave, medical certificate, attachment, supporting document, probation, certificate threshold, record at least one document, leave request, ESS]
 video:
@@ -12,7 +12,7 @@ video:
 
 # Attach a medical certificate to a sick leave request
 
-Sick leave often needs a supporting medical certificate. Whether one is required depends on your probation status and the length of the absence — the system checks this when you submit and tells you if a document is missing.
+Sick leave often needs a supporting medical certificate. Whether you need one depends on your probation status and the length of the absence — the system checks this when you submit and tells you if a document is missing.
 
 1. Start your sick leave request
 
