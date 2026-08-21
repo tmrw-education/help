@@ -1,7 +1,7 @@
 ---
 id: view-your-gemsu-courses
 summary:
-  - "From the ESS home page, click the **Learning and Professional Development** tile to open your GEMSU courses."
+  - "From the ESS home page, click the **GEMSU courses** tile to open your GEMSU courses."
   - "Review your **In progress**, **Not started** and **Completed** courses, each tagged **Mandatory** or **Recommended**."
   - "Check the **Overdue** flag for any course whose start date has passed."
 keywords: [GEMSU, courses, learning, professional development, training, mandatory course, recommended course, in progress, not started, completed, overdue, course status, ESS]
@@ -16,7 +16,7 @@ Your GEMSU learning is surfaced directly in ESS, so you don't need to go into GE
 
 1. Open your courses
 
-   From the ESS home page, click the **Learning and Professional Development** tile. This opens your GEMSU course list.
+   From the ESS home page, click the **GEMSU courses** tile. This opens your GEMSU course list.
 
    ![The ESS home page with the Learning and Professional Development tile highlighted](./images/view-your-gemsu-courses-1.png)
 
@@ -26,7 +26,7 @@ Your GEMSU learning is surfaced directly in ESS, so you don't need to go into GE
 
    Courses you have opened show as **In progress**. Courses assigned to you but not yet opened show as **Not started**.
 
-   ![The GEMSU course list in ESS showing in progress and not started courses with Mandatory and Recommended tags](./images/view-your-gemsu-courses-2.png)
+   ![The GEMSU course list in ESS showing the GEMSU courses active tab](./images/view-your-gemsu-courses-2.png)
 
 3. Check for overdue courses
 
