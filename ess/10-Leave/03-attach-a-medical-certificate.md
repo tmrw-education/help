@@ -24,9 +24,9 @@ Sick leave often needs a supporting medical certificate. Whether one is required
 
 3. Submit and check for the attachment prompt
 
-   Click **Submit**. If a certificate is needed, the request is not accepted and you see the notification *Please record at least one document*.
+   Click **Submit**. If a certificate is needed, the request is not accepted, and you see the notification *Please review the form and ensure all mandatory information have been met before processing*.
 
-   ![The ESS sick leave request showing the 'Please record at least one document' notification](./images/attach-a-medical-certificate-1.png)
+   ![The ESS sick leave request showing the 'Review the form' notification](./images/attach-a-medical-certificate-1.png)
 
    When this appears depends on your status:
 
@@ -41,6 +41,6 @@ Sick leave often needs a supporting medical certificate. Whether one is required
 
 5. Submit again
 
-   Click **Submit**. With the document attached the request is accepted and routed for approval as normal.
+   Click **Submit**. With the document attached, the request is accepted and routed for approval as normal.
 
-   The same rule can be applied to other leave types, not just sick leave. If you are unsure whether a certificate is needed, submit the request — the system tells you if one is missing before it accepts it.
+   The same rule applies to other leave types, not just sick leave. If you are unsure whether a certificate is needed, submit the request — the system tells you if one is missing before it accepts it.
