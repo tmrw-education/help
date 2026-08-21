@@ -23,7 +23,7 @@ ESS is built around a home page of tiles. Click any tile to go directly to that 
    | **My Profile** | Your personal details, identification, contacts, payment information, skills, and certifications |
    | **Tasks/Onboarding** | Checklists of tasks assigned to you |
    | **Submit request** | Submit request items to HR |
-   | **Learning and Professional Development** | Lists of courses overdue, due soon or assigned courses |
+   | **Courses** and **GEMSU courses** | Lists of courses overdue, due soon or assigned courses |
    | **Company Directory** | Search for colleagues by name or reporting manager |
    | **Org chart** | Visual view of your team structure and reporting lines |
 
