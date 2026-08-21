@@ -26,7 +26,7 @@ You can cancel leave you no longer intend to take, and the days go back to your 
 
 3. Add a comment
 
-   Record why you are cancelling — for example, *No longer taking this leave, please cancel*. The comment goes to your approver with the cancellation.
+   Depending on the leave type and duration, you may have to record why you are cancelling — for example, *No longer taking this leave, please cancel*. Your approver receives the comment with the cancellation.
 
 4. Submit the cancellation
 
@@ -36,4 +36,4 @@ You can cancel leave you no longer intend to take, and the days go back to your 
 
    If the leave is too old to cancel, you see a message such as *Cancellation is not permitted because this request is 16 days old*, and the request stays as it is.
 
-   The window is measured from the **start date of the leave**, not from the date you submitted it, and the number of days is set by your school. If you need leave outside the window reversed, contact your HR team.
+   The window is measured from the **start date of the leave**, not from the date you submitted it, and the number of days is set by your school. If you need to reverse leave outside the window, contact your HR team.
