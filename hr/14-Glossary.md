@@ -12,6 +12,9 @@ Terms used across Dynamics 365 HR and this guide.
 | Accrual Type | How a leave type accrues — by **months of service** or **hours worked**. Set on the leave type alongside accrual amount, carry forward and minimum balance. |
 | Action Pane | The toolbar at the top of any D365 record. **Back**, **Save / Edit** and **New** are always present and stay anchored as you move between tabs and sections. |
 | Advance Notice Rule | A validation on a leave type pairing a consecutive-day trigger with a required notice period — for example, 14 or more days must be requested 40 days ahead. Enforced when the employee submits in ESS. |
+| Age Group Setup | The form under **Human Resources ▸ Setup** defining the age bands — infant, child, adult — and the from and to ages of each. A dependent's birth date is matched against the bands to decide which fare they attract. |
+| Air Ticket Location | The **from** and **to** fields on an employee's profile identifying the route their airfare entitlement is based on. The values must match the From city and To city on a record in the airfare setup. |
+| Airfare Setup | The fare table holding the amount per age group for a route, ticket class and ticket type, per legal entity, over a defined period. Loaded in bulk through a data entity when Travel release the year's fares. |
 | Answers by Person | The form under **Questionnaire ▸ View and analyse results** used to retrieve an individual employee's questionnaire responses. Filter to the employee, then click **Answers** in the Action Pane. |
 | Apply Checklist | The button on a worker action or employee record used to attach an onboarding, pre-onboarding, or offboarding checklist and set its target date. |
 | Apply Onboarding Checklist | A flag on a personal action type that causes the nominated default onboarding checklist to be applied automatically when a worker action of that type completes. |
@@ -30,6 +33,7 @@ Terms used across Dynamics 365 HR and this guide.
 
 | Term | Definition |
 |---|---|
+| Calculated Airfare | The disbursement form holding the output of the airfare calculation — one line for the employee and one per dependent, for the period the batch was run for. Lines are deleted and rebuilt to recalculate. |
 | Cancellation Window | The parameter limiting how far back leave can be cancelled from ESS, measured from the leave start date rather than the submission date. Set per legal entity. |
 | Company | A legal entity in D365 — in practice, an individual school. Used to scope checklist tasks, user groups, and identification rules. |
 | Competency | An assessed area on a probation review template. The template defines which competencies are included and the rating model used. |
@@ -43,7 +47,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | D365 | Microsoft Dynamics 365. The platform hosting the Human Resources module covered by this guide. |
-| Data Entity | An import structure used with Data management to load records into D365 from a file. The GEMSU course entity is used for cutover and historical course data. |
+| Data Entity | An import structure used with Data management to load records into D365 from a file. The GEMSU course entity is used for cutover and historical course data; the airfare setup entity is used to load the year's fares in bulk. |
 | Default Category | Used with staff level to define a unique combination for probation configuration — for example, Teacher + Grade 1. Each combination has its own Stage 1 and Stage 2 review days and template. |
 | Delegation | A configured arrangement that routes a person's tasks to a nominated delegate. If a group's primary member has an active delegation, checklist tasks go to the delegate automatically. |
 | Dependency | A prerequisite relationship between checklist tasks. A dependent task stays locked in ESS until its prerequisites are complete, and the task detail view shows what is blocking it. |
@@ -67,6 +71,7 @@ Terms used across Dynamics 365 HR and this guide.
 |---|---|
 | Final Review Generated | A flag set to Yes on an employee record when the probation batch creates their Stage 2 review. |
 | Fixed Allowance | A reward type category for recurring fixed allowance components on the rewards statement. |
+| From City / To City | The origin and destination on an airfare setup record. They are matched against the air ticket location fields on the employee's profile — no match, no calculated airfare. |
 | Full Entitlement at Once | A flag on a leave type forcing the whole grant to be taken as a single block. ESS calculates the end date from the start date and prevents the employee shortening it. |
 
 ## G
@@ -195,6 +200,8 @@ Terms used across Dynamics 365 HR and this guide.
 | Task Management | The area of the Human Resources module holding onboarding, pre-onboarding, and offboarding checklists, and the workspace where assigned tasks are worked. |
 | Template | The probation review template linked to a staff level and category combination, defining the competencies assessed and the rating model used. |
 | Terminate | The personnel action that begins offboarding, capturing termination reason, termination date, last day worked, and personnel action type. |
+| Ticket Class | The travel class an airfare entitlement is held at — economy, premium economy or business. Set on the airfare setup record, and held per dependent so a family can travel in a lower class than the employee. |
+| Ticket Type | Whether an airfare entitlement is a **return** or a **one way** ticket. Each type is a separate record in the airfare setup. |
 
 ## U
 
@@ -208,6 +215,7 @@ Terms used across Dynamics 365 HR and this guide.
 
 | Term | Definition |
 |---|---|
+| Valid From | The date a dependent's record becomes valid against an employee. The airfare calculation runs from this date, so a dependent added late in the year is paid pro rata from it rather than from their date of birth. |
 | Visa Issuing Unit | The authority that issued a worker's visa, recorded on the worker action. |
 | Visa Labour Card Status | The lifecycle status of a visa or labour card — Applied, Not Applied, Visa Holder, or LC Holder. |
 | Visa Master | The setup area under **Human Resources ▸ Setup** holding visa status, visa type, MOL and MOE professions, and contract type reference tables. |
@@ -222,6 +230,7 @@ Terms used across Dynamics 365 HR and this guide.
 | WebESS Display | A toggle on a request type controlling whether employees can see and raise it in ESS. Request types HR initiates internally are set not to display. |
 | Work History | The section of an employee record holding the probation fields — Stage 1 and Stage 2 dates, end date, template, generation flags, status, and exclusion. |
 | Worker Action | The D365 process that creates or changes an employment record — including hires. Visa data and checklists are attached here, and publish to the employee record when the action completes. |
+| Worker Benefit Enrolment | The enrolment record an employee's airfare eligibility is derived from. The **confirmed** enrolment sets how many tickets they are entitled to, the class, and whether the entitlement is return or one way — for example, self + 3, economy, return. |
 | Worker Region | A scoping value used alongside company to vary identification requirements by employee location. |
 | Working Unit | A field on the employee visa information record identifying the unit the employee works within. |
 | Workflow | The configured approval routing applied to a request type or probation review. **View History** traces each action taken and which conditions evaluated true or false. |

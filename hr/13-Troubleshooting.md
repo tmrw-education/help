@@ -427,3 +427,61 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 **Cause** — The leave falls outside the cancellation window, which is measured from the leave start date.
 
 **Fix** — Cancel it in D365 on their behalf, or adjust the parameter if the window is consistently too short for your schools.
+
+---
+
+## Airfare
+
+### No airfare was calculated for an employee
+
+**Cause** — The most common reason is that no fare record matches the employee. The calculation needs a record in the airfare setup for their legal entity, their route, their ticket class and their ticket type, covering the dates the batch was run for.
+
+**Fix** — Check the air ticket location **from** and **to** fields on the employee's profile against the **From city** and **To city** on the fare records for their company. If those match, confirm the employee has a **confirmed** worker benefit enrolment — eligibility is derived from it, and employees without one are skipped.
+
+### A dependent has no calculated line
+
+**Cause** — Either the dependent has no **valid from** date, or the number of dependents exceeds the entitlement on the benefit enrolment.
+
+**Fix** — Open **Personal contacts** on the employee record and check the **valid from** date on the dependent. Then check the confirmed enrolment — an entitlement of *self + 3* covers three dependents, and a fourth is not calculated.
+
+### The amount is less than the full fare
+
+**Cause** — The entitlement doesn't cover the whole airfare period, so the fare has been reduced by days.
+
+**Fix** — This is expected. The calculation is the full fare divided by the days in the year and multiplied by the days covered — counted from the employee's employment start date, or from the dependent's valid from date. See [Review calculated airfare](./12-Airfare/05-review-calculated-airfare.md).
+
+### A dependent was paid at two different fares
+
+**Cause** — Their birth date means they crossed an age group boundary during the period.
+
+**Fix** — This is expected. The days before the birthday are paid at the lower fare and the days after at the next one, and the line carries the combined amount. Check the bands in **Human Resources ▸ Setup ▸ Age group setup** if the split doesn't look right.
+
+### A newborn was paid short
+
+**Cause** — The calculation runs from the dependent's **valid from** date, which is the date the record became valid rather than the date of birth. Employees often add a dependent weeks after the birth, once the paperwork is through.
+
+**Fix** — Correct the **valid from** date on the personal contact, delete the employee's existing calculated lines, and run the batch again for that employee.
+
+### I can't save a new fare record
+
+**Cause** — A duplicate check blocks a second record for the same legal entity, the same from and to city, and the same dates.
+
+**Fix** — Find the existing record for that combination and amend it, or delete it before creating the replacement. The same check applies to rows loaded through the data entity.
+
+### The whole year's fares need loading and there are too many to key in
+
+**Cause** — Records are being created by hand.
+
+**Fix** — Use the data entity instead. On the **Airfare setup** form, click **Open in Microsoft Office** in the Action Pane and select the airfare data entity. The year's rates can be loaded across every legal entity in a single upload. See [Set up airfare rates](./12-Airfare/02-set-up-airfare-rates.md).
+
+### I corrected the data but the amounts haven't changed
+
+**Cause** — The batch writes new lines; it doesn't overwrite the existing ones.
+
+**Fix** — Delete the employee's existing lines on the calculated airfare form first, then run the batch again for that employee and the same period.
+
+### The calculated amounts don't reconcile with the fare table
+
+**Cause** — The **from date** and **to date** used when running the batch don't match the period on the fare records.
+
+**Fix** — The pro-rata is measured against the dates entered on the batch, so a mismatch skews every line. Rerun with the dates set to the airfare period held in the airfare setup.
