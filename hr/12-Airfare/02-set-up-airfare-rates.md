@@ -29,7 +29,7 @@ The airfare setup table holds the fare the calculation draws on: an amount per p
    | **Legal entity** | The company the fare applies to. Each school holds its own rates |
    | **From city** | The origin of the ticket |
    | **To city** | The destination |
-   | **Ticket class** | Economy, premium economy or business |
+   | **Ticket class** | Economy, premium economy, business class or first class |
    | **Ticket type** | Return or one way |
    | **From date** / **To date** | The airfare period the rate is valid for — this is the period the calculation pro-rates against |
 
@@ -51,7 +51,7 @@ The airfare setup table holds the fare the calculation draws on: an amount per p
 
    Click **Save**.
 
-   A duplicate check applies. For the same legal entity, the same from and to city, and the same dates, a second record cannot be saved — you are blocked on save rather than ending up with two competing fares.
+   A duplicate check applies across the whole key — from city, to city, legal entity, start date, end date, ticket class, age group and ticket type. Only one record may exist for a given combination, so you are blocked on save rather than ending up with two competing fares.
 
 6. Load the year's rates in bulk instead
 

@@ -34,8 +34,10 @@ The calculation reads three things off the employee: where they travel, who trav
 
    | Field | Why it matters |
    |---|---|
-   | **Birth date** | Matched against the age groups to decide whether the dependent attracts the infant, child or adult fare |
+   | **Active dependent** | Must be set to **Yes**. Dependents without the flag are skipped entirely — no line is written for them |
+   | **Birth date** | Matched against the age groups to decide whether the dependent attracts the infant, child or adult fare. Age is assessed against the end date of the airfare period |
    | **Valid from** | The date the dependent becomes valid against the employee. The calculation runs from this date, so a late-entered dependent is pro-rated from it |
+   | **Valid to** | Must extend beyond the end date of the airfare period for the dependent to be covered to the end of it |
    | **Ticket class** | The class the dependent travels in, on the last tab of the dependent details |
 
    ![A dependent record under Personal contacts showing the birth date and valid from date](./images/set-employee-and-dependent-airfare-details-2.png)
@@ -50,12 +52,16 @@ The calculation reads three things off the employee: where they travel, who trav
 
    The **Ticket class** field on the dependent defaults from the employee's own entitlement, and can be changed. Use it where the employee travels in a higher class than their family — an employee eligible for business whose dependents travel economy is set here.
 
+   **Ticket type** — return or one way — comes from the job attached to the employee's position and defaults down to the dependents the same way. It has to be refreshed when the employee's position changes, or the dependents keep the type from the old job.
+
    ![The ticket class field on the dependent details tab](./images/set-employee-and-dependent-airfare-details-3.png)
 
 6. Confirm the benefit enrolment
 
-   Open **Worker benefit enrolment** for the employee. The **confirmed** enrolment is what the eligibility is derived from — how many tickets the employee is entitled to, the class, and whether the entitlement is return or one way. An entitlement reading *self + 3, economy, return* covers the employee and three dependents on economy return tickets.
+   Open **Worker benefit enrolment** for the employee. The eligibility is read from the row where the plan type is **AirTicket** and the status is **Selected** and **Confirmed** — that row sets how many tickets the employee is entitled to, the class, and whether the entitlement is return or one way. An entitlement reading *self + 3, economy, return* covers the employee and three dependents on economy return tickets.
 
-   Where the enrolment is not confirmed, the eligibility cannot be derived and the employee is skipped by the calculation.
+   The count is a cap. Where an employee has more active dependents than the entitlement covers, the surplus are not calculated — so check the number of active dependents against the entitlement before querying a missing line.
+
+   Where no row is Selected and Confirmed, the eligibility cannot be derived and the employee is skipped by the calculation.
 
    ![The worker benefit enrolment showing the confirmed airfare entitlement](./images/set-employee-and-dependent-airfare-details-4.png)

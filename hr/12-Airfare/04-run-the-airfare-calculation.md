@@ -28,7 +28,7 @@ The calculation is a batch process. It reads the employee's route, start date, b
 
    | Parameter | What to set |
    |---|---|
-   | **Legal entity** | The company being calculated |
+   | **Legal entity** | The companies being calculated. More than one can be selected. Left blank, the batch runs for the current legal entity only |
    | **Employee** | Leave blank to run across the whole workforce, or name a single employee to calculate just that record |
    | **From date** / **To date** | The airfare period. These must match the dates on the fare records in the airfare setup |
 
@@ -44,8 +44,10 @@ The calculation is a batch process. It reads the employee's route, start date, b
 
    Open the calculated airfare form and confirm lines have been written for the employee and each of their dependents. The employee and their dependents are all calculated in the same run — see [Review calculated airfare](./05-review-calculated-airfare.md).
 
+   For an employee who has transferred or been promoted, the calculation uses their employment start date and their current fare eligibility. Where that produces the wrong entitlement for the period, it has to be corrected by hand — the batch will not reconcile the change on its own.
+
 6. Recalculate after a correction
 
-   There is no separate recalculation process. After correcting a birth date, a valid from date, a route or a fare, filter the calculated airfare form to the employee, delete their existing calculated lines, and run the batch again for that employee and the same period.
+   There is no separate recalculation process. After correcting a birth date, a valid from date, a route or a fare, run the batch again for that employee and the same period. Rerunning for a named employee overwrites the existing lines for that period, for the employee and all of their dependents.
 
-   Deleting first matters — leaving the old lines in place means you are reading a mix of old and new figures on the same form. For a correction affecting one person, run the batch with the employee named rather than across the whole workforce; it completes faster and leaves the rest of the workforce untouched.
+   Delete the employee's existing lines first if you want to be certain of what you are reading — it costs nothing, and it makes it obvious whether the rerun produced lines at all. Run with the employee named rather than across the whole workforce; it completes faster and leaves the rest of the workforce untouched.

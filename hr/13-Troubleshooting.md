@@ -440,9 +440,9 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 
 ### A dependent has no calculated line
 
-**Cause** — Either the dependent has no **valid from** date, or the number of dependents exceeds the entitlement on the benefit enrolment.
+**Cause** — The **active dependent** flag is not set to Yes, the dependent has no **valid from** date, or the number of active dependents exceeds the entitlement on the benefit enrolment.
 
-**Fix** — Open **Personal contacts** on the employee record and check the **valid from** date on the dependent. Then check the confirmed enrolment — an entitlement of *self + 3* covers three dependents, and a fourth is not calculated.
+**Fix** — Open **Personal contacts** on the employee record and check the active dependent flag first — dependents without it are skipped entirely. Then check the **valid from** and **valid to** dates, and the entitlement on the enrolment: *self + 3* covers three dependents, and a fourth is not calculated.
 
 ### The amount is less than the full fare
 
@@ -479,6 +479,12 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 **Cause** — The batch writes new lines; it doesn't overwrite the existing ones.
 
 **Fix** — Delete the employee's existing lines on the calculated airfare form first, then run the batch again for that employee and the same period.
+
+### An employee covered for almost the whole of a leap year got the full fare
+
+**Cause** — The daily rate is the fare divided by 365 regardless of how long the period actually is. In a 366-day period the days covered are counted for real but still divided by 365, so the last day or two of cover makes no difference to the amount.
+
+**Fix** — This is how the calculation is specified. A full-period entitlement takes the full fare directly, so it is never overpaid; only part-period lines in a leap-year period round up like this.
 
 ### The calculated amounts don't reconcile with the fare table
 

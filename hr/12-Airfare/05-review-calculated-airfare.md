@@ -22,7 +22,9 @@ The calculated airfare form — the disbursement form — holds the output of th
 
 2. Understand how an amount is worked out
 
-   Every line starts from the full fare held in the airfare setup for that route, ticket class, ticket type and age group. Where the entitlement covers the whole airfare period, the line carries that full fare. Where it covers part of the period, the fare is reduced by days — the full fare divided by the days in the year, multiplied by the days covered. Nothing else is applied: no rounding to months and no minimum, which is why amounts rarely come out as round numbers.
+   Every line starts from the full fare held in the airfare setup for that route, ticket class, ticket type and age group. Where the entitlement covers the whole airfare period, the line carries that full fare. Where it covers part of the period, the fare is reduced by days — the full fare divided by **365** to give a daily rate, multiplied by the days covered. The divisor is always 365, whatever the length of the period. Nothing else is applied: no rounding to months and no minimum, which is why amounts rarely come out as round numbers.
+
+   An entitlement that covers the whole period takes the full fare directly rather than being built up from the daily rate, so a leap year does not overpay a full-period line. It can round part-period lines slightly high, though — in a 366-day period the days covered are counted for real but still divided by 365, so a dependent covered for all but one day reaches the full fare.
 
    What counts as days covered differs between the employee and their dependents:
 
@@ -45,7 +47,7 @@ The calculated airfare form — the disbursement form — holds the output of th
 
 5. Read a line where the age group changed
 
-   A dependent's age group is not fixed for the whole period. Where a birth date means they cross a boundary part-way through — an infant turning two, for example — the line is split: the days before the birthday are paid at the infant fare, the days after at the child fare, each reduced by the same formula. The result is a single amount combining both.
+   A dependent's age group is assessed against the **end date** of the airfare period, so a dependent who crosses a boundary part-way through is already in the higher group by the time the period closes. Where that happens the line is split: the days before the birthday are paid at the lower fare, the days after at the higher one, each at that fare's daily rate. The result is a single amount combining both.
 
    This is worth watching at the start of an airfare year. A dependent whose birthday falls just inside the period attracts more than the infant fare alone; one whose birthday falls just outside it stays on the lower fare for the whole period.
 
@@ -53,7 +55,7 @@ The calculated airfare form — the disbursement form — holds the output of th
 
 6. Read a dependent added part-way through the year
 
-   A dependent added during the year — most often a newborn — is covered from their **valid from** date to the end of the period. An infant added with a valid from date of 5 November, against a period ending 31 August, is covered for 300 days: 1,000 ÷ 365 × 300 = 821.
+   A dependent added during the year — most often a newborn — is covered from their **valid from** date to the end of the period. An infant added with a valid from date of 5 November, against a period ending 31 August, is covered for 300 of the 365 days in that period: 1,000 ÷ 365 × 300 = 821.
 
    The valid from date is the date the dependent record became valid, not the date of birth. Where an employee submitted the details late, correct the valid from date first, then recalculate — see [Run the airfare calculation](./04-run-the-airfare-calculation.md).
 
