@@ -1,7 +1,7 @@
 ---
 id: assign-leave-plans-on-hire
 summary:
-  - "On the **staff level** form, select the calendar and the leave plans for each legal entity."
+  - "On the **Staff levels** form, select the calendar and the leave plans for each legal entity."
   - "On the **personnel action type**, set **Update leave and absence plan** to Yes."
   - "Complete the hire worker action — the employee is enrolled in the plans automatically once the workflow finishes."
 keywords: [leave plan assignment, hire worker action, staff level, calendar, personnel action type, update leave and absence plan, enrolment, enrolled workers, position assignment, D365]
@@ -16,7 +16,7 @@ Employees are not enrolled in leave plans by hand. Enrolment is driven by the po
 
 1. Set the calendar and leave plans on the staff level
 
-   Open the **staff level** form and select the record you are configuring. Against each legal entity, select the **calendar** and the **leave plans** that employees at that staff level should be enrolled in. More than one plan can be assigned.
+   Open the **Staff levels** form (**Human resources ▸ Setup ▸ Staff levels**) and select the record you are configuring. Against each legal entity, select the **Calendar** and the **Leave plans=** that employees at that staff level should be enrolled in. You can assign more than one plan.
 
    ![The staff level form showing the calendar and the leave plans selected for a legal entity](./images/assign-leave-plans-on-hire-1.png)
 
