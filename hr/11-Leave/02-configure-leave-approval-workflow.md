@@ -1,10 +1,10 @@
 ---
 id: configure-leave-approval-workflow
 summary:
-  - "Configure the **Leave and absence request** workflow for each legal entity."
+  - "Configure the **Leave of absence requests** workflow for each legal entity."
   - "Add a condition on the **system generated leave** flag so system-raised requests are approved automatically."
   - "Route employee-submitted requests to a participant or user group, adding further levels where required."
-keywords: [leave workflow, leave and absence request workflow, auto approval, system generated leave, workflow condition, participant, user group, approval levels, legal entity, D365]
+keywords: [leave workflow, leave of absence request workflow, auto approval, system generated leave, workflow condition, participant, user group, approval levels, legal entity, D365]
 video:
   youtube:
   bunny:
@@ -12,11 +12,11 @@ video:
 
 # Configure the leave approval workflow
 
-The leave and absence request workflow decides what happens to a leave request once it is submitted. It is configured per legal entity, and its most important job is to separate the requests a person raised from the requests the system raised on their behalf.
+The leave of absence request workflow decides what happens to a leave request once it is submitted. It is configured per legal entity, and its most important job is to separate requests a person raised from requests the system raised on their behalf.
 
 1. Open the workflow
 
-   In D365, open the **Leave and absence request** workflow for the legal entity you are configuring.
+   In D365, open the **Leave of absence requests** workflow for the legal entity you are configuring.
 
    ![The Leave and absence request workflow in the D365 workflow editor](./images/configure-leave-approval-workflow-1.png)
 
