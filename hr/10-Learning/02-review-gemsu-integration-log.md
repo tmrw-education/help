@@ -12,23 +12,23 @@ video:
 
 # Review the GEMSU integration log
 
-Every message that comes into D365 from GEMSU is recorded in the integration log. When course data is missing or looks wrong, the log is the first place to check — it tells you whether the message arrived and whether it imported successfully.
+The integration log records every message that comes into D365 from GEMSU. When course data is missing or looks wrong, the log is the first place to check—it tells you whether the message arrived and imported successfully.
 
 1. Open the integration log for an employee
 
-   In D365, open the employee record and go to the **GEMSU integration log**. This shows the messages received for that employee.
+   In D365, go to **HR integration ▸ Inbound ▸ GEMSU integration log**. Filter for the employee name or personnel number. The log shows the messages received for that employee.
 
    ![The GEMSU integration log for a single employee in D365](./images/review-gemsu-integration-log-1.png)
 
 2. Open the log across all employees
 
-   To see everything the integration has received rather than one employee's records, open the all-employee view of the integration log. This is the view to use when you are checking the health of the integration overall rather than investigating a single case.
+   To see everything the integration has received, not just one employee's records, open the all-employee view of the integration log. Use this view when checking the overall health of the integration rather than investigating a single case.
 
    ![The all-employee GEMSU integration log in D365 showing records with their import state](./images/review-gemsu-integration-log-2.png)
 
 3. Check the state of each record
 
-   Each log entry records the state of that message — for example a successful import, or an error where the record could not be processed. Filter on the error state to isolate the records that need attention.
+   Each log entry records the state of that message — for example, a successful import or an error where the record could not be processed. Filter on the error state to isolate the records that need attention.
 
 4. Act on what the log tells you
 
