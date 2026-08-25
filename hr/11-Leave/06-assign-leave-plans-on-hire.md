@@ -22,7 +22,7 @@ Employees are not enrolled in leave plans by hand. Enrolment is driven by the po
 
 2. Enable the flag on the personnel action type
 
-   Open the **personnel action type** used for hiring and set **Update leave and absence plan** to **Yes**.
+   Open **Personnel action types**, **Human resources ▸ Setup ▸ Personnel action types**. Select the worker action needed for the incoming staff member and set **Update leave and absence plan** to **Yes**.
 
    Only worker actions using an action type with this flag switched on will enrol employees or update their existing enrolments. The same flag drives transfers and promotions.
 
@@ -30,7 +30,7 @@ Employees are not enrolled in leave plans by hand. Enrolment is driven by the po
 
 3. Complete the worker action
 
-   Create the hire worker action for the new employee and complete the position assignment. The position determines the staff level and staff category, which link the employee to the leave plans configured in step 1.
+   Create the hire worker action for the new employee and complete the position assignment. **Human resources ▸ Recruitment ▸ Recruitment projects ▸ Recruitment projects**. The position determines the staff level and staff category, which link the employee to the leave plans configured in step 1.
 
 4. Submit and approve the workflow
 
