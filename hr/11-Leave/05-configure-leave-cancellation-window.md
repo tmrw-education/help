@@ -16,17 +16,17 @@ Without a limit, an employee could cancel leave from a previous period and reope
 
 1. Open the leave and absence parameters
 
-   In D365, go to the leave and absence parameters and find the cancellation setting.
+   In D365, go to **Leave and absence ▸ Setup ▸ Leave and absence parameters** and find the cancellation setting.
 
    ![The leave and absence parameters showing the cancellation window setting](./images/configure-leave-cancellation-window-1.png)
 
 2. Set the number of days
 
-   Enter the number of days of leave history that remains cancellable — 10 days, for example. Requests older than this cannot be cancelled from ESS.
+   Enter the number of days of leave history that remains cancellable — 10 days, for example. Requests older than this time cannot be cancelled in ESS.
 
 3. Understand how the window is measured
 
-   The calculation runs from the **start date of the leave**, not from the date the request was submitted. A request submitted well in advance for leave that started yesterday is still inside the window; a request for leave that started two months ago is not, however recently it was raised.
+   The calculation runs from the leave **Start date**, not the date the request was submitted. A request submitted well in advance for leave that started yesterday is still within the window; a request for leave that started two months ago is not, no matter how recently it was raised.
 
 4. Set the value per school where policies differ
 
@@ -34,6 +34,6 @@ Without a limit, an employee could cancel leave from a previous period and reope
 
 5. Check the employee experience
 
-   An employee attempting to cancel leave outside the window sees a message naming the age of the request — *Cancellation is not permitted because this request is 16 days old* — and the leave is left untouched. Cancellations inside the window are created and routed for approval as normal.
+   An employee attempting to cancel leave outside the window sees a message naming the age of the request — *Cancellation is not permitted because this request is 16 days old, exceeding the allowed limit of 10 days* — and the leave is left untouched. Cancellations inside the window are created and routed for approval as normal.
 
    Employees will bring genuinely old cancellations to HR instead, so keep the value in line with what your team is prepared to handle manually.
