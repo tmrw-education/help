@@ -40,6 +40,4 @@ Employees are not enrolled in leave plans by hand. Enrolment is driven by the po
 
    Open the employee record and go to **Leave and absence**. The plans configured for their staff level are listed.
 
-   ![The Leave and absence enrolment on the employee record after the hire action completed](./images/assign-leave-plans-on-hire-3.png)
-
    If the plans are missing, check that the action type had the flag set before you submitted the action— enabling it afterwards does not retrospectively enrol the employee.
