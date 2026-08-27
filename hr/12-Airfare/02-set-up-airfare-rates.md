@@ -43,13 +43,15 @@ The airfare setup table holds the fare the calculation draws on: an amount per p
 
    Create a separate record for each combination you need. A route travelled in economy and in business is two records; the same route as a return and as a one-way is two more. The calculation picks the record matching the class and type the employee or dependent is entitled to.
 
-5. Save
+   ![Airfare lists showing the different rates for return vs one-way tickets for an adult, child or infant fare](./images/set-up-airfare-rates-3.png)
+
+6. Save
 
    Click **Save**.
 
    A duplicate check applies across the whole key — from city to city, legal entity, start date, end date, ticket class, age group and ticket type. Only one record may exist for a given combination, so you are blocked on save rather than ending up with two competing fares.
 
-6. Load the year's rates in bulk instead
+7. Load the year's rates in bulk instead
 
    Rates do not have to be created by hand. A data entity is provided for the airfare setup table, so once Travel releases the year's fares, you can load them across every legal entity in one upload.
 
