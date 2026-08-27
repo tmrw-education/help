@@ -2,7 +2,7 @@
 id: set-up-age-groups
 summary:
   - "In D365, go to **Human Resources ▸ Setup ▸ Age group setup**."
-  - "Create a band for each fare category — infant, child, adult — with its **from age** and **to age**."
+  - "Create a band for each fare category — infant, child, adult — with its **From age** and **To age**."
   - "Click **Save**. The bands are matched against each dependent's birth date when airfare is calculated."
 keywords: [age group setup, age bracket, infant, child, adult, fare category, dependent age, birth date, airfare setup, bracket change, D365]
 video:
@@ -12,7 +12,7 @@ video:
 
 # Set up airfare age groups
 
-Age groups decide which fare a dependent attracts. Each band is a range of ages with a fare category attached, and the system matches a dependent's **birth date** against those bands to work out whether they are charged as an infant, a child or an adult. Set these up before the airfare rates — the rate table carries an amount per category, so the categories have to exist first.
+Age groups decide which fare a dependent attracts. Each band is a range of ages with an attached fare category, and the system matches a dependent's **birth date** against those bands to determine whether they are charged as an infant, a child, or an adult. Set these up before the airfare rates — the rate table carries an amount per category, so the categories must exist first.
 
 1. Open the age group setup
 
@@ -44,4 +44,4 @@ Age groups decide which fare a dependent attracts. Each band is a range of ages 
 
    A dependent's category is not fixed for the whole airfare period. The calculation checks the birth date against the bands across the period, so a dependent who crosses a boundary part-way through is paid partly at one rate and partly at the next — see [Review calculated airfare](./05-review-calculated-airfare.md).
 
-   Because of that, changing a band after calculations have run changes the result for anyone near a boundary. Adjust the bands before running the calculation for a new airfare year rather than part-way through one.
+   Because of that, changing a band after calculations have run changes the result for anyone near a boundary. Adjust the bands before running the calculation for a new airfare year rather than partway through one.
