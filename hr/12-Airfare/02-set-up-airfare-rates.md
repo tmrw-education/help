@@ -57,4 +57,4 @@ The airfare setup table holds the fare the calculation draws on: an amount per p
 
    ![The Open in Microsoft Office menu on the Airfare setup form with the airfare data entity listed](./images/set-up-airfare-rates-2.png)
 
-   The duplicate check applies to uploaded rows and manually created ones, so re-uploading over an existing period is rejected rather than silently overwritten. Remove the superseded records first if you are reloading a period.
+   > **Note:** A duplicate check applies to uploaded rows and manually created ones, so re-uploading over an existing period is rejected rather than silently overwritten. Remove the superseded records first if you are reloading a period.
