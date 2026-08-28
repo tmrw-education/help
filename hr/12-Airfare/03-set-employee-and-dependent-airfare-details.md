@@ -40,8 +40,6 @@ The calculation reads three things off the employee: where they travel, who trav
    | **Valid to** | Must extend beyond the end date of the airfare period for the dependent to be covered to the end of it |
    | **Ticket class** | The class the dependent travels in, on the last tab of the dependent details |
 
-   ![A dependent record under Personal contacts showing the birth date and valid from date](./images/set-employee-and-dependent-airfare-details-2.png)
-
 4. Correct the valid from date when it is late
 
    The **valid from** date is set when the dependent record is created, which is often later than the date the dependent actually joined the family — an employee may only add a newborn once the birth certificate is through. The calculation takes the date at face value, so a dependent added a month late is paid a month short.
@@ -54,8 +52,6 @@ The calculation reads three things off the employee: where they travel, who trav
 
    **Ticket type** — return or one-way — comes from the job attached to the employee's position and defaults down to the dependents the same way. Refresh it when the employee's position changes, or the dependents keep the type from the old job.
 
-   ![The ticket class field on the dependent details tab](./images/set-employee-and-dependent-airfare-details-3.png)
-
 6. Confirm the benefit enrolment
 
    Select **Benefits** from the Action Pane. Under **Plans**, open **Worker benefit plans** for the employee. Eligibility is read from the row where the **Plan type** is **AirTicket** and the status is **Selected** and **Confirmed**—that row sets the number of tickets the employee is entitled to, the class, and whether the entitlement is return or one-way. An entitlement reading *self + 3, economy, return* covers the employee and three dependents on economy return tickets.
@@ -64,4 +60,4 @@ The calculation reads three things off the employee: where they travel, who trav
 
    If no row is selected and confirmed, the eligibility cannot be derived, and the calculation skips the employee.
 
-   ![The worker benefit enrolment showing the confirmed airfare entitlement](./images/set-employee-and-dependent-airfare-details-4.png)
+   ![The worker benefit enrolment showing the confirmed airfare entitlement](./images/set-employee-and-dependent-airfare-details-2.png)
