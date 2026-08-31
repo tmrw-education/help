@@ -4,7 +4,7 @@ id: add-wellbeing-case-task
 summary:
   - "Open the wellbeing case and go to **Activities**."
   - "Click **Task**, give it a **Subject**, and check the **Regarding** field."
-  - "Set the **Owner** and **Due date**, then **Save & Close**."
+  - "Assign the task to a member of staff, then **Save & Close**."
 keywords: [add task to wellbeing case, create a wellbeing task, assign a wellbeing follow-up, wellbeing case activities, task on a wellbeing note, assign a case action]
 video:
   youtube:
@@ -20,7 +20,7 @@ Role:    School Admin, Office Admin
 
 # Add a wellbeing case task
 
-Tasks are how follow-up work on a case gets assigned and tracked. Create one for
+Tasks assign and track follow-up work on a case. Create one for
 each action that needs doing — a phone call home, a counsellor check-in, a
 referral.
 
@@ -37,15 +37,16 @@ referral.
    to the wellbeing case automatically — leave it as it is so the task stays
    attached to the case.
 
+   ![Task layout with Subject and Regarding fields completed](./images/add-a-wellbeing-case-task-2.png)
+
 3. Assign it
 
-   Set the **Owner** to the staff member who will do the work, and set a
-   **Due date**.
+   Set the staff member who will complete this task.
 
    > **Note:** Assigning the task to someone else does not move the case itself.
    > To hand over the whole case, change the case **Owner**.
 
-   ![The task form with owner and due date set](./images/add-a-wellbeing-case-task-2.png)
+   ![The task form with owner and due date set](./images/add-a-wellbeing-case-task-3.png)
 
 4. Save
 
