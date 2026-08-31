@@ -2,7 +2,7 @@
 draft: true
 id: add-comment-wellbeing-case
 summary:
-  - "Open the wellbeing case and scroll to the **Timeline**."
+  - "Open the wellbeing case and move to the **Timeline** tile."
   - "Click the **+** button and choose **Note**."
   - "Type your comment and save it to the timeline."
 keywords: [comment on wellbeing case, add note to wellbeing case, wellbeing case timeline, record an update on a case, case notes wellbeing, log a comment on a case]
@@ -26,7 +26,7 @@ next person has the full picture.
 
 1. Open the case timeline
 
-   Open the wellbeing case and scroll to the **Timeline**.
+   Open the wellbeing case and move to the **Timeline** tile.
 
 2. Create the note
 
@@ -39,7 +39,7 @@ next person has the full picture.
    Type your comment and save it. The note is added to the timeline
    immediately, stamped with your name and the date.
 
-   > **Note:** Timeline entries cannot be deleted by most roles. Write comments
-   > as you would want them read back — they form part of the case record.
-
    ![The comment added to the case timeline](./images/add-a-comment-to-a-wellbeing-case-2.png)
+
+   > **Note:** Most roles can't delete timeline entries. Write comments
+   > as you would want them read back — they form part of the case record.
