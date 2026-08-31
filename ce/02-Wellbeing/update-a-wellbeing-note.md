@@ -20,22 +20,22 @@ Role:    School Admin, Office Admin
 
 # Update a wellbeing note
 
-You can change the detail on an existing wellbeing note — for example when more
-information comes to light and the concern turns out to be more serious than it
+You can change the details on an existing wellbeing note — for example, when more
+information comes to light, and the concern turns out to be more serious than it
 first looked. Changes are reflected wherever the note is surfaced, including on
-the Staff Experience Platform.
+the Staff Experience Platform (SXP).
 
 1. Open the note
 
-   In **Wellbeing notes**, open the note you want to change.
+   In **All Wellbeing Notes**, open the note you want to change.
 
-2. Change the detail
+2. Change the details
 
    Update any of the following:
 
    - **Name** — retitle the note
-   - **Wellbeing note type** — for example switch from Physical to Environmental safety
-   - **Sentiment** — for example from Neutral to Negative
+   - **Wellbeing Note Type** — for example, switch from Physical to Environmental safety
+   - **Sentiment** — for example, from Neutral to Negative
    - **Priority**
    - **Description**
 
@@ -43,7 +43,7 @@ the Staff Experience Platform.
 
 3. Change who is notified
 
-   Set **Notify parents** to Yes or No. Set **Notify staff** to Yes and add or
+   Set **Notify Parents** to Yes or No. Set **Notify Staff** to Yes and add or
    remove staff members in the staff subgrid.
 
 4. Save
