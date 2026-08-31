@@ -36,12 +36,12 @@ your filter — useful for reporting or for sharing a summary outside CE.
    Click **Export to Excel**. The workbook is built from the filtered view, not
    from every note in the system.
 
+   ![The button to Export the filtered Wellbeing notes to Excell](./images/export-wellbeing-notes-to-excel-2.png)
+
 3. Open the workbook
 
    Open the downloaded file to review the results before sending them on.
 
    > **Note:** Wellbeing data is sensitive. Check who you are sending the
-   > workbook to — once it leaves CE it is outside the platform's access
+   > workbook to — once it leaves CE, it is outside the platform's access
    > controls.
-
-   ![The exported workbook showing the filtered wellbeing notes](./images/export-wellbeing-notes-to-excel-2.png)
