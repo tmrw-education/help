@@ -2,8 +2,8 @@
 draft: true
 id: cancel-wellbeing-task
 summary:
-  - "Open the task from the wellbeing case **Activities**."
-  - "Choose **Cancel** rather than Mark Complete."
+  - "Open the task from the wellbeing case **Timeline**."
+  - "Choose **Cancel** rather than **Completed**."
   - "The task closes as cancelled and stays on the case record."
 keywords: [cancel a wellbeing task, abandon a wellbeing task, wellbeing task no longer needed, cancel case action, close task without completing]
 video:
@@ -29,17 +29,17 @@ Needs: a short recording of a task being cancelled in CE.
 
 # Cancel a wellbeing task
 
-Cancel a task when the action is no longer needed — for example the concern was
+Cancel a task when the action is no longer needed — for example, the concern was
 resolved another way, or the task was raised in error. Cancelling keeps the task
 on the record rather than deleting it, so the history stays intact.
 
 1. Open the task
 
-   Open the wellbeing case, go to **Activities** and open the task.
+   Open the wellbeing case, go to the **Timeline** and open or view the task. Click the checkmark at the top of the task.
 
 2. Cancel it
 
-   Choose **Cancel** instead of Mark Complete.
+   Choose **Cancel** instead of **Completed**.
 
    ![A wellbeing task with the Cancel action available](./images/cancel-a-wellbeing-task-1.png)
 
