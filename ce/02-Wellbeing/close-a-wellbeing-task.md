@@ -2,7 +2,7 @@
 draft: true
 id: close-wellbeing-task
 summary:
-  - "Open the task from the wellbeing case **Activities** or from your task list."
+  - "Open the task from the wellbeing case **Timeline** or from your task list."
   - "Check you are the **Owner**, then click **Mark Complete**."
   - "The task status changes to Closed."
 keywords: [close a wellbeing task, complete a wellbeing task, mark task complete, finish a wellbeing follow-up, wellbeing task status closed]
@@ -25,8 +25,8 @@ separately — closing tasks and resolving the case are two different steps.
 
 1. Open the task
 
-   Open the wellbeing case, go to **Activities** and open the task. You can also
-   reach it from your own task list.
+   Open the wellbeing case, go to the **Timeline** tile and open the task. You can also
+   find it in your task list.
 
 2. Check ownership
 
@@ -35,7 +35,7 @@ separately — closing tasks and resolving the case are two different steps.
 
 3. Mark it complete
 
-   Click **Mark Complete**. The status changes to **Closed** and the completion
+   Click **Completed**. The status changes to **Closed** and the completion
    is recorded against your name.
 
    ![A wellbeing task showing the Mark Complete action](./images/close-a-wellbeing-task-1.png)
