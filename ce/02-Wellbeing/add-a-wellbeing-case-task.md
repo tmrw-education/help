@@ -41,14 +41,16 @@ referral.
 
 3. Assign it
 
-   Set the staff member who will complete this task.
+   Set the staff member who will complete this task. There are two ways to do this: you can either click the **Assign** button in the toolbar, or you can click the down arrowhead in the top-right of the screen. Here, you can also assign the task **Priority** and **Due** date.
 
    > **Note:** Assigning the task to someone else does not move the case itself.
    > To hand over the whole case, change the case **Owner**.
 
-   ![The task form with owner and due date set](./images/add-a-wellbeing-case-task-3.png)
+   ![The task form assignment window](./images/add-a-wellbeing-case-task-3.png)
 
-4. Save
+   ![The task form with owner and due date set](./images/add-a-wellbeing-case-task-4.png)
+
+5. Save
 
    Click **Save & Close**. The task appears against the case and on the assigned
    person's task list. Tasks created in the Staff Experience Platform appear
