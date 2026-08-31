@@ -2,7 +2,7 @@
 draft: true
 id: create-wellbeing-note-share
 summary:
-  - "In the **Wellbeing** area, open **Wellbeing notes** and click **New**."
+  - "In the **Wellbeing** area, open **Wellbeing notes** and click **+ New**."
   - "Pick the **Student profile**, set the **Wellbeing note type**, **Sentiment** and **Priority**, then write the **Description**."
   - "Set **Notify parents** and **Notify staff**, then **Save**. A wellbeing case is created automatically."
 keywords: [create wellbeing note CE, raise a wellbeing concern, log a pastoral note in Dynamics, new wellbeing note, record a student concern, notify parents wellbeing, wellbeing case]
@@ -33,14 +33,14 @@ A wellbeing note records a concern, an observation or a positive note about a
 student. Saving the note automatically opens a linked **wellbeing case**, which
 is where the follow-up work is tracked.
 
-Most teaching staff raise wellbeing notes from the Staff Experience Platform.
-You create one here in CE when you do not have SXP access — for example a
+Most teaching staff raise wellbeing notes from the Staff Experience Platform (SXP).
+You create one here in CE when you do not have SXP access — for example, a
 receptionist or an admin officer who witnessed something themselves — or when
 you are working a case from the back end.
 
 1. Open a new wellbeing note
 
-   In the **Wellbeing** area, open **Wellbeing notes** and click **New**.
+   In the **Wellbeing** area, open **Wellbeing notes** and click **+ New**.
 
    ![The Wellbeing notes list with the New button in the command bar](./images/create-a-wellbeing-note-and-share-1.png)
 
@@ -55,7 +55,7 @@ you are working a case from the back end.
 3. Describe the concern
 
    Enter a **Name** for the note, then set the **Wellbeing note type**
-   (for example Physical, Mental, Social, Emotional or Academic), the
+   (for example, Physical, Mental, Social, Emotional or Academic), the
    **Sentiment** (Positive, Neutral or Negative) and the **Priority**.
    Write the **Description** — this is the detail other staff will read.
 
