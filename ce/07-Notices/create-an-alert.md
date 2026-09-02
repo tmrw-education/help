@@ -2,9 +2,9 @@
 draft: true
 id: create-alert
 summary:
-  - "In **Communications**, click **New** and choose **Alert**."
-  - "Set the **Alert category** and write the content."
-  - "Choose whether it goes to parents, students or staff, then save."
+  - "In **Communications**, click **+ New** and choose **Alert**."
+  - "Set the **Alert Category** and write the content."
+  - "Choose whether it goes to parents, students or staff, then **Save**."
 keywords: [create an alert, urgent alert school, weather alert, emergency communication, alert category, critical notification parents]
 video:
   youtube:
@@ -41,19 +41,19 @@ cannot raise them.
 1. Open a new alert
 
    In the **Administration** app, open the **Service Management** area and go to
-**Communications**. Click **New** and choose **Alert** as the type.
+**Communications**. Click **+ New** and choose **Alert** as the type.
 
 2. Set the alert category
 
-   Choose the **Alert category** — Environmental, Transport, Weather, Health or
-   Security. This is the main thing that distinguishes an alert from a notice.
+   In the **Details** tab, choose the **Alert Category** — Environmental alert, Transport disruption, Weather warning, Health advisory or
+   Security notice. This is the main difference between an alert and a notice.
 
    ![A new alert with the alert category list open](./images/create-an-alert-1.png)
 
 3. Write the content
 
    Keep it short. Alerts are intended as brief, critical messages pointing people
-   to what they need to do or where to go for detail.
+   to what they need to do or where to find details.
 
 4. Choose who gets it
 
@@ -64,5 +64,5 @@ cannot raise them.
 
 5. Save
 
-   Save the alert. It surfaces under **Alerts** in the notifications area of the
+   **Save** the alert. It surfaces under **Alerts** in the notifications area of the
    experience platforms, separately from product-triggered messages.
