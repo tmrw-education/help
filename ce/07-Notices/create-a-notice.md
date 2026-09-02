@@ -3,7 +3,7 @@ draft: true
 id: create-notice
 summary:
   - "In the **Administration** app, go to **Service Management** then **Communications**."
-  - "Click **New**, choose **Notice**, and fill in the title, dates and school."
+  - "Click **+ New**, choose **Notice**, and fill in the title, dates and school."
   - "Add the content and category on **Details**, set the **Audience type**, then save."
 keywords: [create a notice CE, new notice Dynamics, post a school notice, notice category, notice audience, communications CE, send a notice to parents]
 video:
@@ -25,13 +25,13 @@ changes, things a parent, student or staff member needs to know today. They are
 one of three communication types created here; the others are alerts and
 newsletters.
 
-Most notices are raised in the Staff Experience Platform and land here
-automatically. You create one directly in CE when you do not have SXP access.
+Most notices are raised in the Staff Experience Platform (SXP) and land here
+automatically. You can create one directly in CE if you don't have SXP access.
 
 1. Open Communications
 
    In the **Administration** app, open the **Service Management** area and go to
-**Communications**. Click **New** and choose **Notice** as the type.
+**Communications**. Click **+ New** and choose **Notice** as the type.
 
    ![The Communications list in the Service Management area with New selected](./images/create-a-notice-1.png)
 
@@ -55,12 +55,10 @@ automatically. You create one directly in CE when you do not have SXP access.
 
    Set the **Audience type** — Student, Parent, Staff, or a combination. Each
    choice determines where the notice surfaces: parent audiences appear in the
-   Parent Experience Platform, staff audiences in the Staff Experience Platform.
+   Parent Experience Place app (PXP); staff audiences in the Staff Experience Platform.
 
    Narrow it further by **Year group**, **House** and **Campus**, or send it to
    named staff members directly.
-
-   ![The audience section with year group, house and campus selected](./images/create-a-notice-3.png)
 
 5. Attach documents and save
 
