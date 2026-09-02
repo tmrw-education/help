@@ -2,7 +2,7 @@
 draft: true
 id: create-newsletter
 summary:
-  - "In **Communications**, click **New** and choose **Newsletter**."
+  - "In **Communications**, click **+ New** and choose **Newsletter**."
   - "Add the newsletter content and the standard sections."
   - "Set the audience and save."
 keywords: [create a newsletter, school newsletter, fortnightly newsletter, newsletter CE, PR communication school]
@@ -38,12 +38,12 @@ usually with photos and stories, and typically carries standing sections such as
 an update from the principal and updates from the heads of primary and secondary.
 
 Like alerts, newsletters can only be created in CE, not in the Staff Experience
-Platform.
+Platform (SXP).
 
 1. Open a new newsletter
 
    In the **Administration** app, open the **Service Management** area and go to
-**Communications**. Click **New** and choose **Newsletter** as the type.
+**Communications**. Click **+ New** and choose **Newsletter** as the type.
 
 2. Add the content
 
@@ -54,7 +54,7 @@ Platform.
 
 3. Set the audience and save
 
-   Choose who receives it and save.
+   Choose who receives the newsletter and save.
 
    > **Note:** Newsletters are normally produced on a fixed cycle, most often
    > fortnightly. Check your school's communication guide for the expected
