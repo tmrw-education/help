@@ -31,6 +31,8 @@ bar up top, or ask **Felix**, the in-app assistant.
   messages and alerts.
 - **[Student & parent profiles](./09-Profiles/01-find-student-profile.md)** —
   look up student and parent information.
+- **[AI & Felix](./10-AI/01-how-felix-agents-work.md)** — what Felix can do for
+  you, how to prompt it, and a page for each agent.
 - **[Troubleshooting](./11-Troubleshooting.md)** — common problems and how to
   resolve them.
 - **[Glossary](./12-Glossary.md)** — the terms used across StaffXP.
@@ -39,4 +41,4 @@ bar up top, or ask **Felix**, the in-app assistant.
 
 Start with **[your MyDay home page](./02-Navigating/03-myday-home.md)** — it pulls
 the day's essentials together. Then dip into each topic as you need it, or just
-ask Felix.
+ask Felix — see **[How Felix and the AI agents work](./10-AI/01-how-felix-agents-work.md)**.

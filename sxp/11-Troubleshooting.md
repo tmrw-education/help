@@ -547,3 +547,163 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 **Cause** — Your profile page is a read-only view of your account, not an editor. The data comes from your organisation's directory.
 
 **Fix** — Ask whoever manages your directory account to change the detail. A card with nothing on file shows **Not provided**.
+---
+
+## AI & Felix
+
+### I can't find an agent anywhere in the navigation
+
+**Cause** — None of the agents has a menu, button or tile. They are built as standalone products, and StaffXP reaches them through Felix.
+
+**Fix** — Expected. Open **Felix** and describe what you want. See [How Felix and the AI agents work](./10-AI/01-how-felix-agents-work.md) for what each agent answers to.
+
+### Felix returned nothing when I asked for a dashboard
+
+**Cause** — StaffXP has several dashboards, so *dashboard* on its own doesn't identify one.
+
+**Fix** — Name it: **rewards dashboard**, **attendance risk dashboard**. You don't have to match the wording in this guide exactly — close and near matches are recognised — but the identifying word has to be there.
+
+### Felix picked the wrong student, or can't find the one I mean
+
+**Cause** — Felix matches on close spelling. A misspelling that is also a real word can't be told apart from what you actually typed.
+
+**Fix** — Check the name and student ID Felix offers before confirming. If several students match, they're all listed — pick from those. If Felix says it can't identify the student, retype the name in full rather than rephrasing the request.
+
+### The attendance risk figures are out of date
+
+**Cause** — The attendance compliance checker isn't real time. It runs to a schedule set per school in CE — daily, weekly, or at a longer interval — and shows the results of its last run.
+
+**Fix** — Check the **Last updated** and **Next update** labels beside the risk tiles. Attendance taken since the last run isn't reflected until the next one. If the cadence is too slow for your school, ask your school admin to change the schedule in CE.
+
+### I asked Felix to run the attendance risk report and nothing happened
+
+**Cause** — The checker can't be triggered on demand. Analysing every student in scope is too heavy to run on request.
+
+**Fix** — Expected. Felix queues the request rather than running it — you'll get a message saying so. Wait for the next scheduled run.
+
+### The attendance risk dashboard has no risk bands, or is empty
+
+**Cause** — No attendance thresholds have been configured for your school, so the agent has nothing to sort students against.
+
+**Fix** — Ask your school admin to set them in CE. Until they exist no student can be banded, and the leave request approver can't assess risk either.
+
+### The recommendations on a student's risk profile look generic
+
+**Cause** — Your school's intervention library is missing or thin. The **must do** list is drawn from it.
+
+**Fix** — Ask your school admin to upload the intervention library in CE. Without it the recommendations come from the model's general reasoning rather than school policy, so they're neither controlled nor repeatable.
+
+### A leave request was approved without anyone reviewing it
+
+**Cause** — Your school has auto-approval switched on for that leave type and absence reason.
+
+**Fix** — Expected, but worth checking. Auto-approval doesn't weigh anything up — it doesn't look at attendance, academic performance, or how often the student has been away. If a reason shouldn't be approved unseen, ask your school admin to take it off the list in CE.
+
+### The AI recommendation on a leave request says it can't assess risk
+
+**Cause** — No attendance thresholds are configured for the school, so the agent has nothing to compare the student's attendance against.
+
+**Fix** — Decide the request on what's in front of you — the reason, the attachments, and any sibling request. Ask your school admin to configure thresholds in CE so future recommendations carry the attendance picture.
+
+### I approved or declined a leave request by mistake
+
+**Cause** — The decision takes effect immediately.
+
+**Fix** — An undo is offered for roughly **15 to 20 seconds** afterwards. Take it and the request returns to the queue to be decided again.
+
+### I can't get past the consent step on a class update
+
+**Cause** — Consent flags are mandatory. A class update can't publish while one is outstanding.
+
+**Fix** — Work through each flag. Either click **Apply** to take the suggested fix, or close the suggestion and edit the field yourself — for example by removing that student from the birthday list. Then select the classes and preview again to re-run the check.
+
+### A student's name shows as "a student" in the class update
+
+**Cause** — The suggested fix for a consent flag replaces the name rather than removing the entry.
+
+**Fix** — If you'd rather the student didn't appear at all, close the suggestion and edit the birthday field directly to remove them.
+
+### The class update won't fill in learning topics
+
+**Cause** — There's no teaching-programme data source for the agent to draw them from.
+
+**Fix** — Type them into the **Learning topics** field yourself. Events, birthdays and assignments due are filled in automatically; learning topics and reminders are yours to write.
+
+### I can't edit the events or assignments in a class update
+
+**Cause** — Those sections are read-only by design. They're generated from class data, the timetable and assignments, and are meant to be corrected at the source.
+
+**Fix** — Fix the underlying event or assignment record. **Birthdays** is the exception and can be edited, so a student can be removed.
+
+### My photo or video won't attach to a class update
+
+**Cause** — There are size limits: **5 MB** per image and **25 MB** per video.
+
+**Fix** — Resize or compress the file. Note the warning shown on any attached media — Felix can't check faces against consent records, so check your own photos before publishing.
+
+### The student progress report won't open
+
+**Cause** — The report comes from a separate agent rather than from Felix itself, so it doesn't open in the canvas automatically.
+
+**Fix** — Click **Open canvas**. The extra click is expected, not a fault.
+
+### I can't run a progress report for the period I want
+
+**Cause** — The maximum period is **five weeks**, set by how much assignment data can be pulled and processed at once.
+
+**Fix** — Run several shorter reports to cover a longer stretch.
+
+### A mark or rubric on the progress report is wrong
+
+**Cause** — The report is read-only. The data comes from Microsoft Teams Assignments.
+
+**Fix** — Correct it in Teams. The report picks the change up next time it's run.
+
+### The progress report shows no reading or maths progress data
+
+**Cause** — Learning accelerator data — Reading Progress, Maths Progress, Speaker Progress — only appears where the student has actually used those Teams activities.
+
+**Fix** — Expected, not a fault. Nothing is shown for a student who has none.
+
+### No postcard or notification went out for a reward I logged
+
+**Cause** — Your school may collect logs and send postcards, certificates and notifications in a batch rather than one at a time.
+
+**Fix** — Expected. Felix shows the settings that apply before you send — check them there. They're set per class and per school by your school admin in CE, not by you.
+
+### Felix suggested the wrong value for a reward
+
+**Cause** — Felix matches the reason in your prompt against the school's values framework. Recognising intent from free text is still being improved.
+
+**Fix** — Pick the right value yourself before sending, or switch to the **Consequence** tab. Nothing is logged until you send.
+
+### Felix says a similar wellbeing note already exists
+
+**Cause** — A guardrail stops the same incident being recorded twice. A very similar note was created for that student a short time ago.
+
+**Fix** — Edit the existing note instead, cancel, or ask Felix for fresh suggestions. Check the earlier note before creating a second one.
+
+### Felix says my year group doesn't exist when I create a notice
+
+**Cause** — Felix checks what you type against your school's data before going any further.
+
+**Fix** — Correct the year group and carry on. This is the check working, not a fault.
+
+### The notices summary missed something I know was posted
+
+**Cause** — "Missed" currently means notices created in the **past 24 hours**, in the categories you follow. It doesn't yet mean unread.
+
+**Fix** — Open **Notices** for anything older, and check your interests are set — see [Follow notice categories](./04-Notices/02-follow-notice-categories.md).
+
+<!-- TO VERIFY BEFORE PUBLISHING — teacher access to a published class update.
+On 2 Jun 2026 (8:10-9:10) Meredith raised that the published PDF was only viewable
+in Dynamics CE, which teachers have no licence for. Peter confirmed a SharePoint
+folder structure (class/date) was intended but not yet built. The entry below
+states the current limitation without documenting a route that does not exist.
+Rewrite or delete it once the SharePoint path ships. -->
+
+### I can't open a class update I've already published
+
+**Cause** — A published class update is saved as a PDF in CE, which most teaching staff have no licence for.
+
+**Fix** — Parents receive the update in the Parent Experience Platform as normal, so publishing has worked. A route for teachers to open their own published updates is being built — until it ships, ask a member of staff with CE access if you need a copy.
