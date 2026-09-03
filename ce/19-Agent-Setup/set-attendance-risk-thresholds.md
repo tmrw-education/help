@@ -2,8 +2,8 @@
 draft: true
 id: set-attendance-risk-thresholds
 summary:
-  - "Go to **System settings > Attendance threshold setting** in the administrator app, or **School profile > System management**."
-  - "Add a threshold with a **name**, a **risk level**, an attendance **range** and the **school**."
+  - "Go to **System settings ▸ Settings ▸ Active Attendance Thresholds** in the administrator app, or **School profile ▸ System management**."
+  - "Add a threshold with a **Risk** name, **Risk level**, an attendance range."
   - "Cover the whole range from 0% upwards with no gaps and no overlaps."
 keywords: [attendance threshold, attendance risk level, set attendance thresholds, high medium low risk attendance, attendance compliance checker setup, attendance range school, KHDA attendance policy, agent configuration attendance]
 video:
@@ -33,18 +33,18 @@ No screenshots available — add to ./images/ from a UAT build. -->
 # Set attendance risk thresholds
 
 The attendance compliance checker sorts students into risk bands by comparing their
-attendance against thresholds you set. Until these exist the agent has nothing to
+attendance percentages against thresholds you set. Until these exist, the agent has nothing to
 measure against — it cannot band students, and the leave request approver cannot
 assess whether a student is at risk either.
 
 Thresholds are set **per school**, because schools do not all work to the same
-figure.
+attendance values.
 
 1. Open the threshold settings
 
    There are two routes to the same setting — use whichever suits you:
 
-   - In the administrator app, go to **System settings > Attendance threshold setting**.
+   - In the administrator app, go to **System settings ▸ Settings ▸ Active Attendance Threshold**.
    - Or open the **School profile** and go to the **System management** module, then **Attendance threshold**.
 
    > **Note:** The school profile view lists the thresholds in ascending order,
@@ -55,14 +55,15 @@ figure.
 
    Click to add a new threshold and complete:
 
-   - **Name** — what the band is called at your school, for example *High risk*.
+   - **Risk** — what the band is called at your school, for example *High risk*.
    - **Risk level** — **High**, **Medium** or **Low**.
-   - **Range** — the attendance percentages the band covers. Decimals are accepted, so 91.99 is valid.
-   - **School** — the school the threshold applies to.
+   - **Min Value** and **Max Value** — the attendance percentages the band covers. Decimals are accepted, so 91.99 is valid.
 
    > **Note:** The name and the risk level are not cross-checked. Nothing stops you
    > naming a band *High risk* and setting its level to **Low**, so check them
    > against each other before saving.
+
+   ![New Attendance Threshold Form](./images/set-attendance-risk-thresholds-1.png)
 
 3. Cover the whole range
 
@@ -79,8 +80,7 @@ figure.
 
 4. Save
 
-   Save the threshold. It takes effect on the agent's next scheduled run — see
-   [Schedule the attendance compliance checker](./schedule-the-attendance-compliance-checker.md).
+   Save the threshold. It takes effect on the agent's next scheduled run.
 
 ## Who sets this up
 
