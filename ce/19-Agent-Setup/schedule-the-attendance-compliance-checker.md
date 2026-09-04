@@ -40,7 +40,7 @@ school needs its own schedule — without one, the agent never runs at all.
 
    - **Trigger time** — the time of day the agent runs, for example, 4 pm.
    - **Recurrence** — **daily**, **weekly** or **monthly**.
-   - **Day** — for a weekly schedule, the day of the week; for monthly, the day of the month.
+   - **Day** — for a weekly schedule, the day of the week; for monthly, the day of the month.  
 
    > **Note:** For a monthly schedule set to day 31, the agent runs on the last day
    > of any shorter month — 28 February, for example.
