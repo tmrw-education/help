@@ -2,7 +2,7 @@
 draft: true
 id: upload-the-attendance-intervention-library
 summary:
-  - "Go to **Service management > Reference data** to find the attendance policy and intervention library."
+  - "Go to **Service management ▸ Reference data** to find the attendance policy and intervention library."
   - "Download the **Excel template**, then set out the signals and the actions for each risk level."
   - "Upload the completed file — the agent recommends only from what it holds."
 keywords: [intervention library, attendance intervention library, attendance policy reference data, agent recommendations attendance, upload intervention template, risk level actions, service management reference data]
@@ -28,17 +28,16 @@ No screenshots available — add to ./images/ from a UAT build. -->
 
 # Upload the attendance intervention library
 
-The intervention library is the school's own answer to *what do we do when a student
-falls into this risk band?* The attendance compliance checker reads it, matches a
+The intervention library includes the school's policy and action plan for each attendance risk band. The attendance compliance checker reads it, matches a
 student's situation against it, and recommends only the actions it finds there.
 
 This is what keeps the agent's recommendations consistent and within school policy.
-Without a library the agent still produces recommendations, but they come from the
-model's general reasoning — nothing controls them and nothing makes them repeatable.
+Without a library, the agent still produces recommendations, but they come from the
+model's general reasoning — nothing controls them, and nothing makes them repeatable.
 
 1. Open the reference data
 
-   Go to **Service management > Reference data**. The attendance policy and the
+   Go to **Service management ▸ Reference data**. The attendance policy and the
    intervention library are both held here.
 
 2. Download and complete the template
