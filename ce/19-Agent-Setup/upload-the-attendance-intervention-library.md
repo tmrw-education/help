@@ -2,9 +2,9 @@
 draft: true
 id: upload-the-attendance-intervention-library
 summary:
-  - "Go to **Service management ▸ Reference data** to find the attendance policy and intervention library."
+  - "In the administrator app, go to **Reference data** to find the **Active Intervention Actions** library."
   - "Download the **Excel template**, then set out the signals and the actions for each risk level."
-  - "Upload the completed file — the agent recommends only from what it holds."
+  - "Upload the completed file — the agent recommends only from what is uploaded and saved in the library."
 keywords: [intervention library, attendance intervention library, attendance policy reference data, agent recommendations attendance, upload intervention template, risk level actions, service management reference data]
 video:
   youtube:
@@ -37,26 +37,27 @@ model's general reasoning — nothing controls them, and nothing makes them repe
 
 1. Open the reference data
 
-   Go to **Service management ▸ Reference data**. The attendance policy and the
-   intervention library are both held here.
+   Go to **Reference data** and click **Intervention Actions**. The **Active Intervention Actions** are held there.
 
 2. Download and complete the template
 
-   Download the **Excel template**. It is a table of risk levels against the
+   Match the Excel sheet to the provided headings. It is a table of risk levels against the
    interventions the school wants applied, with a row per condition. For each risk
    level — high, medium and low — set out:
 
-   - The **signals** that should trigger an intervention, for example missing work, or a grade dropping between assessments.
-   - The **actions** the agent should recommend when a student shows them.
+   - The **Signal Condition** that should trigger an intervention, for example, missing work, or a grade dropping between assessments.
+   - The agent will use the **Action Description** and the **Action Method** to inform which intervention action to take.
+
+   [Headings in the Active Intervention Library](./images/upload-the-attendance-intervention-library-1.png)
 
 3. Upload the completed file
 
-   Upload the file against the school. The agent picks it up on its next scheduled
+   Import the sheet from Excel to populate the library. The agent picks it up on its next scheduled
    run.
 
 4. Check the result
 
-   Open a flagged student in StaffXP. The **must do** list on their risk profile is
+   Open a flagged student in StaffXP. The intervention actions list on their risk profile is
    drawn from this library. A student showing several signals at once — missed
    homework, negative wellbeing notes, a dropping grade, and time already spent in
    the lower bands — sees the actions your library defines for that combination.
@@ -64,7 +65,7 @@ model's general reasoning — nothing controls them, and nothing makes them repe
 ## Who sets this up
 
 The school admin. What a school does about attendance is the school's own policy,
-and it is what the agent's recommendations are held to.
+and the agent's recommendations are held to it.
 
 > **Note:** Review the library whenever school policy changes. The agent does not
 > look anything up outside CE — it works from what is uploaded here and from the
