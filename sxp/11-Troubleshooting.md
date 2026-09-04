@@ -695,12 +695,12 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 **Fix** — Open **Notices** for anything older, and check your interests are set — see [Follow notice categories](./04-Notices/02-follow-notice-categories.md).
 
-<!-- TO VERIFY BEFORE PUBLISHING — teacher access to a published class update.
+{/* TO VERIFY BEFORE PUBLISHING — teacher access to a published class update.
 On 2 Jun 2026 (8:10-9:10) Meredith raised that the published PDF was only viewable
 in Dynamics CE, which teachers have no licence for. Peter confirmed a SharePoint
 folder structure (class/date) was intended but not yet built. The entry below
 states the current limitation without documenting a route that does not exist.
-Rewrite or delete it once the SharePoint path ships. -->
+Rewrite or delete it once the SharePoint path ships. */}
 
 ### I can't open a class update I've already published
 

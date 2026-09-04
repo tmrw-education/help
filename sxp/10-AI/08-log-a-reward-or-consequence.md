@@ -10,14 +10,14 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 26 Aug 2026 Agent walkthrough (50:28–1:05:00, primary);
+{/* SOURCE — 26 Aug 2026 Agent walkthrough (50:28–1:05:00, primary);
 2 Jul 2026 AI Agents Sprint Demo (0:04–10:20).
 TO RE-VERIFY BEFORE PUBLISHING: intent recognition from a free-text reason was
 described by Peter as "not exactly perfect" and still being improved (2 Jul,
 3:00–3:20). Milestone thresholds (50 / 450 / 1,000) are GEMS values and are
 configurable in CE — Peter could not locate the CE screen during the demo, so the
 CE cross-reference in "Milestones and certificates" needs confirming.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # Log a reward or consequence
 

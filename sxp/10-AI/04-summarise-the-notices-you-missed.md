@@ -10,12 +10,12 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 21 Apr 2026 AI Agents Sprint Demo (9:50–12:10);
+{/* SOURCE — 21 Apr 2026 AI Agents Sprint Demo (9:50–12:10);
 9 Apr 2026 (30:28, attempt failed on connectivity).
 TO RE-VERIFY BEFORE PUBLISHING: "missed" currently means the past 24 hours only,
 because the read/unread flag had not been developed for notices. Once that flag
 ships, "missed" is intended to mean unread — rewrite step 1 then.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # Summarise the notices you missed
 

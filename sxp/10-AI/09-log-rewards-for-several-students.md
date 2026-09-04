@@ -10,11 +10,11 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 26 Aug 2026 Agent walkthrough (1:00:10–1:01:00);
+{/* SOURCE — 26 Aug 2026 Agent walkthrough (1:00:10–1:01:00);
 2 Jul 2026 AI Agents Sprint Demo (4:00–6:40).
 TO RE-VERIFY BEFORE PUBLISHING: a student-selection glitch was hit during the
 2 Jul demo (7:10) though the flow completed.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # Log rewards for several students
 

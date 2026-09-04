@@ -10,12 +10,12 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 26 Aug 2026 Agent walkthrough (13:24–21:47, 33:01–34:52, 1:05:46–1:08:35).
+{/* SOURCE — 26 Aug 2026 Agent walkthrough (13:24–21:47, 33:01–34:52, 1:05:46–1:08:35).
 TO RE-VERIFY BEFORE PUBLISHING: the canvas styling was being reworked to match the
 standalone EduScope app. Download and print were named on screen but not clicked.
 The standalone EduScope app is a marketplace product — confirm with the product
 team whether it needs any mention here at all before publishing.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # View a student progress report
 

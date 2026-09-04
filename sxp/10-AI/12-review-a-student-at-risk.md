@@ -10,14 +10,14 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
+{/* SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
 Request (0:07–14:38); 26 Aug 2026 Agent walkthrough (0:03–3:00).
 TO RE-VERIFY BEFORE PUBLISHING:
 (1) Outlook was not connected in either demo environment — Peter described the
     Send email button as opening an Outlook pop-up but never clicked it.
 (2) Academic average is named as a supporting data point but is being built for
     phase four and is not present at this release.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # Review a student at attendance risk
 

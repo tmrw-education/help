@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 26 Aug 2026 Agent walkthrough (1:03:00–1:04:40, teacher view);
+{/* SOURCE — 26 Aug 2026 Agent walkthrough (1:03:00–1:04:40, teacher view);
 2 Jul 2026 AI Agents Sprint Demo (8:30–10:20).
 TO CONFIRM BEFORE PUBLISHING:
 (1) The leader / admin cross-class view was shown only in passing (26 Aug,
@@ -18,7 +18,7 @@ TO CONFIRM BEFORE PUBLISHING:
     through. The section below is thin and needs a proper demo.
 (2) "Ask Felix to suggest a reward" was named as available from the insight
     (1:04:20) but was not demonstrated.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # View the rewards dashboard
 

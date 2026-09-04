@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
+{/* SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
 Request (14:38–21:43).
 TO RE-VERIFY BEFORE PUBLISHING:
 (1) The demo tenant had no attendance thresholds configured, so the AI
@@ -19,7 +19,7 @@ TO RE-VERIFY BEFORE PUBLISHING:
     80") was never seen on screen. Step 4 is written from his description.
 (2) What the parent receives after a decision was not shown or described. Left
     out deliberately — add once confirmed.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # Review and decide a leave request
 

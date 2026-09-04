@@ -10,7 +10,7 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 26 Aug 2026 Agent walkthrough (34:53–44:50, primary);
+{/* SOURCE — 26 Aug 2026 Agent walkthrough (34:53–44:50, primary);
 2 Jun 2026 AI Agents Sprint Demo (0:05–12:22).
 TO RE-VERIFY BEFORE PUBLISHING:
 (1) Consent fix — on 2 Jun Meredith asked for the "replace the name with a
@@ -22,7 +22,7 @@ TO RE-VERIFY BEFORE PUBLISHING:
     intended but not built. DO NOT document a teacher access path until it exists.
 (3) Editability indicators were flagged as confusing and were awaiting a design
     pass with Ginno.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # Create a class update
 

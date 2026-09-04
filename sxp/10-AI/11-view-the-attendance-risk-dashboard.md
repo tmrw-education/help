@@ -10,14 +10,14 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
+{/* SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
 Request (0:07–14:38); 26 Aug 2026 Agent walkthrough (1:30–7:58).
 NOTE: the 26 Aug transcript began mid-session and the opening of this flow was
 lost; the 3 Sep demo restores it.
 TO RE-VERIFY BEFORE PUBLISHING: Peter noted the ad-hoc-prompt response ("your
 attendance compliance check has been queued and will be processed shortly") does
 not yet reflect the next scheduled update, and said it would be improved.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # View the attendance risk dashboard
 

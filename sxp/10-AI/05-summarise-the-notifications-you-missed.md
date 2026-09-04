@@ -10,12 +10,12 @@ video:
   bunny:
 ---
 
-<!-- SOURCE — 21 Apr 2026 AI Agents Sprint Demo (13:25–16:10).
+{/* SOURCE — 21 Apr 2026 AI Agents Sprint Demo (13:25–16:10).
 TO RE-VERIFY BEFORE PUBLISHING: at demo time the footnote opened the notification
 in a new browser tab. A change to open it in the canvas was built but held back
 from deployment — step 4 is written for the canvas behaviour. Confirm which
 shipped before publishing.
-No screenshots available — add to ./images/ from a UAT build. -->
+No screenshots available — add to ./images/ from a UAT build. */}
 
 # Summarise the notifications you missed
 
