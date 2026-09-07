@@ -2,7 +2,7 @@
 draft: true
 id: configure-leave-request-auto-approval
 summary:
-  - "Open the **approval matrix**, find your school, and set the process type to **Leave request approval**."
+  - "In **System settings**, open the **Approval Matrix**, find your school, and set the process type to **Leave request approval**."
   - "Define the conditions — **case type**, **school**, **leave type** and **absence reason**."
   - "Turn on **AI auto-approval** and check the approved, submitted and rejected values."
 keywords: [leave request auto approval, approval matrix CE, AI auto-approval, student leave approver setup, leave type absence reason, auto approve absence, leave request process type, agent configuration leave]
@@ -38,18 +38,18 @@ attendance officer with a recommendation attached.
 
 1. Open the approval matrix
 
-   Go to the **approval matrix** and find the record for your school.
+   Go to **System Settings**, click the **Approval Matrix** and find your school's record.
 
 2. Set the process type
 
-   Set **Process type** to **Leave request approval**. The agent only looks at
+   Set **Process type** to **Leave Request Approval**. The agent only looks at
    records of this type.
 
 3. Define the conditions
 
    Set the conditions that a request must meet to be approved automatically:
 
-   - **Case type** — must be **Leave request**.
+   - **Case type** — must be **Leave Request**.
    - **School** — the school this rule covers.
    - **Leave type** — must include **Request for leave** for the agent to work. You can add other types alongside it, such as *pick up early* or *late arrival*.
    - **Absence reason** — the reasons that qualify for automatic approval.
@@ -71,7 +71,7 @@ attendance officer with a recommendation attached.
    work correctly if they are wrong:
 
    - **Approved value** — must be **Approved**.
-   - **Submitted value** — must be **Pending**. This is the default, but it can be changed, so check it.
+   - **Submitted value** — must be **Pending**. This is the default, but you can change it, so check it.
    - **Rejected value** — must be **Rejected**.
 
    > **Note:** If the rejected value is set to *approved*, declined requests are
@@ -85,11 +85,11 @@ attendance officer with a recommendation attached.
 
 Requests that do not match your conditions go to the attendance officer in StaffXP,
 on the **Leave Request** table, with the parent's reason, any attachments, any
-sibling request over the same dates, and a recommendation from the agent. The
+sibling request over the same dates, and the agent's recommendation. The
 recommendation is set against the student's attendance where thresholds are
 configured — see
 [Set attendance risk thresholds](./set-attendance-risk-thresholds.md). Without
-thresholds the agent says it cannot assess risk, and the officer decides unaided.
+thresholds, the agent says it cannot assess risk, and the officer decides unaided.
 
 ## Who sets this up
 
