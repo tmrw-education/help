@@ -3,7 +3,7 @@ draft: true
 id: search-notices-by-title-or-keyword
 summary:
   - "Open **Communications**."
-  - "Type the title or a keyword into the list search box."
+  - "Type the title or a keyword into the list search box at the top right."
   - "Open the matching notice from the results."
 keywords: [search notices, find a notice by title, notice keyword search, look up a notice, search communications]
 video:
@@ -40,14 +40,14 @@ quickly.
 
 2. Search
 
-   Type the title or a keyword into the list search box and run the search.
+   Type the title or a keyword into the list search box at the top right, and run the search.
 
 3. Open the result
 
-   Open the matching notice to check its detail — see
+   Open the matching notice to check its details — see
    [View notice details](./view-notice-details.md).
 
    ![Searching the Communications list by notice title](./images/search-notices-by-title-or-keyword-1.png)
 
-   > **Note:** If a search returns nothing, check you are not still filtered to a
+   > **Note:** If a search returns nothing, check that you are not still filtered to a
    > narrower set of records from a previous session.
