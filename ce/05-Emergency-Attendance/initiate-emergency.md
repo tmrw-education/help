@@ -2,7 +2,7 @@
 draft: true
 id: initiate-emergency
 summary:
-  - "Create a case and set the **Case type** to Emergency."
+  - "Create a new case and set the **Case type** to **Emergency Case**."
   - "Set the **School**, **Emergency type**, **Declared date** and **Start time**."
   - "Save — emergency attendance records are generated for students on site."
 keywords: [initiate an emergency, declare emergency school, emergency case CE, emergency protocol activated, fire drill attendance, emergency start time]
@@ -26,9 +26,11 @@ coordinator who does this.
 
 1. Create the emergency case
 
-   Create a new case and set the **Case type** to Emergency.
+   Under **Leave Management**, click **+ New** to create a new case. In the header, set the **Case type** to **Emergency Case**.
 
-2. Set the emergency detail
+   ![Case menu in the header opened with Emergency Case selected](./images/initiate-emergency-1.png)
+
+2. Set the emergency details
 
    Complete:
 
@@ -37,9 +39,9 @@ coordinator who does this.
    - **Emergency declared date**
    - **Emergency start time**
 
-   ![An emergency case with school, emergency type, declared date and start time](./images/initiate-emergency-1.png)
+   ![An emergency case with school, emergency type, declared date and start time](./images/initiate-emergency-2.png)
 
-3. Save
+4. Save
 
    Save the case. CE pulls every attendance record for that school where the end
    time is later than the emergency start time, and creates emergency attendance
@@ -49,12 +51,12 @@ coordinator who does this.
    > are pulled in — anyone whose class had already finished is not treated as
    > being on site.
 
-4. Confirm emergency mode is active
+5. Confirm emergency mode is active
 
    The Staff Experience Platform shows **Emergency protocol activated** and
    attendance switches to emergency mode for teachers.
 
-5. Stand down
+6. Stand down
 
    Once every student is accounted for, resolve the case. The school returns to
    normal attendance.
