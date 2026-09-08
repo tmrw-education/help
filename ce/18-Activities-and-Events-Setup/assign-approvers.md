@@ -21,7 +21,7 @@ Role:    IT Admin, School admin
 # Assign approvers — who will approve which event type
 
 Which event types a person approves is decided by which approval matrices they
-appear on. To change an approver, edit the matrix rather than the event.
+appear on. To change an approver, edit the matrix, not the event.
 
 1. Find the right matrix
 
@@ -33,7 +33,7 @@ appear on. To change an approver, edit the matrix rather than the event.
    Open the **Approval matrix detail** row for the level you are changing. The
    **Order number** tells you where in the sequence this approver sits.
 
-   ![An approval matrix detail row showing the order number and approver](./images/assign-approvers-1.png)
+   ![An approval matrix detail row showing the approver](./images/assign-approvers-1.png)
 
 3. Change the approver
 
