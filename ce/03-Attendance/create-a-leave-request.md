@@ -2,7 +2,7 @@
 draft: true
 id: create-leave-request
 summary:
-  - "The parent raises the leave request in the Parent Experience Platform."
+  - "The parent raises the leave request in the Parent Experience Place (PXP) app."
   - "The request arrives in CE as a case with the student, dates and reason."
   - "Submit it for approval — once approved, attendance records update automatically."
 keywords: [create a leave request, student leave absence, parent requests leave, approve leave request, attendance updated absent, leave case CE]
@@ -21,28 +21,28 @@ Role:    School admin
 # Create a leave request
 
 Leave requests start with the parent and finish as updated attendance records.
-Parents raise them in the Parent Experience Platform; the request lands in CE as
+Parents raise them in the Parent Experience Place (PXP) application; the request lands in CE as
 a case, is approved by the attendance officer, and the student's attendance
 records are then updated automatically.
 
 1. The parent raises the request
 
-   In the Parent Experience Platform, the parent selects the child, chooses
-   whether the absence is a full day, AM or PM, picks a **Reason** — for example
+   In the Parent Experience Place, the parent selects the child, chooses
+   whether the absence is a full day, AM or PM, picks a **Reason** with a **Description**— for example
    unwell, medical appointment or family — and can attach supporting
    documentation before submitting.
 
 2. Find the case in CE
 
-   The request arrives in CE as a case carrying everything the parent entered.
-   Open it and check the detail.
+   The request arrives in CE as a case carrying everything the parent entered. Under **Leave Management**, click **Cases**.
+   Find and open the leave request and check the details.
 
    ![A leave request case in CE showing the student, dates and reason](./images/create-a-leave-request-1.png)
 
 3. Check the attendance records
 
    The case shows the existing attendance records for the student on the
-   requested dates. Before approval these show an attendance category of
+   requested dates. Before approval, these show an attendance category of
    *yet to be advised*.
 
 4. Submit for approval
@@ -55,15 +55,13 @@ records are then updated automatically.
 
 5. Approve
 
-   The attendance officer approves the request.
+   The attendance officer approves the request in SXP.
 
-6. Check the attendance updated
+6. Check the attendance update
 
    Once approved, the attendance records for those dates update automatically —
-   the category becomes **Absent** and the type is set from the reason the parent
+   the category becomes **Absent**, and the type is set from the reason the parent
    selected.
-
-   ![Attendance records updated to absent with the reason from the leave request](./images/create-a-leave-request-2.png)
 
    > **Note:** Attendance is visible from the student profile under related
    > records, so you can check a student's history without going back to the
