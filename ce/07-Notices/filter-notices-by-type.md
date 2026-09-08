@@ -3,7 +3,7 @@ draft: true
 id: filter-notices-by-type
 summary:
   - "Open **Communications** and open the filter panel."
-  - "Add a row on the communication type."
+  - "Add a row to the communication type."
   - "Choose Notice, Alert or Newsletter and apply."
 keywords: [filter notices by type, show only alerts, find newsletters, communication type filter, notice alert newsletter]
 video:
@@ -37,17 +37,17 @@ type to see just one of them.
    In the **Administration** app, open the **Service Management** area and go to
 **Communications**.
 
-2. Filter on the type
+2. Filter by type
 
-   Open the filter panel, add a row on the communication type, and choose
+   Open the filter panel, add a row for the communication type, and choose
    **Notice**, **Alert** or **Newsletter**.
 
 3. Apply
 
    Apply the filter. Combine it with a category filter to narrow further — for
-   example alerts with the category Weather.
+   example, alerts in the Weather warning category.
 
-   ![The Communications list filtered to show only alerts](./images/filter-notices-by-type-1.png)
+   ![Filter with alert and weather warning](./images/filter-notices-by-type-1.png)
 
    > **Note:** Circulars are held in a separate table and will not appear in this
    > list, whatever type filter you apply.
