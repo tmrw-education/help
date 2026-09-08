@@ -20,7 +20,7 @@ Role:    Office Admin, School Admin
 
 # View notice details
 
-Every notice — including those raised in the Staff Experience Platform — is
+Every notice — including those raised in the Staff Experience Platform (SXP) — is
 stored here as a record. This is where you go to confirm exactly what was sent
 and to whom.
 
