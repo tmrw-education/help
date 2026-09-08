@@ -2,7 +2,7 @@
 draft: true
 id: filter-notices-by-audience
 summary:
-  - "Open **Communications** and open the filter panel."
+  - "Open **Communications** and open the filter panel at the top right."
   - "Add a row and choose the audience column."
   - "Set the value and apply."
 keywords: [filter notices by audience, notices for parents, notices by year group, find notices by audience, notice audience filter]
@@ -31,7 +31,7 @@ Needs: a short walkthrough of the CE list filters on Communications.
 # Filter notices by audience
 
 Filter the communications list to see only notices aimed at a particular
-audience — for example everything sent to parents, or everything targeted at a
+audience — for example, everything sent to parents, or everything targeted at a
 year group.
 
 1. Open the list
@@ -41,7 +41,7 @@ year group.
 
 2. Add a filter row
 
-   Open the filter panel and add a row. Choose the audience column you want to
+   Open the filter panel at the top right and add a row. Choose the audience column you want to
    filter on.
 
 3. Set the value and apply
