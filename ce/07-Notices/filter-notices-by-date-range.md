@@ -48,4 +48,4 @@ live.
    ![The Communications list filtered by a date range](./images/filter-notices-by-date-range-1.png)
 
    > **Note:** To find the most recently created notices without building a
-   > filter, add the created date as a column and sort it newest first.
+   > filter, add the created date as a column and sort it from newest first.
