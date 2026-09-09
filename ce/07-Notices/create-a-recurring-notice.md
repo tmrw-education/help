@@ -16,6 +16,7 @@ Epic:    Notices (CE)
 Feature: Create and Share a Notice
 Area:    CE
 Role:    Office Admin, School Admin
+FLAG! Recurring notices have been removed from SXP. Please check again. Note: Instead of a recurring notice, the notice will display for the duration it would have recurred over.
 -->
 
 # Create a recurring notice
