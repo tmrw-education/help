@@ -2,7 +2,7 @@
 draft: true
 id: configure-approval-venue
 summary:
-  - "Create the venue or building record with its **School** and **Type**."
+  - "Create the venue or building record and complete the fields in the form."
   - "An approval record is created against it automatically."
   - "The approver opens the record and clicks **Approve** or **Reject**."
 keywords: [venue approval, approve a building, configure venue approval, new venue approval, venue approver setup]
@@ -38,8 +38,7 @@ using the approval matrix.
 
 1. Create the venue
 
-   Add the new venue or building. Set whether it is **Internal** or **External**,
-   select the **School**, and set the **Type**.
+   Add the new venue or building. Complete the fields in the form.
 
    ![Creating a new venue record with school and type set](./images/configure-approval-for-venue-1.png)
 
@@ -60,4 +59,4 @@ using the approval matrix.
 4. Confirm the venue is usable
 
    Once approved, the venue can be selected on an event, and selecting it pulls
-   the venue detail through onto the event.
+   the venue details through onto the event.
