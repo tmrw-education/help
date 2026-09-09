@@ -16,6 +16,7 @@ Epic:    Notices (CE)
 Feature: Edit and Manage a Notice
 Area:    CE
 Role:    Office Admin, School Admin
+FLAG! Recurring notices have been removed from SXP; please check. See Create a recurring notice for more details on the new version.
 -->
 
 # Update notice recurrence pattern
