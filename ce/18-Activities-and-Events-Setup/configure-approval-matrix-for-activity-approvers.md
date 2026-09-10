@@ -2,7 +2,7 @@
 draft: true
 id: configure-approval-matrix-activity-approvers
 summary:
-  - "In **System Settings**, open **Approval matrices** and click **New**."
+  - "In the **Approval Hub** app, open **Approval Matrix** and click **+ New**."
   - "Set the **School profile**, the activity **Process type** and **Event type**."
   - "Choose the **Approval flow** and add an approver row per level."
 keywords: [activity approval matrix, configure activity approvers, off-site activity approval, excursion approval matrix, approval flow activities]
@@ -31,18 +31,17 @@ exact process type values available for activities.
 # Configure approval matrix for activity approvers
 
 Off-site activities are approved through the same approval matrix mechanism as
-events. What changes is the **process type** and **event type** you match on, and
+events. What changes is the **Process Type** and **Event Type** you match on, and
 therefore who ends up approving.
 
 1. Open Approval matrices
 
-   Go to **System Settings** and open **Approval matrices**. Click **New
-   matrix**.
+   Go to the **Approval Hub** app and open **Approval Matrix**. Click **+ New**.
 
 2. Match on the activity
 
-   Set the **School profile**, then the **Process type** and the **Event type**
-   for the activity you are configuring — for example Excursion or Visit.
+   Set the **School profile**, then the **Process Type** and **Event Type**
+   for the activity you are configuring — for example, Excursion or Visit.
 
    ![An approval matrix set up for an excursion activity type](./images/configure-approval-matrix-for-activity-approvers-1.png)
 
@@ -56,10 +55,12 @@ therefore who ends up approving.
 
 4. Add the approvers
 
-   Save, then add an **Approval matrix detail** row per approver with an
+   Save, then add a row in the **Approval Matrix Details Information** table. One row per approver with an
    **Order number** and the approver's name.
 
-5. Save and confirm active
+   ![Part of the form for adding an approver to the Approval Matrix Details table](./images/configure-approval-matrix-for-activity-approvers-2.png)
+
+6. Save and confirm active
 
    Save and close. Any activity matching the school, process type and event type
    now routes through this matrix.
