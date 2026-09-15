@@ -46,9 +46,11 @@ You can also create a note from the Wellbeing pages — see
    example *low priority because this was a minor injury and first aid was given*.
    It also sets **Notify parents** and **Notify staff** to match the situation.
 
+   ![Wellbeing note draft for review in the Felix chat panel](./images/create-a-wellbeing-note-with-felix-1.png)
+
 4. Edit or add to the note
 
-   Change any field directly, or prompt Felix — for example *add some next steps
+   Change any field directly, or prompt Felix — for example, *add some next steps
    to the description*. It regenerates the note with the addition.
 
    > **Note:** Suggested next steps are general good practice, not advice drawn
@@ -67,6 +69,6 @@ You can also create a note from the Wellbeing pages — see
 
 ## If a similar note already exists
 
-If a note very like this one was created for the same student a short time ago,
+If a note similar to this one was created for the same student a short time ago,
 Felix stops and tells you. You can edit the existing note instead, cancel, or ask
 Felix for fresh suggestions — so the same incident is not recorded twice.
