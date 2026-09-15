@@ -45,6 +45,8 @@ each, grouped by interest.
    Felix returns a short summary per interest, covering the notices posted in
    each.
 
+   ![Felix notice summary showing the latest notices](./images/summarise-the-notices-you-missed-1.png)
+
 4. Open a notice in full
 
    Each summary carries a **footnote** link. Click it to open the **Notices**
