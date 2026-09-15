@@ -10,6 +10,8 @@ video:
   bunny:
 ---
 
+# Create a wellbeing note with Felix
+
 {/* SOURCE — 21 Apr 2026 AI Agents Sprint Demo (0:04–9:45, primary);
 9 Apr 2026 (19:13–24:20).
 TO RE-VERIFY BEFORE PUBLISHING: skipping the attachment step errored on 21 Apr
@@ -17,8 +19,6 @@ TO RE-VERIFY BEFORE PUBLISHING: skipping the attachment step errored on 21 Apr
 option errored on 9 Apr and was not re-demonstrated. Both steps are written from
 intended behaviour and must be checked on a fixed build.
 No screenshots available — add to ./images/ from a UAT build. */}
-
-# Create a wellbeing note with Felix
 
 Felix can raise a wellbeing note from a description of what happened. It picks the
 note type, sentiment and priority from what you write, explains why it chose them,

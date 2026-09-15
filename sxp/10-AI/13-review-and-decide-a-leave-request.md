@@ -10,6 +10,8 @@ video:
   bunny:
 ---
 
+# Review and decide a leave request
+
 {/* SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
 Request (14:38–21:43).
 TO RE-VERIFY BEFORE PUBLISHING:
@@ -20,8 +22,6 @@ TO RE-VERIFY BEFORE PUBLISHING:
 (2) What the parent receives after a decision was not shown or described. Left
     out deliberately — add once confirmed.
 No screenshots available — add to ./images/ from a UAT build. */}
-
-# Review and decide a leave request
 
 When a parent asks for their child to be away from school, the request comes to the
 attendance officer with the context needed to decide it — the reason, any

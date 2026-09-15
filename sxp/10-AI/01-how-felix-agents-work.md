@@ -10,12 +10,12 @@ video:
   bunny:
 ---
 
+# How Felix and the AI agents work
+
 {/* SOURCE — written from the AI agent sprint demos (9 Apr, 21 Apr, 2 Jun, 2 Jul 2026),
 the 26 Aug 2026 agent walkthrough, and the 3 Sep 2026 attendance compliance and
 student leave request demo. Screenshots cannot be taken from the demo builds —
 add images to ./images/ once a UAT environment is available. */}
-
-# How Felix and the AI agents work
 
 **Felix** is the assistant in StaffXP's chat panel. Behind Felix sits a set of
 **agents** — each one handles a single job, such as writing a notice, drafting a

@@ -10,6 +10,8 @@ video:
   bunny:
 ---
 
+# Log a reward or consequence
+
 {/* SOURCE — 26 Aug 2026 Agent walkthrough (50:28–1:05:00, primary);
 2 Jul 2026 AI Agents Sprint Demo (0:04–10:20).
 TO RE-VERIFY BEFORE PUBLISHING: intent recognition from a free-text reason was
@@ -18,8 +20,6 @@ described by Peter as "not exactly perfect" and still being improved (2 Jul,
 configurable in CE — Peter could not locate the CE screen during the demo, so the
 CE cross-reference in "Milestones and certificates" needs confirming.
 No screenshots available — add to ./images/ from a UAT build. */}
-
-# Log a reward or consequence
 
 Felix logs rewards and consequences against a student, works out which of your
 school's values the behaviour demonstrates, and creates the postcard that the

@@ -10,12 +10,12 @@ video:
   bunny:
 ---
 
+# Create a notice with Felix
+
 {/* SOURCE — 9 Apr 2026 AI Agents Sprint Demo (0:04–9:50, 10:37–19:13).
 TO RE-VERIFY BEFORE PUBLISHING: the design pass with Ginno had not been applied
 when this was recorded, and a templated starter prompt was under discussion.
 No screenshots available — add to ./images/ from a UAT build. */}
-
-# Create a notice with Felix
 
 Felix can write and publish a notice for you from a plain-English prompt. It
 suggests the title and description, works out the category and audience from what
