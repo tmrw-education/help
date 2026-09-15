@@ -17,21 +17,26 @@ add images to ./images/ once a UAT environment is available. */}
 
 # How Felix and the AI agents work
 
-**Felix** is the assistant in the chat panel of StaffXP. Behind Felix sits a set of
+**Felix** is the assistant in StaffXP's chat panel. Behind Felix sits a set of
 **agents** — each one handles a single job, such as writing a notice, drafting a
 class update, or logging a reward. You do not choose an agent; you describe what
-you want and Felix hands the request to the right one.
+you want, and Felix hands the request to the right one.
 
 1. Open Felix and describe what you want
 
    Open the **Felix** panel and type what you are trying to do — for example
    *create a notice*, *log a reward for Sophie*, or *what notices did I miss?*
-   You can also use **voice input** instead of typing.
+   You can also use **voice input** instead of typing, or select from pre-added prompts in the chat panel.
+   The Felix panel is on the right of the screen, or you can click the icon at the bottom right to open the chat panel.
 
-   > **Note:** There is no navigation entry point for any agent. Menus, buttons
+   > **Note:** No agent has a navigation entry point. Menus, buttons
    > and tiles will not take you to them — prompting Felix is the only route.
+   
+   ![Felix icon](./images/how-felix-agents-work-1.png)
 
-2. Use the keyword that names what you want
+   ![Felix chat panel opened on the screen](./images/how-felix-agents-work-2.png)
+
+3. Use the keyword that names what you want
 
    Felix matches your wording against what each agent does, so include the word
    that identifies the job. *Dashboard* on its own returns nothing, because it
@@ -39,7 +44,7 @@ you want and Felix hands the request to the right one.
    dashboard** works. You do not have to phrase it exactly as written in this
    guide — close and near matches are recognised.
 
-3. Give as much detail as you have
+4. Give as much detail as you have
 
    The more your first prompt contains, the less Felix has to ask you. A short
    prompt such as *create a notice* is fine — Felix simply asks you the questions
@@ -50,7 +55,7 @@ you want and Felix hands the request to the right one.
    > **Note:** Whichever way you start, Felix circles back for anything required
    > that is still missing before it will let you finish.
 
-4. Confirm the student when Felix asks
+5. Confirm the student when Felix asks
 
    When you name a student, Felix confirms who you mean before doing anything —
    it shows the **full name** and **student ID**. If several students match, they
@@ -58,14 +63,14 @@ you want and Felix hands the request to the right one.
    always: a misspelling that is also a real word cannot be told apart from what
    you meant, so check the name Felix offers before you confirm.
 
-5. Check and edit before you commit
+6. Check and edit before you commit
 
    Every agent shows you a preview before anything is created, sent or published.
    You can edit fields directly, prompt Felix to change something (*add the
    location*, *add some next steps*), or cancel. Nothing reaches a parent or
    student until you confirm.
 
-6. Know what Felix can see
+7. Know what Felix can see
 
    Felix works only within your access. A teacher sees the students in the classes
    they teach; a school leader sees their whole school. There is no cross-school
@@ -96,7 +101,7 @@ you want and Felix hands the request to the right one.
 
 ## What Felix is good at, and what it is not
 
-Felix is at its best when you do not know where to go. It scaffolds a process you
+Felix is best when you don't know where to go. It scaffolds a process you
 have not done before and asks for what it needs, so a new starter can publish a
 notice without first learning where the form lives. If you already know the
 screen and use it every day, the form route is often the quicker one — the agent
