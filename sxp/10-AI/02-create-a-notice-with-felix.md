@@ -26,7 +26,7 @@ You can also create a notice on the form — see
 
 1. Start with a prompt
 
-   Open **Felix** and describe the notice — for example *create a cultural event
+   Open **Felix** and describe the notice — for example, *create a cultural event
    notice for Years 5 and 10*. A short prompt works too: Felix simply asks you
    more questions.
 
@@ -41,10 +41,12 @@ You can also create a notice on the form — see
    change the category, or toggle **RSVP** off if attendance does not need
    confirming.
 
+   ![Felix feedback for the prompt to create a cultural notice for years 5 and 10](./images/create-a-notice-with-felix-1.png)
+
 3. Choose a title
 
    Felix suggests a title. Accept it, ask for **alternatives**, or prompt for a
-   change — for example *suggest a title with the event date, Thursday next week*.
+   change — for example, *suggest a title with the event date, Thursday next week*.
    Anything new you mention here is picked up later in the flow.
 
 4. Generate the description
@@ -52,6 +54,8 @@ You can also create a notice on the form — see
    Felix drafts the description from what it knows so far. Prompt it to add
    anything missing — for example *add the location: the main campus yard* — and
    it regenerates.
+
+   ![Edit or review the Felix generated fields for completing the notice creation](./images/create-a-notice-with-felix-2.png)
 
 5. Complete the audience
 
@@ -88,7 +92,7 @@ You can also create a notice on the form — see
    start time in the past, or a **Visible from** date later than **Visible
    until**. Then click **Publish**.
 
-9. Find the published notice
+11. Find the published notice
 
    Go to **Notices** and open the card to see it as everyone else will. See
    [Find and read notices](../04-Notices/01-find-and-read-notices.md).
