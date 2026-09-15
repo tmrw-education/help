@@ -32,7 +32,7 @@ you want, and Felix hands the request to the right one.
    > **Note:** No agent has a navigation entry point. Menus, buttons
    > and tiles will not take you to them — prompting Felix is the only route.
    
-   <img src={require('./images/how-felix-agents-work-1.png').default} alt="Felix icon" width="52" />
+   ![Felix icon](./images/how-felix-agents-work-1.png)
 
    ![Felix chat panel opened on the screen](./images/how-felix-agents-work-2.png)
 
