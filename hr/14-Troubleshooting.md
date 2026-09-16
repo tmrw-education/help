@@ -402,7 +402,7 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 
 **Cause** — The workflow has no condition on the system generated leave flag.
 
-**Fix** — Open the **Leave and absence request** workflow for that legal entity and add the condition that auto-approves requests where **system generated leave** is **Yes**. See [Configure the leave approval workflow](./11-Leave/02-configure-leave-approval-workflow.md).
+**Fix** — Open the **Leave and absence request** workflow for that legal entity and add the condition that auto-approves requests where **system generated leave** is **Yes**.
 
 ### I moved a holiday but the balance hasn't changed
 
@@ -491,3 +491,89 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 **Cause** — The **from date** and **to date** used when running the batch don't match the period on the fare records.
 
 **Fix** — The pro-rata is measured against the dates entered on the batch, so a mismatch skews every line. Rerun with the dates set to the airfare period held in the airfare setup.
+
+## Performance
+
+### The performance review batch ran but no reviews were created
+
+**Cause** — The creation date falls outside the performance period selected.
+
+**Fix** — The creation date must sit inside the start and end dates of the period you are releasing. Check it against the period dates and run the job again. See [Generate performance reviews](./13-Performance/06-generate-performance-reviews.md).
+
+### I can't find the performance review batch job
+
+**Cause** — It is being searched for by name rather than opened from where the custom jobs are grouped.
+
+**Fix** — Go to **System administration ▸ Periodic tasks ▸ GEMS periodic batch jobs**. Probation, performance and talent review jobs are all grouped there.
+
+### The batch generated reviews for the whole company
+
+**Cause** — The personnel number was left blank.
+
+**Fix** — This is how the job works: a blank personnel number generates for everyone in the legal entity. Enter a personnel number to generate for one employee only.
+
+### Reviews were generated but carry the wrong goals
+
+**Cause** — The review template selected doesn't match the period being released.
+
+**Fix** — Each period has its own template. Check which template is attached to the run and reissue with the matching one. The goals on a review are copied from the template at the point of generation, so correcting the template afterwards doesn't update reviews already created.
+
+### A generated review has no goals on it
+
+**Cause** — No goal templates have been added to the review template.
+
+**Fix** — Open the review template and add the goal templates it should carry. See [Set up review templates](./13-Performance/02-set-up-review-templates.md).
+
+### The total and average scores are showing as zero
+
+**Cause** — The scores are calculated when the manager submits the end of year review.
+
+**Fix** — This is expected before submission. If the scores are still zero after the end of year review has been submitted, check that the rating weight factor is switched on for the review template — without it the calculation doesn't run.
+
+### A performance period isn't working
+
+**Cause** — The performance year is not attached to the period.
+
+**Fix** — Open the period and set the **Performance year**. Every period needs its year attached. See [Set up performance periods](./13-Performance/04-set-up-performance-periods.md).
+
+### PIP and PDP goals have no ratings or weightings
+
+**Cause** — None are recorded against them by design.
+
+**Fix** — This is expected. PIP and PDP goals are released ad hoc to support an employee's development and sit outside the weighted scoring.
+
+### The goal setting reviews have no manager ratings
+
+**Cause** — Managers comment at goal setting but do not rate.
+
+**Fix** — This is expected. Ratings start at the mid year review.
+
+### Calibration has nothing to compare against
+
+**Cause** — No calibration framework has been set up against the performance year.
+
+**Fix** — Open the performance year, open its calibration framework, and enter the expected percentage for each rating band. See [Set up the performance year and calibration framework](./13-Performance/03-set-up-the-performance-year-and-calibration-framework.md).
+
+### The calibrated rating is blank in the calibration inquiry
+
+**Cause** — The employee has not been calibrated yet.
+
+**Fix** — This is expected until HR calibrates them. Filtering on blank calibrated ratings gives you the outstanding list. See [Monitor the calibration inquiry](./13-Performance/08-monitor-the-calibration-inquiry.md).
+
+### Ratings were released to the manager but the employees still can't see them
+
+**Cause** — The manager has not published to their direct reports yet.
+
+**Fix** — Release to manager and publish to employees are two separate steps. Check the **released to direct reports** flag in the calibration inquiry to find the managers who still have a step outstanding.
+
+### I can't place the same measure in two boxes on the matrix
+
+**Cause** — A value can only be defined once across the growth and performance matrix.
+
+**Fix** — Clear the value from its existing box before placing it in the new one.
+
+### A matrix move in ESS hasn't appeared on the employee record
+
+**Cause** — The update isn't instant.
+
+**Fix** — Allow a moment and refresh. The placement is written to the employee's talent review record under the **Work** tab. See [View talent review records](./13-Performance/09-view-talent-review-records.md).

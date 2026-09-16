@@ -50,4 +50,4 @@ When a whole group needs the same leave booked—for example, a scheduled closur
 
    ![The time off requests list showing the bulk-created requests completed](./images/submit-bulk-leave-requests-3.png)
 
-   If the requests stay in review, the workflow is missing the auto-approval condition —see [Configure the leave approval workflow](./02-configure-leave-approval-workflow.md).
+   If the requests stay in review, the **Leave and absence request** workflow for that legal entity is missing the condition that auto-approves requests where **system generated leave** is **Yes**.

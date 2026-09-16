@@ -45,7 +45,7 @@ Public holidays are frequently announced or moved after employees have already b
 
    ![A system-generated leave request created by a calendar change, showing the flag set to Yes and the request completed](./images/manage-public-holiday-changes-3.png)
 
-   If these requests stay in review instead of completing, the workflow is not set to allow auto-approval — see [Configure the leave approval workflow](./02-configure-leave-approval-workflow.md).
+   If these requests stay in review instead of completing, the **Leave and absence request** workflow for that legal entity is missing the condition that auto-approves requests where **system generated leave** is **Yes**.
 
 6. Verify the balances
 

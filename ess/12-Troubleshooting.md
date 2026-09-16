@@ -399,3 +399,95 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 **Cause** — Balances update when a calendar change is applied, or when a request is approved or cancelled.
 
 **Fix** — Check your recent time off requests for a system-generated entry. If the balance still looks wrong, contact your HR team — they can see the full history against each request.
+
+## Performance
+
+### I can't submit my review — there's an error about weightage
+
+**Cause** — Your goal weightings do not add up to 100%.
+
+**Fix** — Go back through your goals and adjust the weightings until they total exactly 100. You can't go over 100% either, so the figures have to balance before the review will submit. See [Submit your goal setting review](./11-Performance/01-submit-your-goal-setting-review.md).
+
+### My review isn't in Skills and performance
+
+**Cause** — Reviews are released by HR as a batch rather than created by you.
+
+**Fix** — If your colleagues have theirs and you don't, contact your HR team — your review may not have been included in the run.
+
+### My goal setting review has disappeared
+
+**Cause** — It has been submitted and processed.
+
+**Fix** — This is expected. Once submitted, your review moves to your manager and is removed from your list of outstanding reviews.
+
+### I can't edit my review after submitting it
+
+**Cause** — Reviews become read-only once submitted.
+
+**Fix** — You can still open the review and see everything you entered, but it can't be changed. If something needs correcting, speak to your manager.
+
+### I missed my goal setting or mid year review — can I still do my end of year one?
+
+**Cause** — Nothing blocks it.
+
+**Fix** — You can complete your end of year review even where earlier stages were missed. The system does not stop you.
+
+### Some of my goals have no rating or weighting
+
+**Cause** — PIP and PDP goals aren't scored.
+
+**Fix** — This is expected. They are there to support your development rather than to be weighted into your overall result.
+
+### My total and average scores are showing as zero
+
+**Cause** — They are calculated when your manager submits your end of year review.
+
+**Fix** — This is expected before that point. The figures appear once the review has been submitted.
+
+### My final rating hasn't appeared
+
+**Cause** — Your manager has not published it yet.
+
+**Fix** — Your rating is published after calibration is complete. Your manager speaks to you before publishing, so if you have had no conversation and your rating is overdue, contact them. See [View your calibrated rating](./11-Performance/09-view-your-calibrated-rating.md).
+
+### My final rating is different from what my manager told me
+
+**Cause** — Ratings can change during calibration, where performance is compared across the organisation.
+
+**Fix** — Your manager should have discussed any change with you before publishing. Speak to them if the published rating is not what you expected.
+
+### I'm a manager but I can't see my team's reviews
+
+**Cause** — Nothing is waiting for you, or the review hasn't been submitted yet.
+
+**Fix** — Reviews only appear in your manager view once the employee has submitted and the status is **Ready for review**.
+
+### I can't change an employee's career aspirations
+
+**Cause** — That section is submitted by the employee and locked to managers.
+
+**Fix** — This is expected. You can see the aspirations and comment elsewhere in the review, but the section itself can't be edited. The same applies to training the employee has marked as completed.
+
+### I can't see the calibration or growth and performance screens
+
+**Cause** — These views need HR access.
+
+**Fix** — The HR view of calibration, the growth and performance matrix and talent view are restricted. Managers without HR access see only the calibration manager view, and only once ratings have been released to them.
+
+### My calibration manager view is empty
+
+**Cause** — HR has not released any ratings to you yet.
+
+**Fix** — The view populates once HR completes calibration and releases. Until then there is nothing to show.
+
+### I can only select four employees to compare
+
+**Cause** — Talent comparison is capped at four at a time.
+
+**Fix** — This is a deliberate limit that keeps the comparison readable. Compare in batches of four. See [Compare talent profiles](./11-Performance/11-compare-talent-profiles.md).
+
+### An employee's talent comparison fields are empty
+
+**Cause** — Their talent review hasn't been completed.
+
+**Fix** — Open the employee from the growth and performance matrix using the three dots and complete their talent review. See [Use the growth and performance matrix](./11-Performance/10-use-the-growth-and-performance-matrix.md).

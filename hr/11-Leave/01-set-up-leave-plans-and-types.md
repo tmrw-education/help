@@ -64,4 +64,4 @@ Leave plans contain your leave types. There is no limit on how many plans you cr
 
    ![The Enrolled workers view on a leave plan showing worker, enrolment date, basis, worker type, position type and department](./images/set-up-leave-plans-and-types-3.png)
 
-   Workers are enrolled through the hire and promotion worker actions rather than added here by hand — see [Assign leave plans through the hire worker action](./06-assign-leave-plans-on-hire.md).
+   Workers are enrolled through the hire and promotion worker actions rather than added here by hand — see [Assign leave plans through the hire worker action](./05-assign-leave-plans-on-hire.md).

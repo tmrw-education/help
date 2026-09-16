@@ -22,5 +22,6 @@ Use the sidebar to navigate by topic, or use the search bar to find what you nee
 - **Benefits** — viewing your benefits statement
 - **Learning** — viewing the GEMSU courses assigned to you and tracking your progress
 - **Leave** — requesting time off, attaching medical certificates, cancelling leave, and how calendar changes affect your bookings
+- **Performance** — goal setting, mid year and end of year reviews, giving feedback to your team, and viewing your calibrated rating
 - **Troubleshooting** — common problems and how to resolve them
 - **Glossary** — the terms used across ESS

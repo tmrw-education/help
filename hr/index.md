@@ -22,5 +22,6 @@ Use the sidebar to navigate by topic, or use the search bar to find a specific p
 - **Learning** — reviewing GEMSU course data, monitoring the integration log, and importing course records
 - **Leave** — setting up leave plans and types, approval and validation rules, plan assignment through worker actions, calendar changes, and bulk submissions
 - **Airfare** — age groups and fare rates, the employee and dependent details that drive the calculation, running the calculation batch, and reading the calculated amounts
+- **Performance** — goal and review templates, the performance year and calibration framework, generating reviews, tracking them through the cycle, and the calibration and talent review records
 - **Troubleshooting** — common problems and how to resolve them
 - **Glossary** — the terms used across D365 HR

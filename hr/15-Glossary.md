@@ -21,6 +21,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Apply Onboarding Checklist | A flag on a personal action type that causes the nominated default onboarding checklist to be applied automatically when a worker action of that type completes. |
 | Assigned To | The field on a checklist task naming who is responsible — a specific person, a user group, or left blank for manual assignment at the time of hire. |
 | Attachment Mandatory for Company | A setting on an identification type that requires a supporting file before an employee can submit that document in ESS. When enabled, the ESS **Submit** button stays disabled until a file is uploaded. |
+| Average Score | The mean of an employee's weighted ratings across the performance cycle. Calculated when the manager submits the end of year review, and only produced if the rating weight factor is enabled on the review template. |
 
 ## B
 
@@ -35,9 +36,12 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | Calculated Airfare | The airfare disbursement inquiry — the form holding the output of the calculation, with one line for the employee and one per dependent for the period the batch was run for. Rerunning the batch for an employee overwrites their lines for that period. |
+| Calibrated Rating | The rating an employee holds after calibration. Blank in the calibration inquiry until HR has calibrated them, and shown alongside the provisional rating so a change is visible. |
+| Calibration Framework | The expected distribution of ratings, entered as a percentage per rating band against the performance year. It is the curve actual results are compared against during calibration. |
+| Calibration Inquiry | The D365 form listing every review submitted for calibration, with the review and employee IDs, the final employee rating, the calibrated rating, the manager, and the two release flags. |
 | Cancellation Window | The parameter limiting how far back leave can be cancelled from ESS, measured from the leave start date rather than the submission date. Set per legal entity. |
 | Company | A legal entity in D365 — in practice, an individual school. Used to scope checklist tasks, user groups, and identification rules. |
-| Competency | An assessed area on a probation review template. The template defines which competencies are included and the rating model used. |
+| Competency | An assessed area on a review template. On probation templates the template defines which competencies are included and the rating model used; on performance review templates competency is one of the goal classifications a review can carry. |
 | Component Master | The compensation setup form listing every pay and benefit component. The **Reward Type** field on each component determines whether and where it appears on the ESS rewards statement. |
 | Contract Type | An employment contract category — Full Time, Limited, Part Time — configured under Visa master and used when recording visa and employment information. |
 | Course Status | The employee's progress on a GEMSU course — not started, in progress, or completed. Sourced from GEMSU. |
@@ -59,6 +63,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | Employee Intention Survey Result | The inquiry form listing every employee who answered Yes to the intention-to-leave question in the Intention Questionnaire. Only **Retention Status** and **Comments** are editable. |
+| Employee Readiness | How long until an identified successor is ready to take on the role — recorded on the talent review. |
 | Employee Visa Information | The form holding an employee's visa and labour card details, including UID number, visa type, professions, working unit and contract type. Populated from the worker action when a hire completes. |
 | ESS | Employee Self-Service — the staff-facing portal where employees complete questionnaires, checklist tasks, requests and probation feedback. The ESS cache refreshes on a five-minute cycle. |
 | ESS Display Order | A number on a request type controlling its position in the ESS request list. Lower numbers appear first. |
@@ -70,6 +75,7 @@ Terms used across Dynamics 365 HR and this guide.
 
 | Term | Definition |
 |---|---|
+| Final Employee Rating | The rating the manager gave at the point of submitting the end of year review for calibration. Held in the calibration inquiry as the before position against the calibrated rating. |
 | Final Review Generated | A flag set to Yes on an employee record when the probation batch creates their Stage 2 review. |
 | Fixed Allowance | A reward type category for recurring fixed allowance components on the rewards statement. |
 | From City / To City | The origin and destination on an airfare setup record. They are matched against the air ticket location fields on the employee's profile — no match, no calculated airfare. |
@@ -80,12 +86,16 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | GCO | The group legal entity in which questionnaire schedules are typically created before being released to individual schools or across all companies. |
+| GEMS Periodic Batch Jobs | The area under **System administration ▸ Periodic tasks** grouping the custom batch jobs — probation, performance and talent review. The performance review generation job is run from here. |
 | Gemsstatus | A status dropdown completed on the termination personnel action when offboarding an employee. |
 | GEMSU | The GEMS learning platform. Course assignments and completions flow from GEMSU into D365 through the GEMSU integration, and on into ESS for the employee. |
 | GEMSU Course Tracker | The list on an employee record showing their GEMSU courses with course status, course type, start date and date registered. Populated by the integration; not maintained by hand. |
 | GEMSU Integration Log | The log recording every message received from GEMSU, viewable per employee or across all employees, with the state of each record — successful import or error. The first place to check when course data is missing. |
 | Generate Probation Review | The batch process that scans employee records for upcoming probation dates and creates review records, routing them to the assigned manager. |
+| Goal Classification | The type of a goal — objective, competency, PIP or PDP. Set on the goal template and drawn from the goal types already defined in the existing system. |
+| Goal Template | A record in the goal library defining a single goal with its name, level, category, status and classification. Goal templates are grouped into review templates and copied onto each review at generation. |
 | Grant Amount | The fixed entitlement in working days configured against a grant-based leave type — 60 days for maternity leave, for example. |
+| Growth and Performance Matrix | The configurable grid employees are placed on — GEMS star, high performer, inconsistent, talent risk and the rest. Configured in D365; used from the ESS manager view. A value can only be defined once across the grid. |
 
 ## H
 
@@ -105,6 +115,8 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | Identification Types | The setup form defining each document type (passport, Emirates ID, labour card, medical insurance and others), its mandatory fields, and whether an attachment is required. |
+| Identified Successor | The person recorded on an employee's talent review as their succession candidate. |
+| Impact of Loss | The effect on the organisation if an employee left, recorded on their talent review alongside risk of loss. |
 | Integration Log | See **GEMSU Integration Log**. |
 | Intention Questionnaire | The survey asking employees whether they intend to leave. Yes responses populate the Employee Intention Survey Result form live. |
 
@@ -148,15 +160,20 @@ Terms used across Dynamics 365 HR and this guide.
 | Offset Date | The number of days *before* the target date by which a pre-onboarding task must be completed. Compare with **Due Date Offset from Start Date**, used by onboarding checklists. |
 | Onboarding Checklist | The set of tasks assigned to a new employee and supporting teams on joining. Applied automatically when a hire worker action completes, if configured in HR parameters and on the personal action type. |
 | Outside Probation Certificate Threshold | The field on a leave type setting how many days an absence can run before a confirmed employee must attach a medical certificate. Employees within probation must attach one from the first day. |
+| Overall Rating | The summary rating a manager gives for the year on the end of year review, recorded with a written summary and any development notes. |
 
 ## P
 
 | Term | Definition |
 |---|---|
+| PDP Goal | A personal development plan goal. Released ad hoc to develop an employee and deliberately excluded from the weighted scoring — it carries no rating and no weight. |
 | Pending Worker Visa Information | The form holding identification and visa data for hires whose worker action is not yet complete. Data carries over from the applicant record and publishes to the employee record when the action completes. |
+| Performance Period | A stage within the performance year — goal setting, mid year review or end of year review — with its own start and end dates. The performance year must be attached to each period or it will not work. |
+| Performance Year | The annual record tying the performance cycle together, with its start date, end date and rating model. It carries the calibration framework and is attached to every performance period. Set up once a year. |
 | Person Identifications | The section of an employee record listing their identification documents. Used to verify that applicant-stage documents published correctly after a hire. |
 | Personal Action Types | The setup form listing hire and other action types. The **Apply onboarding checklist** flag is enabled here per action type. |
 | Personnel Actions | Actions taken against an employee record from the Action Pane — including **Terminate**, used to begin offboarding. |
+| PIP Goal | A performance improvement plan goal. Like PDP goals, released ad hoc and excluded from the weighted scoring. |
 | Pre-onboarding Checklist | Tasks that must be completed *before* a new employee's start date, such as collecting credentials or sending welcome documents. Assigned from the worker action with process type set to Pre-onboarding. |
 | PRO | Public Relations Officer — the team responsible for visa, labour card and government documentation processing. |
 | Probation End Date | The end of an employee's probation period, defaulted from the probation parameters. |
@@ -164,6 +181,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Probation Review Days | The number of days from an employee's start date at which the Stage 1 and Stage 2 reviews are generated. Configured per staff level and default category. |
 | Probation Status | A field on the employee record set manually to **Confirmed** by HR after a successful Stage 2 review. |
 | Process Type | The selection in the Apply checklist dialog — Pre-onboarding, Onboarding, or Offboarding — that determines which checklists are available. |
+| Provisional Rating | The rating an employee came into calibration with. Retained alongside the calibrated rating so HR can see what the manager originally submitted. |
 
 ## Q
 
@@ -175,14 +193,20 @@ Terms used across Dynamics 365 HR and this guide.
 
 | Term | Definition |
 |---|---|
+| Rating Model | The scale used to rate goals, set on the review template and on the performance year. |
+| Rating Weight Factor | The setting on a review template's **General** tab that enables the average and total score calculation. Without it the scores are not produced. |
 | Recruitment Tab | The tab in Human Resources parameters where the default onboarding checklist and completion period are set. |
+| Released to Direct Reports | The calibration inquiry flag set when a manager publishes calibrated ratings to their team. The second of the two release steps. |
+| Released to Manager | The calibration inquiry flag set when HR releases calibrated ratings back to the manager. The first of the two release steps. |
 | Resolved By | The column in the task management workspace recording which member of a user group actually completed a shared task. |
 | Retained Successfully | A retention status indicating the employee has agreed to remain. |
 | Retention Status | The editable field on an intentions record tracking the retention conversation — HR Discussion, Retained successfully, or Exit confirmed. |
 | Review 1 Generated | A flag set to Yes on an employee record when the probation batch creates their Stage 1 review. |
 | Review Outcome | The result recorded on a Stage 2 probation review — Meets Expectations or Performance Concerns. A Performance Concerns outcome routes to HR only; the employee is not notified. |
+| Review Template | The definition of one stage of the performance cycle — the goal templates it carries, its rating model, and whether the rating weight factor applies. Selected when generating reviews. |
 | Reward Type | The field on a component master record classifying a component as Fixed Allowance, Living, or Other. Components with no reward type are excluded from the ESS rewards statement. |
 | Rewards Statement | The ESS view showing an employee their compensation and benefit components, grouped by reward type. |
+| Risk of Loss | How likely an employee is to leave, recorded on their talent review alongside impact of loss. |
 
 ## S
 
@@ -191,18 +215,21 @@ Terms used across Dynamics 365 HR and this guide.
 | Staff Level | An employee classification driven by the position. Used with default category to determine probation review days and template, and on the staff level form it holds the calendar and the leave plans an employee is enrolled in per legal entity. |
 | Stage 1 Review | The first probation review, generated a configured number of days after the employee's start date. |
 | Stage 2 Review | The final probation review. Displays Stage 1 comments alongside Stage 2 for comparison, and carries the review outcome. |
+| Submit for Calibration | The manager action closing the end of year review. It calculates the total and average scores and sends the record to the calibration inquiry for HR. |
 | System Generated Leave | A flag identifying a leave request raised by the system rather than by an employee — calendar adjustments and bulk submissions. The workflow condition uses it to auto-approve. |
 
 ## T
 
 | Term | Definition |
 |---|---|
+| Talent Review | The succession record held against an employee under the **Work** tab, holding comments, risk and impact of loss, matrix position, identified successor, readiness and any attachments. Completed from the ESS manager view. |
 | Target Date | The date entered when applying a checklist, from which individual task due dates are calculated using each task's offset. For offboarding, it should match the employee's end date. |
 | Task Management | The area of the Human Resources module holding onboarding, pre-onboarding, and offboarding checklists, and the workspace where assigned tasks are worked. |
 | Template | The probation review template linked to a staff level and category combination, defining the competencies assessed and the rating model used. |
 | Terminate | The personnel action that begins offboarding, capturing termination reason, termination date, last day worked, and personnel action type. |
 | Ticket Class | The travel class an airfare entitlement is held at — economy, premium economy or business. Set on the airfare setup record, and held per dependent so a family can travel in a lower class than the employee. |
 | Ticket Type | Whether an airfare entitlement is a **return** or a **one way** ticket. Each type is a separate record in the airfare setup. |
+| Total Score | The sum of an employee's weighted ratings for the cycle. Calculated on submission of the end of year review. |
 
 ## U
 
@@ -229,6 +256,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | WebESS Display | A toggle on a request type controlling whether employees can see and raise it in ESS. Request types HR initiates internally are set not to display. |
+| Weighting | The share of overall performance a goal represents, set by the employee. Weightings across a review must total exactly 100% — the system blocks both an under-total and an over-total on submission. |
 | Work History | The section of an employee record holding the probation fields — Stage 1 and Stage 2 dates, end date, template, generation flags, status, and exclusion. |
 | Worker Action | The D365 process that creates or changes an employment record — including hires. Visa data and checklists are attached here, and publish to the employee record when the action completes. |
 | Worker Benefit Enrolment | The enrolment record an employee's airfare eligibility is derived from — specifically the row where the plan type is **AirTicket** and the status is **Selected** and **Confirmed**. It sets how many tickets they are entitled to, the class, and whether the entitlement is return or one way — for example, self + 3, economy, return. |
