@@ -11,7 +11,7 @@ video:
 
 # View your rewards statement
 
-Your rewards statement in ESS gives you a personalised view of your total compensation package — including salary, allowances, benefit entitlements, and concessions. This is a read-only view; your entitlements are set up and maintained by the HR and Finance teams.
+Your rewards statement in ESS gives you a personalised view of your total compensation package — including salary, allowances, benefit entitlements, and concessions. This is a read-only view; HR and Finance set up and maintain your entitlements.
 
 1. Open the Benefits section
 
@@ -41,8 +41,6 @@ Your rewards statement in ESS gives you a personalised view of your total compen
    - **Visa disbursements** — any visa-related allowances
    - **Bonuses** — where applicable
 
-   Airfare entitlements are visible on the statement; the amount displayed reflects actuals integrated from the payroll system.
-
-   ![The ESS rewards statement showing the detailed breakdown including children's concessions with student IDs, visa disbursements, and bonuses](./images/view-rewards-statement-2.png)
+   Airfare entitlements appear on the statement; the amount shown reflects actuals integrated from the payroll system.
 
    If you have questions about your statement or believe something is incorrect, contact your HR team directly.
