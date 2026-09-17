@@ -12,28 +12,22 @@ video:
 
 # Configure the growth and performance matrix
 
-The growth and performance matrix is the grid employees are placed on during the year — GEMS star, high performer, inconsistent, talent risk and the rest. Employees are first categorised into a box and then moved around it as their performance is observed.
+The growth and performance matrix is the grid employees are placed on during the year — GEMS Star, High Performer, Inconsistent - Talent Risk and the rest. Each measure occupies a box on the matrix, the employee gets rated into a particular box.
 
-The layout is not fixed. Where each measure sits on the grid is configuration, so you can match the matrix to the framework your organisation has agreed.
+The layout is not fixed. Each measure's position on the grid is configurable, so you can match the matrix to the framework your organisation has agreed.
 
 1. Open the matrix setup
 
-   In D365, type **Growth and performance matrix** into the search box at the top of the screen and open the result.
+   In D365, type **Growth and performance matrix** into the search box at the top of the screen and open the result. Or follow the pathway: **Human resources ▸ Competencies ▸ Setup ▸ Growth and performance matrix**.
 
    ![The Growth and performance matrix setup in D365](./images/configure-the-growth-and-performance-matrix-1.png)
 
-2. Review the grid
+2. Review the measures
 
-   The matrix is laid out as a grid of boxes, each carrying a rating and a **measure description** — the label users see when an employee is placed in that box.
+   The matrix defines the **Measures** and identifies their **Performance Matrix Positions**. The positions of each measure can be edited 
 
-3. Change where a measure sits
+3. Keep each value to one box
 
-   Move a measure to a different position on the grid to match your framework. If GEMS star should sit in the centre rather than a corner, or inconsistent should move to the bottom left, that is a configuration change rather than a development request.
+   Define each value only once across the matrix—the system enforces this, so you cannot place the same measure in two boxes. If you are moving measures around, clear a value from its old position before reusing it.
 
-   ![The matrix showing measure descriptions positioned across the grid](./images/configure-the-growth-and-performance-matrix-2.png)
-
-4. Keep each value to one box
-
-   A value can only be defined once across the matrix — the system enforces this, so you cannot place the same measure in two boxes. If you are moving measures around, clear a value from its old position before reusing it.
-
-This form configures the matrix but is not where it is used. HR and managers place employees on the matrix and move them between boxes from the **manager view in ESS** — see *Use the growth and performance matrix* in the ESS guide. The placements made there are written back to the employee's talent review record in D365, covered in [View talent review records](./09-view-talent-review-records.md).
+This form configures the matrix but is not where you use it. HR and managers place employees on the matrix and move them between boxes from the **manager view in ESS** — see *Use the growth and performance matrix* in the ESS guide. The placements made there are written back to the employee's talent review record in D365, covered in [View talent review records](./09-view-talent-review-records.md).
