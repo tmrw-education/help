@@ -12,19 +12,19 @@ video:
 
 # Monitor the calibration inquiry
 
-When managers submit end of year reviews for calibration, every one of those records lands in the calibration inquiry. It is the central list HR uses to see how many records are waiting, what ratings they came in with, and how far through the release process each one has reached.
+When managers submit end-of-year reviews for calibration, each record lands in the calibration inquiry. It is the central list HR uses to see how many records are waiting, what ratings they came in with, and how far along each one is in the release process.
 
 This form reports on calibration — the calibration itself is done from the HR view in ESS.
 
 1. Open the calibration inquiry
 
-   In D365, open the calibration inquiry under **Human Resources ▸ Performance**.
+   In D365, open the calibration inquiry under **Human Resources ▸ Performance ▸ Calibration inquiry**.
 
    ![The calibration inquiry in D365 listing records submitted for calibration](./images/monitor-the-calibration-inquiry-1.png)
 
 2. Filter to the performance year
 
-   Filter by **performance year**. Years accumulate as the system is used, so filtering keeps the list to the cycle you are working on.
+   Filter by **performance year**. Years accumulate as you use the system, so filtering keeps the list to the cycle you are working on.
 
 3. Read the columns
 
@@ -46,13 +46,4 @@ This form reports on calibration — the calibration itself is done from the HR 
 
    ![Calibration inquiry records showing blank calibrated ratings against uncalibrated employees](./images/monitor-the-calibration-inquiry-2.png)
 
-5. Track the release progress
-
-   The two release flags let you follow the handover without chasing people. They are set in sequence:
-
-   - HR calibrates and releases to the manager, which sets **released to manager**.
-   - The manager holds their conversations and publishes, which sets **released to direct reports**.
-
-   Records sitting released to manager but not to direct reports are the ones where a manager still has a conversation to have.
-
-Calibration is carried out from the HR view in ESS, where the ratings are shown against the expected curve and can be adjusted — see *Calibrate performance ratings* in the ESS guide.
+HR carries out calibration in ESS, HR view, where ratings are shown against the expected curve and can be adjusted — see [Calibrate performance ratings](https://github.com/tmrw-education/help/blob/main/ess/11-Performance/07-calibrate-performance-ratings.md) in the ESS guide.
