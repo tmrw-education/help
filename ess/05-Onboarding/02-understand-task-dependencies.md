@@ -16,7 +16,7 @@ Some onboarding tasks cannot be started until other tasks are finished first —
 
 1. Identify a blocked task
 
-   In your task list, a task that has unresolved dependencies will show clearly that it cannot be progressed yet.
+   In your task list, a task with unresolved dependencies will clearly show that it cannot be progressed yet.
 
 2. Open the blocked task
 
@@ -29,8 +29,6 @@ Some onboarding tasks cannot be started until other tasks are finished first —
    - The current status of each dependency
    - Who each dependency is assigned to
    - The target completion date for each dependency
-
-   ![The blocked task detail view showing the list of dependencies, each with its owner, status, and due date](./images/understand-task-dependencies-1.png)
 
 4. Wait for dependencies to clear
 
