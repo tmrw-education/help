@@ -12,23 +12,23 @@ video:
 
 # Calibrate performance ratings
 
-Calibration is where HR compares the ratings managers have submitted against the distribution the organisation expects, and adjusts where individuals sit relative to their peers. It is done from the HR view in ESS.
+Calibration is where HR compares the ratings managers have submitted against the distribution the organisation expects, and adjusts where individuals sit relative to their peers. HR does this from the HR view in ESS.
 
 This view is only available to users with HR rights. A manager without HR access sees only the manager view.
 
 1. Open the HR view
 
-   In ESS, go to your manager view and switch to the **HR view** of calibration.
+   In ESS, go to your manager view and click the **HR view** of calibration.
 
    ![The HR view of calibration in ESS](./images/calibrate-performance-ratings-1.png)
 
 2. Filter to the group you are calibrating
 
-   Select the **performance year** and narrow to the group you want — by department, for example. Other filters are available if you need a tighter group. Click **Search**.
+   Select the **Performance year** and narrow to the group you want — by department, for example. Use other filters if you need a tighter group. Click the **Search** icon.
 
 3. Read the expected against actual curve
 
-   The chart at the bottom shows the **expected** distribution against the **actual** one. Expected comes from the calibration framework set up against the performance year in D365; actual is where your employees currently sit.
+   The chart at the bottom shows the **Expected** distribution against the **Actual** one. Expected comes from the calibration framework set up against the performance year in D365; actual is where your employees currently sit.
 
    ![The calibration chart showing expected against actual distribution](./images/calibrate-performance-ratings-2.png)
 
@@ -38,17 +38,17 @@ This view is only available to users with HR rights. A manager without HR access
 
 4. Move an employee to a different rating
 
-   Drag an employee from one rating to another. Their **calibrated rating** updates as you drop them, while the provisional rating stays as a record of what the manager submitted.
+   Drag an employee from one rating to another. Their **Calibrated rating** updates as you drop them, while the provisional rating stays as a record of what the manager submitted.
 
    You can move several people before saving. The curve does not recalculate as you drag — it updates when you save.
 
 5. Save with a comment
 
-   Click **Save**. You are prompted for a comment against each employee you moved — for example, that the employee has been exceptional compared with their peers.
+   Click **Save**. You are prompted to add a comment for each employee you moved—for example, that the employee has been exceptional compared with their peers.
 
    ![The comment prompt shown when saving a calibration change](./images/calibrate-performance-ratings-3.png)
 
-   The comment is written back to the employee's record in D365, so record something that explains the decision. Where you have moved several people you are prompted for each in turn.
+   The comment is written back to the employee's record in D365, so record something that explains the decision. If you move several people, you are prompted for each one in turn.
 
 6. Check the recalculated curve
 
