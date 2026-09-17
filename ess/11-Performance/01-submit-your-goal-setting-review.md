@@ -26,7 +26,7 @@ Goal setting is the first stage of the performance year. HR releases the review 
 
    Your goals are already there, copied from the template HR set up. Against each one, enter:
 
-   - **Weighting** — how much of your overall performance this goal represents
+   - **Weightage (%)** — how much of your overall performance this goal represents
    - **Comments** — what you plan to do, or where the goal currently stands
    - **Goal status** — for example, **On track**
 
@@ -42,7 +42,7 @@ Goal setting is the first stage of the performance year. HR releases the review 
 
    Enter where you would like your career to go — for example, moving into a leadership role — and the **time frame** you have in mind.
 
-   Select your **mobility preferences** to indicate the locations you would consider. You can select more than one.
+   Select your **Mobility** preferences to indicate the locations you would consider. You can select more than one.
 
    ![The career aspirations section with role, time frame and mobility preferences](./images/submit-your-goal-setting-review-3.png)
 
@@ -52,7 +52,7 @@ Goal setting is the first stage of the performance year. HR releases the review 
 
 6. Check your weightings total 100%
 
-   Click **Submit**. If your weightings do not add up to 100%, an error appears at the top of the screen, and the review is not submitted — go back and adjust until the total is exactly 100.
+   Click **Submit**. If your weightings do not add up to 100%, an error appears at the bottom of the screen, and the review is not submitted — go back and adjust until the total is exactly 100.
 
    ![The weightage error shown when the goal weightings do not total 100%](./images/submit-your-goal-setting-review-4.png)
 
