@@ -2,7 +2,7 @@
 id: review-and-approve-a-request
 summary:
   - "Go to **Tasks ▸ Approvals** tab in ESS."
-  - "Click on the pending request to open its full detail."
+  - "Click on the pending request to open its full details."
   - "Click **Approve** to accept or **Reject** to decline."
 keywords: [approve, reject, approval, review request, pending approval, approve identification, approve education, approve skills]
 video:
@@ -12,15 +12,15 @@ video:
 
 # Review and approve a request
 
-When a team member submits a profile update that requires your approval — such as an identification document, education record, or skill — it appears in your Approvals tab.
+When a team member submits a profile update that needs your approval—such as an identification document, education record, or skill—it appears in your Approvals tab.
 
 1. Open the Approvals tab
 
-   From the ESS portal, navigate to **Tasks ▸ Approvals** tab.
+   From the ESS portal, go to **Tasks ▸ Approvals**.
 
 2. Review the list
 
-   All pending approval items are listed, showing the type of request (e.g., Identification, Education, Subject, Professional Experience) and the employee who submitted it.
+   The list shows all pending approval items, including the request type (e.g., Identification, Education, Subject, Professional Experience) and the employee who submitted it.
 
    ![The Approvals tab showing a list of pending requests with employee names, request types, and submission dates](./images/review-and-approve-a-request-1.png)
 
