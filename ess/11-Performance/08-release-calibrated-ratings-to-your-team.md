@@ -16,7 +16,7 @@ Once HR has calibrated, the ratings come back to you before they reach your team
 
 1. Open the calibration manager view
 
-   In ESS, go to your manager view and open calibration. Your view is populated once HR has released ratings to you — before that there is nothing to see.
+   In ESS, go to your manager view and open calibration. Your view populates once HR releases ratings to you—before that, you won't see anything.
 
    ![The calibration manager view showing released ratings for the team](./images/release-calibrated-ratings-to-your-team-1.png)
 
@@ -26,22 +26,22 @@ Once HR has calibrated, the ratings come back to you before they reach your team
 
 3. Review an individual
 
-   Open an employee to see their full detail — their growth and performance view, their quick profile, the rating they were given, and everything from their review: comments, training needs completed, career aspirations, PDP and PIP goals, and objectives.
+   Open an employee to see their full details—their growth and performance view, quick profile, rating, and everything from their review: comments, completed training needs, career aspirations, PDP and PIP goals, and objectives.
 
    ![An individual employee's calibrated detail in the manager view](./images/release-calibrated-ratings-to-your-team-2.png)
 
 4. Hold your conversations
 
-   Where a rating has been downgraded or significantly uplifted after comparison against peers, speak to the employee before publishing. The point of this step is that expectations are set in a conversation rather than by a notification.
+   Where a rating has been downgraded or significantly uplifted after comparison against peers, speak to the employee before publishing. This step ensures expectations are set in a conversation rather than by a notification.
 
 5. Publish to employees
 
-   Once the ratings are agreed, click **Publish to employees**. The calibrated ratings are released to your team and become visible in their own performance view.
+   Once the ratings are agreed, click **Publish to employees**. The calibrated ratings are released to your team and appear in their performance view.
 
    ![The publish to employees action in the calibration manager view](./images/release-calibrated-ratings-to-your-team-3.png)
 
 6. Confirm the release
 
-   Go back into the calibration inquiry view. Your direct reports now show as released — the tick boxes against them are set once publishing completes.
+   Go back into the calibration inquiry view. Your direct reports now show as released—the tick boxes next to them are set once publishing completes.
 
-   Publishing cannot be undone from this screen. Have the conversations first, then publish.
+   You can't undo publishing from this screen. Have the conversations first, then publish.
