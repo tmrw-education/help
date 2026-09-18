@@ -48,6 +48,6 @@ The end of year review is where you set an employee's final ratings for the year
 
    The **total score** and **average score** are calculated on submission, so they show as zero or blank until you submit. An empty score before you submit is expected, not a fault.
 
-   ![The total and average scores populated after submission](./images/review-your-teams-end-of-year-reviews-4.png)
+   ![The total and average scores populated after submission](./images/review-your-teams-end-of-year-reviews-3.png)
 
    The review is now with HR. Once they calibrate it, the ratings come back to you to discuss with the employee before publishing—see [Release calibrated ratings to your team](./08-release-calibrated-ratings-to-your-team.md).
