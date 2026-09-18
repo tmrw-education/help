@@ -1,7 +1,7 @@
 ---
 id: configure-task-user-groups
 summary:
-  - "Open **Task Management ▸ User Groups** in D365 and select or create the relevant group."
+  - "Open **Task Management ▸ Group assignment** in D365 and select or create the relevant group."
   - "Add members by filtering the employee list by position, job, or name, and select the employees to include."
   - "Click **Save** — when any group member completes a task, it is marked complete for all members."
 keywords: [user group, task group, group assignment, checklist group, onboarding group, pre-onboarding group, shared task, group completion, task management, HR task group]
@@ -18,7 +18,7 @@ This is useful for HR and admin teams where several people share responsibility 
 
 1. Open User Groups
 
-   From the D365 navigation pane, go to **Modules ▸ System administration ▸ Users ▸ User groups**.
+   From the D365 navigation pane, go to **Modules ▸ Human resources ▸ Task management ▸ Group assignment**.
 
    ![The D365 navigation pane with System administration, Users, and User groups highlighted](./images/configure-task-user-groups-1.png)
 
