@@ -33,11 +33,11 @@ This view is restricted. It is available to users with HR access and can be limi
 
    Your employees are placed across the matrix according to their current position.
 
+   ![Employees positioned across the matrix boxes](./images/use-the-growth-and-performance-matrix-1.png)
+
 3. Move an employee
 
    Drag an employee from one box to another to change their position — for example, from effective to high performer. You can move people one at a time or reposition several before saving.
-
-   ![Employees positioned across the matrix boxes](./images/use-the-growth-and-performance-matrix-1.png)
 
 4. Save your changes
 
@@ -64,11 +64,11 @@ This view is restricted. It is available to users with HR access and can be limi
    | **Identified successor** | Who would succeed them |
    | **Employee readiness** | How long until that successor is ready — for example, two years |
 
-   You can also change the employee's position here instead of dragging them on the matrix.
+   There are other fields to complete. You can also change the employee's position here instead of dragging them on the matrix.
 
 7. Add an attachment
 
-   Attach a supporting file if you have one. Attachments are stored against the employee's talent review record in D365.
+   In the **File** tab, attach a supporting file if you have one. Attachments are stored against the employee's talent review record in D365.
 
 8. Submit
 
