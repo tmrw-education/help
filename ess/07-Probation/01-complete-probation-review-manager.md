@@ -12,7 +12,7 @@ video:
 
 # Complete a probation review as a manager
 
-When one of your team members is due a probation review, it is routed to you via the workflow. You receive a notification, and the review appears in your ESS queue.
+When a team member is due for a probation review, the workflow routes it to you. You receive a notification, and the review appears in your ESS queue.
 
 1. Open your probation review queue
 
@@ -26,7 +26,7 @@ When one of your team members is due a probation review, it is routed to you via
 
 3. Complete the competency ratings
 
-   For each competency listed, select a rating from the dropdown (e.g., Meets Expectations, Concerns, Needs Improvement) and add your comments in the **Manager Comments** field. The employee's comment field is read-only at this stage.
+   For each competency, select a rating from the dropdown (e.g., Meets Expectations, Concerns, Needs Improvement) and add comments in the **Manager Comments** field. The employee's comment field is read-only at this stage.
 
 4. Add overall comments
 
