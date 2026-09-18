@@ -1,7 +1,7 @@
 ---
 id: monitor-probation-reviews
 summary:
-  - "Open the **HR Probation Reviews** form in D365."
+  - "Open the HR **Probation Reviews** form in D365."
   - "Filter by employee and review the status, ratings, comments, and workflow stage."
   - "Use **View History** to trace workflow routing and condition outcomes."
 keywords: [monitor probation, HR probation reviews, probation status, review progress, workflow history, probation oversight, stage 2 outcome]
@@ -16,9 +16,9 @@ HR can view all probation reviews — in progress or completed — from a centra
 
 1. Open the HR Probation Reviews form
 
-   In D365, navigate to the **HR Probation Reviews** form within the Human Resources module.
+   In D365, navigate to the **Probation Reviews** form within the Human Resources module.
 
-   ![The HR Probation Reviews list form showing employee names, review type (Stage 1 or Stage 2), and workflow status columns](./images/monitor-probation-reviews-1.png)
+   ![Navigating to the HR probation review template](./images/monitor-probation-reviews-1.png)
 
 2. Find the review
 
