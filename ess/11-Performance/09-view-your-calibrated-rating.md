@@ -12,7 +12,7 @@ video:
 
 # View your calibrated rating
 
-After you submit your end of year review, your manager completes their feedback and submits it for calibration. HR compares ratings across the organisation, your manager confirms the outcome with you, and the final rating is then published to you in ESS.
+After you submit your end-of-year review, your manager completes their feedback and submits it for calibration. HR compares ratings across the organisation, your manager confirms the outcome with you, and the final rating is then published to you in ESS.
 
 1. Open your performance page
 
@@ -20,7 +20,7 @@ After you submit your end of year review, your manager completes their feedback 
 
 2. Open your most recent review
 
-   Open your latest result — your end of year review for the year just completed.
+   Open your latest result — your end-of-year review for the year just completed.
 
    ![The Skills and performance page showing the completed end of year review](./images/view-your-calibrated-rating-1.png)
 
@@ -32,12 +32,12 @@ After you submit your end of year review, your manager completes their feedback 
    - Your **total score**
    - Your **average score**
 
-   These are the figures confirmed through calibration, so they are your final position for the year rather than a provisional one.
+   These figures are confirmed through calibration, so they reflect your final position for the year rather than a provisional one.
 
    ![The overall view showing the final rating, total score and average score](./images/view-your-calibrated-rating-2.png)
 
 4. If your rating isn't showing yet
 
-   Your rating only appears once your manager has published it. Until then your review shows as submitted with the manager stage still in progress.
+   Your rating appears only after your manager publishes it. Until then, your review shows as submitted, with the manager stage still in progress.
 
-   Your manager speaks to you before publishing, particularly where a rating has changed through calibration — so the published result should not be the first you hear of it. If your rating has not appeared and you have not had that conversation, speak to your manager.
+   Your manager speaks to you before publishing, particularly where a rating has changed through calibration — so the published result should not be the first you hear of it. If your rating hasn't appeared and you haven't had that conversation, speak to your manager.
