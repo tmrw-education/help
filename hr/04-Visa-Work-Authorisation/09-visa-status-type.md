@@ -1,7 +1,7 @@
 ---
 id: visa-status-type
 summary:
-  - "Go to **Human resources ▸ Setup ▸ Visa master ▸Visa Status/Type Combination**
+  - "Go to **Human resources ▸ Setup ▸ Visa master ▸Visa Status/Type Combination**"
   - "See the Visa status, Type and ABC code."
 keywords: [visa type, visa status, ABC code, visa classification]
 video:
