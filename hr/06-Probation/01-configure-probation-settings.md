@@ -24,13 +24,13 @@ Probation review settings are configured by staff level and category, controllin
 
    Each row in the form represents a unique combination of **Staff Level** and **Default category** (for example, Teacher + Grade 1). Probation parameters differ per combination.
 
+   ![The probation configuration form showing the Staff Level, Default category, Stage 1 Review Days, and Stage 2 Review Days fields for a selected row](./images/configure-probation-settings-2.png)
+
 3. Set the review days
 
    For the selected combination, configure:
    - **Probation Review Days — Stage 1**: the number of days from the employee's start date when the Stage 1 review should be generated
    - **Probation Review Days — Stage 2**: the number of days from the employee's start date when the Stage 2 review should be generated
-
-   ![The probation configuration form showing the Staff Level, Default category, Stage 1 Review Days, and Stage 2 Review Days fields for a selected row](./images/configure-probation-settings-2.png)
 
 4. Select the review template
 
