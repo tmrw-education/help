@@ -16,7 +16,7 @@ The Tuition Fee Concession request lets eligible employees apply for a tuition f
 
 1. Open your Full Profile
 
-   On the ESS homepage, click ** Full profile ** to the right of your profile header tile.
+   On the ESS homepage, click **Full profile** to the right of your profile header tile.
 
 2. Select the dependent
 
