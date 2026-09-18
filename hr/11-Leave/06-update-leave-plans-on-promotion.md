@@ -12,15 +12,15 @@ video:
 
 # Update leave plans through a promotion action
 
-When an employee moves to a new position, the leave plans attached to their new staff level are applied. The mechanism is the same as the hire action — the flag on the personnel action type is what makes it happen.
+When an employee moves to a new position, the leave plans attached to their new staff level are applied. The mechanism is the same as the hire action — the flag on the personnel action type makes it happen.
 
 1. Check the leave plans on both staff levels
 
-   Before submitting, open the **staff level** form and note the leave plans held against the employee's current staff level and against the one they are moving to. This tells you what to expect after the action completes.
+   Before submitting, open the **Staff level** form from the pathway: **Human resources ▸ Setup ▸ Staff levels**. Note the leave plans held against the employee's current staff level and against the one they are moving to. This tells you what to expect after the action completes.
 
-   For example, an employee moving from an education admin staff level to a school admin staff level picks up whichever plans are configured against the new level for that legal entity.
+   For example, an employee moving from an education admin staff level to a school admin staff level picks up whichever plans are configured for that legal entity under the new level.
 
-   ![The staff level form showing the leave plans configured for the new staff level](./images/update-leave-plans-on-promotion-1.png)
+   ![List of legal entities shown with the Leave plan button selected](./images/update-leave-plans-on-promotion-1.png)
 
 2. Confirm the flag on the personnel action type
 
