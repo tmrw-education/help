@@ -1,9 +1,9 @@
 ---
 id: submit-transport-request
 summary:
-  - "From ESS, navigate to the **Transport** request."
-  - "Select the dependent, confirm the **student ID** and school, and complete the form."
-  - "Click **Save Changes** — the system validates the details and submits the integration request."
+  - "From ESS, click **Full profile** on the right."
+  - "Select the dependent; then the **Transport concession** button activates."
+  - "Click **Submit** on the popup prompt."
 keywords: [transport request, school bus, transport fee, transport concession, student transport, bus service, dependent transport]
 video:
   youtube:
@@ -14,32 +14,18 @@ video:
 
 The Transport request lets eligible employees request transport for a dependent child. Unlike standard HR requests, the transport request runs as an integration with the external Phoenix system, which validates student details before processing.
 
-1. Navigate to the Transport request
+1. Open your Full Profile
 
-   From the ESS home page, navigate to the **HR Requests** section and locate the **Transport** request.
+   On the ESS homepage, to the right of your profile header tile, click **Full profile**.
 
-2. Check eligibility
+2. Select the dependent
 
-   The Transport button is only active when:
-   - The dependent has been approved in the system
-   - The dependent has a valid **student ID** and **school** recorded
+   Open the **personal contacts** tab. Select your dependents from the list by clicking the radio button beside their name. This will activate the **Transport concession** link above the table. Click the link.
 
-   If validation details are missing, the request cannot be submitted. Confirm the dependent record is complete before proceeding.
+   ![Selected dependent with the transport concession link activated](./images/submit-transport-request-1.png)
 
-3. Select the dependent
+3. Click submit
 
-   Choose the child or dependent this request is for.
+   A popup prompt will appear on the screen asking to confirm that you want to submit a transport concession request. Click **Submit**.
 
-4. Confirm student details
-
-   Verify the **student ID** and **school** fields — these are required for the integration call to Phoenix to validate the student's enrolment.
-
-   ![The Transport request form showing the dependent selector, student ID field, and school field required for Phoenix validation](./images/submit-transport-request-1.png)
-
-5. Complete the form
-
-   Fill in any remaining required fields.
-
-6. Save and submit
-
-   Click **Save Changes** to submit. The system runs a validation against Phoenix to confirm the student's details. If validation passes, the request is processed through the workflow. If the dependent is not yet approved in the system, the request cannot be submitted.
+   ![Transport concession request popup prompt](./images/submit-transport-request-2.png)
