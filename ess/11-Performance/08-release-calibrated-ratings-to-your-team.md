@@ -12,7 +12,7 @@ video:
 
 # Release calibrated ratings to your team
 
-Once HR has calibrated, the ratings come back to you before they reach your team. This gives you the chance to see what changed and have the conversation with anyone whose rating moved, rather than them finding out from the system.
+Once HR has calibrated, the ratings come back to you before they reach your team. This gives you a chance to see what changed and talk with anyone whose rating moved, rather than having them find out from the system.
 
 1. Open the calibration manager view
 
@@ -37,8 +37,6 @@ Once HR has calibrated, the ratings come back to you before they reach your team
 5. Publish to employees
 
    Once the ratings are agreed, click **Publish to employees**. The calibrated ratings are released to your team and appear in their performance view.
-
-   ![The publish to employees action in the calibration manager view](./images/release-calibrated-ratings-to-your-team-3.png)
 
 6. Confirm the release
 
