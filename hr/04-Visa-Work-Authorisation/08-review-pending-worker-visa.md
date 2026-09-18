@@ -12,23 +12,23 @@ video:
 
 # Review pending worker visa information
 
-When an applicant is hired through the recruitment process, any identification records added to the applicant record (such as passport or visa details) automatically carry over to the Pending Worker Visa Information form. The HR or PRO team uses this form to confirm documents are present and to complete additional visa-related fields before finalising the hire. When the worker's action is completed, all information is published to the employee's record.
+When an applicant is hired through the recruitment process, any identification records added to the applicant record (such as passport or visa details) automatically carry over to the Pending Worker Visa Information form. The HR or PRO team uses this form to confirm documents are present and to complete additional visa-related fields before finalising the hire. Once the worker completes the action, the system publishes all information to the employee's record.
 
 1. Open Pending Worker Visa Information
 
-   In D365, search for and open the **Pending Worker Visa Information** form.
+   In D365, search for and open the **Pending Worker Visa Information** form. Or you can access it through **Human resources ▸ Workers ▸ Action ▸ Pending Worker Visa Information**.
 
-   ![The D365 search results showing the Pending Worker Visa Information form option](./images/review-pending-worker-visa-1.png)
+   ![The navigation pathway to pending worker visa information](./images/review-pending-worker-visa-1.png)
 
 2. Locate the worker record
 
-   Find and open the record for the worker being hired. Records on this form correspond to pending worker actions that are not yet complete.
+   Find and open the record for the worker you are hiring. Records on this form correspond to pending worker actions that are not yet complete.
 
 3. Confirm identification documents
 
-   Click **View Documents** to view the identification records (such as a passport or visa) entered at the applicant stage. Confirm that the expected records are present. Attachments uploaded to the applicant record are also visible here.
+   Click **View Documents** in the Action Pane to view the identification records (such as a passport or visa) entered at the applicant stage. Confirm that the expected records are present. Attachments uploaded to the applicant record are also visible here.
 
-   ![The Pending Worker Visa Information form with the View Documents button visible and a list of identification records displayed](./images/review-pending-worker-visa-2.png)
+   ![The View Documents button visible in the Action Pane](./images/review-pending-worker-visa-2.png)
 
 4. Open the worker action
 
@@ -42,9 +42,7 @@ When an applicant is hired through the recruitment process, any identification r
    - **MOE Profession** — Ministry of Education classification (where applicable)
    - **Visa Issuing Unit** — the issuing authority (for example, WSO)
    - **Visa Labour Card Status** — select the status that applies to this worker
-   - **Visa Type** — select the visa category (for example, Employment Visa A). The **ABC Category** field updates automatically based on the visa type selected.
-
-   ![The worker action form in edit mode with MOL Profession, Visa Issuing Unit, Visa Labour Card Status, and Visa Type fields highlighted](./images/review-pending-worker-visa-3.png)
+   - **Visa Type** — select the visa category (for example, Employment Visa A). The **ABC Category** field updates automatically based on the selected visa type.
 
 6. Save
 
@@ -60,5 +58,3 @@ When an applicant is hired through the recruitment process, any identification r
 
    - Open the **Employee Visa Information** form and search for the new employee — visa fields and identification records should be present.
    - Open the employee's record in the **Human Resources** module and navigate to **Person Identifications** to confirm identification documents (for example, passport, visa) are listed.
-
-   ![The Employee Visa Information form showing the new employee's visa details populated from the worker action](./images/review-pending-worker-visa-4.png)
