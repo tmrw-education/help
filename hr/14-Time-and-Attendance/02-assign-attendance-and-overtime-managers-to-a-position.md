@@ -17,21 +17,19 @@ An employee's attendance and overtime are visible to, and approved by, whoever s
 
 1. Open the employee
 
-   In D365, go to **Human Resources ▸ Employees** and open the employee whose approver you are setting.
+   In D365, go to **Human Resources ▸ Positions ▸ All positions** and open the employee whose approver you are setting.
 
 2. Open their position
 
-   Open **Positions** on the employee record and scroll to the hierarchy area. You will see the line manager already recorded, and the attendance and overtime hierarchies empty.
+   Open the employee record and open the **Reports to position** tab. You will see the line manager already recorded.
 
-   ![The position record showing the line manager and the empty attendance and overtime hierarchies](./images/assign-attendance-and-overtime-managers-to-a-position-1.png)
+   ![The position record showing the line manager](./images/assign-attendance-and-overtime-managers-to-a-position-1.png)
 
-3. Add the attendance hierarchy
+3. Add the attendance and overtime hierarchy
 
-   Add a row against the attendance hierarchy and select the position that will approve this employee's attendance.
+   Open the **Relationships** tab. Click **+ Add** to assign the person or position that will approve the employee's attendance and overtime. This is often the same person as the attendance approver, but it doesn't have to be.
 
-4. Add the overtime hierarchy
-
-   Do the same against the overtime hierarchy. This is often the same person as the attendance approver, but it does not have to be.
+   ![The relationship tab open with the overtime approver already assigned, the selection in progress for the attendance approver](./images/assign-attendance-and-overtime-managers-to-a-position-2.png)
 
 5. Save
 
