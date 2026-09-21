@@ -19,16 +19,16 @@ A shortage is a day where somebody worked fewer minutes than their calendar sche
 
    In ESS, open the **Attendance** tile and go to the **Attendance shortage** tab.
 
-   ![The Attendance shortage tab in ESS](./images/review-attendance-shortages-for-your-team-1.png)
+2. Choose Line or Hierarchy
 
-2. Choose line or hierarchy
+   As with team attendance, **Line** shows your direct reports and **Hierarchy** shows the people assigned to you through the attendance hierarchy. Check both if you approve attendance for people outside your line.
 
-   As on team attendance, **Line** shows your direct reports and **Hierarchy** shows the people assigned to you through the attendance hierarchy. Check both if you approve attendance for people outside your line.
+3. View the shortages
 
-3. Open a day
+   In the event of a shortage, the recorded shortage—for example, 30 minutes short on 2 June- will be listed next to the Employee name.
 
-   Click into a date against an employee to see the shortage recorded — for example, 30 minutes short on 23 June.
+   ![Attendance shortages showing for team members in Week view](./images/review-attendance-shortages-for-your-team-1.png)
 
 4. Act on it
 
-   Where the shortage is genuine, take it up with the employee. Where it is wrong — the biometric machine wasn't working, or there was an agreed late arrival or early exit, usually supported by an HR request — it needs to be corrected against the attendance log in D365 by HR, not in ESS. Once corrected and the summary batch job has run again, the shortage clears from this view.
+   Where the shortage is genuine, take it up with the employee. If it is wrong—the biometric machine wasn't working, or there was an agreed late arrival or early exit, usually supported by an HR request—HR needs to correct it against the attendance log in D365, not in ESS. Once HR corrects it and the summary batch job runs again, the shortage clears from this view.
