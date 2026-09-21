@@ -13,7 +13,7 @@ video:
 
 # Review attendance shortages for your team
 
-A shortage is a day where somebody worked fewer minutes than their calendar scheduled. The attendance shortage tab collects these for your team so you can see who is short, on which days, and by how much.
+A shortage is a day when somebody worked fewer minutes than their calendar schedule. The attendance shortage tab collects these for your team so you can see who is short, on which days, and by how much.
 
 1. Open the attendance shortage tab
 
