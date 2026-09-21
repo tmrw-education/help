@@ -18,6 +18,8 @@ After your manager submits their probation review, the workflow routes it to you
 
    From the ESS portal, go to **Employment ▸ Probation Review** (the review appears here when it is assigned to you for feedback).
 
+   ![Probation tile showing a feedback form with start and due dates visible](./images/complete-probation-feedback-employee-1.png)
+
 2. Read your manager's assessment
 
    The form shows:
@@ -25,7 +27,7 @@ After your manager submits their probation review, the workflow routes it to you
    - Your manager's comments for each competency (read-only)
    - For Stage 2 reviews: Stage 1 ratings and comments are shown side-by-side with the Stage 2 fields so you can see your progression
 
-   ![The probation feedback form showing the manager's competency ratings (read-only) and the Employee Comment fields for the employee to fill in](./images/complete-probation-feedback-employee-1.png)
+   ![The probation feedback form showing the manager's competency ratings (read-only) and the Employee Comment fields for the employee to fill in](./images/complete-probation-feedback-employee-2.png)
 
 3. Add your feedback
 
