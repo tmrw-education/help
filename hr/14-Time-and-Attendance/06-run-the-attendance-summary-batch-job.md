@@ -33,7 +33,7 @@ In normal operation, this runs as a recurring batch process right after the data
 
 4. Check the results
 
-   Go to **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Attendance details** and find an employee in the batch. Each day's record shows the clock-in and clock-out times, work duration, regular minutes, and any overtime minutes.
+   Go to **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Attendance detail** and find an employee in the batch. Each day's record shows the clock-in and clock-out times, work duration, regular minutes, and any overtime minutes.
 
    For example, an employee who clocked in at 08:00 and out at 17:05 shows a work duration of 545 minutes, 480 regular minutes, and 65 minutes of overtime. Their location, location ID and device name carry through from the imported log.
 
