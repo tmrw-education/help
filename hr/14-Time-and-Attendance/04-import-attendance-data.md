@@ -4,7 +4,7 @@ id: import-attendance-data
 summary:
   - "In D365, go to **Data management ▸ Import**, name the project, and select the **TMRW HR time attendance** entity."
   - "Upload the CSV of punch records and map the columns, including the code remark and device fields."
-  - "Click **Import**, then check the loaded rows in **Time and attendance ▸ Attendance logs**."
+  - "Click **Import**, then check the loaded rows in **Time and attendance ▸ Attendance log**."
 keywords: [import attendance, data management, attendance log import, CSV import, TMRW HR time attendance entity, punch records, biometric data, clock in clock out, data entity, D365]
 video:
   youtube:
@@ -45,7 +45,7 @@ The Excel or CSV import below is how the data gets in.
 
 7. Check the loaded records
 
-   Go to **Time and attendance ▸Inquiries and reports ▸ Attendance logs** and review what came in. Each row holds the entry date, employee ID, clock-in date and time, code remark in, any remark passed through from the time and attendance clock, the clock-out date and time, and the location and device it was recorded on.
+   Go to **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Attendance log** and review what came in. Each row holds the entry date, employee ID, clock-in date and time, code remark in, any remark passed through from the time and attendance clock, the clock-out date and time, and the location and device it was recorded on.
 
    ![Imported rows in the attendance logs form, showing a punch in and punch out on the same date](./images/import-attendance-data-2.png)
 
