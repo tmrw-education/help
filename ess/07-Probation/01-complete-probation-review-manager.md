@@ -28,6 +28,8 @@ When a team member is due for a probation review, the workflow routes it to you.
 
    For each competency, select a rating from the dropdown (e.g., Meets Expectations, Concerns, Needs Improvement) and add comments in the **Manager Comments** field. The employee's comment field is read-only at this stage.
 
+   ![The probation review, with the dropdown for the rating and space for the manager's comment, the employee field is read-only](./images/complete-probation-review-manager-2.png)
+
 4. Add overall comments
 
    Fill in the **Overall Manager Comments** field to summarise your overall assessment.
