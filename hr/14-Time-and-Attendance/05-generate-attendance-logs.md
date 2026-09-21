@@ -27,7 +27,7 @@ If you need attendance logs for employees with no punch data—because they aren
 
 3. Set the punch in details
 
-   Enter the **Start date time**—the date the range begins and the time to use as the punch in (for example, 1 July at 07:00) —and set the **Code remark in** to **Punch in**.
+   Enter the **Start date time**—the date the range begins and the time to use as the punch in (for example, 10 August at 07:00) —and set the **Code remark in** to **Punch in**.
 
 4. Set the punch out details
 
