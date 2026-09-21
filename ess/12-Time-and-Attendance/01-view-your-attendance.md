@@ -13,13 +13,13 @@ video:
 
 # View your attendance
 
-Your attendance in ESS is a calendar of the days you have worked, built from the clock in and clock out records from the attendance system. It is where you check what has been recorded for you before it goes anywhere else.
+Your attendance in ESS is a calendar of the days you have worked, built from the clock-in and clock-out records from the attendance system. Use it to check what has been recorded for you before it goes anywhere else.
 
 1. Open attendance
 
    In ESS, scroll down the home page and click the **Attendance** tile.
 
-2. Open my attendance
+2. Open My attendance
 
    The first tab is **My attendance**, showing your own record.
 
@@ -35,10 +35,10 @@ Your attendance in ESS is a calendar of the days you have worked, built from the
 
 5. Read the calendar
 
-   The legend at the top of the calendar tells you what each marking means. Across a month you can see your scheduled hours, how many you have booked, and your absence hours, along with the breaks that come from your working calendar and the actual hours you worked.
+   The legend at the top of the calendar tells you what each marking means. Across a month, you can see your scheduled hours, how many you have booked, and your absence hours, along with breaks from your working calendar and the actual hours you worked.
 
    ![The attendance calendar legend and the monthly totals](./images/view-your-attendance-2.png)
 
    Approved leave and public holidays appear on the calendar too — an Islamic New Year holiday, for example, comes through from the calendar and shows on the day.
 
-If something recorded against you is wrong — a day the machine didn't register, a late arrival or an early exit that was agreed — raise it with HR. Corrections are made in D365 against your attendance log, and appear here once the system next refreshes, which is at about five minute intervals rather than instantly.
+If something recorded against you is wrong — a day the machine didn't register, a late arrival or an early exit that was agreed — raise it with HR. Corrections are made in D365 against your attendance log, and appear here once the system next refreshes, which is at about five-minute intervals rather than instantly.
