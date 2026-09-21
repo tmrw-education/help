@@ -27,7 +27,9 @@ The attendance details form is the summarised view of who worked what, one recor
 
 3. Switch between the line and hierarchy views
 
-   The form shows the employees who report to you, and you can view them in two ways. **Line** shows your direct reports. **Hierarchy** shows the people who report to you for attendance through the attendance hierarchy on their position. These are usually different sets of people, and that is the point of the two views — a designated attendance manager sees their attendance reports under **Hierarchy** even though those people report to somebody else on the **Line**.
+   The form shows the employees who report to you, and you can view them in two ways. **Line** shows your direct reports. **Hierarchy** shows the people who report to you for attendance through the attendance hierarchy of their position. These are usually different sets of people, and that is the point of the two views — a designated attendance manager sees their attendance reports under **Hierarchy** even though those people report to somebody else on the **Line**.
+
+   [The attendance details showing under the hierarchy view](./images/review-attendance-details-2.png)
 
 4. Search for a specific employee
 
@@ -35,8 +37,8 @@ The attendance details form is the summarised view of who worked what, one recor
 
 5. View one employee's own record
 
-   To look at a single employee's attendance from their record instead, go to **Human Resources ▸ Employees**, open the employee, and under the **Work** tab go to **Attendance ▸ View attendance**.
+   To look at a single employee's attendance from their record instead, go to **Human Resources ▸ Workers ▸ Employees**, open the employee, and under the **Work** tab in the Action Pane, go to **Attendance ▸ View attendance**.
 
-   ![An employee's attendance shown from their employee record](./images/review-attendance-details-2.png)
+   ![An employee selected with the View attendance button selected](./images/review-attendance-details-3.png)
 
    This shows all their attendance and overtime information—work duration, regular minutes, and overtime minutes—in one place, and it's the view an employee sees for themselves.
