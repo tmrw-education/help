@@ -13,7 +13,7 @@ Use the sidebar to navigate by topic, or use the search bar to find a specific p
 - **Navigating D365 HR** — signing in, the navigation pane, and the Action Pane
 - **Questionnaires** — setting up schedules, viewing the Intentions Inquiry, and running the offboarding batch
 - **Onboarding** — configuring checklists, dependencies, and school-specific tasks
-- **Visa and Work Authorisation** — setup tables, recording employee visa information, and monitoring expiring records
+- **Visa and work authorisation** — setup tables, recording employee visa information, and monitoring expiring records
 - **HR Requests** — configuring request types and processing submitted requests
 - **Probation** — configuring parameters, running the review batch, and monitoring reviews
 - **Identification** — configuring mandatory attachment rules per document type
