@@ -19,8 +19,6 @@ If people report to you, the attendance area has a team tab alongside your own. 
 
    In ESS, open the **Attendance** tile and go to the **Team attendance** tab.
 
-   ![The Team attendance tab in ESS](./images/view-your-teams-attendance-1.png)
-
 2. Choose line or hierarchy
 
    There are two ways people can report to you, and two views to match.
@@ -31,6 +29,8 @@ If people report to you, the attendance area has a team tab alongside your own. 
 
    The two lists are usually different. Toggle between them to see both.
 
+   ![The Team attendance showing in week view](./images/view-your-teams-attendance-1.png)
+
 3. Change the period
 
    Move between weeks with the week selector, or widen the date range to see several weeks at once.
@@ -39,4 +39,4 @@ If people report to you, the attendance area has a team tab alongside your own. 
 
    Attendance data refreshes on an interval of about five minutes rather than instantly, so a punch or a correction made moments ago may not be there yet. Refresh and check again before raising it.
 
-From here you can also see your team's shortages and approve their overtime — see [Review attendance shortages for your team](./03-review-attendance-shortages-for-your-team.md) and [Approve your team's overtime](./04-approve-your-teams-overtime.md).
+From here, you can also see your team's shortages and approve their overtime — see [Review attendance shortages for your team](./03-review-attendance-shortages-for-your-team.md) and [Approve your team's overtime](./04-approve-your-teams-overtime.md).
