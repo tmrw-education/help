@@ -1,5 +1,4 @@
 ---
-draft: true
 id: review-missing-attendance
 summary:
   - "In D365, open the **Missing attendance** form under time and attendance."

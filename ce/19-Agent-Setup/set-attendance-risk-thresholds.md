@@ -47,7 +47,7 @@ attendance values.
    - In the administrator app, go to **System settings ▸ Settings ▸ Active Attendance Threshold**.
    - Or open the **School** profile, select **School Profile** and go to the **System management** module, then **Attendance threshold**.
 
-   [Attendance threshold displayed in school profile, system management](./images/set-attendance-risk-thresholds-2.png)
+   ![Attendance threshold displayed in school profile, system management](./images/set-attendance-risk-thresholds-2.png)
 
    > **Note:** The school profile view lists the thresholds in ascending order,
    > which makes it easier to see the bands as a set and spot a gap. Use it when

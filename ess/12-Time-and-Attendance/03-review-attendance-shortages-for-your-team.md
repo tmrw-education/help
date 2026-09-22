@@ -1,5 +1,4 @@
 ---
-draft: true
 id: review-attendance-shortages-for-your-team
 summary:
   - "In ESS, open the **Attendance** tile and go to the **Attendance shortage** tab."

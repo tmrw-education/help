@@ -1,5 +1,4 @@
 ---
-draft: true
 id: view-your-teams-attendance
 summary:
   - "In ESS, open the **Attendance** tile and go to the **Team attendance** tab."

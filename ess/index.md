@@ -23,5 +23,6 @@ Use the sidebar to navigate by topic, or use the search bar to find what you nee
 - **Learning** — viewing the GEMSU courses assigned to you and tracking your progress
 - **Leave** — requesting time off, attaching medical certificates, cancelling leave, and how calendar changes affect your bookings
 - **Performance** — goal setting, mid year and end of year reviews, giving feedback to your team, and viewing your calibrated rating
+- **Time and Attendance** — checking your own attendance calendar, seeing your team's attendance and shortages, and approving your team's overtime
 - **Troubleshooting** — common problems and how to resolve them
 - **Glossary** — the terms used across ESS

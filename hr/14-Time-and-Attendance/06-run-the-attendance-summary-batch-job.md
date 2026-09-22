@@ -1,5 +1,4 @@
 ---
-draft: true
 id: run-the-attendance-summary-batch-job
 summary:
   - "In D365, go to **Time and attendance ▸ Periodic tasks ▸ Execute attendance summary**."

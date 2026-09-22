@@ -48,7 +48,7 @@ model's general reasoning — nothing controls them, and nothing makes them repe
    - The **Signal Condition** that should trigger an intervention, for example, missing work, or a grade dropping between assessments.
    - The agent will use the **Action Description** and the **Action Method** to inform which intervention action to take.
 
-   [Headings in the Active Intervention Library](./images/upload-the-attendance-intervention-library-1.png)
+   ![Headings in the Active Intervention Library](./images/upload-the-attendance-intervention-library-1.png)
 
 3. Upload the completed file
 

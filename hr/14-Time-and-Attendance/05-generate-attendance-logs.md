@@ -1,5 +1,4 @@
 ---
-draft: true
 id: generate-attendance-logs
 summary:
   - "In D365, go to **Time and attendance ▸ Attendance log** and click **Generate attendance log**."

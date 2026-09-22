@@ -49,7 +49,7 @@ school needs its own schedule — without one, the agent never runs at all.
 
    Set the **until** date for the schedule, then save.
 
-   [New attendance compliance form with completed fields](./images/schedule-the-attendance-compliance-checker-1.png)
+   ![New attendance compliance form with completed fields](./images/schedule-the-attendance-compliance-checker-1.png)
 
 5. Check it in StaffXP
 

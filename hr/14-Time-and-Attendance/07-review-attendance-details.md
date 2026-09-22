@@ -1,5 +1,4 @@
 ---
-draft: true
 id: review-attendance-details
 summary:
   - "In D365, go to **Time and attendance ▸ Attendance detail** to see summarised attendance by employee and day."
@@ -29,7 +28,7 @@ The attendance details form is the summarised view of who worked what, one recor
 
    The form shows the employees who report to you, and you can view them in two ways. **Line** shows your direct reports. **Hierarchy** shows the people who report to you for attendance through the attendance hierarchy of their position. These are usually different sets of people, and that is the point of the two views — a designated attendance manager sees their attendance reports under **Hierarchy** even though those people report to somebody else on the **Line**.
 
-   [The attendance details showing under the hierarchy view](./images/review-attendance-details-2.png)
+   ![The attendance details showing under the hierarchy view](./images/review-attendance-details-2.png)
 
 4. Search for a specific employee
 

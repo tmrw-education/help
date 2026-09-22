@@ -1,5 +1,4 @@
 ---
-draft: true
 id: configure-time-and-attendance-parameters
 summary:
   - "In D365, go to **Human Resources ▸ Setup ▸ Human resources parameters ▸ General** and set the attendance and overtime hierarchies."

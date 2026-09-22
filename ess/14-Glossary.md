@@ -8,10 +8,13 @@ Terms used across the Employee Self-Service portal and this guide.
 
 | Term | Definition |
 |---|---|
+| Absence Hours | The hours shown on your attendance calendar as absence across the period, alongside your scheduled and booked hours. |
 | Add a New Goal | The option on your review letting you add a goal beyond those released to you. Goals can also be removed where they no longer apply. |
 | Advance Notice | A rule on some leave types requiring longer periods to be requested a set number of days ahead. Submitting inside the notice period returns an error naming both the day count and the notice required. |
 | Approval Delegation | An arrangement that hands your approval responsibilities to a colleague for a set date range — used when you are on leave. Must be enabled to take effect, and expires automatically at the end date. Offboarding checklist tasks also respect active delegations. |
 | Approvals Tab | The tab in the Tasks workspace listing items awaiting your review — identification, education, subject, professional experience and skill submissions from your direct reports. |
+| Attendance | The area reached from the Attendance tile, holding your own attendance calendar and, if you manage people, your team’s attendance, shortages and overtime. |
+| Attendance Shortage | A day where fewer minutes were worked than the working calendar scheduled. Managers see their team’s shortages on the Attendance shortage tab. |
 | Average Score | The mean of your weighted ratings for the year. Calculated when your manager submits your end of year review, so it shows as zero before that. |
 
 ## B
@@ -20,6 +23,7 @@ Terms used across the Employee Self-Service portal and this guide.
 |---|---|
 | Beneficiary | A flag on a personal contact record marking that person as a beneficiary, with a date range and an indication of whether they are the primary beneficiary. |
 | Benefits Tab | The tab within Rewards & Benefits showing the individual benefit plans you are enrolled in — such as medical insurance, transport, accommodation and life insurance — their entitlement amounts, and your gratuity value. |
+| Booked Hours | The hours recorded against you for the period, shown on your attendance calendar against your scheduled hours. |
 
 ## C
 
@@ -75,6 +79,7 @@ Terms used across the Employee Self-Service portal and this guide.
 
 | Term | Definition |
 |---|---|
+| Hierarchy | The team view showing the people assigned to you as their attendance or overtime manager, rather than your direct reports. Usually a different list from the line view. |
 | HR Feedback | The notes HR records when completing your request. Visible on the completed request in ESS, alongside any document they attached. |
 | HR Request | A formal request submitted to HR through ESS — for example Police Clearance Certificate, Early Exit or Late Entry. Each is assigned a system-generated request number on submission. |
 
@@ -94,6 +99,7 @@ Terms used across the Employee Self-Service portal and this guide.
 | Learning and Professional Development | The ESS home page tile that opens your GEMSU course list, showing courses in progress, not started and completed. |
 | Leave Plan | A group of leave types you are enrolled in. Enrolment comes from your position, so it updates when you change role. You only see the plans your school has made visible in ESS. |
 | Leave Type | The individual kind of leave within a plan — annual, casual, sick, maternity and so on. Determines the rules applied when you submit: reason codes, certificates, notice periods, and whether the entitlement must be taken in one block. |
+| Line | The team view showing your direct reports — the people whose line manager you are. |
 
 ## M
 
@@ -105,6 +111,7 @@ Terms used across the Employee Self-Service portal and this guide.
 | Meets Expectations | A Stage 2 probation outcome. The review passes to the employee for their feedback and HR is notified at the same time. |
 | Mid Year Review | The mid-point stage of the performance year. Your goals and the comments from goal setting are carried forward, and both you and your manager give a rating. |
 | Mobility Preferences | The locations you would consider working in, selected against your career aspirations. More than one can be chosen. |
+| My Attendance | The tab showing your own attendance calendar, in a week view or a longer multi-week overview. |
 | My Requests | The view listing every HR request you have submitted, with request numbers and current statuses. Reached from the Submit request tile. |
 | My Work | The ESS navigation area holding your Questionnaires. |
 
@@ -124,6 +131,7 @@ Terms used across the Employee Self-Service portal and this guide.
 | Org Chart | A live visual of the organisation's reporting structure, drawn from Dynamics 365. Hover for a person's details, click to move to their part of the hierarchy. |
 | Overall Rating | The summary rating your manager gives for the year on your end of year review, recorded with their written summary and any development notes. |
 | Overdue | A flag on a GEMSU course whose start date has passed. Use it to prioritise — an overdue mandatory course should be picked up first. |
+| Overtime | Minutes worked beyond the scheduled hours on a day. Raised to the manager for approval in ESS, then approved by HR and finance before it reaches payroll. |
 
 ## P
 
@@ -164,6 +172,7 @@ Terms used across the Employee Self-Service portal and this guide.
 | Term | Definition |
 |---|---|
 | Save as Draft | The option that preserves your progress through a questionnaire so you can return later. Sets the status to In Progress; resume with **Continue**. |
+| Scheduled Hours | The hours your working calendar sets for the period, shown on your attendance calendar against your booked and absence hours. |
 | Screenings | The profile tab showing compliance and pre-employment checks assigned to you. Most records are read-only; only items HR has enabled for employee action can be updated. |
 | Sick Leave Certificate | The medical certificate required on a sick leave request. Needed for any request while you are within probation, and beyond a set number of days once you are confirmed. |
 | Skills & Performance | The ESS tile giving access to your skills, certificates, performance goals and reviews and — for managers — the team probation and performance review queues. |
@@ -181,9 +190,11 @@ Terms used across the Employee Self-Service portal and this guide.
 | Talent Review | The record held against an employee capturing comments, risk and impact of loss, matrix position, identified successor and readiness. Completed from the growth and performance matrix using the three dots against an employee. |
 | Talent View | The manager view screen comparing employees' talent reviews side by side, up to four at a time. Needs HR access. |
 | Tasks | The ESS workspace holding your assigned checklist items (Tasks tab) and anything awaiting your approval (Approvals tab). |
+| Team Attendance | The manager tab showing your team’s attendance calendars, with a toggle between the line and hierarchy views. |
 | Team Performance Reviews | The manager queue listing your direct reports' performance reviews, with their status and due date. Overdue reviews are flagged. |
 | Team Probation Review Requests | The manager queue under **Skills & performance ▸ Performance Management** listing probation reviews awaiting your assessment. |
 | Time Off Request | A submitted leave request. Listed with its status — In review, approved, cancelled or completed — under your time off requests. |
+| Total Approved Minutes | The running total of overtime minutes you have approved, updating as you approve each entry. |
 | Total Reward | The combined value of your salary, benefits and variable pay, shown at the top of the rewards statement. |
 | Total Score | The sum of your weighted ratings for the year. Calculated when your manager submits your end of year review. |
 | Training Needs | The section of your review recording the training and development you need. Managers can comment on it but cannot clear an item you have marked as completed. |

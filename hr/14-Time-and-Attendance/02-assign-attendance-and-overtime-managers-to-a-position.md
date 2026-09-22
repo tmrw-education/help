@@ -1,5 +1,4 @@
 ---
-draft: true
 id: assign-attendance-and-overtime-managers-to-a-position
 summary:
   - "In D365, go to **Human Resources ▸ Employees**, open the employee, and open their **Positions**."

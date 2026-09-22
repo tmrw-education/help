@@ -1,5 +1,4 @@
 ---
-draft: true
 id: adjust-an-attendance-record
 summary:
   - "In D365, go to **Time and attendance ▸ Attendance log** and find the employee and date to correct."

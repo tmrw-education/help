@@ -1,5 +1,4 @@
 ---
-draft: true
 id: review-and-approve-overtime
 summary:
   - "In D365, go to **Time and attendance ▸ Overtime details** — only employees with overtime appear."

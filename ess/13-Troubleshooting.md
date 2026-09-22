@@ -491,3 +491,55 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 **Cause** — Their talent review hasn't been completed.
 
 **Fix** — Open the employee from the growth and performance matrix using the three dots and complete their talent review. See [Use the growth and performance matrix](./11-Performance/10-use-the-growth-and-performance-matrix.md).
+
+---
+
+## Time and Attendance
+
+### My attendance for today isn't showing
+
+**Cause** — Attendance refreshes on an interval, and the feed from the attendance system arrives once a day.
+
+**Fix** — Allow about five minutes and refresh. A day's punches will not be there in real time as you work.
+
+### A day on my attendance calendar is wrong
+
+**Cause** — The punch recorded against you doesn't match what you actually worked — the machine wasn't available, or a late arrival or early exit was agreed.
+
+**Fix** — This can't be corrected in ESS. Raise it with HR, who amend the underlying attendance log in D365. The change appears here at the next refresh. See [View your attendance](./12-Time-and-Attendance/01-view-your-attendance.md).
+
+### I can't see the Team attendance tab
+
+**Cause** — The team tabs only appear where people report to you.
+
+**Fix** — If you manage people and the tab is missing, contact HR to check that you are set as their line manager, or as their attendance or overtime manager on their position.
+
+### People I expect to see aren't in my team attendance
+
+**Cause** — There are two reporting views and you may be looking at the wrong one.
+
+**Fix** — Toggle between **Line** and **Hierarchy**. Line shows your direct reports; hierarchy shows the people assigned to you as their attendance or overtime manager. The lists are usually different. See [View your team's attendance](./12-Time-and-Attendance/02-view-your-teams-attendance.md).
+
+### An employee worked overtime but it isn't in my overtime list for approval
+
+**Cause** — Either their staff level is not flagged as eligible for overtime, or the overtime is below the minimum HR has set for approval.
+
+**Fix** — Short daily overruns are excluded on purpose so approvers only see overtime worth approving. If the amount is substantial, ask HR to check the employee's overtime eligibility.
+
+### I approved overtime — does HR need to do anything else?
+
+**Cause** — Your approval is the first of three.
+
+**Fix** — Yes. Overtime goes manager ▸ HR ▸ finance before it is released for payroll. Your approval writes back to D365 immediately, and HR and finance approve from there. See [Approve your team's overtime](./12-Time-and-Attendance/04-approve-your-teams-overtime.md).
+
+### I approved the wrong overtime entry
+
+**Cause** — Approval is confirmed at the point you click Confirm.
+
+**Fix** — Contact HR. The record is in D365 and the overtime detail shows who approved it and when, so it can be picked up before HR and finance approve it.
+
+### A shortage is showing against one of my team that I know is wrong
+
+**Cause** — The shortage is calculated from what was recorded, not from what was agreed.
+
+**Fix** — Ask HR to correct the attendance log in D365. The shortage clears from this view once the attendance summary job runs again. See [Review attendance shortages for your team](./12-Time-and-Attendance/03-review-attendance-shortages-for-your-team.md).

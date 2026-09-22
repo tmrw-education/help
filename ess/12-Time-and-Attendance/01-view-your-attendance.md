@@ -1,5 +1,4 @@
 ---
-draft: true
 id: view-your-attendance
 summary:
   - "In ESS, scroll down the home page and click the **Attendance** tile."

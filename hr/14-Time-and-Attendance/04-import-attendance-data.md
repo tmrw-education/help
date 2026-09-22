@@ -1,5 +1,4 @@
 ---
-draft: true
 id: import-attendance-data
 summary:
   - "In D365, go to **Data management ▸ Import**, name the project, and select the **TMRW HR time attendance** entity."

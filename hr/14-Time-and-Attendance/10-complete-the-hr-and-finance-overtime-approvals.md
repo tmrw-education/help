@@ -1,5 +1,4 @@
 ---
-draft: true
 id: complete-the-hr-and-finance-overtime-approvals
 summary:
   - "In D365, open the **HR approval** form — it lists only the overtime the manager has already approved."

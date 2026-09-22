@@ -1,5 +1,4 @@
 ---
-draft: true
 id: approve-your-teams-overtime
 summary:
   - "In ESS, open the **Attendance** tile and go to the **Overtime** tab."
