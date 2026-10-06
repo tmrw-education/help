@@ -45,6 +45,8 @@ teacher applied, the marks, and the feedback given. Felix calls it for you.
    > separate agent rather than by Felix itself, it does not open in the canvas
    > automatically the way other agent output does.
 
+   ![Felis prompts and pathway to access a student's progress report](./images/view-a-student-progress-report-1.png)
+
 4. Read the report
 
    The report covers, for the period you chose:
@@ -60,7 +62,7 @@ teacher applied, the marks, and the feedback given. Felix calls it for you.
 5. Check the data sources
 
    The **AI transparency badge** lists the data sources used to produce the
-   report. Open it if you want to know what the analysis was based on.
+   report. Open it to see what the analysis was based on.
 
 6. Look for learning accelerator data
 
