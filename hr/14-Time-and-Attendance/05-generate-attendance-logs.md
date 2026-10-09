@@ -12,7 +12,7 @@ video:
 
 # Generate attendance logs
 
-If you need attendance logs for employees with no punch data—because they aren't on the biometric system or a period needs backfilling—you can have D365 generate them from a default start and end time and a working time calendar. It creates one punch in and one punch out for each applicable working day in the range.
+If you need attendance logs for employees with no punch data—because they aren't on the biometric system or a period needs backfilling—you can have Dynamics 365 (D365) generate them from a default start and end time and a working time calendar. It creates one punch in and one punch out for each applicable working day in the range.
 
 1. Open the attendance logs form
 

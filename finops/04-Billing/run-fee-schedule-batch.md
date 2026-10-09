@@ -18,7 +18,7 @@ With student data confirmed and fee schedule templates in place, run the fee gen
 
 1. Open Generate sale order batch processing
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Generate sale order batch processing**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Generate sale order batch processing**.
 
 2. Set the batch parameters
 

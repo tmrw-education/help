@@ -15,7 +15,7 @@ Before starting, ensure a book fee item has already been created.
 
 1. Verify book fee prices
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Product information management ▸ Products ▸ Released products**. Filter the **Product name** column for *Book fees* (②). Click **Sell** on the Action Pane (③) and under **View** select **Sales price** (④). Confirm prices are set up for all required grades, curricula, and streams.
+   From the **F&O dashboard**, navigate to **Modules ▸ Product information management ▸ Products ▸ Released products**. Filter the **Product name** column for *Book fees* (②). Click **Sell** on the Action Pane (③) and under **View** select **Sales price** (④). Confirm prices are set up for all required grades, curricula, and streams.
 
    ![Generate Flat Fee for Book Sales — the Released products Sales price view for book fee items showing prices by grade, curriculum, and stream](./images/generate-book-sales-fee-1.png)
 

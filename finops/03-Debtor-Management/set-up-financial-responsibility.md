@@ -11,11 +11,11 @@ video:
 
 # Student Setup — Financial Responsibility
 
-Financial responsibility defines which fee payers are liable for a student's invoices and in what proportion. Where the fee payer is managed as a customer (not a student), these percentages are set in the Student Management System and synchronised to D365 F&O — the steps below show how to view that setup.
+Financial responsibility defines which fee payers are liable for a student's invoices and in what proportion. Where the fee payer is managed as a customer (not a student), these percentages are set in the Student Management System and synchronised to Dynamics 365 Finance and Operations (D365 F&O) — the steps below show how to view that setup.
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Select the student profile (③).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Select the student profile (③).
 
    ![Student Setup Financial Responsibility — the Relationships section with fee payers and Paid percentage columns](./images/set-up-financial-responsibility-1.png)
 

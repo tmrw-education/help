@@ -15,7 +15,7 @@ The registration fee is automatically created when the student record syncs from
 
 1. Open All pre-admission fees
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Search for the student by name or account number (④).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Search for the student by name or account number (④).
 
    ![Application / Registration Fee Process via Online — All pre-admission fees showing the student record with General and Payment tab options visible](./images/process-registration-fee-online-1.png)
 

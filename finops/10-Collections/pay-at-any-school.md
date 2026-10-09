@@ -15,7 +15,7 @@ The pay at any school process allows staff to receive and record fee payments on
 
 1. Create the cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt report**. Click **+ Cashier receipt** and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt report**. Click **+ Cashier receipt** and complete the following:
 
    - **Company** (④) — select the school receiving the payment.
    - **Customer** (⑤) — select the student the payment is being received for.

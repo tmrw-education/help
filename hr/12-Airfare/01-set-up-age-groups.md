@@ -16,7 +16,7 @@ Age groups decide which fare a dependent attracts. Each band is a range of ages 
 
 1. Open the age group setup
 
-   In D365, go to **Human Resources ▸ Setup ▸ Age group setup**.
+   In Dynamics 365 (D365), go to **Human Resources ▸ Setup ▸ Age group setup**.
 
    ![The D365 navigation pane with Age group setup selected under Human Resources setup](./images/set-up-age-groups-1.png)
 

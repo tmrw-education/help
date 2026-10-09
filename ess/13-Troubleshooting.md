@@ -8,7 +8,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 **Cause** — A personal or non-GEMS Microsoft account is being used, or the portal link is wrong.
 
-**Fix** — Sign in with your **GEMS Microsoft 365** email address and password — the same login you use for email. There is no separate ESS password. Your IT team or HR provides the portal URL.
+**Fix** — Sign in with your **GEMS Microsoft 365** email address and password — the same login you use for email. There is no separate Employee Self-Service (ESS) password. Your Information Technology (IT) team or Human Resources (HR) provides the portal URL.
 
 ### Do I need to install anything?
 
@@ -84,7 +84,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 **Cause** — Payment information changes go through an approval workflow, and only one account can be active at a time.
 
-**Fix** — The previous account is marked inactive once the new one is approved. Note that the system also runs a duplicate IBAN check on submission, so a rejected submission may be a duplicate.
+**Fix** — The previous account is marked inactive once the new one is approved. Note that the system also runs a duplicate International Bank Account Number (IBAN) check on submission, so a rejected submission may be a duplicate.
 
 ### I can't see my old bank account
 
@@ -434,7 +434,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 ### Some of my goals have no rating or weighting
 
-**Cause** — PIP and PDP goals aren't scored.
+**Cause** — performance improvement plan (PIP) and personal development plan (PDP) goals aren't scored.
 
 **Fix** — This is expected. They are there to support your development rather than to be weighted into your overall result.
 
@@ -506,7 +506,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 **Cause** — The punch recorded against you doesn't match what you actually worked — the machine wasn't available, or a late arrival or early exit was agreed.
 
-**Fix** — This can't be corrected in ESS. Raise it with HR, who amend the underlying attendance log in D365. The change appears here at the next refresh. See [View your attendance](./12-Time-and-Attendance/01-view-your-attendance.md).
+**Fix** — This can't be corrected in ESS. Raise it with HR, who amend the underlying attendance log in Dynamics 365 (D365). The change appears here at the next refresh. See [View your attendance](./12-Time-and-Attendance/01-view-your-attendance.md).
 
 ### I can't see the Team attendance tab
 

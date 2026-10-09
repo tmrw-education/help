@@ -15,7 +15,7 @@ When a student's enrolment in a sessional class or event needs to be cancelled a
 
 1. Open the enrolment record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Sessional class and event details**. Locate the enrolment record for the student and event to cancel (④).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Sessional class and event details**. Locate the enrolment record for the student and event to cancel (④).
 
 2. Cancel and confirm
 

@@ -15,7 +15,7 @@ The Number of Siblings by Family report shows how many siblings are enrolled per
 
 1. Open the report
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, expand **Students and families**, and click **Number of siblings by family details**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, expand **Students and families**, and click **Number of siblings by family details**.
 
 2. Filter and review
 

@@ -16,7 +16,7 @@ Performance periods divide the performance year into the stages you actually run
 
 1. Open the performance period form
 
-   In D365, go to the **Performance period** setup under **Human Resources ▸ Performance ▸ Setup ▸ Performance period**.
+   In Dynamics 365 (D365), go to the **Performance period** setup under **Human Resources ▸ Performance ▸ Setup ▸ Performance period**.
 
 2. Create a period for each stage
 

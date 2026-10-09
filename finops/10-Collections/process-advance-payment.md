@@ -15,7 +15,7 @@ Before processing, confirm that the Advanced Discount Policy is configured for t
 
 1. Create the cashier receipt and apply the co-branded method
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Cashier Receipt**. Click **+ Cashier receipt** and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Cashier Receipt**. Click **+ Cashier receipt** and complete the following:
 
    - **Customer** — enter the student account.
    - **Co-branded** — enable this option under Method of Payment. Enabling Co-branded activates the **Calculate Discount** button.

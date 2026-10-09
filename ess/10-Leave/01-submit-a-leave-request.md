@@ -12,7 +12,7 @@ video:
 
 # Submit a leave request
 
-Leave is requested from ESS. Choose the plan and leave type you want to take, select your dates, and submit. The request then follows the approval workflow set up for your school.
+Leave is requested from Employee Self-Service (ESS). Choose the plan and leave type you want to take, select your dates, and submit. The request then follows the approval workflow set up for your school.
 
 1. Open the time off request form
 
@@ -24,7 +24,7 @@ Leave is requested from ESS. Choose the plan and leave type you want to take, se
 
    The **Leave plan** you are enrolled in is automatically selected. You are enrolled in your plans when you are hired, and your enrolment is updated if you move to a new position — so the plans you see reflect your current role.
 
-   You only see the plans and types your school has chosen to make available in ESS. If a plan or type you expect isn't in the list, contact your HR team.
+   You only see the plans and types your school has chosen to make available in ESS. If a plan or type you expect isn't in the list, contact your Human Resources (HR) team.
 
 3. Choose your leave type
 

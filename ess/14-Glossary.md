@@ -2,7 +2,7 @@
 
 Terms used across the Employee Self-Service portal and this guide.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [V](#v)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v)
 
 ## A
 
@@ -42,6 +42,7 @@ Terms used across the Employee Self-Service portal and this guide.
 
 | Term | Definition |
 |---|---|
+| D365 | Dynamics 365 — the Microsoft platform behind ESS. Changes you submit in ESS are written to your employee record in D365. |
 | Dependency | A prerequisite relationship between checklist tasks. A blocked task shows each dependency with its owner, status and target date, and cannot be completed until all are finished. |
 | Dependent | A child or family member recorded under Personal contacts. Must be approved and flagged as a **Full-Time Student** before tuition fee and transport requests can be raised for them. |
 | DEWA | Dubai Electricity and Water Authority. Account details are recorded as an identification type and required for certain housing and utility-related HR processes. |
@@ -68,6 +69,7 @@ Terms used across the Employee Self-Service portal and this guide.
 
 | Term | Definition |
 |---|---|
+| GEMS | The school group you are employed by. Your GEMS Microsoft 365 account is the login ESS signs you in with. |
 | GEMSU | The GEMS learning platform. Courses assigned to you in GEMSU appear in ESS under Learning and Professional Development, so you can track your learning without leaving the portal. |
 | Goal Setting | The first stage of the performance year, where you set the weighting, comments and status against each goal and record your career aspirations and training needs. Managers comment at this stage but do not rate. |
 | Goal Status | Where a goal currently stands — for example **On track** or **Complete**. Set by you against each goal on your review. |
@@ -91,6 +93,7 @@ Terms used across the Employee Self-Service portal and this guide.
 | Identification Type | The category of an identification record — passport, Emirates ID, labour card, DEWA, Ejari and others. Determines which fields the form shows and whether an attachment is mandatory. |
 | In Review | The status of a submitted education record while it awaits HR approval. |
 | Intention Questionnaire | A survey distributed to specific employee groups — typically teaching staff — asking whether you intend to leave the organisation. A Yes response is what prompts HR to follow up. |
+| IT | Information Technology — the team that provides the ESS portal link and resolves sign-in problems. |
 
 ## L
 
@@ -200,6 +203,12 @@ Terms used across the Employee Self-Service portal and this guide.
 | Training Needs | The section of your review recording the training and development you need. Managers can comment on it but cannot clear an item you have marked as completed. |
 | Transport Request | A request for school transport for an approved dependent. Runs as an integration with Phoenix, which validates the student ID and school before the request proceeds. |
 | Tuition Fee Concession | A request for a tuition fee concession for a dependent child at a GEMS school. Only available where the dependent is approved and flagged as a full-time student, and only once per dependent. |
+
+## U
+
+| Term | Definition |
+|---|---|
+| URL | Uniform Resource Locator — the web address of a page. Your IT team or HR provides the ESS portal URL. |
 
 ## V
 

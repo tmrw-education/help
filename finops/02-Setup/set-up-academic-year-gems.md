@@ -18,7 +18,7 @@ Academic year IDs must match the setup in the student management system. The seq
 
 1. Create the academic year record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Academic year**. Click **New** in the toolbar. Enter the next **sequence number** (④) in order and complete the remaining fields in the row (⑤). Click **Save**.
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Academic year**. Click **New** in the toolbar. Enter the next **sequence number** (④) in order and complete the remaining fields in the row (⑤). Click **Save**.
 
    ![Set Up Academic Year — the Academic year list with the new record and Sequence number visible](./images/set-up-academic-year-gems-1.png)
 

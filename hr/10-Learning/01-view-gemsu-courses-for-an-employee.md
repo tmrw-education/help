@@ -12,7 +12,7 @@ video:
 
 # View GEMSU courses for an employee
 
-The GEMSU integration writes GEMSU course data into D365, giving HR a view of what learning each employee has been assigned and where they have got to. The integration populates records— they are not maintained manually on the employee record.
+The GEMSU integration writes GEMSU course data into Dynamics 365 (D365), giving Human Resources (HR) a view of what learning each employee has been assigned and where they have got to. The integration populates records— they are not maintained manually on the employee record.
 
 1. Open the employee record
 
@@ -37,7 +37,7 @@ The GEMSU integration writes GEMSU course data into D365, giving HR a view of wh
    | **Start date** | The date the course is due to start |
    | **Date registered** | The date the employee was registered on the course in GEMSU |
 
-   This is the same data the employee sees under **GEMSU courses** in ESS.
+   This is the same data the employee sees under **GEMSU courses** in Employee Self-Service (ESS).
 
 4. Review courses across all employees
 

@@ -12,7 +12,7 @@ video:
 
 # Add professional experience
 
-Previous experience records are submitted through ESS and go through the approval workflow before being confirmed on your profile.
+Previous experience records are submitted through Employee Self-Service (ESS) and go through the approval workflow before being confirmed on your profile.
 
 1. Open the Professional experience tab
 

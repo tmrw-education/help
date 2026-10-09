@@ -15,7 +15,7 @@ The advance discount simulation tool calculates the discount a fee payer would r
 
 1. Open the simulation tool and enter the parameters
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiry and Report**, expand **Co-branded transactions**, and click **Advanced Discount Policy**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiry and Report**, expand **Co-branded transactions**, and click **Advanced Discount Policy**.
 
    Complete the following:
 

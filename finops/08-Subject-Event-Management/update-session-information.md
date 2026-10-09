@@ -15,7 +15,7 @@ When a student attends more or fewer sessions than originally invoiced, update t
 
 1. Update the session record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Sessional class and events details**. Locate and select the record requiring adjustment.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Sessional class and events details**. Locate and select the record requiring adjustment.
 
    Open the **Change status** dropdown in the Action Pane and change the status to **Changed** (⑤). Enter the revised number of sessions in the **Updated sessions** column (⑥) and click **Save**.
 

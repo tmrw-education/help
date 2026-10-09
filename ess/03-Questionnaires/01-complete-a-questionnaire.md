@@ -12,7 +12,7 @@ video:
 
 # Complete a questionnaire
 
-Questionnaires are assigned by HR and appear in the Questionnaires tab of your ESS portal. You can save your progress and return later if needed.
+Questionnaires are assigned by Human Resources (HR) and appear in the Questionnaires tab of your Employee Self-Service (ESS) portal. You can save your progress and return later if needed.
 
 1. Open the Questionnaires tab
 

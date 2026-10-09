@@ -15,7 +15,7 @@ After a fee price change is posted, open proforma sales orders generated under t
 
 1. Run the recalculation task
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic Tasks**, and click **Recalculate Open Sales Order**. Set the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Periodic Tasks**, and click **Recalculate Open Sales Order**. Set the following:
 
    - **Recalculate sales price** — toggle to *Yes* (④).
 

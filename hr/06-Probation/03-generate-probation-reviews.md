@@ -16,7 +16,7 @@ The Generate Probation Reviews batch process scans employee records for upcoming
 
 1. Navigate to the batch process
 
-   In D365, go to **System Administration ▸ Periodic tasks ▸ Batch** and select **Generate probation review**.
+   In Dynamics 365 (D365), go to **System Administration ▸ Periodic tasks ▸ Batch** and select **Generate probation review**.
 
    ![The D365 Batch Processes list with Generate Probation Reviews highlighted](./images/generate-probation-reviews-1.png)
 
@@ -37,4 +37,4 @@ The Generate Probation Reviews batch process scans employee records for upcoming
    After the batch runs:
    - The **Review 1 Generated** or **Final Review Generated** flag on the employee record is set to **Yes**.
    - A probation review record is created and submitted to the workflow.
-   - The review appears in the manager's ESS queue under **Team Probation Review Requests**.
+   - The review appears in the manager's Employee Self-Service (ESS) queue under **Team Probation Review Requests**.

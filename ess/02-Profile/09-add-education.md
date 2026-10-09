@@ -12,7 +12,7 @@ video:
 
 # Add an education record
 
-Education records are submitted through ESS and reviewed by HR before they appear as active on your profile.
+Education records are submitted through Employee Self-Service (ESS) and reviewed by Human Resources (HR) before they appear as active on your profile.
 
 1. Open the Education tab
 

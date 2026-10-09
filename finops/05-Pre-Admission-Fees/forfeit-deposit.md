@@ -17,7 +17,7 @@ Deposits are forfeited when a student does not proceed with enrolment and the sc
 
 1. Open Pre-admission deposits and select the deposit
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **Pre-admission deposits**. When the deposit criteria window opens, click **OK** (④) to view all deposits. Check the deposit to be forfeited using the checkbox in the far-left column (⑤).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **Pre-admission deposits**. When the deposit criteria window opens, click **OK** (④) to view all deposits. Check the deposit to be forfeited using the checkbox in the far-left column (⑤).
 
    ![Forfeiting Deposits — the Pre-admission deposits list with a deposit checked for forfeiture](./images/forfeit-deposit-1.png)
 
@@ -31,7 +31,7 @@ Deposits are forfeited when a student does not proceed with enrolment and the sc
 
 3. Review and post the forfeit journal
 
-   If you selected Preview, click the **Forfeit journal number** link (⑨). Open the journal by clicking **Lines** in the toolbar. Select the credit line using the checkbox (⑩), review or edit the VAT as required, and click **Post** (⑪). Click **Save** in the toolbar (⑫).
+   If you selected Preview, click the **Forfeit journal number** link (⑨). Open the journal by clicking **Lines** in the toolbar. Select the credit line using the checkbox (⑩), review or edit the Value Added Tax (VAT) as required, and click **Post** (⑪). Click **Save** in the toolbar (⑫).
 
    ![Forfeiting Deposits — the journal Lines view with the credit line selected](./images/forfeit-deposit-4.png)
 

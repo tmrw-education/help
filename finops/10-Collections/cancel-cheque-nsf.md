@@ -15,7 +15,7 @@ When a customer cheque is returned due to insufficient funds, reverse the origin
 
 1. Locate the cheque payment and initiate NSF reversal
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter for the student using the **Account** column or by name. Click **Transactions**.
+   From the **F&O dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter for the student using the **Account** column or by name. Click **Transactions**.
 
    In **Customer transactions**, locate the **Cheque Payment** line (⑤) for the dishonoured cheque and select the row. Click **Reverse** in the Action Pane (⑥), then select **NSF payment** from the dropdown (⑦) — this reverses the original cheque transaction and initiates the NSF fee entry. Click **OK** on the confirmation prompt.
 

@@ -15,7 +15,7 @@ Trade agreements define the discount percentages applied to students based on th
 
 1. Create the trade agreement journal
 
-   From the **FNO dashboard**, open **Modules ▸ Sales and marketing**, expand **Prices and discounts**, and click **Trade agreement journals**. Click **New** and in the **Name** column select **Sibling discount** (④). Change view to **Lines** (⑤).
+   From the **F&O dashboard**, open **Modules ▸ Sales and marketing**, expand **Prices and discounts**, and click **Trade agreement journals**. Click **New** and in the **Name** column select **Sibling discount** (④). Change view to **Lines** (⑤).
 
    ![Set Up Trade Agreement — the Trade agreement journals list with the new Sibling discount journal](./images/set-up-trade-agreement-1.png)
 

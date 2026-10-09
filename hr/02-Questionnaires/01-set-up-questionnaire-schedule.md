@@ -16,7 +16,7 @@ Questionnaire schedules target a questionnaire to specific employees across one 
 
 1. Open the Questionnaire module
 
-   From the D365 navigation pane, go to **Modules ▸ Questionnaire ▸ Distribute ▸ Questionnaire schedules**.
+   From the Dynamics 365 (D365) navigation pane, go to **Modules ▸ Questionnaire ▸ Distribute ▸ Questionnaire schedules**.
 
 2. Create a new schedule
 
@@ -40,6 +40,6 @@ Questionnaire schedules target a questionnaire to specific employees across one 
 
 6. Start the schedule
 
-   Click **Start** to activate the schedule. The questionnaire will appear for targeted employees in the ESS portal under their **Questionnaires** tab.
+   Click **Start** to activate the schedule. The questionnaire will appear for targeted employees in the Employee Self-Service (ESS) portal under their **Questionnaires** tab.
 
    ![The Questionnaire Schedule record with the Start button highlighted in the Action Pane](./images/set-up-questionnaire-schedule-3.png)

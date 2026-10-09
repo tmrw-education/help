@@ -1,6 +1,6 @@
 # Glossary
 
-Terms used across Dynamics 365 HR and this guide.
+Terms used across Dynamics 365 Human Resources (HR) and this guide.
 
 [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)
 
@@ -52,6 +52,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Course Status | The employee's progress on a GEMSU course — not started, in progress, or completed. Sourced from GEMSU. |
 | Course Type | Whether a GEMSU course is mandatory or recommended. Drives the tag the employee sees in ESS. |
 | Create To Date | The field on the Generate attendance logs form setting how far forward attendance records are generated. |
+| CSV | Comma-separated values — a plain-text spreadsheet format. Attendance data is imported into Dynamics 365 from a CSV file. |
 
 ## D
 
@@ -115,6 +116,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Hierarchy View | The view on the attendance and overtime forms showing the employees assigned to you through the attendance or overtime hierarchy on their position, rather than your direct reports. |
 | Holidays and Closures | The calendar records holding announced public holidays. Moving a holiday here triggers automatic adjustment of every affected leave request in that legal entity. |
 | HR Approval | The second stage of the overtime approval chain. Lists only the overtime managers have already approved, and passes what HR approves on to finance. |
+| HRBP | HR business partner. Appears in approval group names such as **WSO HRBP approval group**. |
 | HR Discussion | A retention status indicating a retention conversation has been initiated with the employee. |
 | HR Notes | The field on an HR request where HR records their response. This text is what the employee sees on their completed request in ESS. |
 | HR Probation Reviews | The central form where HR views all probation reviews — in progress or complete — with ratings, comments, workflow status and outcome. |
@@ -131,6 +133,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Impact of Loss | The effect on the organisation if an employee left, recorded on their talent review alongside risk of loss. |
 | Integration Log | See **GEMSU Integration Log**. |
 | Intention Questionnaire | The survey asking employees whether they intend to leave. Yes responses populate the Employee Intention Survey Result form live. |
+| IT | Information Technology — the team that provides portal links and resolves access problems. |
 
 ## K
 
@@ -143,6 +146,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | Labour Card | A work authorisation document recorded against an employee alongside their visa. Has its own status values and expiry monitoring. |
+| LC | Labour card. Appears as **LC Holder** in the visa status list. |
 | Leave and Absence Request Workflow | The legal-entity-specific workflow that routes leave requests. Its key condition auto-approves requests where the system generated leave flag is Yes. |
 | Leave Plan | A container grouping leave types. There is no limit on how many plans exist or how types are grouped, and each plan carries its own ESS visibility flag and enrolled worker list. |
 | Leave Type | An individual kind of leave within a plan, carrying its own accrual, eligibility, grant, certificate and advance notice configuration, plus its ESS visibility and sort order. |
@@ -232,6 +236,7 @@ Terms used across Dynamics 365 HR and this guide.
 | Term | Definition |
 |---|---|
 | SQ Attendance Summary | The periodic batch job under **Time and attendance ▸ Periodic tasks** that reads the attendance logs and creates the summarised attendance detail records. Normally a recurring batch; must be re-run manually after adjusting a log. |
+| SSO | Single sign-on — signing in once with your organisation account rather than keeping a separate password. |
 | Staff Level | An employee classification driven by the position. Used with default category to determine probation review days and template, and on the staff level form it holds the calendar and the leave plans an employee is enrolled in per legal entity. |
 | Stage 1 Review | The first probation review, generated a configured number of days after the employee's start date. |
 | Stage 2 Review | The final probation review. Displays Stage 1 comments alongside Stage 2 for comparison, and carries the review outcome. |
@@ -259,6 +264,7 @@ Terms used across Dynamics 365 HR and this guide.
 |---|---|
 | UID Number | The unique identifier recorded on an employee's visa information and shown on expiring records lists. |
 | Update Leave and Absence Plan | The flag on a personnel action type that makes hire, transfer and promotion actions apply the leave plans configured against the staff level. Without it, the position changes but the enrolment does not. |
+| URL | Uniform Resource Locator — the web address of a page. |
 | User Group | A set of employees assigned to checklist tasks together. When any member completes the task it is marked complete for all. Groups are scoped by legal entity. |
 
 ## V
@@ -287,3 +293,4 @@ Terms used across Dynamics 365 HR and this guide.
 | Working Time Calendar | The calendar selected on the Generate attendance logs form that determines which days in a range count as working days, and so which days produce generated records. |
 | Working Unit | A field on the employee visa information record identifying the unit the employee works within. |
 | Workflow | The configured approval routing applied to a request type or probation review. **View History** traces each action taken and which conditions evaluated true or false. |
+| WSO | An organisational unit code that appears in visa issuing-authority fields and in approval group names such as **WSO HRBP approval group**. |

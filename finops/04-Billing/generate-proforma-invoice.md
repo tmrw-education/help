@@ -15,7 +15,7 @@ Proforma invoices are generated from confirmed sales orders and sent to fee paye
 
 1. Find the student's sales order
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Filter for the student using the **Account** column filter (use the *contains* operator) (④). Click **Sell** on the Action Pane (⑤), then click **Orders ▸ All sales orders** to view all sales orders for the student (⑧). Select the sales order to confirm.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Filter for the student using the **Account** column filter (use the *contains* operator) (④). Click **Sell** on the Action Pane (⑤), then click **Orders ▸ All sales orders** to view all sales orders for the student (⑧). Select the sales order to confirm.
 
    ![Generate a Proforma Invoice Document — the All students list filtered to the student with the Sell > Orders > All sales orders path](./images/generate-proforma-invoice-1.png)
 

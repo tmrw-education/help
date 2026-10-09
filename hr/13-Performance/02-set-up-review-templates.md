@@ -16,7 +16,7 @@ A review template defines one stage of the performance cycle — what goals it c
 
 1. Open the review templates form
 
-   In D365, go to **Human Resources ▸ Performance ▸ Setup ▸ Review templates**.
+   In Dynamics 365 (D365), go to **Human Resources ▸ Performance ▸ Setup ▸ Review templates**.
 
    ![The Review templates list showing the goal setting, mid year and end of year templates](./images/set-up-review-templates-1.png)
 

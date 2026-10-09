@@ -49,7 +49,7 @@ arrives.
    - **Attachments** — for example a medical certificate.
    - **Sibling requests** — any similar request raised for a sibling over the same dates. Bereavement and family travel usually affect more than one child, so this saves you finding them separately.
 
-4. Read the AI recommendation
+4. Read the artificial intelligence (AI) recommendation
 
    The agent recommends approving or reviewing, and says why. Where your school has
    attendance thresholds configured, the recommendation is set against the

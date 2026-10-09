@@ -35,7 +35,7 @@ The case detail page is the full workspace for one wellbeing note.
 
 3. Work the case body
 
-   The body has three areas. **Summary** is an AI-generated case summary with a
+   The body has three areas. **Summary** is an artificial intelligence (AI)-generated case summary with a
    "last updated" label. **Comments** is the timeline of follow-up comments.
    **Tasks** lists the follow-up tasks for the case.
 

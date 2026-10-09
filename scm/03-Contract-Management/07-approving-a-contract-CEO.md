@@ -13,11 +13,11 @@ video:
 
 # Approving a contract - CEO
 
-The CEO review is the final step before signing a contract.
+The Chief Executive Officer (CEO) review is the final step before signing a contract.
 
 1. Review the final contract
 
-   This is the version of the contract approved by the CPO and the Vendor.
+   This is the version of the contract approved by the Chief Procurement Officer (CPO) and the Vendor.
    
 2. Confirm risk and government compliance
 
@@ -36,4 +36,4 @@ The CEO review is the final step before signing a contract.
 
    This completes the contract process.
 
-   > **Note:** The signed contract can also be found in the D365 F&O platform, under **Procurement and sourcing** ▸ **Contracts** ▸ **All contracts**.
+   > **Note:** The signed contract can also be found in the Dynamics 365 Finance and Operations (D365 F&O) platform, under **Procurement and sourcing** ▸ **Contracts** ▸ **All contracts**.

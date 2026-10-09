@@ -15,7 +15,7 @@ Scheduled credit card processing handles bulk fee payments via credit card for a
 
 1. Create the journal and generate a payment proposal
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Customer payment journal**. Click **New**, select the appropriate journal (③), then click **Lines** in the Action Pane (④).
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Customer payment journal**. Click **New**, select the appropriate journal (③), then click **Lines** in the Action Pane (④).
 
    Click **Payment Proposal** and select **Create Payment Proposal** (⑤). In the dialog, set the **date range** for due invoices (⑥) (e.g., January 1 to January 31), set the **Method of payment** to the credit card (CC) method (⑦), set the **Summarised payment date** (⑧), then click **OK** (⑨). The system lists all invoices due within the selected period.
 

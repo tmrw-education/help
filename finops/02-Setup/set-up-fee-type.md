@@ -15,7 +15,7 @@ Fee types define the default general ledger account and tax postings for miscell
 
 1. Open Fee type and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, then expand **Cashier receipt**, and click **Fee type**. Review the list of existing types to avoid creating duplicates.
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, then expand **Cashier receipt**, and click **Fee type**. Review the list of existing types to avoid creating duplicates.
 
    Click **New** in the toolbar and complete the following:
 

@@ -16,7 +16,7 @@ The fee and charge interval defines the academic billing cycle and the individua
 
 1. Create the interval
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee and Charge Interval**. Click **New** in the toolbar (③) and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee and Charge Interval**. Click **New** in the toolbar (③) and complete the following:
 
    - **Fee generation interval ID** (④) — enter a code (e.g., *2025-2026*).
    - **Description** (⑤) — enter a description.

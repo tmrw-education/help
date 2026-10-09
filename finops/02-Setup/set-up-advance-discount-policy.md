@@ -16,7 +16,7 @@ Advance discount policies reward families who pay fees ahead of schedule by appl
 
 1. Create the policy and set the interval
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Advance discount policy**. Click **New** and complete the following on the **Overview** tab:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Advance discount policy**. Click **New** and complete the following on the **Overview** tab:
 
    - **Policy code** (③) — enter a value.
    - **Fee and charges interval** (④) — select the billing cycle that applies to this policy.

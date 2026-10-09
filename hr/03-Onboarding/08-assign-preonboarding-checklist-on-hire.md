@@ -12,7 +12,7 @@ video:
 
 # Assign a pre-onboarding checklist on hire
 
-When processing a hire worker action in D365, you can assign a pre-onboarding checklist directly from the worker action form. This releases tasks to the designated HR teams or individuals immediately, so pre-onboarding activities can begin before the new employee's official start date.
+When processing a hire worker action in Dynamics 365 (D365), you can assign a pre-onboarding checklist directly from the worker action form. This releases tasks to the designated Human Resources (HR) teams or individuals immediately, so pre-onboarding activities can begin before the new employee's official start date.
 
 The pre-onboarding checklist must be configured before it can be assigned here. See [Configure a pre-onboarding checklist](./04-configure-preonboarding-checklist.md).
 
@@ -42,7 +42,7 @@ The pre-onboarding checklist must be configured before it can be assigned here. 
 
 6. Confirm
 
-   Click **OK** (or the equivalent confirm button). Tasks are immediately released to the assigned groups or individuals. Group members can see and complete these tasks from the D365 task management workspace or from ESS.
+   Click **OK** (or the equivalent confirm button). Tasks are immediately released to the assigned groups or individuals. Group members can see and complete these tasks from the D365 task management workspace or from Employee Self-Service (ESS).
 
 7. Continue with the worker action
 

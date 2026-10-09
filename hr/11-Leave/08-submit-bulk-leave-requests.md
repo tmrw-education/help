@@ -12,11 +12,11 @@ video:
 
 # Submit leave requests in bulk
 
-When a whole group needs the same leave booked—for example, a scheduled closure for teaching staff—HR can submit requests in one pass rather than asking each employee to raise their own.
+When a whole group needs the same leave booked—for example, a scheduled closure for teaching staff—Human Resources (HR) can submit requests in one pass rather than asking each employee to raise their own.
 
 1. Open the bulk request form
 
-   In D365, go to **Leave and absence ▸ Manage leave ▸ Bulk request time off**.
+   In Dynamics 365 (D365), go to **Leave and absence ▸ Manage leave ▸ Bulk request time off**.
 
    ![The Bulk request time off form in D365](./images/submit-bulk-leave-requests-1.png)
 

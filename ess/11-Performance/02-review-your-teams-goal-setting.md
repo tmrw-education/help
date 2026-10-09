@@ -16,7 +16,7 @@ When someone in your team submits their goal setting, the review comes to you fo
 
 1. Open your manager view
 
-   In ESS, go to your manager view and open your team's performance reviews. Reviews waiting for you are listed as **Ready for review** with their due date, and anything past its due date is flagged as overdue.
+   In Employee Self-Service (ESS), go to your manager view and open your team's performance reviews. Reviews waiting for you are listed as **Ready for review** with their due date, and anything past its due date is flagged as overdue.
 
    ![The manager view listing team performance reviews with statuses and due dates](./images/review-your-teams-goal-setting-1.png)
 
@@ -34,7 +34,7 @@ When someone in your team submits their goal setting, the review comes to you fo
 
    Work through the goals, adding your comments against each. Here, record your agreement with the goal and its weighting, or note anything you want changed.
 
-   Click **Next** to move to the following goal. Your review will cover objectives, competencies and any PIP or PDP goals the employee carries.
+   Click **Next** to move to the following goal. Your review will cover objectives, competencies and any performance improvement plan (PIP) or personal development plan (PDP) goals the employee carries.
 
 4. Review career aspirations and training needs
 

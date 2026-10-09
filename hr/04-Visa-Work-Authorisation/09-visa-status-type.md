@@ -15,7 +15,7 @@ Use this table to determine what visa type is valid for an employee. For example
 
 1. Navigate to Visa Status/Type Combination
 
-   In D365, go to **Human resources ▸ Setup ▸ Visa master ▸Visa Status/Type Combination**.
+   In Dynamics 365 (D365), go to **Human resources ▸ Setup ▸ Visa master ▸Visa Status/Type Combination**.
 
    ![Visa status/type combination navigation pathway](./images/visa-status-type-1.png)
 

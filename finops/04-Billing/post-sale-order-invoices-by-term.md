@@ -15,7 +15,7 @@ Invoices are not posted in a single run. Each term is posted separately by sched
 
 1. Run Post sale order invoice
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Post sale order invoice**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Post sale order invoice**.
 
 2. Set parameters and filter by term
 

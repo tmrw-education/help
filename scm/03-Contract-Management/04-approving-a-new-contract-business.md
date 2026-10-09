@@ -24,6 +24,6 @@ There are two situations in which the Business team reviews a contract: after th
    
 4. Approve the contract
 
-   This forwards the contract to the assigned **Vendor** for their review. After Vendor approval, the contract will move to CPO approval.
+   This forwards the contract to the assigned **Vendor** for their review. After Vendor approval, the contract will move to Chief Procurement Officer (CPO) approval.
 
    > **Note:** The approval pathway remains blocked until the vendor approves the contract or requests changes to it. The negotiations occur on the platform.

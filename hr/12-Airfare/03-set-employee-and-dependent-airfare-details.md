@@ -12,7 +12,7 @@ video:
 
 # Set employee and dependent airfare details
 
-The calculation reads three things off the employee: where they travel, who travels with them, and what they are entitled to. All three live in records HR already maintains — this page ensures theyare correct before the calculation runs, because a missing route or a blank valid-from date produces a wrong or missing figure later.
+The calculation reads three things off the employee: where they travel, who travels with them, and what they are entitled to. All three live in records Human Resources (HR) already maintains — this page ensures theyare correct before the calculation runs, because a missing route or a blank valid-from date produces a wrong or missing figure later.
 
 1. Set the employee's air ticket location
 

@@ -15,7 +15,7 @@ After assigning discount codes to fee items, run this task to apply the early pa
 
 1. Run the update task
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Update early payment discount**. Enter the **date range** for invoices (③) to include (or filter for a single fee payer, or leave blank to run for all). Set the **Early payment date** for the selected invoices (④). Click **OK** to run the process (⑤).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Periodic tasks**, and click **Update early payment discount**. Enter the **date range** for invoices (③) to include (or filter for a single fee payer, or leave blank to run for all). Set the **Early payment date** for the selected invoices (④). Click **OK** to run the process (⑤).
 
    ![Bulk Update Early Payment Discounts — the Update early payment discount dialog with date range and Early payment date fields](./images/bulk-update-early-payment-discounts-1.png)
 

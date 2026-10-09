@@ -16,7 +16,7 @@ When you join GEMS, we automatically assign you an onboarding checklist. Complet
 
 1. Open your task list
 
-   From the ESS portal, navigate to **Tasks**. Your onboarding tasks are listed here with their current status (Open, In Progress, or Completed).
+   From the Employee Self-Service (ESS) portal, navigate to **Tasks**. Your onboarding tasks are listed here with their current status (Open, In Progress, or Completed).
 
    ![The Tasks screen showing a list of onboarding tasks with statuses including Open and Completed](./images/complete-an-onboarding-task-1.png)
 

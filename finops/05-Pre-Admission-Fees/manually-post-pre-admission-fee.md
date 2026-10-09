@@ -15,7 +15,7 @@ video:
 
 1. Filter and select the fee record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Filter the **Pre-admission type** column by *Application Fee* (③) and locate the correct student record. Select the record using the checkbox (⑤).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Filter the **Pre-admission type** column by *Application Fee* (③) and locate the correct student record. Select the record using the checkbox (⑤).
 
    ![Manually Post Pre-Admission Fee — the All pre-admission fees list filtered by Application Fee with the student record selected](./images/manually-post-pre-admission-fee-1.png)
 

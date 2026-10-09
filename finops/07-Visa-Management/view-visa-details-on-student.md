@@ -15,7 +15,7 @@ Visa details for an individual student are stored on their record under the **Ot
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Select or search for the student account and open their record (③).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Select or search for the student account and open their record (③).
 
    ![View Visa Details on a Student — the student record with the Other Information tab expanded showing visa fields](./images/view-visa-details-on-student-1.png)
 

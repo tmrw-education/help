@@ -12,11 +12,11 @@ video:
 
 # Move a public holiday and manage the impact on leave
 
-Public holidays are frequently announced or moved after employees have already booked leave around them. Moving the date in the calendar is all HR needs to do—the system finds the affected requests and corrects them in both directions.
+Public holidays are frequently announced or moved after employees have already booked leave around them. Moving the date in the calendar is all Human Resources (HR) needs to do—the system finds the affected requests and corrects them in both directions.
 
 1. Open the calendar
 
-   In D365, go to **Leave and absence ▸ Setup ▸ Calendars ▸ Calendars** and open the calendar for the legal entity.
+   In Dynamics 365 (D365), go to **Leave and absence ▸ Setup ▸ Calendars ▸ Calendars** and open the calendar for the legal entity.
 
 2. Open holidays and closures
 

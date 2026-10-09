@@ -15,7 +15,7 @@ When a student withdraws and requests a transfer certificate, a free-text invoic
 
 1. Create the invoice from template
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Invoices**, and click **All free text invoices**. Click **New from template** in the Action Pane (③), select **TCINV** in the **Template** field (④), and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Invoices**, and click **All free text invoices**. Click **New from template** in the Action Pane (③), select **TCINV** in the **Template** field (④), and complete the following:
 
    - **Customer account** (⑤) — enter or select the fee payer.
    - **Create invoice by using the default values from** — select *Free text invoice template* (⑥).

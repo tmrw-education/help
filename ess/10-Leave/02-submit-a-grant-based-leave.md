@@ -16,7 +16,7 @@ Some leave types are granted as a fixed entitlement that must be taken in a sing
 
 1. Start a time off request
 
-   In ESS, go to **Request time off** and select the leave plan and leave type — for example, maternity leave.
+   In Employee Self-Service (ESS), go to **Request time off** and select the leave plan and leave type — for example, maternity leave.
 
 2. Select your start date
 
@@ -36,4 +36,4 @@ Some leave types are granted as a fixed entitlement that must be taken in a sing
 
    Click **Submit**. The request is created with a status of **In review** and routed for approval like any other leave request.
 
-   If you need a shorter period than the full grant, speak to your HR team — the block cannot be broken up in ESS.
+   If you need a shorter period than the full grant, speak to your Human Resources (HR) team — the block cannot be broken up in ESS.

@@ -16,7 +16,7 @@ Use this process to enter or update scholarship and discount records in bulk usi
 
 1. Download the Excel template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Scholarship and discount details**. Click **Open in Microsoft Office** in the Action Pane (③), select **TMRW Student scholarship discount entity** (④), and click **Download** (⑤). An Excel file containing the pre-configured data entity template will download to your computer.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Scholarship and discount details**. Click **Open in Microsoft Office** in the Action Pane (③), select **TMRW Student scholarship discount entity** (④), and click **Download** (⑤). An Excel file containing the pre-configured data entity template will download to your computer.
 
    ![Import scholarships via Excel — the Scholarship and discount details page with Open in Microsoft Office](./images/import-scholarships-discounts-excel-1.png)
 

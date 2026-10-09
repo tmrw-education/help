@@ -16,7 +16,7 @@ A shortage is a day when somebody worked fewer minutes than their calendar sched
 
 1. Open the attendance shortage tab
 
-   In ESS, open the **Attendance** tile and go to the **Attendance shortage** tab.
+   In Employee Self-Service (ESS), open the **Attendance** tile and go to the **Attendance shortage** tab.
 
 2. Choose Line or Hierarchy
 
@@ -30,4 +30,4 @@ A shortage is a day when somebody worked fewer minutes than their calendar sched
 
 4. Act on it
 
-   Where the shortage is genuine, take it up with the employee. If it is wrong—the biometric machine wasn't working, or there was an agreed late arrival or early exit, usually supported by an HR request—HR needs to correct it against the attendance log in D365, not in ESS. Once HR corrects it and the summary batch job runs again, the shortage clears from this view.
+   Where the shortage is genuine, take it up with the employee. If it is wrong—the biometric machine wasn't working, or there was an agreed late arrival or early exit, usually supported by an Human Resources (HR) request—HR needs to correct it against the attendance log in Dynamics 365 (D365), not in ESS. Once HR corrects it and the summary batch job runs again, the shortage clears from this view.

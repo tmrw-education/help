@@ -12,11 +12,11 @@ video:
 
 # Probation fields on an employee record
 
-Probation fields are automatically populated in an employee's record when the employee is created in the system. HR can view and update these fields at any point during the process.
+Probation fields are automatically populated in an employee's record when the employee is created in the system. Human Resources (HR) can view and update these fields at any point during the process.
 
 1. Open the employee record
 
-   In D365, navigate to the relevant employee record within the Human Resources module, **Human resources ▸ Workers ▸ Employees**.
+   In Dynamics 365 (D365), navigate to the relevant employee record within the Human Resources module, **Human resources ▸ Workers ▸ Employees**.
 
 2. Locate the probation fields
 

@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Employee Self-Service – User Guide
 
-This guide is for all **GEMS employees** who use the Employee Self-Service (ESS) portal to manage their HR information, complete assigned tasks, and stay on top of important notifications.
+This guide is for all **GEMS employees** who use the Employee Self-Service (ESS) portal to manage their Human Resources (HR) information, complete assigned tasks, and stay on top of important notifications.
 
 ESS is accessible from any web browser — there is no separate app to install. You sign in using your existing GEMS Microsoft 365 account (the same login you use for email).
 

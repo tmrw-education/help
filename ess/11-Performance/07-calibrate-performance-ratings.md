@@ -12,7 +12,7 @@ video:
 
 # Calibrate performance ratings
 
-Calibration is where HR compares the ratings managers have submitted against the distribution the organisation expects, and adjusts where individuals sit relative to their peers. HR does this from the HR view in ESS.
+Calibration is where Human Resources (HR) compares the ratings managers have submitted against the distribution the organisation expects, and adjusts where individuals sit relative to their peers. HR does this from the HR view in Employee Self-Service (ESS).
 
 This view is only available to users with HR rights. A manager without HR access sees only the manager view.
 
@@ -28,7 +28,7 @@ This view is only available to users with HR rights. A manager without HR access
 
 3. Read the expected against actual curve
 
-   The chart at the bottom shows the **Expected** distribution against the **Actual** one. Expected comes from the calibration framework set up against the performance year in D365; actual is where your employees currently sit.
+   The chart at the bottom shows the **Expected** distribution against the **Actual** one. Expected comes from the calibration framework set up against the performance year in Dynamics 365 (D365); actual is where your employees currently sit.
 
    ![The calibration chart showing expected against actual distribution](./images/calibrate-performance-ratings-2.png)
 

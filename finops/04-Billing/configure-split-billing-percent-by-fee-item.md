@@ -15,7 +15,7 @@ By default, the financial responsibility split between fee payers applies equall
 
 1. Open Split percent by fee items and create a record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Split percent by fee items**. Click **New** and complete the following columns for the first payer:
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Split percent by fee items**. Click **New** and complete the following columns for the first payer:
 
    - **Student** — search and select the student.
    - **Fee item** — select the specific fee item to override (e.g., *Building Fund Fee*).

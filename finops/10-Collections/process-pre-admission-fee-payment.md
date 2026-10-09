@@ -14,7 +14,7 @@ Use this process to receipt a payment against a pre-admission fee invoice at the
 
 1. Create the cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
 
    - **Customer** (④) — select the student account.
    - **Description** (⑤) — enter a description for the transaction.

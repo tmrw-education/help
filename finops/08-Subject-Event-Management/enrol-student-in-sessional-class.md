@@ -15,7 +15,7 @@ Once the subject and event codes are in place, a fee schedule template must be c
 
 1. Create a new fee schedule template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** in the Action Pane.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** in the Action Pane.
 
    Enter a **Description** for the template (e.g., *Zoo Excursion Fee*) (④), choose the **Billing interval**(⑤), and match **Early payment discounts** with the fee categories (⑥).
 

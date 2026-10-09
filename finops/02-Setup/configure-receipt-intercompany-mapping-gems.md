@@ -17,7 +17,7 @@ This setup is primarily used to support scenarios such as GEMS Rewards (GRL), wh
 
 1. Open Receipt intercompany mapping and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup ▸ Cashier Receipt**, and click **Receipt intercompany mapping**. Click **New** and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup ▸ Cashier Receipt**, and click **Receipt intercompany mapping**. Click **New** and complete the following:
 
    - **Method of payment** (⑤)— select the payment method configured for intercompany processing with another school.
    - **Destination school** (⑥)— select the school that will receive the intercompany posting.

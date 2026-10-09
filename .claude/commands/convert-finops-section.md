@@ -95,7 +95,7 @@ N. Short step title (title case, no period, 5–8 words)
 
 - **First line = short title only.** All detail goes in the indented body (3 spaces).
 - **Bold every exact on-screen label:** `**Modules ▸ Academic Management**`, `**+ Add line**`, `**Customer type**`, `**Fee and charge interval**`. This is the most important formatting rule.
-- **Keep full navigation paths in the body:** `From the **FNO dashboard**, open **Modules ▸ Academic Management**.`
+- **Keep full navigation paths in the body:** `From the **F&O dashboard**, open **Modules ▸ Academic Management**.`
 - **Inline orientation facts** — field rules, limits, what a control does, system behaviour, configuration tips. Do NOT put these in Note boxes. Write them into the step sentence: *"Select **Pro rata adjustment joining** — this controls how the system calculates fees for students who join mid-term."*
 - **Sub-bullets for option lists** (when a step presents 2–3 alternative values to choose between): indent as a bullet list under the step body.
 - **"Repeat steps N–M" instructions**: keep as the last sentence of the relevant step body, not as a separate step.

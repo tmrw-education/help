@@ -15,7 +15,7 @@ Once the collection letter sequence is configured, run this process to generate 
 
 1. Create the collection letter
 
-   From the **FNO dashboard**, open **Modules ▸ Credit and Collections**, expand **Collection letter**, and click **Create collection letters**. In **Parameters**, select the **Collection letter** code from the dropdown (③) and enter the **Collection letter date** (④). In **Records to include**, enter the **Customer account** to generate for one account only, or leave blank to generate for all eligible accounts (⑤). Click **OK**.
+   From the **F&O dashboard**, open **Modules ▸ Credit and Collections**, expand **Collection letter**, and click **Create collection letters**. In **Parameters**, select the **Collection letter** code from the dropdown (③) and enter the **Collection letter date** (④). In **Records to include**, enter the **Customer account** to generate for one account only, or leave blank to generate for all eligible accounts (⑤). Click **OK**.
 
    ![Generate Collection Letters — the Create collection letters dialog with Collection letter code, date, and customer account filter](./images/generate-collection-letters-1.png)
 

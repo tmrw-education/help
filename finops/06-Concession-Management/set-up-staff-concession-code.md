@@ -18,7 +18,7 @@ Staff concessions apply fee reductions to dependants of staff members. The syste
 
 1. Open Scholarship and Discount
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Scholarship and discount**. Click **New** in the toolbar.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Scholarship and discount**. Click **New** in the toolbar.
 
 2. Enter the concession name
 

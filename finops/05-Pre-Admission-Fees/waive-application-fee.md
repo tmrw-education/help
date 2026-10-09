@@ -19,7 +19,7 @@ The waiver process handles cancellation automatically based on the fee's current
 
 1. Find the fee record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Search for or filter by **student account**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **All pre-admission fees**. Search for or filter by **student account**.
 
 2. Enable the waiver
 

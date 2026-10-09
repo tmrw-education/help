@@ -14,7 +14,7 @@ video:
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Search for and select the student (③).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Search for and select the student (③).
 
 2. Open the Scholarships and Discounts panel
 

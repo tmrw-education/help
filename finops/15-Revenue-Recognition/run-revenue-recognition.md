@@ -15,7 +15,7 @@ Run this process at month-end to recognise deferred revenue across all eligible 
 
 1. Open Recognition processing
 
-   From the **FNO dashboard**, open **Modules ▸ Subscription billing ▸ Revenue and expense deferrals**, expand **Periodic tasks**, and click **Recognition processing**.
+   From the **F&O dashboard**, open **Modules ▸ Subscription billing ▸ Revenue and expense deferrals**, expand **Periodic tasks**, and click **Recognition processing**.
 
 2. Set the period and processing options
 

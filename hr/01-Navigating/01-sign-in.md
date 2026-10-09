@@ -12,7 +12,7 @@ video:
 
 # Sign in to Dynamics 365 HR
 
-D365 HR uses your GEMS Microsoft 365 account — the same login you use for email.
+Dynamics 365 (D365) Human Resources (HR) uses your GEMS Microsoft 365 account — the same login you use for email.
 
 1. Open the D365 HR portal
 

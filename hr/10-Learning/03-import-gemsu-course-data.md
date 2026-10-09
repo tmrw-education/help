@@ -16,7 +16,7 @@ Alongside the live integration, a data entity lets you load GEMSU course records
 
 1. Prepare the source file
 
-   Build your Excel file to match the fields on the GEMSU course entity — employee ID, course, course status, course type, start date, and date registered. Employee IDs must match existing personnel numbers in D365, or the rows will fail.
+   Build your Excel file to match the fields on the GEMSU course entity — employee ID, course, course status, course type, start date, and date registered. Employee IDs must match existing personnel numbers in Dynamics 365 (D365), or the rows will fail.
 
 2. Open Data management
 
@@ -36,4 +36,4 @@ Alongside the live integration, a data entity lets you load GEMSU course records
 
    Open the GEMSU integration log to confirm the imported records are present, then spot-check an employee record to confirm the courses show on their GEMSU course tracker.
 
-   Imported courses appear in ESS for the employee in the same way as integrated ones, so check the data before running a large load.
+   Imported courses appear in Employee Self-Service (ESS) for the employee in the same way as integrated ones, so check the data before running a large load.

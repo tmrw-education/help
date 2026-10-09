@@ -16,7 +16,7 @@ Overtime eligibility is decided by staff level, not person by person. Flag the c
 
 1. Open the staff levels form
 
-   In D365, open the **Staff levels** form (**Human resources ▸ Setup ▸ Staff levels**) and find the staff position category and staff category you are setting — for example, transport support and support staff.
+   In Dynamics 365 (D365), open the **Staff levels** form (**Human resources ▸ Setup ▸ Staff levels**) and find the staff position category and staff category you are setting — for example, transport support and support staff.
 
 2. Tick the overtime flag
 

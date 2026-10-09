@@ -14,7 +14,7 @@ video:
 
 1. Open Scholarships and Discounts
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Scholarships and discounts**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Scholarships and discounts**.
 
 2. Select the discount and open the student record
 

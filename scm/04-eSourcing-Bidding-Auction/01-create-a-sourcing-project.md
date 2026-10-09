@@ -13,7 +13,7 @@ video:
 
 # Create a Sourcing Project
 
-A sourcing project takes a purchase requisition raised in **D365 Finance & Operations** and runs it as an RFP or RFQ. You build out the project with technical specifications, terms, a price sheet and vendor assessments, then publish to invite vendors to bid.
+A sourcing project takes a purchase requisition raised in **D365 Finance & Operations** and runs it as an request for proposal (RFP) or request for quotation (RFQ). You build out the project with technical specifications, terms, a price sheet and vendor assessments, then publish to invite vendors to bid.
 
 1. Start a new project
 

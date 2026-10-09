@@ -12,7 +12,7 @@ video:
 
 # Complete a probation review as a manager
 
-When a team member is due for a probation review, the workflow routes it to you. You receive a notification, and the review appears in your ESS queue.
+When a team member is due for a probation review, the workflow routes it to you. You receive a notification, and the review appears in your Employee Self-Service (ESS) queue.
 
 1. Open your probation review queue
 

@@ -22,7 +22,7 @@ Transaction type reference:
 
 1. Open Pre-admission types
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, then expand **Pre-admission fees**, and click **Pre-admission types**. Review the existing types before proceeding to avoid creating duplicates.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, then expand **Pre-admission fees**, and click **Pre-admission types**. Review the existing types before proceeding to avoid creating duplicates.
 
 2. Create a new type
 

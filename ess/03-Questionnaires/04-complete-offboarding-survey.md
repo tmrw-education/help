@@ -16,7 +16,7 @@ The Offboarding Survey is assigned to you as part of the offboarding process whe
 
 1. Open the Questionnaires tab
 
-   From the ESS portal, go to **Employment ▸ Questionnaires** or click the **Questionnaires** tab.
+   From the Employee Self-Service (ESS) portal, go to **Employment ▸ Questionnaires** or click the **Questionnaires** tab.
 
 2. Find the Offboarding Survey
 
@@ -38,4 +38,4 @@ The Offboarding Survey is assigned to you as part of the offboarding process whe
 
 6. Mark your checklist task complete
 
-   After submitting the survey, return to your onboarding/offboarding task list and mark the associated task as **complete** to update the status for HR.
+   After submitting the survey, return to your onboarding/offboarding task list and mark the associated task as **complete** to update the status for Human Resources (HR).

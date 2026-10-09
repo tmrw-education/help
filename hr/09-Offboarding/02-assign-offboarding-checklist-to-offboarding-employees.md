@@ -19,7 +19,7 @@ Send out the offboarding checklist to employees who are leaving the company.
 
 1. Navigate to the Employee section
 
-   In D365, navigate to **Modules ▸ Human Resources ▸ Workers ▸ Employees**
+   In Dynamics 365 (D365), navigate to **Modules ▸ Human Resources ▸ Workers ▸ Employees**
 
 2. Identify and select the offboarding employees
 

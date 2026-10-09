@@ -15,7 +15,7 @@ Used to record incoming payments not linked to a specific student invoice or cus
 
 1. Create the miscellaneous receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Miscellaneous receipt**. Click **+ Miscellaneous receipt** (③) and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts Receivable**, expand **Payments**, and click **Miscellaneous receipt**. Click **+ Miscellaneous receipt** (③) and complete the following:
 
    - **Received From** (④) — enter the cashier or payer name.
    - **Method of payment** (⑤) — select the method. The **Payment account** populates automatically.

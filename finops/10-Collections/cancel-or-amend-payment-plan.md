@@ -15,7 +15,7 @@ If a fee payer's payment plan needs to be removed, clear the plan from their pay
 
 1. Remove the payment plan
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Fee payer**, and click **All fee payers**. Select and open the customer account (③). Click **Edit** in the toolbar. Expand **Payment defaults** (⑤) and clear the **Payment plan** field (⑥). Click **Save**.
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Fee payer**, and click **All fee payers**. Select and open the customer account (③). Click **Edit** in the toolbar. Expand **Payment defaults** (⑤) and clear the **Payment plan** field (⑥). Click **Save**.
 
    ![Cancel or Amend a Payment Plan — the fee payer Payment defaults section with the Payment plan field cleared](./images/cancel-or-amend-payment-plan-1.png)
 

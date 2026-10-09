@@ -12,7 +12,7 @@ video:
 
 # Add DEWA or Ejari information
 
-DEWA (Dubai Electricity and Water Authority) account and Ejari tenancy registration details are recorded under the Identification tab and are required for certain housing and utility-related HR processes.
+DEWA (Dubai Electricity and Water Authority) account and Ejari tenancy registration details are recorded under the Identification tab and are required for certain housing and utility-related Human Resources (HR) processes.
 
 1. Open the Identification tab
 

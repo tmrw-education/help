@@ -12,13 +12,13 @@ video:
 
 # Run the attendance summary batch job
 
-Attendance logs contain only raw punch records. The **Execute attendance summary** job reads them and creates the summary record for each employee and day—their work duration, regular minutes, and overtime minutes—which every other attendance screen and the ESS portal read from.
+Attendance logs contain only raw punch records. The **Execute attendance summary** job reads them and creates the summary record for each employee and day—their work duration, regular minutes, and overtime minutes—which every other attendance screen and the Employee Self-Service (ESS) portal read from.
 
 In normal operation, this runs as a recurring batch process right after the data feed, so nobody runs it by hand. Run it manually when you have just imported, generated or adjusted attendance logs and want the results now.
 
 1. Open the job
 
-   In D365, go to **Time and attendance ▸ Periodic tasks ▸ Execute attendance summary**. You can also search for **Execute attendance summary** in the search bar.
+   In Dynamics 365 (D365), go to **Time and attendance ▸ Periodic tasks ▸ Execute attendance summary**. You can also search for **Execute attendance summary** in the search bar.
 
 2. Run it
 

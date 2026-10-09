@@ -12,13 +12,13 @@ video:
 
 # Set up the performance year and calibration framework
 
-The performance year ties the whole cycle together — every review period and every generated review belongs to one. It also includes the calibration framework, the expected distribution of ratings HR compares actual results against during calibration.
+The performance year ties the whole cycle together — every review period and every generated review belongs to one. It also includes the calibration framework, the expected distribution of ratings Human Resources (HR) compares actual results against during calibration.
 
 This is a once-a-year task. Set it up when the school year starts, and it needs no further attention until the next year.
 
 1. Open the performance year form
 
-   In D365, go to the **Performance year** setup under **Human Resources ▸ Performance ▸ Setup ▸ Performance year**.
+   In Dynamics 365 (D365), go to the **Performance year** setup under **Human Resources ▸ Performance ▸ Setup ▸ Performance year**.
 
    ![The Performance year setup form in D365](./images/set-up-the-performance-year-and-calibration-framework-1.png)
 

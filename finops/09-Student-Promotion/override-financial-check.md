@@ -15,7 +15,7 @@ Where a payment arrangement is in place and the school does not want to block a 
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Open the relevant student record.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Open the relevant student record.
 
 2. Apply the override
 

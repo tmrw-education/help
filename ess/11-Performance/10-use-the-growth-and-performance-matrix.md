@@ -14,11 +14,11 @@ video:
 
 The growth and performance matrix places your employees on a grid — GEMS star, high performer, inconsistent, talent risk and the rest — based on their performance and growth. From here, you can move people between boxes and record their talent review.
 
-This view is restricted. It is available to users with HR access and can be limited further to suit your organisation.
+This view is restricted. It is available to users with Human Resources (HR) access and can be limited further to suit your organisation.
 
 1. Open the matrix
 
-   In ESS, go to your manager view and open **Growth and performance**.
+   In Employee Self-Service (ESS), go to your manager view and open **Growth and performance**.
 
 2. Filter to the employees you want
 
@@ -41,7 +41,7 @@ This view is restricted. It is available to users with HR access and can be limi
 
 4. Save your changes
 
-   Click **Save**. The positions update, and the new placement is written back to the employee's talent review record in D365.
+   Click **Save**. The positions update, and the new placement is written back to the employee's talent review record in Dynamics 365 (D365).
 
    The update isn't instant—allow a moment, and refresh if the move doesn't appear right away.
 

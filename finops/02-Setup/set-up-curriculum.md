@@ -17,7 +17,7 @@ Curriculum codes must match the setup in the student management system.
 
 1. Open Curriculum and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Curriculum**. Click **New** (③) in the toolbar and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Curriculum**. Click **New** (③) in the toolbar and complete the following:
 
    - **Curriculum** (④) — select the option from the dropdown (e.g., *AM*).
    - **Description** (⑤) — enter the curriculum description.

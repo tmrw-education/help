@@ -16,7 +16,7 @@ The Org chart provides a live visual of the organisation's reporting structure, 
 
 1. Open the Org chart
 
-   From the ESS home page, navigate to **Org chart**.
+   From the Employee Self-Service (ESS) home page, navigate to **Org chart**.
 
 2. Explore the hierarchy
 

@@ -12,11 +12,11 @@ video:
 
 # Configure advance notice rules for long leave
 
-Long absences usually need warning. An advance notice rule makes ESS refuse a request when the period is long enough to matter, but the employee hasn't given enough notice.
+Long absences usually need warning. An advance notice rule makes Employee Self-Service (ESS) refuse a request when the period is long enough to matter, but the employee hasn't given enough notice.
 
 1. Open the leave type
 
-   In D365, go to **Leave and absence ▸ Setup ▸ Leave and absence types** and open the type you are configuring — for example, casual leave.
+   In Dynamics 365 (D365), go to **Leave and absence ▸ Setup ▸ Leave and absence types** and open the type you are configuring — for example, casual leave.
 
 2. Set the trigger and the notice period
 

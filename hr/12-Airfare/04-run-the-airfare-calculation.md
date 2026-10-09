@@ -20,7 +20,7 @@ The calculation is a batch process. It reads the employee's route, start date, b
 
 2. Open the calculation
 
-   In D365, open the airfare calculation batch under **System administration ▸ Periodic tasks ▸ GEMS periodic ▸ AirFare disbursement**.
+   In Dynamics 365 (D365), open the airfare calculation batch under **System administration ▸ Periodic tasks ▸ GEMS periodic ▸ AirFare disbursement**.
 
    ![The airfare calculation batch dialog in D365](./images/run-the-airfare-calculation-1.png)
 

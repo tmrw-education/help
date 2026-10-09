@@ -16,7 +16,7 @@ The Personnel action types form controls which hire action types automatically t
 
 1. Open Personnel action types
 
-   In D365, search for and open **Personnel action types**.
+   In Dynamics 365 (D365), search for and open **Personnel action types**.
 
 2. Locate the hire action type
 

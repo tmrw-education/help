@@ -16,7 +16,7 @@ Your payment information records the bank account where your salary is deposited
 
 1. Open the Payment information tab
 
-   From your **Full Profile**, click the **Payment information** tab. Only your active account is shown in ESS — inactive accounts are filtered out.
+   From your **Full Profile**, click the **Payment information** tab. Only your active account is shown in Employee Self-Service (ESS) — inactive accounts are filtered out.
 
 2. Add a new payment method
 
@@ -24,7 +24,7 @@ Your payment information records the bank account where your salary is deposited
    - Bank name
    - Account name
    - Account number
-   - IBAN
+   - International Bank Account Number (IBAN)
 
    ![The Add New Payment Method form showing the bank name, account name, account number, and IBAN fields](./images/update-payment-information-1.png)
 

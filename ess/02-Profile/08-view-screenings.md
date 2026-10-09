@@ -12,7 +12,7 @@ video:
 
 # View your screenings
 
-The Screenings tab displays compliance and pre-employment screening checks associated with your profile. HR configures which checks are visible to you, so this tab shows only what is relevant to your role.
+The Screenings tab displays compliance and pre-employment screening checks associated with your profile. Human Resources (HR) configures which checks are visible to you, so this tab shows only what is relevant to your role.
 
 1. Open the Screenings tab
 

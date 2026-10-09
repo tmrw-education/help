@@ -16,7 +16,7 @@ The bulk write-off process removes unrecoverable debt balances from accounts rec
 
 1. Review ageing and identify overdue accounts
 
-   From the **FNO dashboard**, open **Modules ▸ Credit and Collections**, expand **Setup**, and click **Aging period definitions**. Review the ageing criteria and identify the overdue customers or transactions to write off.
+   From the **F&O dashboard**, open **Modules ▸ Credit and Collections**, expand **Setup**, and click **Aging period definitions**. Review the ageing criteria and identify the overdue customers or transactions to write off.
 
 2. Run the write-off
 

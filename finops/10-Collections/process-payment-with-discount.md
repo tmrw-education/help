@@ -15,7 +15,7 @@ The system automatically applies the discount when the payment date is before th
 
 1. Create the payment journal
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Customer payment journal**. Click **New**, select the **Name** (④), then click **Lines** in the Action Pane (⑤).
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Customer payment journal**. Click **New**, select the **Name** (④), then click **Lines** in the Action Pane (⑤).
 
    ![Process a Payment with an Early Payment Discount — the payment journal with Lines highlighted in the Action Pane](./images/process-payment-with-discount-1.png)
 

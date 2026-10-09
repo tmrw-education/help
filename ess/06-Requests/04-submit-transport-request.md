@@ -12,11 +12,11 @@ video:
 
 # Submit a transport request
 
-The Transport request lets eligible employees request transport for a dependent child. Unlike standard HR requests, the transport request runs as an integration with the external Phoenix system, which validates student details before processing.
+The Transport request lets eligible employees request transport for a dependent child. Unlike standard Human Resources (HR) requests, the transport request runs as an integration with the external Phoenix system, which validates student details before processing.
 
 1. Open your Full Profile
 
-   On the ESS homepage, to the right of your profile header tile, click **Full profile**.
+   On the Employee Self-Service (ESS) homepage, to the right of your profile header tile, click **Full profile**.
 
 2. Select the dependent
 

@@ -17,7 +17,7 @@ When a parent or guardian registers for an event in person, staff complete the e
 
 1. Open Sessional class and event details
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Sessional class and event details**. Click **New** in the Action Pane.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Fee schedules**, and click **Sessional class and event details**. Click **New** in the Action Pane.
 
 2. Complete the registration record
 

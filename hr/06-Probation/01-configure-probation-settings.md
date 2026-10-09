@@ -16,7 +16,7 @@ Probation review settings are configured by staff level and category, controllin
 
 1. Open the probation configuration form
 
-   In D365, navigate to the **Staff Levels** for probation configuration (accessible from the Human Resources module setup area).
+   In Dynamics 365 (D365), navigate to the **Staff Levels** for probation configuration (accessible from the Human Resources module setup area).
 
    ![The D365 Human Resources setup area with the Gems Custom Form for probation configuration highlighted in the navigation](./images/configure-probation-settings-1.png)
 

@@ -12,7 +12,7 @@ video:
 
 # Approve your team's overtime
 
-Your team's overtime is raised for you to approve in ESS. Your approval is the first of three approvals — HR and finance approve after you in D365 — so nothing goes to payroll based on your approval alone.
+Your team's overtime is raised for you to approve in Employee Self-Service (ESS). Your approval is the first of three approvals — Human Resources (HR) and finance approve after you in Dynamics 365 (D365) — so nothing goes to payroll based on your approval alone.
 
 1. Open the overtime tab
 

@@ -16,7 +16,7 @@ Sick leave often needs a supporting medical certificate. Whether you need one de
 
 1. Start your sick leave request
 
-   In ESS, go to **Request time off**, select the leave plan containing sick leave, choose **Sick leave** as the leave type, and select the reason code — for example, illness.
+   In Employee Self-Service (ESS), go to **Request time off**, select the leave plan containing sick leave, choose **Sick leave** as the leave type, and select the reason code — for example, illness.
 
 2. Select your dates
 

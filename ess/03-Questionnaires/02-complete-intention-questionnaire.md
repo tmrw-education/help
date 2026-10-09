@@ -12,11 +12,11 @@ video:
 
 # Complete the Intention Questionnaire
 
-The Intention Questionnaire is a survey distributed to specific employee groups — typically teaching staff — to understand whether employees are considering leaving the organisation. Completing it honestly helps HR have the right conversations at the right time.
+The Intention Questionnaire is a survey distributed to specific employee groups — typically teaching staff — to understand whether employees are considering leaving the organisation. Completing it honestly helps Human Resources (HR) have the right conversations at the right time.
 
 1. Open the Questionnaires tab
 
-   From the ESS portal, go to **My work** in the Navigation bar, then click **Questionnaires** from the dropdown.
+   From the Employee Self-Service (ESS) portal, go to **My work** in the Navigation bar, then click **Questionnaires** from the dropdown.
 
 2. Find the Intention Questionnaire
 

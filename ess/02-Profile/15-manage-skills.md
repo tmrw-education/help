@@ -12,11 +12,11 @@ video:
 
 # Manage your skills
 
-The skills section lets you keep your competency profile current. Any skill you add or update is routed through an approval workflow with your manager or HR.
+The skills section lets you keep your competency profile current. Any skill you add or update is routed through an approval workflow with your manager or Human Resources (HR).
 
 1. Open your skills
 
-   From the ESS home page, locate the **Skills & performance** tile and click **View skills**.
+   From the Employee Self-Service (ESS) home page, locate the **Skills & performance** tile and click **View skills**.
 
 2. Review existing skills
 

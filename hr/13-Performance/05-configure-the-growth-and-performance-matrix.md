@@ -18,7 +18,7 @@ The layout is not fixed. Each measure's position on the grid is configurable, so
 
 1. Open the matrix setup
 
-   In D365, type **Growth and performance matrix** into the search box at the top of the screen and open the result. Or follow the pathway: **Human resources ▸ Competencies ▸ Setup ▸ Growth and performance matrix**.
+   In Dynamics 365 (D365), type **Growth and performance matrix** into the search box at the top of the screen and open the result. Or follow the pathway: **Human resources ▸ Competencies ▸ Setup ▸ Growth and performance matrix**.
 
    ![The Growth and performance matrix setup in D365](./images/configure-the-growth-and-performance-matrix-1.png)
 
@@ -30,4 +30,4 @@ The layout is not fixed. Each measure's position on the grid is configurable, so
 
    Define each value only once across the matrix—the system enforces this, so you cannot place the same measure in two boxes. If you are moving measures around, clear a value from its old position before reusing it.
 
-This form configures the matrix but is not where you use it. HR and managers place employees on the matrix and move them between boxes from the **manager view in ESS** — see *Use the growth and performance matrix* in the ESS guide. The placements made there are written back to the employee's talent review record in D365, covered in [View talent review records](./09-view-talent-review-records.md).
+This form configures the matrix but is not where you use it. Human Resources (HR) and managers place employees on the matrix and move them between boxes from the **manager view in Employee Self-Service (ESS)** — see *Use the growth and performance matrix* in the ESS guide. The placements made there are written back to the employee's talent review record in D365, covered in [View talent review records](./09-view-talent-review-records.md).

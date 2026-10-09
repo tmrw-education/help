@@ -12,9 +12,9 @@ video:
 
 # Import attendance data
 
-Attendance data reaches D365 as punch records — a clock-in and a clock-out per employee per day. An integration with the biometric system delivers these automatically, so you won't run this import daily or weekly. Use it when the integration isn't in place yet, or to correct or add records in bulk.
+Attendance data reaches Dynamics 365 (D365) as punch records — a clock-in and a clock-out per employee per day. An integration with the biometric system delivers these automatically, so you won't run this import daily or weekly. Use it when the integration isn't in place yet, or to correct or add records in bulk.
 
-The Excel or CSV import below is how the data gets in.
+The Excel or comma-separated values (CSV) import below is how the data gets in.
 
 1. Open a data import project
 

@@ -15,7 +15,7 @@ The financial check setup defines the outstanding fee balance threshold that the
 
 1. Open Fee schedule parameters
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Fee schedule parameters**. Open the **General** tab (③) and expand the **Financial dimension** section (④).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Fee schedule parameters**. Open the **General** tab (③) and expand the **Financial dimension** section (④).
 
 2. Add thresholds by fee head
 

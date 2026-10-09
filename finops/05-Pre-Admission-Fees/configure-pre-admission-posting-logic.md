@@ -14,7 +14,7 @@ This page walks through configuring the three standard posting entries — Appli
 
 1. Open Pre-admission posting
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, then expand **Pre-admission fees**, and click **Pre-admission posting**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, then expand **Pre-admission fees**, and click **Pre-admission posting**.
 
 2. Add the Application Fee entry
 

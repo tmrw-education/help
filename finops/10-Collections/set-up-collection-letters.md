@@ -15,7 +15,7 @@ Before collection letters can be generated, a sequence of reminder stages must b
 
 1. Configure the collection letter sequence
 
-   From the **FNO dashboard**, open **Modules ▸ Credit and Collections**, expand **Collection letter**, and click **Set up collection letter sequence**. Click **+ Add** (③) and complete the following for each stage:
+   From the **F&O dashboard**, open **Modules ▸ Credit and Collections**, expand **Collection letter**, and click **Set up collection letter sequence**. Click **+ Add** (③) and complete the following for each stage:
 
    - **Collection letter code** (④) — select from the dropdown (e.g., *First Reminder*).
    - **Description** (⑤) — enter a description.

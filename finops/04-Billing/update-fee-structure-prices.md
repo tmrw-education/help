@@ -15,7 +15,7 @@ When tuition fees or other fee item prices need to be updated — for example, a
 
 1. Locate the price line
 
-   From the **FNO dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Filter by **Product name** and select the tuition fee item (③). Click **Sell** (④) from the Action Pane, then click **Sales price** (⑤). Filter by **Company**, **Academic year**, **Curriculum**, and **Stream** to find the relevant fee line. Select the line (⑦).
+   From the **F&O dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Filter by **Product name** and select the tuition fee item (③). Click **Sell** (④) from the Action Pane, then click **Sales price** (⑤). Filter by **Company**, **Academic year**, **Curriculum**, and **Stream** to find the relevant fee line. Select the line (⑦).
 
    ![Update Fee Structure Prices — the Released products Sales price view with the fee line selected and Edit selected lines option](./images/update-fee-structure-prices-1.png)
 

@@ -16,7 +16,7 @@ Use this process to generate a concession estimate for a student, run the fee ba
 
 1. Generate the concession estimate
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management ▸ Inquiries and reports ▸ Fee schedules ▸ Scholarship and discount details**. Select the student, then in the Action Pane open the **General** tab and click **Generate concession**. Select the **Fee and Charge Interval** from the dropdown and click **OK**. Open the **Concession** tab to review the estimated discount amount.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management ▸ Inquiries and reports ▸ Fee schedules ▸ Scholarship and discount details**. Select the student, then in the Action Pane open the **General** tab and click **Generate concession**. Select the **Fee and Charge Interval** from the dropdown and click **OK**. Open the **Concession** tab to review the estimated discount amount.
 
 2. Run the fee generation batch for the student
 

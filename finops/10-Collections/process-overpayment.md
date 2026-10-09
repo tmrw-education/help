@@ -15,7 +15,7 @@ When a fee payer pays more than the invoice total at the counter, the system cap
 
 1. Create the cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
 
    - **Customer** (④) — enter the student account.
    - **Invoice** (⑤) — tick the invoice to be paid in the panel on the right.

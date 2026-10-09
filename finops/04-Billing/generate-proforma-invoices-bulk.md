@@ -15,7 +15,7 @@ Use this process to confirm and send proforma invoices for an entire billing cyc
 
 1. Open Confirm sales order
 
-   From the **FNO dashboard**, open **Modules ▸ Sales and Marketing**, expand **Sales orders ▸ Order confirmation**, and click **Confirm sales order**.
+   From the **F&O dashboard**, open **Modules ▸ Sales and Marketing**, expand **Sales orders ▸ Order confirmation**, and click **Confirm sales order**.
 
 2. Filter by billing cycle
 

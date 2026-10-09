@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Common problems in Dynamics 365 HR and how to resolve them. Use the contents list on the right to jump to a section, or press **Ctrl+F** to search this page.
+Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Use the contents list on the right to jump to a section, or press **Ctrl+F** to search this page.
 
 ## Navigating D365 HR
 
@@ -24,7 +24,7 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 
 ### My changes aren't saving
 
-**Cause** — The record is not in edit mode. Most D365 forms open read-only.
+**Cause** — The record is not in edit mode. Most Dynamics 365 (D365) forms open read-only.
 
 **Fix** — Click **Edit** in the Action Pane, make your changes, then click **Save**. The Back, Save/Edit, and New buttons stay anchored at the top of the record as you move between tabs.
 
@@ -54,7 +54,7 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 
 **Cause** — The Employee Intention Survey Result form only lists employees who answered **Yes** to the intention-to-leave question.
 
-**Fix** — Check whether the employee has submitted the Intention Questionnaire at all. Responses appear live as employees submit through ESS.
+**Fix** — Check whether the employee has submitted the Intention Questionnaire at all. Responses appear live as employees submit through Employee Self-Service (ESS).
 
 ### I can't edit the fields on an intentions record
 
@@ -540,7 +540,7 @@ Common problems in Dynamics 365 HR and how to resolve them. Use the contents lis
 
 **Cause** — None are recorded against them by design.
 
-**Fix** — This is expected. PIP and PDP goals are released ad hoc to support an employee's development and sit outside the weighted scoring.
+**Fix** — This is expected. performance improvement plan (PIP) and personal development plan (PDP) goals are released ad hoc to support an employee's development and sit outside the weighted scoring.
 
 ### The goal setting reviews have no manager ratings
 

@@ -14,7 +14,7 @@ Use the student's payment plan view to check how their invoices have been split 
 
 1. Open the student's payment plan
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Students**, and click **All Students**. Select the student record (③). Click the **Academic** tab (④) and click **View payment plan** (⑤). Change the filter to **All** to review all payment plans (⑥).
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Students**, and click **All Students**. Select the student record (③). Click the **Academic** tab (④) and click **View payment plan** (⑤). Change the filter to **All** to review all payment plans (⑥).
 
    ![View Payment Plan Details — the View payment plan list with the filter set to All](./images/view-payment-plan-details-1.png)
 

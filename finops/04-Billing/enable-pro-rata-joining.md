@@ -15,7 +15,7 @@ When a student begins their enrolment after the official term start date, the pr
 
 1. Open the tuition fee item
 
-   From the **FNO dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Locate and select the tuition fee item (e.g., *FS1*) (③).
+   From the **F&O dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Locate and select the tuition fee item (e.g., *FS1*) (③).
 
       ![Enable Pro Rata Adjustments — Joining Students — the Released products Sell section with the Pro rata field set to a non-None value](./images/enable-pro-rata-joining-1.png)
 

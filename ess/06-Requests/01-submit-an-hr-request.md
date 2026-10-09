@@ -12,7 +12,7 @@ video:
 
 # Submit an HR request
 
-HR Requests lets you submit formal requests to the HR team directly through ESS. The available request types are configured by HR — only types enabled for ESS are shown.
+Human Resources (HR) Requests lets you submit formal requests to the HR team directly through Employee Self-Service (ESS). The available request types are configured by HR — only types enabled for ESS are shown.
 
 1. Navigate to HR Requests
 

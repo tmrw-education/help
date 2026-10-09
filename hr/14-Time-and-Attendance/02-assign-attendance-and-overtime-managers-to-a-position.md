@@ -16,7 +16,7 @@ An employee's attendance and overtime are visible to, and approved by, whoever s
 
 1. Open the employee
 
-   In D365, go to **Human Resources ▸ Positions ▸ All positions** and open the employee whose approver you are setting.
+   In Dynamics 365 (D365), go to **Human Resources ▸ Positions ▸ All positions** and open the employee whose approver you are setting.
 
 2. Open their position
 
@@ -32,6 +32,6 @@ An employee's attendance and overtime are visible to, and approved by, whoever s
 
 5. Save
 
-   Click **Save**. The employee now appears under that approver when they switch to the hierarchy view in the attendance details and overtime details forms in D365, and under **Hierarchy** on the team attendance screens in ESS.
+   Click **Save**. The employee now appears under that approver when they switch to the hierarchy view in the attendance details and overtime details forms in D365, and under **Hierarchy** on the team attendance screens in Employee Self-Service (ESS).
 
 Where the line manager is also the attendance and overtime approver, you can leave these unset — the employee will appear under the line view instead. An employee who is in neither your line nor your hierarchy does not appear for you at all, by design.

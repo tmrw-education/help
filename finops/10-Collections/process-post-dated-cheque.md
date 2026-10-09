@@ -15,7 +15,7 @@ When a fee payer provides a cheque dated for future settlement, record it as a p
 
 1. Create the cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** (③) and complete the following:
 
    - **Customer** (④) — select the student account.
    - **Mark** the payment (⑤) to be applied on the right-hand side.

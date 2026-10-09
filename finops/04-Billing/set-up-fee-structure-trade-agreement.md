@@ -17,7 +17,7 @@ Fee structure setup defines the price applied to tuition fee items using trade a
 
 1. Review the fee item
 
-   From the **FNO dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Search for and open the tuition fee item to review before setting up the price.
+   From the **F&O dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Search for and open the tuition fee item to review before setting up the price.
 
 2. Create the trade agreement journal and add price lines
 

@@ -12,11 +12,11 @@ video:
 
 # Release calibrated ratings to your team
 
-Once HR has calibrated, the ratings come back to you before they reach your team. This gives you a chance to see what changed and talk with anyone whose rating moved, rather than having them find out from the system.
+Once Human Resources (HR) has calibrated, the ratings come back to you before they reach your team. This gives you a chance to see what changed and talk with anyone whose rating moved, rather than having them find out from the system.
 
 1. Open the calibration manager view
 
-   In ESS, go to your manager view and open calibration. Your view populates once HR releases ratings to you—before that, you won't see anything.
+   In Employee Self-Service (ESS), go to your manager view and open calibration. Your view populates once HR releases ratings to you—before that, you won't see anything.
 
    ![The calibration manager view showing released ratings for the team](./images/release-calibrated-ratings-to-your-team-1.png)
 
@@ -26,7 +26,7 @@ Once HR has calibrated, the ratings come back to you before they reach your team
 
 3. Review an individual
 
-   Open an employee to see their full details—their growth and performance view, quick profile, rating, and everything from their review: comments, completed training needs, career aspirations, PDP and PIP goals, and objectives.
+   Open an employee to see their full details—their growth and performance view, quick profile, rating, and everything from their review: comments, completed training needs, career aspirations, personal development plan (PDP) and performance improvement plan (PIP) goals, and objectives.
 
    ![An individual employee's calibrated detail in the manager view](./images/release-calibrated-ratings-to-your-team-2.png)
 

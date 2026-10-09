@@ -16,7 +16,7 @@ The attendance details form is the summarised view of who worked what, one recor
 
 1. Open the attendance details form
 
-   In D365, go to **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Attendance detail**.
+   In Dynamics 365 (D365), go to **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Attendance detail**.
 
 2. Read a record
 

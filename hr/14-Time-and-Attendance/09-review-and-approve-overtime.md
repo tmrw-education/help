@@ -12,7 +12,7 @@ video:
 
 # Review and approve overtime
 
-Overtime details is the manager's view of overtime in D365, and the first of the three approval stages. It is the same approval the manager can do from ESS — whichever route is used, the record is the same.
+Overtime details is the manager's view of overtime in Dynamics 365 (D365), and the first of the three approval stages. It is the same approval the manager can do from Employee Self-Service (ESS) — whichever route is used, the record is the same.
 
 1. Open the overtime details form
 
@@ -48,6 +48,6 @@ Overtime details is the manager's view of overtime in D365, and the first of the
 
    Click **Approve**. The **Total approved minutes** updates as you approve records.
 
-Approving here is the manager stage. The record then has to pass HR and finance before it reaches payroll — see [Complete the HR and finance overtime approvals](./10-complete-the-hr-and-finance-overtime-approvals.md).
+Approving here is the manager stage. The record then has to pass Human Resources (HR) and finance before it reaches payroll — see [Complete the HR and finance overtime approvals](./10-complete-the-hr-and-finance-overtime-approvals.md).
 
 An overtime record approved by the manager in ESS appears here as soon as it is approved — the two screens show the same data, not a copy. See *Approve your team's overtime* in the ESS guide.

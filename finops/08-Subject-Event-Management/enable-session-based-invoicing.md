@@ -15,7 +15,7 @@ If **Session Based** is not enabled, the system charges a flat fee (quantity = 1
 
 1. Open the fee schedule template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Find and open the relevant fee schedule template (③).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Find and open the relevant fee schedule template (③).
 
    ![Enable Session-Based Invoicing — A selected fee schedule template](./images/enable-session-based-invoicing-1.png)
 

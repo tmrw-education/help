@@ -16,7 +16,7 @@ Debtor notes record interactions with fee payers — such as phone calls or paym
 
 1. Open the customer detail
 
-   From the **FNO dashboard**, open **Modules ▸ Credit and collections ▸ Workspaces ▸ Collections coordinator**. Locate the relevant debtor account and click **View customer detail** (②).
+   From the **F&O dashboard**, open **Modules ▸ Credit and collections ▸ Workspaces ▸ Collections coordinator**. Locate the relevant debtor account and click **View customer detail** (②).
 
    ![Record Debtor Notes — the Collections coordinator workspace with the View customer detail link](./images/record-debtor-notes-1.png)
 

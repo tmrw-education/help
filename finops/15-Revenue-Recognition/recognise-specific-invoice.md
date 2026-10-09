@@ -16,7 +16,7 @@ Use this process to recognise deferred revenue for a single invoice outside of t
 
 1. Open the deferral schedule
 
-   From the **FNO dashboard**, open **Modules ▸ Subscription billing ▸ Revenue and expense deferrals**, expand **Deferral schedules**, and click **All deferral schedules**. Locate and select the posted invoice, then click the **deferral number** (④) to open its schedule.
+   From the **F&O dashboard**, open **Modules ▸ Subscription billing ▸ Revenue and expense deferrals**, expand **Deferral schedules**, and click **All deferral schedules**. Locate and select the posted invoice, then click the **deferral number** (④) to open its schedule.
 
    ![Recognise a Specific Invoice — the All deferral schedules list with a posted invoice selected](./images/recognise-specific-invoice-1.png)
 

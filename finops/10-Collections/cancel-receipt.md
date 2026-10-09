@@ -15,7 +15,7 @@ Used when a posted customer payment needs to be reversed. The reversal date cann
 
 1. Locate the transaction
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter the list to locate the required student. Click **Customer** on the Action Pane (③), then click **Transactions** (④). Select the transaction to reverse (⑤).
+   From the **F&O dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter the list to locate the required student. Click **Customer** on the Action Pane (③), then click **Transactions** (④). Select the transaction to reverse (⑤).
 
    ![Cancel a Receipt — the Customer transactions list with the payment transaction selected and the Reverse option in the toolbar](./images/cancel-receipt-1.png)
 

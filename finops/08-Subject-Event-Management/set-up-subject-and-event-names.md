@@ -15,7 +15,7 @@ Before students can be enrolled in sessional classes or events and invoiced, the
 
 1. Open Subject and event names
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Subject and event names**. Click **New** in the Action Pane.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Subject and event names**. Click **New** in the Action Pane.
 
 2. Complete the record
 

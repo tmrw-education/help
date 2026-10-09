@@ -16,7 +16,7 @@ Academic year setup defines the academic calendar structure used across the plat
 
 1. Create the academic year record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Academic year**. Click **New** in the toolbar and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Academic year**. Click **New** in the toolbar and complete the following:
 
    - **Academic year** (④) — enter the short code (e.g., *KG1*, *01*, *02*). This code is used internally and must match the grade code in the student management system.
    - **Description** (⑤) — enter the full grade name (e.g., *KG1*, *Grade 1*). This is displayed to users across Academic Management.

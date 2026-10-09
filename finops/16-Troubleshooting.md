@@ -242,7 +242,7 @@ Common problems in Dynamics 365 Finance & Operations and how to resolve them. Us
 
 **Cause** — The user may not have the correct permissions, or the visa type already exists in the system.
 
-**Fix** — Search for the visa type before creating a new one to avoid duplicates. If creation is blocked, contact your system administrator to confirm permissions. Note that visa entries are typically generated automatically from CE.
+**Fix** — Search for the visa type before creating a new one to avoid duplicates. If creation is blocked, contact your system administrator to confirm permissions. Note that visa entries are typically generated automatically from Customer Engagement (CE).
 
 ### Visa details are not visible on a student's record
 
@@ -396,7 +396,7 @@ Common problems in Dynamics 365 Finance & Operations and how to resolve them. Us
 
 ### A dishonoured cheque was reversed but no NSF fee appeared
 
-**Cause** — The NSF payment option may not have been selected during the reversal, or the resulting journal was not posted.
+**Cause** — The non-sufficient funds (NSF) payment option may not have been selected during the reversal, or the resulting journal was not posted.
 
 **Fix** — Confirm that NSF payment was selected (not a standard reversal) when processing the cancel. Navigate to **Accounts receivable** ▸ **Payments** ▸ **Customer payment journal**, enable Show user-created only, locate the journal created for the NSF reversal, open Lines, and click Post.
 

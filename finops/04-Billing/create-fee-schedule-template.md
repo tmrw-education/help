@@ -20,7 +20,7 @@ available when you run the fee generation batch.
 
 1. Open the fee schedule form
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand
    **Fee schedules**, click **All fee schedules**, then click **New**.
 
 2. Complete the header and add fee lines

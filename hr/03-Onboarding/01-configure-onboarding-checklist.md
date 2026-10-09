@@ -16,7 +16,7 @@ Onboarding checklists define the tasks assigned to a new employee and their supp
 
 1. Open Onboarding checklists
 
-   From the D365 navigation pane, go to **Modules ▸ Human Resources ▸ Task Management ▸ Onboarding checklists**.
+   From the Dynamics 365 (D365) navigation pane, go to **Modules ▸ Human Resources ▸ Task Management ▸ Onboarding checklists**.
 
    ![The D365 navigation pane with Human Resources, Task Management, and Onboarding checklists highlighted](./images/configure-onboarding-checklist-1.png)
 

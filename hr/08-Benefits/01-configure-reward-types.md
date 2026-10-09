@@ -12,11 +12,11 @@ video:
 
 # Configure reward types on the component master
 
-The **Reward Type** field on the component master classifies compensation and benefit components so they appear in the correct category on the employee rewards statement in ESS. Components without a reward type are excluded from the statement. This is a one-time configuration step for each applicable component.
+The **Reward Type** field on the component master classifies compensation and benefit components so they appear in the correct category on the employee rewards statement in Employee Self-Service (ESS). Components without a reward type are excluded from the statement. This is a one-time configuration step for each applicable component.
 
 1. Open the Component Master
 
-   In D365, navigate to the **Component master** form. **Human Resources** ▸ **Setup** ▸ **Compensation**.
+   In Dynamics 365 (D365), navigate to the **Component master** form. **Human Resources** ▸ **Setup** ▸ **Compensation**.
 
    ![The D365 navigation pane with the Component Master option highlighted](./images/configure-reward-types-1.png)
 

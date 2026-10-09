@@ -15,7 +15,7 @@ When the cashier journal is posted, the selected destination school will have th
 
 1. Open Receipt intercompany mapping and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, then expand **Cashier receipt**, and click **Receipt intercompany mapping**. Click **New** in the toolbar and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, then expand **Cashier receipt**, and click **Receipt intercompany mapping**. Click **New** in the toolbar and complete the following:
 
    - **Method of payment** (⑤) — select the payment method that has an intercompany journal with the destination school (e.g., *CobOn*).
    - **Destination school** (⑥) — select the school that will receive the intercompany posting.

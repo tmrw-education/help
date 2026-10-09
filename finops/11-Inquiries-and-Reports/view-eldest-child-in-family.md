@@ -15,7 +15,7 @@ The Eldest Child in Family report identifies the eldest sibling in each enrolled
 
 1. Open the report
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, expand **Students and families**, and click **Eldest child in family**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, expand **Students and families**, and click **Eldest child in family**.
 
 2. Review the data
 

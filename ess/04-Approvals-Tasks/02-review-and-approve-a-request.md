@@ -16,7 +16,7 @@ When a team member submits a profile update that needs your approval—such as a
 
 1. Open the Approvals tab
 
-   From the ESS portal, go to **Tasks ▸ Approvals**.
+   From the Employee Self-Service (ESS) portal, go to **Tasks ▸ Approvals**.
 
 2. Review the list
 

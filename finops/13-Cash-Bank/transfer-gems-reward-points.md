@@ -18,7 +18,7 @@ At day-end, the balance of GEMS reward payments collected at the school must be 
 
 1. Process the GEMS reward payment
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable ▸ Payments ▸ Cashier receipt** and click **+ Cashier receipt**. Identify the student by their account number, then complete the payment line:
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable ▸ Payments ▸ Cashier receipt** and click **+ Cashier receipt**. Identify the student by their account number, then complete the payment line:
 
    - Click **New**.
    - Set **Method of payment** to *GEMS-point*.

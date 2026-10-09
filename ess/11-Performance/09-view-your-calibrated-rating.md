@@ -12,7 +12,7 @@ video:
 
 # View your calibrated rating
 
-After you submit your end-of-year review, your manager completes their feedback and submits it for calibration. HR compares ratings across the organisation, your manager confirms the outcome with you, and the final rating is then published to you in ESS.
+After you submit your end-of-year review, your manager completes their feedback and submits it for calibration. Human Resources (HR) compares ratings across the organisation, your manager confirms the outcome with you, and the final rating is then published to you in Employee Self-Service (ESS).
 
 1. Open your performance page
 

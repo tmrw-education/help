@@ -2,7 +2,7 @@
 
 Terms used across Dynamics 365 Finance & Operations and this guide.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [V](#v) · [W](#w)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w)
 
 ## A
 
@@ -16,6 +16,7 @@ Terms used across Dynamics 365 Finance & Operations and this guide.
 | Advance Payment | A payment collected for future term invoices before they fall due. Processed through the Cashier Receipt form using a co-branded method of payment. The system calculates applicable discounts based on the Advanced Discount Policy and generates a prepayment invoice per term covered. |
 | Advance Tax Invoice | A tax invoice generated against a fee payer's open proforma invoice before full payment is received. Used when a family requests a formal invoice ahead of settlement, for example for employer reimbursement or government funding purposes. |
 | Advanced Discount Policy | A configuration that defines the discount rates applied when a fee payer makes an advance payment covering multiple terms. The discount rate is determined by the number of terms paid, and is triggered through the co-branded payment method in the Cashier Receipt form. |
+| AI | Artificial intelligence. The tmrw platform runs AI agents alongside F&O. |
 | Application Fee | A pre-admission fee charged when a student submits an enrolment application. Configured as a pre-admission type and typically processed as a general journal or sales order depending on whether a student record exists at the time of payment. |
 | Auto Charges | A table in Accounts Receivable used to configure charges (such as staff concessions) that are automatically applied to sales order lines when fees are generated. Charge codes are set up at line level and linked to concession types. |
 
@@ -33,6 +34,7 @@ Terms used across Dynamics 365 Finance & Operations and this guide.
 |---|---|
 | Cash Discount | A settlement discount offered to fee payers who pay their invoices before a specified due date. Also referred to as an early payment discount. |
 | Cashier Receipt | A form used to process in-person payments, including standard invoice payments, pre-admission fee payments, activity invoice payments, overpayments, and post-dated cheques. Supports receipt printing and emailing on completion. |
+| CC | Credit card — the method of payment code used when scheduling credit card payment runs. |
 | CE System | The Customer Engagement system that integrates with F&O. Student and visa data is typically generated in CE and synced automatically to F&O. |
 | Charge Code | A configuration in the auto charges table that defines the posting and financial settings for a specific type of concession or charge. One charge code is created per concession type and linked to the corresponding discount code in the scholarship and discount setup. |
 | Co-branded | A payment method option in the Cashier Receipt form that enables advance discount calculation. Must be enabled before selecting the specific payment method in order to trigger the Calculate Discount button. |
@@ -49,6 +51,7 @@ Terms used across Dynamics 365 Finance & Operations and this guide.
 
 | Term | Definition |
 |---|---|
+| D365 | Dynamics 365 — the Microsoft platform family that F&O belongs to. |
 | Debt Classification | A process for categorising outstanding balances by age, risk, or recovery status. Used within Debt Follow-Up to support reporting and recovery workflows. |
 | Debtor Note | A record of an interaction with a fee payer — such as a phone call or promise to pay — logged against the customer's account in the Collections Coordinator workspace. Includes the event category, type, purpose, notes, and a date and time that can be set to a future date for scheduled follow-ups. |
 | Deferral Date | The date set on a sessional class or event record that determines when revenue is recognised. Once the event occurs, revenue is automatically transferred from the deferral account to the main revenue account. |
@@ -66,6 +69,7 @@ Terms used across Dynamics 365 Finance & Operations and this guide.
 | Effective Date / Expiration Date | Date range fields used across the system to define the period during which a record, discount, enrolment, or visa is considered active. |
 | Enrolment Deposit | A refundable deposit paid by a student or fee payer at the time of enrolment. Can be settled, forfeited, or refunded within the Pre-Admission Fees module. |
 | Enrolment Fee | A one-time fee charged to a student upon enrolment. Managed within the Pre-Admission Fees module. |
+| ERP | Enterprise resource planning — the class of system F&O belongs to. |
 | Event Code | A unique identifier assigned to a sessional class or event in Academic Management. Used as a condition on fee schedule template lines to ensure invoicing applies only to students enrolled in a specific class or event. |
 
 ## F
@@ -91,15 +95,24 @@ Terms used across Dynamics 365 Finance & Operations and this guide.
 
 | Term | Definition |
 |---|---|
+| GEMSPR | The main account selected on the Cashier receipt form when transferring GEMS reward points. |
 | GEMS Reward Points | A loyalty programme managed by a separate legal entity (GRL). Payments received at a school that include reward point entitlements must be transferred to the GEMS Rewards company at end of day using the Transfer GEMS Reward Balances periodic task. |
 | Gender Setup | A configuration table in Academic Management used to define and store the gender values used across student records. Values must be consistent with those used in the student management system. |
 | Generate Sales Order Batch Processing | A periodic task in Academic Management used to create sales orders (fee invoices) for students based on selected fee schedule templates and customer filters. |
 | Global Party ID | A unique identifier assigned to a student that is consistent across all companies in the system. Used to match student accounts during intercompany credit balance transfers when a student moves between schools. |
+| GRL | The separate legal entity that carries the financial liability for the GEMS Rewards loyalty programme. |
+
+## H
+
+| Term | Definition |
+|---|---|
+| HR | Human Resources. |
 
 ## I
 
 | Term | Definition |
 |---|---|
+| IBAN | International Bank Account Number — part of the bank details recorded on a customer or refund bank account. |
 | Intercompany Journal | A configuration that defines the control accounts, journal names, and posting profiles used when transferring a student's credit balance between schools. Must be set up in both the originating and destination companies before any transfer can be processed. |
 
 ## L
@@ -175,24 +188,35 @@ Terms used across Dynamics 365 Finance & Operations and this guide.
 | Sibling Discount Policy | A school-specific configuration that maps sibling order positions to student types (new student, existing family, existing student) and links each combination to a line discount group and trade agreement. Used by the system to determine which discount applies when fees are generated. |
 | Sibling Order | A numbered ranking assigned to each student within a family (e.g., 1 = eldest, 2 = second child) used to determine discount eligibility. |
 | Split Billing | A billing arrangement where a student's fees are divided between two or more fee payers. Default percentages are set at the student level and can be overridden per fee item. |
+| SSRS | SQL Server Reporting Services — a reporting format that exported data can be sent to for further validation. |
 | Staff Concession | A fee reduction applied to students who are dependants of staff members. Managed through the Staff Tuition Fee Concession table (for staff-related reductions) or the Scholarship and Discount table (for other concession types). Requires a charge code and discount code to be configured before use. |
 | Stream | A sub-classification within a curriculum used to distinguish different academic programmes within the same school (e.g., Advanced, Standard). Used as an academic attribute in trade agreement pricing. Must match the stream codes used in the student management system. |
 | Student Ledger | A consolidated financial report for an individual student, showing invoices, payments, advance invoices, and prepayments over a specified date range. Can be filtered to suppress advance and prepayment invoice detail for a simplified view. |
 | Student Management System | The upstream system of record for academic lifecycle data, including enrolment dates, student status, and grade progression. D365 F&O receives enrolment and student data from this system via integration and does not manage these records directly. |
 | Student Master | The central record in Academic Management that holds a student's enrolment details, academic year, sibling order, visa information, and fee payer relationships. Accurate student master data is a prerequisite for correct fee generation. |
 | Subscription Billing | The D365 module used to manage revenue and expense deferrals. Contains the Deferral Schedules list and Recognition Processing periodic task used during month-end revenue recognition. |
+| SWIFT | The bank identifier code recorded alongside the IBAN on a bank account. |
 
 ## T
 
 | Term | Definition |
 |---|---|
+| TCINV | The free text invoice template selected when raising a transfer certificate fee. |
+| TMRW | The prefix on tmrw data entities in F&O, such as **TMRW HR time attendance**. |
 | Trade Agreement | A pricing policy in Sales and Marketing that defines discount percentages applied to specific product groups (e.g., sibling discounts on tuition fees). |
 | Transfer Certificate | A document issued when a student withdraws from a school. A corresponding fee invoice is raised in F&O using the TCINV free text invoice template. |
+
+## U
+
+| Term | Definition |
+|---|---|
+| UI | User interface. |
 
 ## V
 
 | Term | Definition |
 |---|---|
+| VAT | Value Added Tax. |
 | Visa Management | The section of Academic Management used to create and manage student visa types and view visa details on individual student records. |
 
 ## W

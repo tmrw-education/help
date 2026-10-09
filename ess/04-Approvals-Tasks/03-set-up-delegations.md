@@ -16,7 +16,7 @@ Delegations let you hand your approval responsibilities to a colleague while you
 
 1. Open Approval delegations
 
-   From the ESS portal, navigate to **Approval delegations**.
+   From the Employee Self-Service (ESS) portal, navigate to **Approval delegations**.
 
 2. Add a new delegation
 

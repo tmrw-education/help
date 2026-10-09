@@ -13,7 +13,7 @@ video:
 
 # Approving a contract - CPO
 
-After the vendor approves the contract, the CPO is assigned for approval.
+After the vendor approves the contract, the Chief Procurement Officer (CPO) is assigned for approval.
 
 1. Review the latest version of the contract
 
@@ -29,6 +29,6 @@ After the vendor approves the contract, the CPO is assigned for approval.
 
    ![CPO tab showing Risk confirmation and Government compliance confirmation](./images/create-a-new-contract-cpo-1.png)
    
-5. Submit the contract to the CEO
+5. Submit the contract to the Chief Executive Officer (CEO)
 
    This forwards the contract to the CEO for approval.

@@ -12,7 +12,7 @@ video:
 
 # View expiring records
 
-The Expiring Records workspace gives HR and PRO teams a centralised view of all employee documents approaching or past their expiry dates.
+The Expiring Records workspace gives Human Resources (HR) and Public Relations Officer (PRO) teams a centralised view of all employee documents approaching or past their expiry dates.
 
 1. Open Personnel Management
 
@@ -23,7 +23,7 @@ The Expiring Records workspace gives HR and PRO teams a centralised view of all 
 3. Click the tile
 
    Click the tile to open the full workspace view. Each record shows:
-   - The employee's name and UID
+   - The employee's name and unique identifier (UID)
    - The document type and expiry date
    - The number of days remaining
 
@@ -33,4 +33,4 @@ The Expiring Records workspace gives HR and PRO teams a centralised view of all 
 
 4. Take action
 
-   Review the list and contact or follow up with the relevant employees. Once a renewal has been processed, update the record in D365 accordingly.
+   Review the list and contact or follow up with the relevant employees. Once a renewal has been processed, update the record in Dynamics 365 (D365) accordingly.

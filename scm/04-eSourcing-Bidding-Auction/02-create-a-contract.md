@@ -38,7 +38,7 @@ Once vendors have submitted their bids, you review all submissions side by side,
    - **Service providers** — select the vendors, or prospective vendors, the contract applies to.
    - **Collaboration** *(optional)* — add any users who will work on the contract with you and set their access level.
    - **Assessments** *(optional)* — select the company type, then choose the required assessments. The assessments that apply depend on the company type.
-   - **Schedule** — set the date and time the RFP or auction is scheduled to run, along with the end date.
+   - **Schedule** — set the date and time the request for proposal (RFP) or auction is scheduled to run, along with the end date.
    - **Project messages** — the email communication sent to vendors and its related details are captured here.
    - **Review and publish** — check the details and publish the RFP or auction so vendors are notified. The timer is set and the countdown begins after this stage.
    - **Overview** — review the project summary and the vendor details carried across from the awarded sourcing project.
@@ -47,6 +47,6 @@ Once vendors have submitted their bids, you review all submissions side by side,
    - **Approve quotations** — select the winning vendor and award the items to them.
    - **Order confirmation** — confirm the order to finalise it with the awarded vendor.
 
-   Once published, the contract is created in D365 F&O and appears in the procurement contract section.
+   Once published, the contract is created in Dynamics 365 Finance and Operations (D365 F&O) and appears in the procurement contract section.
 
    ![The contract summary showing the carried-over project details and vendor attachments](./images/create-contract-3.png)

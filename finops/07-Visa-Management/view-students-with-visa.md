@@ -15,7 +15,7 @@ The **Students with visa** report gives a full list of students with active visa
 
 1. Open the report
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, expand **Visa Management**, and click **Students with visa**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, expand **Visa Management**, and click **Students with visa**.
 
 2. Filter and review
 

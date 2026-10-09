@@ -12,11 +12,11 @@ video:
 
 # View your team's attendance
 
-If people report to you, the attendance area has a team tab alongside your own. It shows the same attendance information for each of them, so you can see who worked what without going into D365.
+If people report to you, the attendance area has a team tab alongside your own. It shows the same attendance information for each of them, so you can see who worked what without going into Dynamics 365 (D365).
 
 1. Open team attendance
 
-   In ESS, open the **Attendance** tile and go to the **Team attendance** tab.
+   In Employee Self-Service (ESS), open the **Attendance** tile and go to the **Team attendance** tab.
 
 2. Choose line or hierarchy
 

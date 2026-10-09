@@ -11,7 +11,7 @@ video:
 
 # View your benefit plan details
 
-The Benefits tab in ESS shows the individual benefit plans you are enrolled in and the entitlement values associated with each. This is a read-only view; your benefit plans are set up and maintained by the HR team.
+The Benefits tab in Employee Self-Service (ESS) shows the individual benefit plans you are enrolled in and the entitlement values associated with each. This is a read-only view; your benefit plans are set up and maintained by the Human Resources (HR) team.
 
 1. Open the Benefits section
 

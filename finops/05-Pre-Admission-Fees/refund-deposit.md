@@ -15,7 +15,7 @@ Deposits are refunded when a student does not proceed with enrolment and the sch
 
 1. Open Pre-admission deposits and select the deposit
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **Pre-admission deposits**. When the deposit criteria window opens, click **OK** to view all deposits (④). Check the deposit to be refunded using the checkbox in the far-left column (⑤).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Pre-admission fees**, and click **Pre-admission deposits**. When the deposit criteria window opens, click **OK** to view all deposits (④). Check the deposit to be refunded using the checkbox in the far-left column (⑤).
 
    ![Refunding Deposits — the Pre-admission deposits list with a deposit checked for refund](./images/refund-deposit-1.png) 
 

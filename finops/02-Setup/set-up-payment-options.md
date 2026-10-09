@@ -13,7 +13,7 @@ video:
 
 1. Open Payment option setup and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Payment option setup**. Click **New** and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Payment option setup**. Click **New** and complete the following:
 
    - **Payment plan** — select from the dropdown.
    - **Payment option** — enter the option code.

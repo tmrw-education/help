@@ -555,7 +555,7 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 **Cause** — None of the agents has a menu, button or tile. They are built as standalone products, and StaffXP reaches them through Felix.
 
-**Fix** — Expected. Open **Felix** and describe what you want. See [How Felix and the AI agents work](./10-AI/01-how-felix-agents-work.md) for what each agent answers to.
+**Fix** — Expected. Open **Felix** and describe what you want. See [How Felix and the artificial intelligence (AI) agents work](./10-AI/01-how-felix-agents-work.md) for what each agent answers to.
 
 ### Felix returned nothing when I asked for a dashboard
 

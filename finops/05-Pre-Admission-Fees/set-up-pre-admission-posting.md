@@ -15,7 +15,7 @@ Pre-admission posting rules define how each fee type is recorded in the general 
 
 1. Open Pre-admission posting
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, then expand **Pre-admission fees**, and click **Pre-admission posting**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, then expand **Pre-admission fees**, and click **Pre-admission posting**.
 
 2. Add a posting entry for each type
 

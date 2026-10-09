@@ -12,7 +12,7 @@ video:
 
 # Configure a pre-onboarding checklist
 
-Pre-onboarding checklists define tasks that must be completed by HR and support teams *before* a new employee's start date — for example, collecting credentials or sending welcome documents. These checklists are assigned when the hire worker action is processed, and tasks are visible in both the D365 task management workspace and ESS.
+Pre-onboarding checklists define tasks that must be completed by Human Resources (HR) and support teams *before* a new employee's start date — for example, collecting credentials or sending welcome documents. These checklists are assigned when the hire worker action is processed, and tasks are visible in both the Dynamics 365 (D365) task management workspace and Employee Self-Service (ESS).
 
 Pre-onboarding checklists are configured separately from onboarding checklists. They follow the same structure but are scoped to tasks that occur before the employee joins.
 

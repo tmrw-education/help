@@ -16,7 +16,7 @@ Staff concession discounts are applied to fee invoices through the auto charges 
 
 1. Open Auto Charges
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts Receivable**, expand **Charges setup**, and click **Auto charges**.
+   From the **F&O dashboard**, open **Modules ▸ Accounts Receivable**, expand **Charges setup**, and click **Auto charges**.
 
 2. Set the level and create a new record
 

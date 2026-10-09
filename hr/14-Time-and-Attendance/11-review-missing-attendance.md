@@ -16,7 +16,7 @@ An employee who punches in in the morning but never punches out in the evening l
 
 1. Open the missing attendance form
 
-   In D365, go to the **Missing attendance** form under time and attendance. **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Missing attendance**.
+   In Dynamics 365 (D365), go to the **Missing attendance** form under time and attendance. **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Missing attendance**.
 
 2. Read the exceptions
 
@@ -30,4 +30,4 @@ An employee who punches in in the morning but never punches out in the evening l
 
 4. Correct the record
 
-   Once you have established what the missing time should have been — from the employee, their manager, or an HR request for a late arrival or early exit — correct it in the attendance logs and re-run the summary batch job. See [Adjust an attendance record](./08-adjust-an-attendance-record.md).
+   Once you have established what the missing time should have been — from the employee, their manager, or an Human Resources (HR) request for a late arrival or early exit — correct it in the attendance logs and re-run the summary batch job. See [Adjust an attendance record](./08-adjust-an-attendance-record.md).

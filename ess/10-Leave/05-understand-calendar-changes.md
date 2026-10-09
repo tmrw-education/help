@@ -38,4 +38,4 @@ Public holidays are sometimes announced or moved after you have already booked l
 
 5. Check your balance after a change
 
-   Your leave balance reflects the adjustment once the system-generated request is complete. If your balance or a request doesn't look right after a holiday announcement, contact your HR team — they can see the full history against the request.
+   Your leave balance reflects the adjustment once the system-generated request is complete. If your balance or a request doesn't look right after a holiday announcement, contact your Human Resources (HR) team — they can see the full history against the request.

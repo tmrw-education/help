@@ -14,11 +14,11 @@ video:
 
 User groups allow multiple employees to be assigned to a checklist task together. When any one member of the group completes the task, it is automatically marked complete and removed from the task lists of all other group members. The **Resolved By** column in the task management workspace records which group member completed the task.
 
-This is useful for HR and admin teams where several people share responsibility for tasks such as collecting documents or setting up system access.
+This is useful for Human Resources (HR) and admin teams where several people share responsibility for tasks such as collecting documents or setting up system access.
 
 1. Open User Groups
 
-   From the D365 navigation pane, go to **Modules ▸ Human resources ▸ Task management ▸ Group assignment**.
+   From the Dynamics 365 (D365) navigation pane, go to **Modules ▸ Human resources ▸ Task management ▸ Group assignment**.
 
    ![The D365 navigation pane with System administration, Users, and User groups highlighted](./images/configure-task-user-groups-1.png)
 

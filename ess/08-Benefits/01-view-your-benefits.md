@@ -11,7 +11,7 @@ video:
 
 # View your rewards statement
 
-Your rewards statement in ESS gives you a personalised view of your total compensation package — including salary, allowances, benefit entitlements, and concessions. This is a read-only view; HR and Finance set up and maintain your entitlements.
+Your rewards statement in Employee Self-Service (ESS) gives you a personalised view of your total compensation package — including salary, allowances, benefit entitlements, and concessions. This is a read-only view; Human Resources (HR) and Finance set up and maintain your entitlements.
 
 1. Open the Benefits section
 

@@ -12,7 +12,7 @@ video:
 
 # View your GEMSU courses
 
-Your GEMSU learning is surfaced directly in ESS, so you don't need to go into GEMSU to see where you stand. Courses flow into ESS automatically through the integration between GEMSU and ESS — this is a read-only view, and you still complete the courses themselves in GEMSU.
+Your GEMSU learning is surfaced directly in Employee Self-Service (ESS), so you don't need to go into GEMSU to see where you stand. Courses flow into ESS automatically through the integration between GEMSU and ESS — this is a read-only view, and you still complete the courses themselves in GEMSU.
 
 1. Open your courses
 
@@ -36,4 +36,4 @@ Your GEMSU learning is surfaced directly in ESS, so you don't need to go into GE
 
    Completed courses stay on the list with a **Completed** status, and keep their **Mandatory** or **Recommended** tag. This gives you a running record of the learning you have finished.
 
-   If a course you have completed in GEMSU still shows as in progress in ESS, allow time for the integration to run before raising it with your HR team.
+   If a course you have completed in GEMSU still shows as in progress in ESS, allow time for the integration to run before raising it with your Human Resources (HR) team.

@@ -15,7 +15,7 @@ At the start of a new year or after a promotion process, overrides set in the pr
 
 1. Add the Financial check override column to the list view
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Right-click any column header and select **Insert columns** (③). Search for and add the **Financial check override** field (④), then click **Update** (⑤). The column displays as a checkbox (⑦) and persists in the view for future use.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Right-click any column header and select **Insert columns** (③). Search for and add the **Financial check override** field (④), then click **Update** (⑤). The column displays as a checkbox (⑦) and persists in the view for future use.
 
    ![Clear Financial Check Overrides — the All Students list with Financial check override column added via Insert field](./images/clear-financial-check-overrides-1.png)
 

@@ -15,7 +15,7 @@ Once fee invoices have been generated and reviewed, post the batch to create the
 
 1. Open the batch and post
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedule batches**, and click **All fee schedule batches**. Click the **Fee schedule batch number** to open the batch (status must be Active). Click **Post** in the toolbar (③).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedule batches**, and click **All fee schedule batches**. Click the **Fee schedule batch number** to open the batch (status must be Active). Click **Post** in the toolbar (③).
 
 2. Set the posting date and submit
 

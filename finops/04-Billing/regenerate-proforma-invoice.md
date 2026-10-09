@@ -15,7 +15,7 @@ Use this process to resend a proforma invoice that has already been confirmed. T
 
 1. Open the sales order confirmation
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Filter for the student, click **Sell**, then click **Orders ▸ All sales orders**. Open the relevant sales order. On the Action Pane, click **Sell** (⑤), then under **Journals** click **Sales order confirmation** (⑥). Select the latest version of the confirmation (⑦).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Filter for the student, click **Sell**, then click **Orders ▸ All sales orders**. Open the relevant sales order. On the Action Pane, click **Sell** (⑤), then under **Journals** click **Sales order confirmation** (⑥). Select the latest version of the confirmation (⑦).
 
    ![Regenerate a Proforma Invoice Document — the Sales order confirmation list showing available versions](./images/regenerate-proforma-invoice-1.png)
 

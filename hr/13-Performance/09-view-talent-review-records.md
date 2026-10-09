@@ -12,7 +12,7 @@ video:
 
 # View talent review records
 
-Talent reviews are completed from the ESS manager view, but D365 stores the records against the employee. This gives HR a full picture at any point in time without needing the ESS screens.
+Talent reviews are completed from the Employee Self-Service (ESS) manager view, but Dynamics 365 (D365) stores the records against the employee. This gives Human Resources (HR) a full picture at any point in time without needing the ESS screens.
 
 1. Open the employee record
 

@@ -12,11 +12,11 @@ video:
 
 # Sign in to Employee Self-Service
 
-ESS uses your GEMS Microsoft 365 account — the same login you use for your email. There is no separate password to remember.
+Employee Self-Service (ESS) uses your GEMS Microsoft 365 account — the same login you use for your email. There is no separate password to remember.
 
 1. Open the ESS portal
 
-   Navigate to the ESS portal URL. Your IT team or HR will have provided this link.
+   Navigate to the ESS portal URL. Your Information Technology (IT) team or Human Resources (HR) will have provided this link.
 
 2. Sign in with Microsoft
 

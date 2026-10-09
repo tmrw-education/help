@@ -15,7 +15,7 @@ A deferral date must be set against the event record before generating invoices.
 
 1. Open the event record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Subject and event names**. Locate and select the relevant event record.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Subject and event names**. Locate and select the relevant event record.
 
 2. Set the deferral date
 

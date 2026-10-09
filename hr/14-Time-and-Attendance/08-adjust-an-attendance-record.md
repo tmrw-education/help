@@ -12,11 +12,11 @@ video:
 
 # Adjust an attendance record
 
-When an employee's recorded times are wrong—the biometric machine wasn't working, or they raised an HR request for a late arrival or early exit—you correct the attendance log and re-run the summary. Use this route for a one-off correction; for bulk corrections, load them through the import instead.
+When an employee's recorded times are wrong—the biometric machine wasn't working, or they raised an Human Resources (HR) request for a late arrival or early exit—you correct the attendance log and re-run the summary. Use this route for a one-off correction; for bulk corrections, load them through the import instead.
 
 1. Open the attendance logs
 
-   In D365, go to **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Attendance log**.
+   In Dynamics 365 (D365), go to **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ Attendance log**.
 
 2. Find the record
 
@@ -42,7 +42,7 @@ When an employee's recorded times are wrong—the biometric machine wasn't worki
 
    Go back to **Time and attendance ▸ Attendance details**, or to **Employees ▸ Work ▸ Attendance ▸ View attendance** on the employee, and confirm the corrected times and the recalculated duration.
 
-7. Check it in ESS
+7. Check it in Employee Self-Service (ESS)
 
    Open the employee's attendance in ESS and check the same date. ESS refreshes with a five-minute delay rather than instantly, so allow a moment before deciding the change hasn't taken effect.
 

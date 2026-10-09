@@ -16,7 +16,7 @@ Prepare the offboarding checklist for staff members who are leaving the company.
 
 1. Navigate to the Offboarding checklist
 
-   In D365, navigate to **Modules ▸ Human Resources ▸ Task Management ▸ Offboarding checklists**.
+   In Dynamics 365 (D365), navigate to **Modules ▸ Human Resources ▸ Task Management ▸ Offboarding checklists**.
 
 2. Select or create a checklist
 

@@ -78,13 +78,13 @@ Common problems in Procurement XP and how to resolve them. Use the contents list
 
 **Cause** — Documentation requirements differ depending on whether the prospective vendor is local or overseas.
 
-**Fix** — The full list of required documents for that vendor is included in the invitation email they received. Typical documents include a VAT certificate and a trade licence.
+**Fix** — The full list of required documents for that vendor is included in the invitation email they received. Typical documents include a Value Added Tax (VAT) certificate and a trade licence.
 
 ### I can't find the approved vendor's account number
 
 **Cause** — Once approved, the record moves out of **Prospective Vendors** and becomes a full vendor.
 
-**Fix** — Look in the **Vendors** tab, or in D365 F&O under **Accounts payable** ▸ **Vendors** ▸ **All vendors**.
+**Fix** — Look in the **Vendors** tab, or in Dynamics 365 Finance and Operations (D365 F&O) under **Accounts payable** ▸ **Vendors** ▸ **All vendors**.
 
 ---
 
@@ -128,9 +128,9 @@ Common problems in Procurement XP and how to resolve them. Use the contents list
 
 ### The CPO can't submit the contract to the CEO
 
-**Cause** — The CPO has two extra confirmations that must be completed before the contract can move on.
+**Cause** — The Chief Procurement Officer (CPO) has two extra confirmations that must be completed before the contract can move on.
 
-**Fix** — Tick both **Risk confirmation** and **Government compliance confirmation** in the CPO tab, then submit to the CEO.
+**Fix** — Tick both **Risk confirmation** and **Government compliance confirmation** in the CPO tab, then submit to the Chief Executive Officer (CEO).
 
 ### The contract status won't change to Signed
 
@@ -140,7 +140,7 @@ Common problems in Procurement XP and how to resolve them. Use the contents list
 
 ### The signed contract isn't showing in D365 F&O
 
-**Cause** — The contract only flows through to F&O once it has been marked as signed.
+**Cause** — The contract only flows through to Finance and Operations (F&O) once it has been marked as signed.
 
 **Fix** — Confirm the contract shows as signed in Procurement XP, then look in F&O under **Procurement and sourcing** ▸ **Contracts** ▸ **All contracts**.
 
@@ -150,7 +150,7 @@ Common problems in Procurement XP and how to resolve them. Use the contents list
 
 ### The purchase requisition doesn't appear when creating a project
 
-**Cause** — Sourcing projects are built from purchase requisitions raised in D365 Finance & Operations. If the requisition doesn't exist there, it won't be listed.
+**Cause** — Sourcing projects are built from purchase requisitions raised in Dynamics 365 (D365) Finance & Operations. If the requisition doesn't exist there, it won't be listed.
 
 **Fix** — Raise or complete the purchase requisition in D365 F&O first, then create the project and select it from the list.
 

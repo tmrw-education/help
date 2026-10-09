@@ -16,7 +16,7 @@ The Approvals and Tasks workspace is your central hub for everything that needs 
 
 1. Open the workspace
 
-   From the ESS home page, click the **Tasks** tile.
+   From the Employee Self-Service (ESS) home page, click the **Tasks** tile.
 
 2. Switch between tabs
 

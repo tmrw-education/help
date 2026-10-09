@@ -12,11 +12,11 @@ video:
 
 # Track your submitted HR requests
 
-All requests you have submitted are visible in the HR Requests section. Once HR processes a request, you can see their feedback and any documents they have provided.
+All requests you have submitted are visible in the Human Resources (HR) Requests section. Once HR processes a request, you can see their feedback and any documents they have provided.
 
 1. Open HR Requests
 
-   From the ESS home page, on the **Submit request** tile, click **My requests →**. Your request history is listed here, each showing a request number and current status.
+   From the Employee Self-Service (ESS) home page, on the **Submit request** tile, click **My requests →**. Your request history is listed here, each showing a request number and current status.
 
 2. Open a request
 

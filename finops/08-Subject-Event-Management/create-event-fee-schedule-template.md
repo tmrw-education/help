@@ -15,7 +15,7 @@ Before the fee generation batch can invoice students for sessional classes or ev
 
 1. Open All fee schedules and create a new template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** in the Action Pane.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** in the Action Pane.
 
 2. Complete the template header and fee lines
 

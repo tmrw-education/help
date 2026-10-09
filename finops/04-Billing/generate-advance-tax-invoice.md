@@ -15,7 +15,7 @@ The advance tax invoice feature generates a tax invoice against a fee payer's op
 
 1. Find the student's sales order
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter for the student using the **Account** column with the *contains* operator (③). Click **Sell** on the Action Pane, then click **Orders ▸ All sales orders** to locate the open proforma invoice (⑤).
+   From the **F&O dashboard**, navigate to **Modules ▸ Academic Management ▸ Students ▸ All students**. Filter for the student using the **Account** column with the *contains* operator (③). Click **Sell** on the Action Pane, then click **Orders ▸ All sales orders** to locate the open proforma invoice (⑤).
 
    ![Generate an Advance Tax Invoice — the All sales orders view for the student with Invoice selected on the Action Pane](./images/generate-advance-tax-invoice-1.png)
 

@@ -18,7 +18,7 @@ The intercompany channel defines the control accounts, journal names, and postin
 
 1. Open Intercompany journal setup
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Intercompany journal**. Click **New**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Intercompany journal**. Click **New**.
 
 2. Configure the originating company
 

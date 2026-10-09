@@ -18,7 +18,7 @@ The end-of-year review closes your performance year. Everything from goal settin
 
 1. Open your review
 
-   In ESS, go to **Skills and performance** and open your end-of-year review.
+   In Employee Self-Service (ESS), go to **Skills and performance** and open your end-of-year review.
 
    ![The end of year review listed in Skills and performance](./images/submit-your-end-of-year-review-1.png)
 

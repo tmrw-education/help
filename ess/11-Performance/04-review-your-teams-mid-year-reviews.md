@@ -16,7 +16,7 @@ At mid-year, you give your own rating alongside your comments. You can see what 
 
 1. Open the review
 
-   In ESS, go to your manager view and open your team's performance reviews. The mid-year review shows as **Ready for review** with its due date. Click **View**.
+   In Employee Self-Service (ESS), go to your manager view and open your team's performance reviews. The mid-year review shows as **Ready for review** with its due date. Click **View**.
 
    ![The manager view showing a mid year review ready for feedback](./images/review-your-teams-mid-year-reviews-1.png)
 
@@ -32,7 +32,7 @@ At mid-year, you give your own rating alongside your comments. You can see what 
 
    ![A goal at mid year with the employee's self-rating and the manager rating alongside it](./images/review-your-teams-mid-year-reviews-2.png)
 
-   Click **Next** to move through the goals. Your review covers objectives, competencies, and any PIP or PDP goals.
+   Click **Next** to move through the goals. Your review covers objectives, competencies, and any performance improvement plan (PIP) or personal development plan (PDP) goals.
 
    PIP and PDP goals do not carry a weighting in the scoring. They are released ad hoc to support an employee's development, so they sit outside the weighted calculation.
 

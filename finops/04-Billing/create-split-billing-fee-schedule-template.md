@@ -14,7 +14,7 @@ For cases where the fee payers are not covering the financial responsibility equ
 
 1. Create a new template
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** and complete the header:
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedules**, and click **All fee schedules**. Click **New** and complete the header:
 
    - **Fee schedule name** — enter a name (e.g., *Split billing override template*).
    - **Billing interval** (④) — select the billing cycle (e.g., termly).

@@ -15,7 +15,7 @@ Visa types classify the visa status held by international students and determine
 
 1. Open Visa types and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Visa types**. Click **New** in the toolbar and complete the columns to create a new visa type:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Visa types**. Click **New** in the toolbar and complete the columns to create a new visa type:
 
    - **Full fee paying** — select this if the student is not subsidised and must pay the full tuition fee.
    - **Active** — clear this checkbox if the visa type is no longer valid. Deactivating does not delete historical records (④).

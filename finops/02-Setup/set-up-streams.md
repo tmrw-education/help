@@ -15,7 +15,7 @@ Streams differentiate groups of students within the same academic year who follo
 
 1. Open Stream and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Stream**. Click **New** (③) and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Stream**. Click **New** (③) and complete the following:
 
    - **Stream** (④) — enter the stream code. Use the same naming format as the student management system.
    - **Description** (⑤) — enter the description.

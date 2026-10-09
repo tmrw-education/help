@@ -16,7 +16,7 @@ The NPS (Net Promoter Score) questionnaire is a brief pulse survey that captures
 
 1. Open the Questionnaires tab
 
-   From the ESS portal, click the **My work** tab and scroll down to **Questionnaires**.
+   From the Employee Self-Service (ESS) portal, click the **My work** tab and scroll down to **Questionnaires**.
 
 2. Find the NPS questionnaire
 

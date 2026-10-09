@@ -12,11 +12,11 @@ video:
 
 # Set up leave plans and leave types
 
-Leave plans contain your leave types. There is no limit on how many plans you create and no fixed rule on how types are grouped — the structure is yours to decide, and it drives what employees can request in ESS.
+Leave plans contain your leave types. There is no limit on how many plans you create and no fixed rule on how types are grouped — the structure is yours to decide, and it drives what employees can request in Employee Self-Service (ESS).
 
 1. Open the leave plan
 
-   In D365, go to **Leave and absence ▸ Setup ▸ Leave and absence plans** and open an existing plan or create a new one.
+   In Dynamics 365 (D365), go to **Leave and absence ▸ Setup ▸ Leave and absence plans** and open an existing plan or create a new one.
 
    ![The Leave plans form in D365 with the leave types grouped at the bottom](./images/set-up-leave-plans-and-types-1.png)
 

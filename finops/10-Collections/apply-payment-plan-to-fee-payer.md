@@ -15,7 +15,7 @@ With payment schedules configured and the payment plan template in place, apply 
 
 1. Set the payment plan on the fee payer
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Fee payer**, and click **All fee payers**. Select and open the fee payer account (③). Expand the **Payment defaults** section and click **Edit** in the Action Pane. Select a **Method of payment** (⑥) and choose the **Payment plan** to apply (⑦). Click **Save**.
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Fee payer**, and click **All fee payers**. Select and open the fee payer account (③). Expand the **Payment defaults** section and click **Edit** in the Action Pane. Select a **Method of payment** (⑥) and choose the **Payment plan** to apply (⑦). Click **Save**.
 
    ![Apply Payment Plan to Fee Payer — the selected fee payer account](./images/apply-payment-plan-to-fee-payer-1.png)
 

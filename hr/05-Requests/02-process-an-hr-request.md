@@ -12,11 +12,11 @@ video:
 
 # Process an HR request
 
-When an employee submits a request through ESS, it is routed to the HR team via the configured workflow. HR reviews the submission, provides feedback, and marks it complete.
+When an employee submits a request through Employee Self-Service (ESS), it is routed to the Human Resources (HR) team via the configured workflow. HR reviews the submission, provides feedback, and marks it complete.
 
 1. Open the HR Request form
 
-   In D365, navigate to the **HR Request** form within the Human Resources module. Click **Refresh** to load any new submissions. Each submitted request has a system-generated request number.
+   In Dynamics 365 (D365), navigate to the **HR Request** form within the Human Resources module. Click **Refresh** to load any new submissions. Each submitted request has a system-generated request number.
 
    ![The HR Request list form in D365 showing pending request rows with request numbers, employee names, and request types](./images/process-an-hr-request-1.png)
 

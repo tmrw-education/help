@@ -18,7 +18,7 @@ The sibling discount policy defines the discount rate applied to students based 
 
 1. Open the Sibling Discount Policy
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, click **Sibling setup**, then click **Sibling discount policy**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, click **Sibling setup**, then click **Sibling discount policy**.
 
 2. Add a policy entry
 

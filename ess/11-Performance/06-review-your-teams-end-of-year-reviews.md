@@ -12,11 +12,11 @@ video:
 
 # Review your team's end of year reviews
 
-The end of year review is where you set an employee's final ratings for the year and submit them for calibration. This stage feeds the calibration process, so the ratings you record here are the ones HR compares across the organisation.
+The end of year review is where you set an employee's final ratings for the year and submit them for calibration. This stage feeds the calibration process, so the ratings you record here are the ones Human Resources (HR) compares across the organisation.
 
 1. Open the review
 
-   In ESS, go to your manager view and open the end-of-year review. Everything submitted throughout the year—ratings, comments, both sides—is visible.
+   In Employee Self-Service (ESS), go to your manager view and open the end-of-year review. Everything submitted throughout the year—ratings, comments, both sides—is visible.
 
    ![An end of year review open in the manager view showing the full year's history](./images/review-your-teams-end-of-year-reviews-1.png)
 
@@ -26,7 +26,7 @@ The end of year review is where you set an employee's final ratings for the year
 
    Add your end-of-year comments against each goal and set your final rating. Where you agree with the employee's assessment, record the same rating.
 
-   Click **Next** to move through the goals — objectives, competencies, and any PIP or PDP goals.
+   Click **Next** to move through the goals — objectives, competencies, and any performance improvement plan (PIP) or personal development plan (PDP) goals.
 
 3. Review career aspirations
 

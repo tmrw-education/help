@@ -16,7 +16,7 @@ The certifications section tracks your professional and compliance certificates,
 
 1. Open your certificates
 
-   From the ESS home page, locate the **Skills & performance** tile and click **View All Certificates**.
+   From the Employee Self-Service (ESS) home page, locate the **Skills & performance** tile and click **View All Certificates**.
 
 2. Review certificate statuses
 

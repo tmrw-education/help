@@ -16,13 +16,13 @@ Without a limit, an employee could cancel leave from a previous period and reope
 
 1. Open the leave and absence parameters
 
-   In D365, go to **Leave and absence ▸ Setup ▸ Leave and absence parameters** and find the cancellation setting.
+   In Dynamics 365 (D365), go to **Leave and absence ▸ Setup ▸ Leave and absence parameters** and find the cancellation setting.
 
    ![The leave and absence parameters showing the cancellation window setting](./images/configure-leave-cancellation-window-1.png)
 
 2. Set the number of days
 
-   Enter the number of days of leave history that remains cancellable — 10 days, for example. Requests older than this time cannot be cancelled in ESS.
+   Enter the number of days of leave history that remains cancellable — 10 days, for example. Requests older than this time cannot be cancelled in Employee Self-Service (ESS).
 
 3. Understand how the window is measured
 
@@ -36,4 +36,4 @@ Without a limit, an employee could cancel leave from a previous period and reope
 
    An employee attempting to cancel leave outside the window sees a message naming the age of the request — *Cancellation is not permitted because this request is 16 days old, exceeding the allowed limit of 10 days* — and the leave is left untouched. Cancellations inside the window are created and routed for approval as normal.
 
-   Employees will bring genuinely old cancellations to HR instead, so keep the value in line with what your team is prepared to handle manually.
+   Employees will bring genuinely old cancellations to Human Resources (HR) instead, so keep the value in line with what your team is prepared to handle manually.

@@ -12,11 +12,11 @@ video:
 
 # Configure mandatory attachments and fields for identification
 
-Each identification document type can have its own set of required fields and attachment rules. When an attachment is made mandatory, the Submit button in ESS is disabled until the employee uploads a file — preventing incomplete submissions.
+Each identification document type can have its own set of required fields and attachment rules. When an attachment is made mandatory, the Submit button in Employee Self-Service (ESS) is disabled until the employee uploads a file — preventing incomplete submissions.
 
 1. Navigate to the Identification types setup
 
-   In D365, go to the **Identification types** setup form within the Human Resources configuration area.
+   In Dynamics 365 (D365), go to the **Identification types** setup form within the Human Resources configuration area.
 
    ![The D365 navigation showing the Identification Types setup form within the Human Resources configuration area](./images/configure-mandatory-attachments-1.png)
 

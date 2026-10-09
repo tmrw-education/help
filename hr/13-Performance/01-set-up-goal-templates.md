@@ -14,11 +14,11 @@ video:
 
 Goal templates are the library of goals available to your organisation. Nothing in the performance cycle works until this library exists — review templates pull their goals from here, and those goals are then copied onto every review the batch job generates.
 
-This setup is for HR, HR administrators, and IT only. Employees never see these forms.
+This setup is for Human Resources (HR), HR administrators, and Information Technology (IT) only. Employees never see these forms.
 
 1. Open the goal templates form
 
-   In D365, go to **Human Resources ▸ Performance ▸ Setup ▸ Goal templates**.
+   In Dynamics 365 (D365), go to **Human Resources ▸ Performance ▸ Setup ▸ Goal templates**.
 
    ![The Goal templates list in D365](./images/set-up-goal-templates-1.png)
 
@@ -36,7 +36,7 @@ This setup is for HR, HR administrators, and IT only. Employees never see these 
 
 3. Set the goal classification
 
-   **Goal classification** is what separates the different kinds of goals your reviews carry — objectives, competencies, PIP and PDP goals all sit here. The classifications available come from the goal types already defined in the existing system, so the list mirrors what your organisation uses today.
+   **Goal classification** is what separates the different kinds of goals your reviews carry — objectives, competencies, performance improvement plan (PIP) and personal development plan (PDP) goals all sit here. The classifications available come from the goal types already defined in the existing system, so the list mirrors what your organisation uses today.
 
    ![The goal classification field on a goal template record](./images/set-up-goal-templates-2.png)
 

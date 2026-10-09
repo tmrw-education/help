@@ -12,11 +12,11 @@ video:
 
 # Complete the HR and finance overtime approvals
 
-Three people approve overtime in sequence: the manager first, then HR, then finance. Each stage sees only what the previous stage approved, so the list gets shorter as it moves along.
+Three people approve overtime in sequence: the manager first, then Human Resources (HR), then finance. Each stage sees only what the previous stage approved, so the list gets shorter as it moves along.
 
 1. Open the HR approval form
 
-   In D365, go to the **HR approval** form. **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ HR approval**.
+   In Dynamics 365 (D365), go to the **HR approval** form. **Time and attendance ▸ Inquiries and reports ▸ Attendance ▸ HR approval**.
 
 2. Review what has reached you
 

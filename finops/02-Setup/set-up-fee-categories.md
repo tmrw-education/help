@@ -15,7 +15,7 @@ Fee categories classify the type of activity associated with each fee item and a
 
 1. Create fee categories
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee categories**. Click **New** in the top toolbar and complete the columns to create new fee categories (④). Click **Save**.
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee categories**. Click **New** in the top toolbar and complete the columns to create new fee categories (④). Click **Save**.
 
    ![Set Up Fee Categories — the Fee categories form with new category entries](./images/set-up-fee-categories-1.png)
 

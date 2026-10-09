@@ -12,7 +12,7 @@ video:
 
 # Find your way around ESS
 
-ESS is built around a home page of tiles. Click any tile to go directly to that area — no menus to dig through.
+Employee Self-Service (ESS) is built around a home page of tiles. Click any tile to go directly to that area — no menus to dig through.
 
 1. Use the tiles on your home page
 

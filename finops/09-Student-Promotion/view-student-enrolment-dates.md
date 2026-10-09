@@ -18,7 +18,7 @@ Before a student can be promoted, their academic enrolment record must show both
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Open the relevant student record (④).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Open the relevant student record (④).
 
    ![View Student Enrolment Dates — using the filter function to find a student record](./images/view-student-enrolment-dates-1.png)
 

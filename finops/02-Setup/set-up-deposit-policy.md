@@ -15,7 +15,7 @@ The deposit policy defines the amount charged to fee payers at enrolment or re-e
 
 1. Create deposit policy records
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Deposit policy**. Click **New** in the toolbar and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Deposit policy**. Click **New** in the toolbar and complete the following:
 
    - **Pre-admission type** (④) — select the appropriate deposit from the dropdown.
    - **Deposit type** (⑤) — select *Percent* or *Fixed*.

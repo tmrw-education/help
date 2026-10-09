@@ -16,7 +16,7 @@ The airfare setup table holds the fare the calculation draws on: an amount per p
 
 1. Open the airfare setup
 
-   In D365, go to **Human Resources ▸ Setup ▸ Airfare setup**.
+   In Dynamics 365 (D365), go to **Human Resources ▸ Setup ▸ Airfare setup**.
 
 2. Create the fare record
 

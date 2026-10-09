@@ -12,7 +12,7 @@ video:
 
 1. Open the item
 
-   From the **FNO dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Find and select the item (e.g., *Piano fee*) (③). Click **Edit** in the Action Pane (④).
+   From the **F&O dashboard**, open **Modules ▸ Product information management**, expand **Products**, and click **Released products**. Find and select the item (e.g., *Piano fee*) (③). Click **Edit** in the Action Pane (④).
 
    ![Assign Fee Category to an Item — Piano fee selected with Edit button highlighted](./images/assign-fee-category-to-item-1.png)
 

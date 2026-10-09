@@ -11,11 +11,11 @@ video:
 
 # Check Student Master
 
-The student master is built from enrolment data created in the student management system. Academic attributes and demographic information must not be edited directly in D365 F&O — changes made at source synchronise automatically. Verify the following before running any fee batch.
+The student master is built from enrolment data created in the student management system. Academic attributes and demographic information must not be edited directly in Dynamics 365 Finance and Operations (D365 F&O) — changes made at source synchronise automatically. Verify the following before running any fee batch.
 
 1. Open the student record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Click the student's name to open their record (③).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All students**. Click the student's name to open their record (③).
 
    ![Check Student Master — the student record showing Current academic year under Enrolment details](./images/check-student-master-1.png)
 

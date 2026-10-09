@@ -15,7 +15,7 @@ The student ledger provides a consolidated view of a student's financial activit
 
 1. Open the student record and generate the ledger
 
-   From the **FNO dashboard**, open **Modules**, expand **Students**, and click **All Students**. Select the student (③) and click **Collect** (④) on the Action Pane. Click **Statements** (⑤) and complete the following:
+   From the **F&O dashboard**, open **Modules**, expand **Students**, and click **All Students**. Select the student (③) and click **Collect** (④) on the Action Pane. Click **Statements** (⑤) and complete the following:
 
    - **From date** — enter the start of the date range (⑥-⑦).
    - **To date** — enter the end of the date range (⑥-⑦).

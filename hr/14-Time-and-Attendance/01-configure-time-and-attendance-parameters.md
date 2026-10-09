@@ -16,7 +16,7 @@ Two parameter settings drive the whole time and attendance process: the hierarch
 
 1. Open the human resource parameters
 
-   In D365, go to **Human Resources ▸ Setup ▸ Human resources parameters** and open the **General** tab.
+   In Dynamics 365 (D365), go to **Human Resources ▸ Setup ▸ Human resources parameters** and open the **General** tab.
 
 2. Set the attendance and overtime hierarchies
 

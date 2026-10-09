@@ -12,11 +12,11 @@ video:
 
 # Configure HR request types
 
-Request types define what employees can request through the ESS portal, which fields appear on the submission form, what is required before submitting, and which approval workflow the request follows.
+Request types define what employees can request through the Employee Self-Service (ESS) portal, which fields appear on the submission form, what is required before submitting, and which approval workflow the request follows.
 
-1. Open the HR request types form
+1. Open the Human Resources (HR) request types form
 
-   In D365, navigate to the **HR request types** form within the Human Resources module: **Human resources ▸ Setup ▸ HR request types**.
+   In Dynamics 365 (D365), navigate to the **HR request types** form within the Human Resources module: **Human resources ▸ Setup ▸ HR request types**.
 
 2. Select a request type
 

@@ -14,7 +14,7 @@ After fee invoices have been posted, the system automatically matches received e
 
 1. Open Pre-admission deposits
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Pre-admission fees**, and click **Pre-admission deposits**. Click **OK** (③) in the dialog to view all deposits.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Pre-admission fees**, and click **Pre-admission deposits**. Click **OK** (③) in the dialog to view all deposits.
 
    ![Settle Enrolment Deposits — the Pre-admission deposits list filtered to show Received deposits](./images/settle-enrolment-deposits-1.png)
 

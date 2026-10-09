@@ -11,13 +11,13 @@ video:
 
 # Update Student Enrolment Dates
 
-> **Note:** Critical changes such as enrolment dates can only be managed in the Student Management System, not directly in D365 F&O.
+> **Note:** Critical changes such as enrolment dates can only be managed in the Student Management System, not directly in Dynamics 365 Finance and Operations (D365 F&O).
 
 Academic enrolment dates are maintained in the Student Management System, which serves as the system of record for all academic lifecycle data. D365 F&O is not used to create or manage these dates directly.
 
 1. Open the student's enrolment record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Select students who will begin after the term start date. Click the **Academic** tab (if not visible, click the ellipsis) (③) and then click **Academic enrolments** (④).
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Students**, and click **All Students**. Select students who will begin after the term start date. Click the **Academic** tab (if not visible, click the ellipsis) (③) and then click **Academic enrolments** (④).
 
    ![Update Student Enrolment Dates — the All Students list with the Academic tab visible](./images/update-student-enrolment-dates-1.png)
 

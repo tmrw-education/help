@@ -12,11 +12,11 @@ video:
 
 # Configure sick leave certificate rules
 
-Certificate rules control when ESS requires a supporting document before it accepts a leave request. The rule is set per leave type, can differ by school, and applies differently depending on whether the employee has passed probation.
+Certificate rules control when Employee Self-Service (ESS) requires a supporting document before it accepts a leave request. The rule is set per leave type, can differ by school, and applies differently depending on whether the employee has passed probation.
 
 1. Open the leave type
 
-   In D365, go to **Leave and absence ▸ Setup ▸ Leave and absence types** and open the type you are configuring — typically sick leave.
+   In Dynamics 365 (D365), go to **Leave and absence ▸ Setup ▸ Leave and absence types** and open the type you are configuring — typically sick leave.
 
 2. Set the certificate threshold
 

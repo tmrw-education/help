@@ -15,7 +15,7 @@ For each possible child in a family, a sibling order number is assigned (e.g., 1
 
 1. Open Sibling order and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup and Sibling setup**, then click **Sibling order**. Click **New** and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup and Sibling setup**, then click **Sibling order**. Click **New** and complete the following:
 
    - **Sibling discount order** (④) — enter a unique number (e.g., *11*). Follow your school's sequencing convention.
    - **Sibling order** (⑤) description — enter a matching description (e.g., *11th Child*). Use the same pattern as existing records.

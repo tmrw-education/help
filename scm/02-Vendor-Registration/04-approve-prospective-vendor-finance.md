@@ -22,6 +22,6 @@ After the procurement team approves them, the prospective vendor's documents are
 
    If there are comments on the form, click **Return** to send it back to procurement with your comments. If the document is fine, click **Finance approval**, and the status changes to **Vendor creation in progress**.
 
-   > **Note:** The approved, added vendor and their account number can be found in the **Vendors** tab or in D365 F&O: **Accounts payable** ▸ **Vendors** ▸ **All vendors**.
+   > **Note:** The approved, added vendor and their account number can be found in the **Vendors** tab or in Dynamics 365 Finance and Operations (D365 F&O): **Accounts payable** ▸ **Vendors** ▸ **All vendors**.
 
    ![The Return or Approval Buttons for the Finance team](./images/approve_prospective_vendor_finance_1.png)

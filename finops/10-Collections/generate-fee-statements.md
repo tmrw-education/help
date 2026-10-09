@@ -14,7 +14,7 @@ Fee payer account statements provide a consolidated view of outstanding invoices
 
 1. Open Fee payer account statement and set parameters
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Fee payer statement report**, and click **Fee payer account statement**. Complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports**, then expand **Fee payer statement report**, and click **Fee payer account statement**. Complete the following:
 
    - **From date** and **To date** (④) — enter the date range for the statement period.
    - **Display payment options** (⑤) — select whether to show payment options on the statement.

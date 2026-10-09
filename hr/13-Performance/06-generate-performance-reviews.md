@@ -12,11 +12,11 @@ video:
 
 # Generate performance reviews
 
-Employees don't create reviews —HR or IT releases them across the organisation by running a batch job. You run it once per stage: once to release goal setting, again for the mid-year review, and again for the end-of-year review.
+Employees don't create reviews —Human Resources (HR) or Information Technology (IT) releases them across the organisation by running a batch job. You run it once per stage: once to release goal setting, again for the mid-year review, and again for the end-of-year review.
 
 1. Find the batch job
 
-   In D365, go to **System administration ▸ Periodic tasks ▸ GEMS periodic ▸ Batch** and open the **Performance review** job.
+   In Dynamics 365 (D365), go to **System administration ▸ Periodic tasks ▸ GEMS periodic ▸ Batch** and open the **Performance review** job.
 
    All custom batch jobs—probation, performance, talent review—are grouped here, so this is the one place to look rather than searching for each job by name.
 
@@ -48,4 +48,4 @@ Employees don't create reviews —HR or IT releases them across the organisation
 
    Go to **Human Resources ▸ Performance ▸ Reviews** and refresh. Your generated reviews appear in the list. Open one and check that the goals have copied across — a template with seven goals should produce a review with those seven goals populated.
 
-Once generated, the reviews appear in ESS for employees to complete. You can follow their progress from the same Reviews list — see [Track performance reviews in D365](./07-track-performance-reviews.md).
+Once generated, the reviews appear in Employee Self-Service (ESS) for employees to complete. You can follow their progress from the same Reviews list — see [Track performance reviews in D365](./07-track-performance-reviews.md).

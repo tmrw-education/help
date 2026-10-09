@@ -12,13 +12,13 @@ video:
 
 # Monitor the calibration inquiry
 
-When managers submit end-of-year reviews for calibration, each record lands in the calibration inquiry. It is the central list HR uses to see how many records are waiting, what ratings they came in with, and how far along each one is in the release process.
+When managers submit end-of-year reviews for calibration, each record lands in the calibration inquiry. It is the central list Human Resources (HR) uses to see how many records are waiting, what ratings they came in with, and how far along each one is in the release process.
 
-This form reports on calibration — the calibration itself is done from the HR view in ESS.
+This form reports on calibration — the calibration itself is done from the HR view in Employee Self-Service (ESS).
 
 1. Open the calibration inquiry
 
-   In D365, open the calibration inquiry under **Human Resources ▸ Performance ▸ Calibration inquiry**.
+   In Dynamics 365 (D365), open the calibration inquiry under **Human Resources ▸ Performance ▸ Calibration inquiry**.
 
    ![The calibration inquiry in D365 listing records submitted for calibration](./images/monitor-the-calibration-inquiry-1.png)
 

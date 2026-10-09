@@ -16,7 +16,7 @@ Talent view puts employees side by side so you can compare their talent reviews 
 
 1. Open talent view
 
-   In ESS, go to your manager view and open **Talent view**.
+   In Employee Self-Service (ESS), go to your manager view and open **Talent view**.
 
 2. Filter to the employees you want
 

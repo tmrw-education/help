@@ -15,7 +15,7 @@ This process defines how customer data is mapped and synchronised between the so
 
 1. Create a Report type
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type**. Click **New**, fill in the **Record type** and **Description** fields (③), then click **Save** and close the page (④). 
+   From the **F&O dashboard**, navigate to **Modules ▸ Academic management ▸ Setup ▸ Integration ▸ Report type**. Click **New**, fill in the **Record type** and **Description** fields (③), then click **Save** and close the page (④). 
 
    ![Configure Customer Integration Mapping — the Report type form with Record type and Description fields](./images/configure-customer-integration-mapping-1.png)
 

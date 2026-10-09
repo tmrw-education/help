@@ -12,7 +12,7 @@ video:
 
 # Monitor probation reviews
 
-HR can view all probation reviews — in progress or completed — from a central form in D365, including workflow status, manager ratings, and employee feedback.
+Human Resources (HR) can view all probation reviews — in progress or completed — from a central form in Dynamics 365 (D365), including workflow status, manager ratings, and employee feedback.
 
 1. Open the HR Probation Reviews form
 

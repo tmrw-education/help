@@ -32,4 +32,4 @@ Dependencies prevent a task from being completed until a prerequisite task is fi
 
    Click **Save** to apply the configuration.
 
-   In ESS, employees will see the dependent task in their list but it is locked until all dependency tasks are complete. The task detail view shows which tasks are blocking progress and who is responsible for completing them.
+   In Employee Self-Service (ESS), employees will see the dependent task in their list but it is locked until all dependency tasks are complete. The task detail view shows which tasks are blocking progress and who is responsible for completing them.

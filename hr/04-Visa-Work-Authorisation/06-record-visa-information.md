@@ -12,7 +12,7 @@ video:
 
 # View visa information for an employee
 
-The visa information form captures all fields required for visa processing and regulatory compliance for an individual employee. This is typically completed by the HR or PRO team.
+The visa information form captures all fields required for visa processing and regulatory compliance for an individual employee. This is typically completed by the Human Resources (HR) or Public Relations Officer (PRO) team.
 
 1. Navigate to the **Employee Visa Information** section.
 
@@ -38,4 +38,4 @@ The visa information form captures all fields required for visa processing and r
    - ABC Category
    - Contract Type
      
-   > **Note**: Once saved, expiry dates are monitored by the system. Alerts appear in the employee's ESS dashboard tiles and in the notification bell as the expiry approaches, based on the threshold configured for each document type.
+   > **Note**: Once saved, expiry dates are monitored by the system. Alerts appear in the employee's Employee Self-Service (ESS) dashboard tiles and in the notification bell as the expiry approaches, based on the threshold configured for each document type.

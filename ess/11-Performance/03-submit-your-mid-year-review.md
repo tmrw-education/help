@@ -16,7 +16,7 @@ The mid-year review is your checkpoint against the goals you agreed on at goal s
 
 1. Open your review
 
-   In ESS, go to **Skills and performance** and open your mid-year review.
+   In Employee Self-Service (ESS), go to **Skills and performance** and open your mid-year review.
 
    Your goals are copied across from goal setting, and the comments you and your manager made then are visible alongside them. You can see both sides of that earlier conversation as you work.
 
@@ -30,7 +30,7 @@ The mid-year review is your checkpoint against the goals you agreed on at goal s
 
    Select your rating against each goal — for example, **Proficient**. Unlike goal setting, the mid-year review includes ratings, and your manager will rate each goal when the review comes to them.
 
-   Click **Next** to move through your goals. PIP and PDP goals do not carry a weighting, as they are released to support your development rather than to be scored.
+   Click **Next** to move through your goals. performance improvement plan (PIP) and personal development plan (PDP) goals do not carry a weighting, as they are released to support your development rather than to be scored.
 
 4. Update your career aspirations
 

@@ -12,11 +12,11 @@ video:
 
 # Track performance reviews in D365
 
-The Reviews list is where HR confirms the batch job worked and follows reviews as employees and managers complete them. Everything submitted from ESS is visible here, including comments and ratings from both sides.
+The Reviews list is where Human Resources (HR) confirms the batch job worked and follows reviews as employees and managers complete them. Everything submitted from Employee Self-Service (ESS) is visible here, including comments and ratings from both sides.
 
 1. Open the Reviews list
 
-   In D365, go to **Human Resources ▸ Performance ▸ Reviews**. If you just ran the batch job, refresh the list to load the new records.
+   In Dynamics 365 (D365), go to **Human Resources ▸ Performance ▸ Reviews**. If you just ran the batch job, refresh the list to load the new records.
 
    ![The Reviews list in D365 showing review records and their statuses](./images/track-performance-reviews-1.png)
 

@@ -15,7 +15,7 @@ Over-the-counter payment processing is used when a fee payer pays directly at th
 
 1. Create the payment
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Over the counter payment**. Click **+ Create Customer Payment** in the Action Pane. Choose the **Customer** ID from the list (④). Select the payment method (e.g., credit card or cash) from the **Method of payment** column (⑥). Enter the **Amount** being paid (⑦) and select the **payment account** where the funds will be deposited. **Mark** the invoices to which the payment should be applied (⑧).
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Over the counter payment**. Click **+ Create Customer Payment** in the Action Pane. Choose the **Customer** ID from the list (④). Select the payment method (e.g., credit card or cash) from the **Method of payment** column (⑥). Enter the **Amount** being paid (⑦) and select the **payment account** where the funds will be deposited. **Mark** the invoices to which the payment should be applied (⑧).
 
    If the payment exceeds the invoice total, the system automatically checks the **Pay in Advance** box and records the extra amount as an advance.
 

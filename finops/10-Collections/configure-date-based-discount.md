@@ -15,7 +15,7 @@ In this setup, the discount is calculated based solely on the payment date. If p
 
 1. Open Cash discounts and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payment setup**, and click **Cash discounts**. Click **New** and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payment setup**, and click **Cash discounts**. Click **New** and complete the following:
 
    - **Cash discount** code (④) — enter a unique code.
    - **Description** (⑤) — enter a description.

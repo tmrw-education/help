@@ -12,7 +12,7 @@ video:
 
 # Record an identification document
 
-Identification documents are submitted through ESS and reviewed by HR before they become active. Once submitted, you cannot make changes to the record until it has been processed.
+Identification documents are submitted through Employee Self-Service (ESS) and reviewed by Human Resources (HR) before they become active. Once submitted, you cannot make changes to the record until it has been processed.
 
 1. Open the Identification tab
 

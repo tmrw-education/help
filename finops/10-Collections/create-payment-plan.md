@@ -15,7 +15,7 @@ Payment schedules allow the school to offer fee payers the option to pay invoice
 
 1. Open Payment schedules and create a new entry
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments setup**, and click **Payment schedules**. Click **New** and complete the following:
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments setup**, and click **Payment schedules**. Click **New** and complete the following:
 
    - **Payment schedule** (④) - enter the payment schedule
    - **Description** (⑤) — enter a description for the payment schedule.

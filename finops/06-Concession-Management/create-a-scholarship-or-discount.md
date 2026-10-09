@@ -17,7 +17,7 @@ Before a scholarship or discount takes effect on a student's fees, it must be cr
 
 1. Open Scholarships and Discounts
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Scholarships and discounts**. Click **New** in the toolbar.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Setup**, and click **Scholarships and discounts**. Click **New** in the toolbar.
 
 2. Complete the discount code details
 

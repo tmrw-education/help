@@ -16,7 +16,7 @@ The offboarding exit survey is generated automatically via a batch job that dete
 
 1. Navigate to the questionnaire schedule
 
-   From D365, go to **Questionnaire ▸ Periodic Question ▸ Questionnaire Schedule for Offboarding Employee**.
+   From Dynamics 365 (D365), go to **Questionnaire ▸ Periodic Question ▸ Questionnaire Schedule for Offboarding Employee**.
 
    ![The Question Schedule list in D365 with the Offboarding Employees schedule row highlighted](./images/run-offboarding-questionnaire-batch-1.png)
 
@@ -25,7 +25,7 @@ The offboarding exit survey is generated automatically via a batch job that dete
    Click **OK** to trigger the batch job. The job:
    - Finds all employees who have been assigned an offboarding checklist.
    - Generates a questionnaire for each employee based on the offset dates defined in the checklist.
-   - Assigns the questionnaire to each employee for completion in ESS.
+   - Assigns the questionnaire to each employee for completion in Employee Self-Service (ESS).
 
    ![The offboarding questionnaire schedule record with the OK button highlighted](./images/run-offboarding-questionnaire-batch-2.png)
 

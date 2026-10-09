@@ -15,7 +15,7 @@ video:
 
 1. Open Fee schedule parameters
 
-   From the **FNO dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee schedule parameters**.
+   From the **F&O dashboard**, open **Modules ▸ Academic management**, expand **Setup**, and click **Fee schedule parameters**.
 
 2. Complete the General tab
 

@@ -16,7 +16,7 @@ After your manager submits their probation review, the workflow routes it to you
 
 1. Open the probation review
 
-   From the ESS portal, go to **Employment ▸ Probation Review** (the review appears here when it is assigned to you for feedback).
+   From the Employee Self-Service (ESS) portal, go to **Employment ▸ Probation Review** (the review appears here when it is assigned to you for feedback).
 
    ![Probation tile showing a feedback form with start and due dates visible](./images/complete-probation-feedback-employee-1.png)
 

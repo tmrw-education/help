@@ -13,7 +13,7 @@ video:
 
 # Basic Navigation in F&O
 
-<img src="./images/navigate-the-platform-1.png" alt="The F&O left-hand navigation pane with the hamburger menu icon at the top and the Modules section expanded" width="350" align="right"/>
+<img src="./images/navigate-the-platform-1.png" alt="The Finance and Operations (F&O) left-hand navigation pane with the hamburger menu icon at the top and the Modules section expanded" width="350" align="right"/>
 
 When you first log into Dynamics 365 F&O, the interface might feel overwhelming, but once you understand the layout, it becomes a powerful and intuitive workspace. The key to mastering navigation lies in understanding the left-hand sidebar, often referred to as the navigation pane.
 
@@ -21,7 +21,7 @@ When you first log into Dynamics 365 F&O, the interface might feel overwhelming,
 Located on the left side of the screen, this pane is your central hub for accessing everything in the system, think of it as your home base. At the top, you'll see the hamburger menu icon (☰); clicking this expands the full menu.
 
 ### **Modules:**
-The heart of the system, this is where you'll find all the functional areas like Finance, Procurement, Inventory, HR, etc. Each module contains a structured set of submenus that organise tasks and features by category. Clicking into a submenu reveals specific pages or actions, like creating a journal entry or viewing a vendor list.
+The heart of the system, this is where you'll find all the functional areas like Finance, Procurement, Inventory, Human Resources (HR), etc. Each module contains a structured set of submenus that organise tasks and features by category. Clicking into a submenu reveals specific pages or actions, like creating a journal entry or viewing a vendor list.
 
 ### **How to Navigate:**
 Whenever you need to perform a new task or switch contexts:

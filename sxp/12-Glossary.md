@@ -2,7 +2,7 @@
 
 Terms used across StaffXP and this guide.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [I](#i) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Y](#y)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [I](#i) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Y](#y)
 
 ## A
 
@@ -68,10 +68,17 @@ Terms used across StaffXP and this guide.
 | Featured | The tab at the top of the Notices board holding starred notices. Featuring is a school leader action, applies to Active or Scheduled notices only, and has a daily cap. |
 | Felix | The in-app assistant, and the way into every AI agent. Used to open a class roll, log an attendance correction request, answer questions across the platform, and run the agents — none of which have a navigation entry point of their own. Accepts typed or voice input. |
 
+## G
+
+| Term | Definition |
+|---|---|
+| GEMS | The school group whose schools use StaffXP. Your GEMS Microsoft 365 account is the login StaffXP signs you in with. |
+
 ## I
 
 | Term | Definition |
 |---|---|
+| IEP | Individual education plan — the plan setting out the support and adjustments a student receives. Listed under **Shared documents** on a student's At a glance tab. |
 | Intervention Library | The school's own record of what should happen when a student falls into each attendance risk band — the signals to watch for and the actions to take. Uploaded by a school admin in Customer Engagement (CE). The compliance checker recommends only from what it holds, which is what keeps its recommendations consistent and within school policy. |
 
 ## K
@@ -92,6 +99,7 @@ Terms used across StaffXP and this guide.
 
 | Term | Definition |
 |---|---|
+| M365 | Microsoft 365 — the Microsoft account suite your school runs on. StaffXP signs you in with your GEMS Microsoft 365 account, the same one you use for email. |
 | Manage Notices | The table of notices you've created, reached from the Notices board. Seeing it means you have editing access; school leaders also see everyone's notices. |
 | Medical Alert | A student alert indicating an active medical plan — allergies, medication, or condition protocols. Points to the Medical tab and Wellbeing tab. |
 | Messages | The notifications tab holding items addressed to you that usually carry something to do — pending requests, attendance summaries, approvals, wellbeing follow-ups. Clicking one opens what it's about. |
@@ -122,6 +130,7 @@ Terms used across StaffXP and this guide.
 | Term | Definition |
 |---|---|
 | Parent Volunteers | The Activities overview tab holding parent helper sign-ups. Opens filtered to Pending / More info. Approving and declining is approver-only. |
+| PDF | Portable Document Format — the file format a printed roll or a published class update is saved as. |
 | Pending | A request status meaning it's been submitted and is awaiting a coordinator's decision. |
 | Physical Alert | A student alert indicating a recorded physical accommodation — mobility, sensory, or assistive equipment. |
 | Postcard | The card created when a reward or consequence is logged, seen by the student in the Learner Experience Platform and by their parents in the Parent Experience Platform. Whether it goes out per log or in a batch is set per school in Customer Engagement (CE). |
@@ -140,6 +149,7 @@ Terms used across StaffXP and this guide.
 | Risk Management | The step in an activity, venue or extra-curricular request where each category — Student lists, Activity based, Transport, Staff capacity — either lists risks with mitigations or is explicitly marked "no risk". Visits have no Transport category. |
 | Risk Profile | The per-student page reached from the attendance risk report, holding the student's risk level, the case summary, the supporting data behind it, what the agent has already set in motion, and the actions the intervention library recommends. |
 | Roll Reminders | An Attendance overview tile showing a live count of classes that haven't submitted their roll yet. **View all** lists them by teacher, class, period and outstanding count. |
+| RSVP | The reply a notice asks for when it needs numbers. Staff respond yes or no, and whoever created the notice sees who is coming. |
 
 ## S
 
@@ -168,6 +178,7 @@ Terms used across StaffXP and this guide.
 |---|---|
 | Unresolved Attendance | An attendance officer tab holding marks that still need a resolution category. |
 | Unresolved Late | An attendance status a teacher can set, pending an officer assigning a specific reason. |
+| URL | Uniform Resource Locator — the web address of a page. |
 
 ## V
 

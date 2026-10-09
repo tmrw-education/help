@@ -17,7 +17,7 @@ Proceed with the refund only after confirming the bank details. See [Confirm Ban
 
 1. Create the refund journal
 
-   From the **FNO dashboard**, navigate to **Modules ▸ Accounts receivable ▸ Payments ▸ Customer payment journal**. Click **New** and in the **Name** field select **Customer refund journal** (③). Click **Lines** (④).
+   From the **F&O dashboard**, navigate to **Modules ▸ Accounts receivable ▸ Payments ▸ Customer payment journal**. Click **New** and in the **Name** field select **Customer refund journal** (③). Click **Lines** (④).
 
    ![Process a Fee Refund — the Customer payment journal with Customer refund journal selected in the Name field](./images/process-fee-refund-1.png)
 

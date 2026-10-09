@@ -12,11 +12,11 @@ video:
 
 # Submit your goal setting review
 
-Goal setting is the first stage of the performance year. HR releases the review to you with your goals already populated, and you complete it by setting how much each goal is worth, where it currently stands, and what you want from the year ahead.
+Goal setting is the first stage of the performance year. Human Resources (HR) releases the review to you with your goals already populated, and you complete it by setting how much each goal is worth, where it currently stands, and what you want from the year ahead.
 
 1. Open your review
 
-   In ESS, go to **Skills and performance** and click the **Goal setting tile** to find your reviews. Your goal-setting review is listed with its due date.
+   In Employee Self-Service (ESS), go to **Skills and performance** and click the **Goal setting tile** to find your reviews. Your goal-setting review is listed with its due date.
 
    ![The Skills and performance page in ESS showing the goal setting review](./images/submit-your-goal-setting-review-1.png)
 
@@ -32,7 +32,7 @@ Goal setting is the first stage of the performance year. HR releases the review 
 
    ![A goal in the goal setting review with weighting, comments and status completed](./images/submit-your-goal-setting-review-2.png)
 
-   Click **Next** to move through your goals. Your review may include several types: objectives, competencies, and PIP or PDP goals, depending on what has been set up for you.
+   Click **Next** to move through your goals. Your review may include several types: objectives, competencies, and performance improvement plan (PIP) or personal development plan (PDP) goals, depending on what has been set up for you.
 
 3. Add or remove a goal
 

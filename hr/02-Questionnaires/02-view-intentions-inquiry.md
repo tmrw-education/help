@@ -12,11 +12,11 @@ video:
 
 # View the intentions inquiry
 
-The Employee Intention Survey Result form displays all employees who answered "Yes" to the intention-to-leave question in the Intention Questionnaire. Responses are captured live as employees submit the survey through ESS.
+The Employee Intention Survey Result form displays all employees who answered "Yes" to the intention-to-leave question in the Intention Questionnaire. Responses are captured live as employees submit the survey through Employee Self-Service (ESS).
 
 1. Navigate to the intentions inquiry
 
-   From the D365 navigation pane, go to **Human Resources ▸ Workers ▸ Inquiries and Reports ▸ Employee Intention Survey Result**.
+   From the Dynamics 365 (D365) navigation pane, go to **Human Resources ▸ Workers ▸ Inquiries and Reports ▸ Employee Intention Survey Result**.
 
    ![The D365 navigation path showing Human Resources, Workers, Inquiries and Reports, and the Employee Intention Survey Result option](./images/view-intentions-inquiry-1.png)
 

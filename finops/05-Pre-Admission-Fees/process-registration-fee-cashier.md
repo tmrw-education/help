@@ -17,7 +17,7 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 
 1. Filter and post the fee record
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Pre-admission fees**, and click **All admission fees**. Filter **Pre-admission type** by *Application fee* (②), locate and select the correct student record. Click **Post** (④) with **Preview** toggled on. Click the **General** (⑥) tab to view the created sales order — it will now be available in Cashier receipt for payment.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Inquiries and reports ▸ Pre-admission fees**, and click **All admission fees**. Filter **Pre-admission type** by *Application fee* (②), locate and select the correct student record. Click **Post** (④) with **Preview** toggled on. Click the **General** (⑥) tab to view the created sales order — it will now be available in Cashier receipt for payment.
 
    ![Application / Registration Fee Process via Cashier — the All admission fees list filtered by Application fee with the student record selected](./images/process-registration-fee-cashier-1.png)
 
@@ -25,7 +25,7 @@ Registration fees can be receipted over the counter when a fee payer makes payme
 
 2. Create a cashier receipt
 
-   From the **FNO dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** in the Action Pane (⑨).
+   From the **F&O dashboard**, open **Modules ▸ Accounts receivable**, expand **Payments**, and click **Cashier receipt**. Click **+ Cashier receipt** in the Action Pane (⑨).
 
    Select the **student name** from the fee payer list. Open the **Pre-admission fees** tab (⑪) and tick the **Mark** checkbox (⑫) next to the registration fee. Complete the payment details in the **Method of payment and invoice marking** tab:
 

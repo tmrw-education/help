@@ -12,11 +12,11 @@ video:
 
 # Review pending worker visa information
 
-When an applicant is hired through the recruitment process, any identification records added to the applicant record (such as passport or visa details) automatically carry over to the Pending Worker Visa Information form. The HR or PRO team uses this form to confirm documents are present and to complete additional visa-related fields before finalising the hire. Once the worker completes the action, the system publishes all information to the employee's record.
+When an applicant is hired through the recruitment process, any identification records added to the applicant record (such as passport or visa details) automatically carry over to the Pending Worker Visa Information form. The Human Resources (HR) or Public Relations Officer (PRO) team uses this form to confirm documents are present and to complete additional visa-related fields before finalising the hire. Once the worker completes the action, the system publishes all information to the employee's record.
 
 1. Open Pending Worker Visa Information
 
-   In D365, search for and open the **Pending Worker Visa Information** form. Or you can access it through **Human resources ▸ Workers ▸ Action ▸ Pending Worker Visa Information**.
+   In Dynamics 365 (D365), search for and open the **Pending Worker Visa Information** form. Or you can access it through **Human resources ▸ Workers ▸ Action ▸ Pending Worker Visa Information**.
 
    ![The navigation pathway to pending worker visa information](./images/review-pending-worker-visa-1.png)
 

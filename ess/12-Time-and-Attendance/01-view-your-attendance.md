@@ -12,7 +12,7 @@ video:
 
 # View your attendance
 
-Your attendance in ESS is a calendar of the days you have worked, built from the clock-in and clock-out records from the attendance system. Use it to check what has been recorded for you before it goes anywhere else.
+Your attendance in Employee Self-Service (ESS) is a calendar of the days you have worked, built from the clock-in and clock-out records from the attendance system. Use it to check what has been recorded for you before it goes anywhere else.
 
 1. Open attendance
 
@@ -40,4 +40,4 @@ Your attendance in ESS is a calendar of the days you have worked, built from the
 
    Approved leave and public holidays appear on the calendar too — an Islamic New Year holiday, for example, comes through from the calendar and shows on the day.
 
-If something recorded against you is wrong — a day the machine didn't register, a late arrival or an early exit that was agreed — raise it with HR. Corrections are made in D365 against your attendance log, and appear here once the system next refreshes, which is at about five-minute intervals rather than instantly.
+If something recorded against you is wrong — a day the machine didn't register, a late arrival or an early exit that was agreed — raise it with Human Resources (HR). Corrections are made in Dynamics 365 (D365) against your attendance log, and appear here once the system next refreshes, which is at about five-minute intervals rather than instantly.

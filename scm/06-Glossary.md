@@ -8,6 +8,7 @@ Terms used across Procurement XP and the Supply Chain Management guide.
 
 | Term | Definition |
 |---|---|
+| AI | Artificial intelligence. **Generate with AI** drafts sourcing content from a description. |
 | Applicable Mandatory Policy | A field completed by the contract initiator that records which school or group policy the contract must comply with. Set alongside the risk assessment when the contract is created. |
 | Approved Bids | The section on a vendor's record listing the sourcing projects they have won. Used as the starting point for creating the resulting contract. |
 | Assessments | Questionnaires attached to a sourcing project or contract that vendors must complete. The assessments that apply are determined by the company type selected — some types require few or none. |
@@ -56,11 +57,13 @@ Terms used across Procurement XP and the Supply Chain Management guide.
 | Term | Definition |
 |---|---|
 | Finance Approval | The second approval stage for a prospective vendor. The finance team verifies the values extracted from the vendor's documents and either approves — moving the status to vendor creation in progress — or returns the form to procurement with comments. |
+| F&O | Finance and Operations — Microsoft Dynamics 365 Finance and Operations. Approved vendors and signed contracts flow between Procurement XP and F&O. |
 
 ## G
 
 | Term | Definition |
 |---|---|
+| GEMS | The school group whose procurement this guide covers. |
 | Generate with AI | An option when building sourcing project content that drafts introduction or requirement text from a short description. |
 | Government Compliance Confirmation | A checkbox completed by the CPO and again by the CEO confirming the contract meets government compliance requirements. |
 
@@ -83,6 +86,7 @@ Terms used across Procurement XP and the Supply Chain Management guide.
 
 | Term | Definition |
 |---|---|
+| M365 | Microsoft 365 — the Microsoft account suite used to sign in. |
 | Manual Intervention | A prospective vendor status set when bot validation cannot complete automatically. The procurement team must verify the form manually before approval can continue. |
 
 ## N
@@ -119,6 +123,7 @@ Terms used across Procurement XP and the Supply Chain Management guide.
 |---|---|
 | Reviewers and Approvers | The step in contract creation where the initiator selects the contract manager, and the contract manager later selects the legal, business, CPO and CEO reviewers. |
 | RFP / RFQ | Request for Proposal and Request for Quotation. The two forms a sourcing project can take when published to invited vendors. |
+| RFQ | Request for quotation — a sourcing event inviting vendors to quote. |
 | Risk Assessment | A document uploaded against a contract, and optionally against an award, recording the assessed risk of the arrangement. |
 | Risk Category | The risk level assigned to a contract by the initiator when the risk assessment is uploaded. |
 | Risk Confirmation | A checkbox completed by the CPO and again by the CEO confirming the contract's risk position has been reviewed. |
@@ -128,6 +133,7 @@ Terms used across Procurement XP and the Supply Chain Management guide.
 | Term | Definition |
 |---|---|
 | Schedule | The section of a sourcing project or contract where the submission close date — the last day vendors can submit — and any run and end dates are set. |
+| SCM | Supply Chain Management — Microsoft Dynamics 365 Supply Chain Management, the platform this guide covers. |
 | Scope of Work | Part of the technical content of a sourcing project, describing what the vendor is being asked to deliver. |
 | Send Back | The button used by any contract reviewer to return a contract to the initiator or contract manager for updating rather than approving it. |
 | Service Providers | The section of a sourcing project or contract where the vendors and prospective vendors it applies to are selected. |

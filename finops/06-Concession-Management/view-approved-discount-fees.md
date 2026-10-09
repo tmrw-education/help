@@ -14,7 +14,7 @@ video:
 
 1. Open All Fee Schedule Batches
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedule batches**, and click **All fee schedule batches**.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedule batches**, and click **All fee schedule batches**.
 
 2. Open the fee record
 

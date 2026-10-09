@@ -14,7 +14,7 @@ After running the Calculate fee and charge adjustment task, review the resulting
 
 1. Open the adjustment sales order
 
-   From the **FNO dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedule batches**, and click **All fee schedule batches**. Locate and open the newly generated sales order for the student.
+   From the **F&O dashboard**, open **Modules ▸ Academic Management**, expand **Fee schedule batches**, and click **All fee schedule batches**. Locate and open the newly generated sales order for the student.
 
 2. Verify the adjustment amounts
 

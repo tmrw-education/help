@@ -15,7 +15,7 @@ At the end of each business day, individual deposit slips created across the day
 
 1. Review open deposit slips
 
-   From the **FNO dashboard**, open **Modules ▸ Cash and bank management**, expand **Inquiries and reports**, and click **Deposit slips**, then **Open deposit slips** (③). This shows all individual deposit slips created during the day — each slip represents a separate cash transaction not yet consolidated.
+   From the **F&O dashboard**, open **Modules ▸ Cash and bank management**, expand **Inquiries and reports**, and click **Deposit slips**, then **Open deposit slips** (③). This shows all individual deposit slips created during the day — each slip represents a separate cash transaction not yet consolidated.
 
    ![End of Day Procedure — the Open deposit slips list showing individual slips before consolidation](./images/end-of-day-procedure-1.png)
 

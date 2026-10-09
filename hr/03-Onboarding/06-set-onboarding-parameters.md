@@ -16,7 +16,7 @@ The Human Resources parameters form controls which onboarding checklist is appli
 
 1. Open Human Resources parameters
 
-   In D365, in the **Human Resources** module, under **Setup**, open **Human Resources parameters**.
+   In Dynamics 365 (D365), in the **Human Resources** module, under **Setup**, open **Human Resources parameters**.
 
 2. Go to the Recruitment tab
 

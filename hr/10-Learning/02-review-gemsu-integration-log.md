@@ -12,7 +12,7 @@ video:
 
 # Review the GEMSU integration log
 
-The integration log records every message that comes into D365 from GEMSU. When course data is missing or looks wrong, the log is the first place to check—it tells you whether the message arrived and imported successfully.
+The integration log records every message that comes into Dynamics 365 (D365) from GEMSU. When course data is missing or looks wrong, the log is the first place to check—it tells you whether the message arrived and imported successfully.
 
 1. Open the integration log for an employee
 
@@ -32,6 +32,6 @@ The integration log records every message that comes into D365 from GEMSU. When 
 
 4. Act on what the log tells you
 
-   - Records showing as **successfully imported** confirm the data reached D365. If the employee still can't see the course in ESS, the issue is downstream of the integration.
+   - Records showing as **successfully imported** confirm the data reached D365. If the employee still can't see the course in Employee Self-Service (ESS), the issue is downstream of the integration.
    - Records showing an **error** need investigating with the GEMSU team — the message arrived but could not be written to the course tables.
    - **No log entry at all** means nothing was received for that employee. Confirm with the GEMSU team that the course was assigned at source.

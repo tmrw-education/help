@@ -16,7 +16,7 @@ Visa statuses define the lifecycle stages used to track the progress of visa and
 
 1. Navigate to Visa/Labour card status
 
-   From D365, go to **Human Resources** ▸ **Setup** ▸ **Visa master ▸ Visa/Labour card status**.
+   From Dynamics 365 (D365), go to **Human Resources** ▸ **Setup** ▸ **Visa master ▸ Visa/Labour card status**.
 
    ![The D365 navigation showing Visa Master expanded with Visa Label Status highlighted](./images/visa-status-setup-1.png)
 
