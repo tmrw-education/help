@@ -58,7 +58,8 @@ arrives.
 
    > **Note:** The recommendation is advice, not a decision. A member of staff
    > reviews every request that is not auto-approved. If no attendance thresholds
-   > are configured in CE, the agent says so and cannot assess risk.
+   > are configured in Customer Engagement (CE), the agent says so and cannot
+   > assess risk.
 
 5. Approve or decline
 

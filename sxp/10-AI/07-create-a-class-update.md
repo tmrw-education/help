@@ -99,5 +99,5 @@ before it goes out.
 7. Publish
 
    Click **Confirm**. Parents are notified in the Parent Experience Platform, and
-   a PDF of each class update is saved to CE. A success message confirms which
-   classes went out.
+   a PDF of each class update is saved to Customer Engagement (CE). A success
+   message confirms which classes went out.

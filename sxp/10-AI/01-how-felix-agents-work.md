@@ -14,8 +14,7 @@ video:
 
 {/* SOURCE — written from the AI agent sprint demos (9 Apr, 21 Apr, 2 Jun, 2 Jul 2026),
 the 26 Aug 2026 agent walkthrough, and the 3 Sep 2026 attendance compliance and
-student leave request demo. Screenshots cannot be taken from the demo builds —
-add images to ./images/ once a UAT environment is available. */}
+student leave request demo. */}
 
 **Felix** is the assistant in StaffXP's chat panel. Behind Felix sits a set of
 **agents** — each one handles a single job, such as writing a notice, drafting a
@@ -77,9 +76,9 @@ you want, and Felix hands the request to the right one.
    view.
 
    > **Note:** Some agents — such as the attendance compliance checker — do not
-   > run when you ask. They run on a schedule your school admin sets in CE, and
-   > show you the results of the last run. Look for the **last updated** and
-   > **next update** labels.
+   > run when you ask. They run on a schedule your school admin sets in Customer
+   > Engagement (CE), and show you the results of the last run. Look for the
+   > **last updated** and **next update** labels.
 
 ## Which agent does what
 

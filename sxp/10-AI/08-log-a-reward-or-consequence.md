@@ -44,9 +44,9 @@ student and their parents see.
    **notification**, a **postcard** and a **certificate** are sent for this log,
    and whether **teacher reminders** are on.
 
-   > **Note:** These are set per class and per school by your school admin in CE,
-   > not by you. Your school may collect logs and send postcards weekly or at a
-   > milestone rather than one at a time. See
+   > **Note:** These are set per class and per school by your school admin in
+   > Customer Engagement (CE), not by you. Your school may collect logs and send
+   > postcards weekly or at a milestone rather than one at a time. See
    > **Configure agent features for behaviour management** in the CE user guide.
 
 4. Accept or change the value and points

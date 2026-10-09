@@ -16,8 +16,7 @@ video:
 TO RE-VERIFY BEFORE PUBLISHING: the canvas styling was being reworked to match the
 standalone EduScope app. Download and print were named on screen but not clicked.
 The standalone EduScope app is a marketplace product — confirm with the product
-team whether it needs any mention here at all before publishing.
-No screenshots available — add to ./images/ from a UAT build. */}
+team whether it needs any mention here at all before publishing. */}
 
 The **EduScope** agent builds a progress report for one student from their
 Microsoft Teams assignments — what was set, what was handed in, the rubric the

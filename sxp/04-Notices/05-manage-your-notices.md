@@ -26,7 +26,7 @@ open, edit and feature them.
    
    The **stat tiles** at the top double as filters. Click **Active notices** or **Scheduled
    notices** to filter the table. Click the tile again to clear the filter. You can also
-   **Search** by the notice title or **Fliter** by status and category. Click a notice's
+   **Search** by the notice title or **Filter** by status and category. Click a notice's
    **title** to open its full details, or use a row's **edit icon** to change it.
 
    ![The Manage notices table with the stat tiles, search, and filter controls](./images/manage-your-notices-1.png)

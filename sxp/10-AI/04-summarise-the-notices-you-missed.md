@@ -16,8 +16,7 @@ video:
 9 Apr 2026 (30:28, attempt failed on connectivity).
 TO RE-VERIFY BEFORE PUBLISHING: "missed" currently means the past 24 hours only,
 because the read/unread flag had not been developed for notices. Once that flag
-ships, "missed" is intended to mean unread — rewrite step 1 then.
-No screenshots available — add to ./images/ from a UAT build. */}
+ships, "missed" is intended to mean unread — rewrite step 1 then. */}
 
 Rather than scrolling the noticeboard, ask Felix what you have missed. It reads
 the recent notices for the categories you follow and gives you a short summary of

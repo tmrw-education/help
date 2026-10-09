@@ -17,8 +17,7 @@ video:
 TO RE-VERIFY BEFORE PUBLISHING: skipping the attachment step errored on 21 Apr
 (Denny confirmed a missing null check); the duplicate-note guardrail's *suggest*
 option errored on 9 Apr and was not re-demonstrated. Both steps are written from
-intended behaviour and must be checked on a fixed build.
-No screenshots available — add to ./images/ from a UAT build. */}
+intended behaviour and must be checked on a fixed build. */}
 
 Felix can raise a wellbeing note from a description of what happened. It picks the
 note type, sentiment and priority from what you write, explains why it chose them,

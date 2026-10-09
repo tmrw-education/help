@@ -64,10 +64,10 @@ Start from the risk report — see
    - **Add a task** — assign follow-up to a member of staff.
 
    > **Note:** The recommendations come from the intervention library your school
-   > admin uploaded to CE, not from a general search. If the library is missing,
-   > the wording is left to the model and is neither controlled nor consistent —
-   > see **Upload the attendance intervention library** under **Agent setup** in
-   > the CE user guide.
+   > admin uploaded to Customer Engagement (CE), not from a general search. If
+   > the library is missing, the wording is left to the model and is neither
+   > controlled nor consistent — see **Upload the attendance intervention
+   > library** under **Agent setup** in the CE user guide.
 
 6. Work the case
 

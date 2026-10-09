@@ -14,9 +14,14 @@ video:
 
 End your session — worth doing on any shared or public computer.
 
-1. Click the **User** icon (top right).
+1. Open the user menu
 
-2. Click **Sign Out** at the bottom of the menu. You're returned to the sign-in page.
+   Click the **User** icon in the top right corner.
 
-   > **Note:** Signing out ends your session, so you'll sign in again next time.
-   > Always sign out on shared devices.
+2. Sign out
+
+   Click **Sign Out** at the bottom of the menu. You're returned to the
+   sign-in page.
+
+   > **Note:** Signing out ends your session, so you'll sign in again next
+   > time. Always sign out on shared devices.

@@ -571,7 +571,7 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 ### The attendance risk figures are out of date
 
-**Cause** — The attendance compliance checker isn't real time. It runs to a schedule set per school in CE — daily, weekly, or at a longer interval — and shows the results of its last run.
+**Cause** — The attendance compliance checker isn't real time. It runs to a schedule set per school in Customer Engagement (CE) — daily, weekly, or at a longer interval — and shows the results of its last run.
 
 **Fix** — Check the **Last updated** and **Next update** labels beside the risk tiles. Attendance taken since the last run isn't reflected until the next one. If the cadence is too slow for your school, ask your school admin to change the schedule in CE.
 
@@ -585,25 +585,25 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 **Cause** — No attendance thresholds have been configured for your school, so the agent has nothing to sort students against.
 
-**Fix** — Ask your school admin to set them in CE. Until they exist no student can be banded, and the leave request approver can't assess risk either.
+**Fix** — Ask your school admin to set them in Customer Engagement (CE). Until they exist no student can be banded, and the leave request approver can't assess risk either.
 
 ### The recommendations on a student's risk profile look generic
 
 **Cause** — Your school's intervention library is missing or thin. The **must do** list is drawn from it.
 
-**Fix** — Ask your school admin to upload the intervention library in CE. Without it the recommendations come from the model's general reasoning rather than school policy, so they're neither controlled nor repeatable.
+**Fix** — Ask your school admin to upload the intervention library in Customer Engagement (CE). Without it the recommendations come from the model's general reasoning rather than school policy, so they're neither controlled nor repeatable.
 
 ### A leave request was approved without anyone reviewing it
 
 **Cause** — Your school has auto-approval switched on for that leave type and absence reason.
 
-**Fix** — Expected, but worth checking. Auto-approval doesn't weigh anything up — it doesn't look at attendance, academic performance, or how often the student has been away. If a reason shouldn't be approved unseen, ask your school admin to take it off the list in CE.
+**Fix** — Expected, but worth checking. Auto-approval doesn't weigh anything up — it doesn't look at attendance, academic performance, or how often the student has been away. If a reason shouldn't be approved unseen, ask your school admin to take it off the list in Customer Engagement (CE).
 
 ### The AI recommendation on a leave request says it can't assess risk
 
 **Cause** — No attendance thresholds are configured for the school, so the agent has nothing to compare the student's attendance against.
 
-**Fix** — Decide the request on what's in front of you — the reason, the attachments, and any sibling request. Ask your school admin to configure thresholds in CE so future recommendations carry the attendance picture.
+**Fix** — Decide the request on what's in front of you — the reason, the attachments, and any sibling request. Ask your school admin to configure thresholds in Customer Engagement (CE) so future recommendations carry the attendance picture.
 
 ### I approved or declined a leave request by mistake
 
@@ -669,7 +669,7 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 **Cause** — Your school may collect logs and send postcards, certificates and notifications in a batch rather than one at a time.
 
-**Fix** — Expected. Felix shows the settings that apply before you send — check them there. They're set per class and per school by your school admin in CE, not by you.
+**Fix** — Expected. Felix shows the settings that apply before you send — check them there. They're set per class and per school by your school admin in Customer Engagement (CE), not by you.
 
 ### Felix suggested the wrong value for a reward
 
@@ -704,6 +704,6 @@ Rewrite or delete it once the SharePoint path ships. */}
 
 ### I can't open a class update I've already published
 
-**Cause** — A published class update is saved as a PDF in CE, which most teaching staff have no licence for.
+**Cause** — A published class update is saved as a PDF in Customer Engagement (CE), which most teaching staff have no licence for.
 
 **Fix** — Parents receive the update in the Parent Experience Platform as normal, so publishing has worked. A route for teachers to open their own published updates is being built — until it ships, ask a member of staff with CE access if you need a copy.

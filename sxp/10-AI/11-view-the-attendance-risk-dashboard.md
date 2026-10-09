@@ -25,11 +25,11 @@ The **attendance compliance checker** works through your school's attendance dat
 on a schedule and sorts students into risk bands against the thresholds your
 school has set. It runs in the background; you pick up the results.
 
-Setting the thresholds and the schedule is a school admin job, done in CE. See
-**Set attendance risk thresholds**, **Schedule the attendance compliance checker**
-and **Upload the attendance intervention library** under **Agent setup** in the CE
-user guide. Without them the agent has nothing to measure against and nothing to
-recommend.
+Setting the thresholds and the schedule is a school admin job, done in Customer
+Engagement (CE). See **Set attendance risk thresholds**, **Schedule the attendance
+compliance checker** and **Upload the attendance intervention library** under
+**Agent setup** in the CE user guide. Without them the agent has nothing to
+measure against and nothing to recommend.
 
 1. Wait for the notification
 
