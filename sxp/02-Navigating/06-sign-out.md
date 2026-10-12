@@ -23,5 +23,7 @@ End your session — worth doing on any shared or public computer.
    Click **Sign Out** at the bottom of the menu. You're returned to the
    sign-in page.
 
+   [Sign out button highlighted in user menu](./images/sign-out-1.png)
+
    > **Note:** Signing out ends your session, so you'll sign in again next
    > time. Always sign out on shared devices.
