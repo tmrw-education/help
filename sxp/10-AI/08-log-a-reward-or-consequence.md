@@ -79,7 +79,7 @@ differences: the points are deducted from the student's tally, and **a case is
 created in CE** so the consequence can be assigned to a member of staff and
 tracked until the student's behaviour improves.
 
-![Logging a consequence and showing a point deduction](./images/log-a-reward-or-consequence-1-2.png)
+![Logging a consequence and showing a point deduction](./images/log-a-reward-or-consequence-2.png)
 
 ## Milestones and certificates
 
