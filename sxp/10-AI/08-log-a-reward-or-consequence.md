@@ -27,7 +27,7 @@ student and their parents see.
 
 1. Prompt Felix
 
-   Open **Felix** and say what you want to record — for example *log a reward for
+   Open **Felix** and say what you want to record — for example, *log a reward for
    Sophie for helping other classmates*. You can type it or use **voice input**.
 
    Giving a reason in the prompt lets Felix suggest the matching value. Without
@@ -48,6 +48,8 @@ student and their parents see.
    > Customer Engagement (CE), not by you. Your school may collect logs and send
    > postcards weekly or at a milestone rather than one at a time. See
    > **Configure agent features for behaviour management** in the CE user guide.
+
+   ![Create a reward prompt with options once the student is selected](./images/log-a-reward-or-consequence-1.png)
 
 4. Accept or change the value and points
 
@@ -77,9 +79,11 @@ differences: the points are deducted from the student's tally, and **a case is
 created in CE** so the consequence can be assigned to a member of staff and
 tracked until the student's behaviour improves.
 
+![Logging a consequence and showing a point deduction](./images/log-a-reward-or-consequence-1-2.png)
+
 ## Milestones and certificates
 
-As a student's points accumulate they pass milestones, and a certificate is issued
+As a student's points accumulate, they pass milestones, and a certificate is issued
 to the Learner Experience Platform for the student and the Parent Experience
 Platform for their parents. GEMS schools use three: **50**, **450** and **1,000**
 points. Milestones are configurable per school in CE.
