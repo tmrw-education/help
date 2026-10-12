@@ -32,10 +32,12 @@ selection step at the front.
    Felix lists the students in your class. Select the ones you want, or select all,
    then submit. Long lists are paged — use the arrows to move through them.
 
+   ![Rewards for several students prompts and feedback from Felix](./images/log-rewards-for-several-students-1.png)
+
 3. Set the value once
 
    Choose the **value** and **points**. Your selection is applied to every student
-   you picked.
+   you picked. For certain rewards, the school may assign the points.
 
 4. Adjust individuals
 
