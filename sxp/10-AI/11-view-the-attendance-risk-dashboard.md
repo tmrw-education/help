@@ -35,7 +35,7 @@ measure against and nothing to recommend.
 1. Wait for the notification
 
    When the checker has finished a run, you get a notification in StaffXP — for
-   example *you have 13 students at risk*. Click the link in it to go straight to
+   example, *you have 13 students at risk*. Click the link in it to go straight to
    the report.
 
 2. Or ask Felix
@@ -46,6 +46,8 @@ measure against and nothing to recommend.
 
    > **Note:** Say **attendance** risk. StaffXP has more than one kind of risk
    > report, and Felix asks which you meant if you leave it out.
+
+   ![Felix prompt to show the attendance risk dashboard](./images/view-the-attendance-risk-dashboard-1.png)
 
 3. Read the risk tiles
 
