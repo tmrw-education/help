@@ -40,7 +40,8 @@ Terms used across StaffXP and this guide.
 | Class Update | The round-up sent to a class's parents — last week's events, what is coming up, birthdays, assignments due and the teacher's reminders. Drafted by an agent from class data, checked against student consent, and published to the Parent Experience Platform. |
 | Cleared Classes | The table on the Emergency coordinator page listing classes fully accounted for, so attention goes to the ones still outstanding. |
 | Consent Flag | The warning a class update raises against any student whose parents have not consented to their name, birthday or photo being shared. Every flag must be resolved before the update can be published. |
-| Correction Request | A teacher's request to change an already-submitted attendance mark, logged through Felix and resolved by an attendance officer from their Correction request tab. The only way to change a locked mark. |
+| Correction Form | The form Felix opens when you ask to correct a submitted attendance mark. You choose the session, the student and the corrected mark, then submit it to an attendance officer. |
+| Correction Request | A teacher's request to change an already-submitted attendance mark, logged through Felix — it can't be raised from the canvas or the roll — and resolved by an attendance officer from their Correction request tab. The only way to change a locked mark. |
 | Custody Alert | A student alert indicating a custody order limits who may collect them. Opens the Caregivers tab so authorisation can be confirmed before release. |
 
 ## D
@@ -66,7 +67,7 @@ Terms used across StaffXP and this guide.
 | Term | Definition |
 |---|---|
 | Featured | The tab at the top of the Notices board holding starred notices. Featuring is a school leader action, applies to Active or Scheduled notices only, and has a daily cap. |
-| Felix | The in-app assistant, and the way into every AI agent. Used to open a class roll, log an attendance correction request, answer questions across the platform, and run the agents — none of which have a navigation entry point of their own. Accepts typed or voice input. |
+| Felix | The in-app assistant, and the way into every AI agent. Used to take a class roll in the chat panel, log an attendance correction request, answer questions across the platform, and run the agents — none of which have a navigation entry point of their own. Accepts typed or voice input. |
 
 ## G
 

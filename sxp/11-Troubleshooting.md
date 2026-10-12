@@ -569,6 +569,46 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 **Fix** — Check the name and student ID Felix offers before confirming. If several students match, they're all listed — pick from those. If Felix says it can't identify the student, retype the name in full rather than rephrasing the request.
 
+{/* SOURCE — the six attendance entries below come from the 9 Oct 2026 SXP Felix
+Attendance walkthrough, demonstrated in the DEV environment. They match the drafted
+pages 10-AI/14 and 10-AI/15; re-verify them on a UAT build alongside those pages. */}
+
+### Felix brought up a different class from the one I wanted to mark
+
+**Cause** — When you ask for attendance, Felix picks the class from your timetable rather than from anything you have open.
+
+**Fix** — Check the class name and time on the roll before you mark anyone. If it is the wrong class, open the right one from your **Attendance** calendar — see [Take the daily roll](./03-Attendance/02-take-attendance-roll.md).
+
+### Felix won't take attendance for a future class
+
+**Cause** — Felix takes attendance for today's classes only.
+
+**Fix** — Expected. Take the roll on the day.
+
+### Felix didn't open the correction form
+
+**Cause** — The prompt didn't say clearly that you want to correct a past mark.
+
+**Fix** — Be specific: say it's an **attendance correction** for a **past** mark and give the date — for example *I need an attendance correction for 28 September*.
+
+### I can't find a way to request a correction from the canvas
+
+**Cause** — Correction requests can only be raised through Felix. Neither the canvas nor the roll offers them.
+
+**Fix** — Expected. Open **Felix** and ask for an attendance correction.
+
+### My correction request isn't on the attendance officer's list yet
+
+**Cause** — The request takes a few minutes to sync after Felix confirms it has been submitted.
+
+**Fix** — Give it a few minutes. If Felix confirmed the submission, the request has been sent. The officer approves or denies it from their **Correction request** tab.
+
+### Felix can't produce an attendance report
+
+**Cause** — Attendance reporting through Felix isn't available yet. For attendance, Felix can take the roll, raise a correction request, and show the attendance risk dashboard.
+
+**Fix** — Use the **Attendance analytics** screen for trends and figures — see [View attendance analytics](./03-Attendance/09-view-attendance-analytics.md) — or ask Felix for the **attendance risk dashboard**.
+
 ### The attendance risk figures are out of date
 
 **Cause** — The attendance compliance checker isn't real time. It runs to a schedule set per school in Customer Engagement (CE) — daily, weekly, or at a longer interval — and shows the results of its last run.

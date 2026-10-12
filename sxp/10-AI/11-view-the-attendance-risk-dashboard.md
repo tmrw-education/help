@@ -13,7 +13,8 @@ video:
 # View the attendance risk dashboard
 
 {/* SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
-Request (0:07–14:38); 26 Aug 2026 Agent walkthrough (1:30–7:58).
+Request (0:07–14:38); 26 Aug 2026 Agent walkthrough (1:30–7:58); 9 Oct 2026 SXP
+Felix Attendance walkthrough (6:00–11:09), homeroom teacher and principal views.
 NOTE: the 26 Aug transcript began mid-session and the opening of this flow was
 lost; the 3 Sep demo restores it.
 TO RE-VERIFY BEFORE PUBLISHING: Peter noted the ad-hoc-prompt response ("your
@@ -39,8 +40,9 @@ measure against and nothing to recommend.
 
 2. Or ask Felix
 
-   You can also prompt **Felix** at any time: *show me the attendance risk
-   dashboard*, or *show me the attendance risk report*.
+   You can also prompt **Felix** at any time: *show me the attendance risk*,
+   *show me the attendance risk dashboard*, or *show me the attendance risk
+   report*.
 
    > **Note:** Say **attendance** risk. StaffXP has more than one kind of risk
    > report, and Felix asks which you meant if you leave it out.
@@ -48,7 +50,8 @@ measure against and nothing to recommend.
 3. Read the risk tiles
 
    The dashboard opens on tiles for **low**, **medium** and **high** risk, with the
-   number of students in each and the total for your scope.
+   number of students in each and the total for your scope. When you ask Felix,
+   the same counts appear in the chat panel and match what the canvas shows.
 
 4. Check when the data is from
 
@@ -62,8 +65,9 @@ measure against and nothing to recommend.
 
 5. Open the full report
 
-   Click through from a tile to the full report, listing every student in that
-   band with their attendance. From there, open a student to see their risk
+   Click a risk tile or badge to list the students in that band, or click
+   **View all** to see every student in your scope with their risk level and
+   attendance. From there, open a student to see their risk
    profile and act on it — see
    [Review a student at attendance risk](./12-review-a-student-at-risk.md).
 

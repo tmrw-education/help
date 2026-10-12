@@ -15,8 +15,8 @@ bar up top, or ask **Felix**, the in-app assistant.
 - **[Navigating the platform](./02-Navigating/01-sign-in.md)** — sign in, find
   your way around the nav bar, your MyDay home page, themes, and settings.
 - **[Attendance](./03-Attendance/01-use-attendance-page.md)** — take the daily
-  roll, view analytics, run emergency rolls, and (for leaders) the whole-school
-  view.
+  roll (on the page or through Felix), view analytics, run emergency rolls, and
+  (for leaders) the whole-school view.
 - **[Notices](./04-Notices/01-find-and-read-notices.md)** — read the noticeboard,
   follow the categories you care about, RSVP to events, and create and manage
   notices.

@@ -2,50 +2,70 @@
 draft: true
 id: take-attendance-with-felix
 summary:
-  - "TODO — step 1 (bold the **button names**)."
-  - "TODO — step 2."
-  - "TODO — step 3."
-keywords: [take attendance with Felix, take the roll by prompt, mark attendance AI, update attendance Felix, attendance correction request prompt, mark student absent Felix, mark student late Felix]
+  - "Prompt **Felix** with *show me attendance* to bring a class roll into the chat panel."
+  - "Mark each student **Present**, **Absent** or **Late** — or expand the roll to the canvas for more room."
+  - "Once every student has a status, **Submit** enables — click **Submit**."
+keywords: [take attendance with Felix, take the roll by prompt, mark attendance AI, show me attendance, Felix roll, mark student absent Felix, mark student late Felix, attendance chat panel, submit roll Felix]
 video:
   youtube:
   bunny:
 ---
 
-<!-- CONTENT REQUIRED — NO SOURCE MATERIAL HELD
-This page is provisioned so the attendance agent has a home in the AI section, but
-it cannot be written yet.
-
-Agent:   Attendance via prompt (take, update, correction request)
-Status:  P1. No coverage. Never demonstrated in any recording held by L&D.
-
-What the page needs to cover:
-  - Take attendance for a class by prompting Felix.
-  - Mark individual students absent or late while taking the roll.
-  - Update attendance that has already been submitted.
-  - Submit an attendance correction request by prompt.
-
-Why there is nothing to write from:
-  Ahmed Hussain referred on 26 Aug 2026 (6:23) to having previously been shown a
-  teacher marking whole-class attendance and excluding absent or late students, so
-  a demonstration exists — most likely in the unrecorded opening of that session,
-  where transcription started late. L&D does not hold it.
-
-To unblock:
-  Request from Peter Nguyen — either the full 26 Aug 2026 walkthrough recording,
-  or a fresh demo of the attendance agent covering all four flows above.
-  Tracked as a "recordings to request" item in the SXP Agents Content Coverage
-  Analysis (Rev 1, September 2026).
-
-Once written, cross-reference the form-based equivalents:
-  ../03-Attendance/02-take-attendance-roll.md
-  ../03-Attendance/08-request-attendance-correction.md
--->
-
 # Take attendance with Felix
 
-TODO — intro line. Awaiting a demonstration of the attendance agent; see the
-comment above for what this page must cover and how to unblock it.
+{/* SOURCE — 9 Oct 2026 SXP Felix Attendance walkthrough with Amber Do (2:20–10:26).
+Demonstrated in the DEV environment, not UAT (Amber, 25:03).
+TO RE-VERIFY BEFORE PUBLISHING:
+(1) Which class Felix brings up is changing. In the demo Felix retrieved the
+    teacher's next class, but the on-screen prompt text said to mark "a class that
+    just finished" — Amber described this as a new enhancement from SIT feedback
+    she had not seen yet. Brendan flagged the wording as confusing (3:09). Step 1
+    is written as "the class Felix brings up"; confirm on a UAT build whether it is
+    the current, next or just-finished class, and whether a teacher can name a
+    specific class in the prompt (Amber, 3:48 — not demonstrated).
+(2) The today-only rule (step 1 note) predates that enhancement (11:37). Amber was
+    not sure it still holds.
+(3) Unanswered: can a roll be updated during the lesson, for a student who
+    arrives late? Brendan asked at 4:05; no answer was given.
+(4) The label on the control that expands the roll to the canvas was not read out.
+No screenshots — the transcript holds speaker avatars only. Add to ./images/ from a
+UAT build. */}
 
-1. TODO — step title
+You can take the roll without leaving what you are doing. Ask Felix and it brings
+the class roll into the chat panel, where you mark students and submit just as you
+would on the **Attendance** page.
 
-   TODO — step detail. Bold the **exact on-screen label**.
+To take the roll from the Attendance page instead, see
+[Take the daily roll](../03-Attendance/02-take-attendance-roll.md).
+
+1. Ask Felix for the roll
+
+   Open **Felix** and prompt *show me attendance*. Felix looks up your timetable
+   and shows the roll for your class in the chat panel.
+
+   > **Note:** Check the class name and time before you start marking. Felix
+   > picks the class from your timetable, so make sure it is the one you meant.
+   > Felix takes attendance for today's classes only — ask for a future class and
+   > it tells you so.
+
+2. Mark each student
+
+   For each student, choose **Present**, **Absent** or **Late**.
+
+3. Expand to the canvas, if you want more room
+
+   Expand the roll to open it in the canvas beside the chat. The canvas shows the
+   full roll in more detail, and you can carry on marking there.
+
+4. Submit the roll
+
+   When every student has a status, **Submit** enables — click it. Submit stays
+   disabled while any student is unmarked, so a partial roll cannot be sent.
+
+5. Check the result
+
+   The submitted marks show on the roll in the canvas straight away.
+
+   > **Note:** Once submitted, the roll is locked. To change a mark, ask Felix
+   > for a correction — see
+   > [Request an attendance correction with Felix](./15-request-an-attendance-correction-with-felix.md).
