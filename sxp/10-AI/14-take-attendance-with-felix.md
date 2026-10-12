@@ -40,7 +40,7 @@ To take the roll from the Attendance page instead, see
 
 1. Ask Felix for the roll
 
-   Open **Felix** and prompt *show me attendance*. Felix looks up your timetable
+   Open **Felix** and prompt *show me attendance*, or _take attendance_. Felix looks up your timetable
    and shows the roll for your class in the chat panel.
 
    > **Note:** Check the class name and time before you start marking. Felix
@@ -52,14 +52,16 @@ To take the roll from the Attendance page instead, see
 
    For each student, choose **Present**, **Absent** or **Late**.
 
+   ![Taking attendance in the chat, Submit button disabled](./images/take-attendance-with-felix-1.png)
+
 3. Expand to the canvas, if you want more room
 
-   Expand the roll to open it in the canvas beside the chat. The canvas shows the
+   Expand the roll to open it in the canvas beside the chat. You can do this by clicking the diagonal arrows in the top right. The canvas shows the
    full roll in more detail, and you can carry on marking there.
 
 4. Submit the roll
 
-   When every student has a status, **Submit** enables — click it. Submit stays
+   When every student has a status, the **Submit** button is enabled — click it. Submit stays
    disabled while any student is unmarked, so a partial roll cannot be sent.
 
 5. Check the result
