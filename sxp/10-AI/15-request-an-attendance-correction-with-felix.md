@@ -43,6 +43,8 @@ attendance officer reviews it.
    specific. You can give the full details up front (student, class and date), or
    start with a general prompt and fill in the form.
 
+   ![Felix prompted to correct attendance](./images/request-an-attendance-correction-with-felix-1.png)
+
 2. Open the correction form
 
    Felix replies with a button to open the **correction form**. Click it.
@@ -50,7 +52,7 @@ attendance officer reviews it.
 3. Pick the date and class
 
    Select the **date**. The class list filters to the classes that ran that day —
-   pick the one you need. If that class has no students, an alert tells you so.
+   pick the one you need. If that class has no students, an alert will tell you.
 
 4. Choose the student and the corrected mark
 
@@ -61,6 +63,8 @@ attendance officer reviews it.
 
    Submit the form. Felix confirms the request has been submitted and sends it to
    an attendance officer.
+
+  ![After the attendance correction has been submitted](./images/request-an-attendance-correction-with-felix-2.png)
 
 6. Leave it with the attendance officer
 
