@@ -2,7 +2,7 @@
 id: view-the-rewards-dashboard
 summary:
   - "Prompt Felix with **show me the rewards dashboard** — *dashboard* on its own will not work."
-  - "Read your logs this term, the reward-to-consequence ratio, points issued and students recognised."
+  - "Read your logs this term: the reward-to-consequence ratio, points issued and students recognised."
   - "Act on the insight for students not recognised recently, or log from the buttons at the top."
 keywords: [rewards dashboard, rewards and consequences dashboard, behaviour dashboard, students not recognised, reward ratio, points issued, behaviour trends, Felix rewards dashboard]
 video:
@@ -28,19 +28,22 @@ against your consequences.
 
 1. Ask for the dashboard
 
-   Open **Felix** and prompt *show me the rewards dashboard*.
+   Open **Felix** and prompt *show me the rewards dashboard*. Felix will send a link to open it.
 
    > **Note:** Include the word **rewards**. *Dashboard* on its own returns
    > nothing, because StaffXP has several.
+
+   ![Rewards dashboard link](./images/view-the-rewards-dashboard-1.png)
 
 2. Read your term totals
 
    The dashboard covers:
 
-   - **Logs this term** — rewards and consequences, split out.
+   - **Rewards/Consequences logged** — rewards and consequences, split out.
    - **Reward-to-consequence ratio** — how positive your logging has been.
    - **Points issued**.
    - **Students recognised** — how many individuals, not how many logs.
+   - **Milestones reached** - if any students have reached milestones this week.
 
 3. Check the trends
 
