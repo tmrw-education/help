@@ -41,6 +41,8 @@ before it goes out.
    > becomes subject-based rather than a general round-up. Long lists are shown in
    > a scrollable, paged container.
 
+   ![Prompt in Felix with suggested class](./images/create-a-class-update-1.png) 
+
 2. Review what Felix generated
 
    For each class Felix fills in, from your class data, timetable and assignments:
@@ -60,12 +62,14 @@ before it goes out.
 
    - **Events** — anything Felix could not pull in, such as an activity you ran in class.
    - **Learning topics** — what the class covered.
-   - **Reminders** — pre-suggested from your timetable and assignments, and editable. For example *please make sure your child brings their reading book*.
+   - **Reminders** — pre-suggested from your timetable and assignments, and editable. For example, *please make sure your child brings their reading book*.
 
    The grey placeholder text disappears as soon as you start typing.
 
    > **Note:** Learning topics cannot be filled in automatically. There is no
    > teaching-programme data source to draw them from yet.
+
+   ![Class update with completed fields](./images/create-a-class-update-2.png)
 
 4. Attach photos or video
 
@@ -90,11 +94,15 @@ before it goes out.
    cannot check faces against consent records. Check your media yourself before
    publishing.
 
+   ![Class update preview](./images/create-a-class-update-3.png)
+
 6. Preview as a parent
 
    Once the flags are cleared, Felix shows the update as parents will see it in
    the Parent Experience Platform, on mobile. Move between classes to check each
    one. **Edit** takes you back to the form.
+
+   ![Class update preview as a parent](./images/create-a-class-update-4.png)
 
 7. Publish
 
