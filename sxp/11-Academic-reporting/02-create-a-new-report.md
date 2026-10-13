@@ -25,8 +25,8 @@ the academic reporting tool.
 
 1. Start a new report
 
-   When you sign in as an admin, you land on the **report settings** page. Click
-   **New report** to start a new report cycle.
+   As an admin, you have access to the **Report Setting** page. Click
+   **New Report +** to start a new report cycle.
 
    ![The report settings page with the New report button](./images/create-a-new-report-1.png)
 
@@ -38,13 +38,13 @@ the academic reporting tool.
 3. Enter the report details
 
    Select the **Academic year**, **Term** and **Template**, enter a **Report
-   name**, and select the **Year group** the report is for.
+   Name**, and select the **Year Group** the report is for.
 
    ![The Report template step with the school, academic year, term, template, report name and year group fields filled in](./images/create-a-new-report-2.png)
 
 4. Preview the template
 
-   Click preview to see how the finished report will be laid out with the
+   You can preview how the finished report will be laid out with the
    template you selected.
 
 5. Add assessment data, if the template needs it
