@@ -1,5 +1,4 @@
 ---
-draft: true
 id: request-an-attendance-correction-with-felix
 summary:
   - "Ask **Felix** for an **attendance correction**, saying it is a past mark and giving the date."
