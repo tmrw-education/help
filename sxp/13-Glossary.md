@@ -2,18 +2,22 @@
 
 Terms used across StaffXP and this guide.
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [I](#i) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Y](#y)
+[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Y](#y)
 
 ## A
 
 | Term | Definition |
 |---|---|
+| Academic Reporting Tool | The tool that produces a set of student reports for one reporting cycle. It collects grades from teachers, uses artificial intelligence (AI) to draft each student's comments, checks them through quality assurance (QA) and optional human review, and publishes the finished reports. An admin sets it up and runs it milestone by milestone. |
 | Agent | A single-purpose AI capability behind Felix. Each one handles one job — writing a notice, drafting a class update, logging a reward. You never choose an agent by name; you describe what you want and Felix passes the request to the right one. |
+| AI Recommended Changes | The table on the QA summary listing comments the QA agent has flagged for revision. The admin sends revision tasks to teachers from here — all at once or one at a time. |
 | AI Transparency Badge | The control on a student progress report listing the data sources the report was built from. |
 | Alert Icons | The row of four coloured icons over a student's photo — always Custody, Physical, Learning, Medical in that order. Full colour means the alert is active; muted means it isn't on file. Active icons open a pop-up; muted ones aren't clickable. |
 | All Activities | An Activities overview tab listing every approved activity org-wide. Only shows for activity coordinators and super admins. |
 | All Requests | The request queue coordinators and school leaders see instead of Your requests. In extra-curricular it opens pre-filtered to **Pending** as a triage queue. |
+| Apply to All Students | The button on a class's Input collection tab that copies the current input to every student in the class. Available to both the admin and the teacher. |
 | Approved Absence | A resolved absence set by an attendance officer. Locked to teachers — clicking it opens the absence's details — and skipped by bulk marking so it's never overwritten. |
+| Assessment Data | The section of report setup where an admin uploads a completed workbook for any information the report template needs entered by hand. The workbook template is downloaded from the same section. |
 | At a Glance | The landing tab of a student profile: photo, core identity details, the alert icon row, shared documents, and the alert key. |
 | Attendance Analytics | The screen holding the at-risk banner, four stat cards, the Trends charts, and the at-risk table. Needs **Attendance-analytics read** access. |
 | Attendance Compliance Checker | The agent that works through the school's attendance data on a schedule and sorts students into low, medium and high risk bands. It runs in the background and cannot be triggered on demand — staff see the results of the last run. |
@@ -21,6 +25,7 @@ Terms used across StaffXP and this guide.
 | Attendance Roll | The table listing every student in a class on one page — no pagination, so nobody is missed. Shows up to four prior sessions read-only on the left and today's editable column on the right. |
 | Attendance Threshold | The attendance percentage range that defines one risk band. Set per school by a school admin in Customer Engagement (CE), as an unbroken run of ranges from 0% upwards. Without thresholds the compliance checker has nothing to measure against. |
 | Authorised Contacts | The people cleared to collect a student, listed on the Caregivers tab with name, address and phone number. |
+| Automatic Corrections | Errors in a report comment that the QA check can fix by itself, and does. Counted by type in the bar chart on the QA summary; they don't go back to the teacher. |
 
 ## B
 
@@ -39,6 +44,9 @@ Terms used across StaffXP and this guide.
 | Class Rolls | The list on the Attendance overview from which leaders and officers open any class's roll across the school. Searchable by class or teacher, filterable by year group, with a date-range trigger for past sessions. |
 | Class Update | The round-up sent to a class's parents — last week's events, what is coming up, birthdays, assignments due and the teacher's reminders. Drafted by an agent from class data, checked against student consent, and published to the Parent Experience Platform. |
 | Cleared Classes | The table on the Emergency coordinator page listing classes fully accounted for, so attention goes to the ones still outstanding. |
+| Comment Progress | The admin page tracking teachers' review of the AI-drafted report comments, by class, year group, teacher and status. Admins and leaders can read the comments from here but can't change them. |
+| Comment Review | The teacher page listing the classes assigned to them for a report. Where teachers enter grades and then review, edit, approve and submit the AI-drafted comments for each class. |
+| Comment Revision | The teacher page listing every report comment the QA agent has sent back. Shows the errors highlighted and a suggested improvement, which the teacher edits if needed and resubmits for a QA recheck. |
 | Consent Flag | The warning a class update raises against any student whose parents have not consented to their name, birthday or photo being shared. Every flag must be resolved before the update can be published. |
 | Correction Form | The form Felix opens when you ask to correct a submitted attendance mark. You choose the session, the student and the corrected mark, then submit it to an attendance officer. |
 | Correction Request | A teacher's request to change an already-submitted attendance mark, logged through Felix — it can't be raised from the canvas or the roll — and resolved by an attendance officer from their Correction request tab. The only way to change a locked mark. |
@@ -74,12 +82,20 @@ Terms used across StaffXP and this guide.
 | Term | Definition |
 |---|---|
 | GEMS | The school group whose schools use StaffXP. Your GEMS Microsoft 365 account is the login StaffXP signs you in with. |
+| Grade Scale | The scale teachers enter student grades against during input collection. Configured per class by the admin on the Input collection tab. |
+
+## H
+
+| Term | Definition |
+|---|---|
+| Human Reviewer | An optional staff member assigned during report setup to review and edit the comments for particular classes after QA. Each subject class or roll group can have only one. A class can be reviewed once its status is **Ready for review**, and shows **Reviewed** once submitted. |
 
 ## I
 
 | Term | Definition |
 |---|---|
 | IEP | Individual education plan — the plan setting out the support and adjustments a student receives. Listed under **Shared documents** on a student's At a glance tab. |
+| Input Collection | The reporting stage where teachers enter student grades. Started by the admin from the report timeline; the admin configures what is collected but can't enter grades. |
 | Intervention Library | The school's own record of what should happen when a student falls into each attendance risk band — the signals to watch for and the actions to take. Uploaded by a school admin in Customer Engagement (CE). The compliance checker recommends only from what it holds, which is what keeps its recommendations consistent and within school policy. |
 
 ## K
@@ -104,7 +120,8 @@ Terms used across StaffXP and this guide.
 | Manage Notices | The table of notices you've created, reached from the Notices board. Seeing it means you have editing access; school leaders also see everyone's notices. |
 | Medical Alert | A student alert indicating an active medical plan — allergies, medication, or condition protocols. Points to the Medical tab and Wellbeing tab. |
 | Messages | The notifications tab holding items addressed to you that usually carry something to do — pending requests, attendance summaries, approvals, wellbeing follow-ups. Clicking one opens what it's about. |
-| Milestone | A reward-points threshold that issues a certificate to the student in the Learner Experience Platform and to their parents in the Parent Experience Platform. GEMS schools use three — 50, 450 and 1,000 points. Configured per school in Customer Engagement (CE). |
+| Milestone (Reporting) | One stage of an academic report's cycle, such as Input collection, Report ready for QA or Ready to publish. Each has a trigger date set during setup, and an **Execute** button and status on the report's Timeline. |
+| Milestone (Rewards) | A reward-points threshold that issues a certificate to the student in the Learner Experience Platform and to their parents in the Parent Experience Platform. GEMS schools use three — 50, 450 and 1,000 points. Configured per school in Customer Engagement (CE). |
 | More Info | A request status meaning an approver has sent it back with notes for you to update and resubmit. Read the notes via **View review notes** on the request row. |
 | Muster Coordinator | The live page shown to a muster-point coordinator during an emergency, covering just their own point's headcount and cleared classes. |
 | MyDay | The StaffXP home page, reached by clicking **StaffXP** at the far left of the nav bar. Tiles show today's schedule, assignments to mark, the to-do list, notices, birthdays and open wellbeing tasks. Its look shifts through the day. |
@@ -137,13 +154,27 @@ Terms used across StaffXP and this guide.
 | Postcard | The card created when a reward or consequence is logged, seen by the student in the Learner Experience Platform and by their parents in the Parent Experience Platform. Whether it goes out per log or in a batch is set per school in Customer Engagement (CE). |
 | Priority | The urgency set on a wellbeing note: Low, Medium, High or Critical. |
 | Prompt | What you type or say to Felix to start an agent. Include the word that names what you want — *dashboard* alone returns nothing, *rewards dashboard* works. |
+| Publishing Checklist | The list on the **Publishing** tab's Readiness status sub-tab of every condition a report must meet before it can be published, such as all report blocks resolved. **Publish** stays disabled until every item is met. |
 | Push Notifications | The small pop-up cards (toasts) that slide into the corner when a notification arrives. On by default. Only appear when push is on *and* Do not disturb is off. |
+
+## Q
+
+| Term | Definition |
+|---|---|
+| QA | Quality assurance — the automatic check every submitted report comment goes through against the school's QA rules. Simple errors are fixed automatically; anything else goes back to the teacher as a revision task. |
+| QA Agent | The agent that checks report comments, flags those needing revision and suggests an improvement for each. |
+| QA Summary | The admin page showing the automatic corrections chart and the AI recommended changes table for a report. |
 
 ## R
 
 | Term | Definition |
 |---|---|
+| Reassign Report | The Monitor sub-tab where an admin moves a teacher's reporting tasks to another teacher — all their classes at once, or class by class to different teachers. **View history** lists past reassignments. |
 | Replicate | The row action on an Approved request that opens a pre-filled copy as a brand-new request. Dates and times — and for extra-curricular, the whole registration window — are cleared, so fresh ones must be entered. The original is untouched. Called **Duplicate** from the All activities tab. |
+| Report Block | A hold on a student's report, for example for a financial matter. The admin emails the parent and sends reminders from the Report block sub-tab, then resolves the block once cleared. Reports can't be published while any block is open. |
+| Report Process | The second report setup step: human reviewers, report blocks, the parent email template, and publishing and notification settings. |
+| Report Template | The first report setup step: school, academic year, term, template, report name and year group, plus any assessment data and signatures. |
+| Report Timeline | The third report setup step, where each milestone gets a trigger date. Once the report is set up, the Timeline sub-tab of its Monitor tab is where the admin executes each milestone. |
 | Resource Booking | The optional second step of an activity request, covering Finance, Equipment, Transportation and Technology. Skippable entirely, but a started booking row must be finished — a category *and* a resource — or Next stays disabled. |
 | Review Notes | The notes an approver must enter when declining a request or sending it back for more info. Read by the requester via **View review notes** on the request row. |
 | Rewards and Consequences | The agent for recognising or sanctioning a student. Matches the behaviour to one of the school's values, logs the points, and creates the postcard. A consequence also opens a case in Customer Engagement (CE) so it can be assigned and tracked. |
@@ -163,6 +194,7 @@ Terms used across StaffXP and this guide.
 | Student Leave Request Approver | The agent that acts on every leave request a parent submits. Requests matching the school's auto-approval rules are approved on arrival; the rest go to the attendance officer with the reason, any attachments, any sibling request over the same dates, and a recommendation. |
 | Students at Risk | An Attendance overview tile showing a live count of students below the attendance threshold. |
 | Students Not on Roll | The button on an emergency roll used to add a student from another class who is physically with you. Shows a live count once anyone is added; the same student can't be added twice. |
+| Success Report | The Publishing sub-tab showing the publishing status of a report, where each successfully published student report can be viewed or downloaded. |
 | Supervising Activities | The Extra-curricular tab ("All ECAs") listing only Approved and Rejected activities. Approved rows offer Replicate; Rejected rows offer View review notes. |
 
 ## T

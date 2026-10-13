@@ -1,0 +1,48 @@
+---
+draft: true
+id: revise-comments-flagged-by-qa
+summary:
+  - "Click the **revision required** notification to open the **Comment revision** page."
+  - "Check the highlighted errors and the QA agent's suggested improvement, editing it if needed."
+  - "Select the revised version and submit it for a QA recheck; repeat until it passes."
+keywords: [comment revision, revision required, QA flagged comment, fix report comment, suggested improvement, QA recheck, resubmit comment, yellow AI icon, edited comment, teacher reporting]
+video:
+  youtube:
+  bunny:
+---
+
+# Revise comments flagged by QA
+
+{/* SOURCE — Academic Reporting Tool walkthrough video transcript
+(AR_Video Transcript.docx, received 13 Oct 2026).
+TO VERIFY: the transcript says the suggested improvement can be edited "for AI
+generated comments" — check whether teacher-written comments behave differently;
+the exact label of the submit-for-recheck action.
+No screenshots available — add to ./images/ from a UAT build. */}
+
+When quality assurance (QA) flags one of your comments, it comes back to you as a revision task with
+the problem highlighted and a suggested fix.
+
+1. Open the revision page
+
+   You get a **revision required** notification. Click it to open the **Comment
+   revision** page, which lists every comment waiting for you to revise.
+
+2. See what was flagged
+
+   In the **Current comment** column, the text with errors is highlighted. The
+   QA agent also offers a **suggested improvement** to correct them.
+
+   ![The Comment revision page with errors highlighted in the Current comment column and the QA agent's suggested improvement alongside](./images/revise-comments-flagged-by-qa-1.png)
+
+3. Edit the improvement, if needed
+
+   Change the suggested improvement as much as you need, such as by adding a
+   sentence or adjusting the wording. When you edit a comment, the artificial intelligence (AI) icon turns
+   **yellow** to show it's been changed by a person.
+
+4. Submit for a recheck
+
+   Select the revised version and submit it for a QA recheck. If it still has
+   errors, the result comes back straight away on the same screen. Keep revising
+   until every comment passes.

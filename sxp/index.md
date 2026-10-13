@@ -5,7 +5,7 @@ sidebar_position: 0
 # StaffXP Help
 
 StaffXP is your day-to-day hub for school life — attendance, notices, wellbeing,
-activities, and more, all in one place. Find help by topic below, use the search
+activities, reporting, and more, all in one place. Find help by topic below, use the search
 bar up top, or ask **Felix**, the in-app assistant.
 
 ![The StaffXP MyDay home page — the day's schedule, assignments to mark, to-do list, notices, and wellbeing tasks at a glance](./02-Navigating/images/myday-home-1.png)
@@ -33,9 +33,12 @@ bar up top, or ask **Felix**, the in-app assistant.
   look up student and parent information.
 - **[AI & Felix](./10-AI/01-how-felix-agents-work.md)** — what Felix can do for
   you, how to prompt it, and a page for each agent.
-- **[Troubleshooting](./11-Troubleshooting.md)** — common problems and how to
+- **[Academic reporting](./11-Academic-reporting/01-how-academic-reporting-works.md)** —
+  set up and run a report cycle, enter grades, review and revise the drafted
+  comments, and publish student reports.
+- **[Troubleshooting](./12-Troubleshooting.md)** — common problems and how to
   resolve them.
-- **[Glossary](./12-Glossary.md)** — the terms used across StaffXP.
+- **[Glossary](./13-Glossary.md)** — the terms used across StaffXP.
 
 ## New here?
 

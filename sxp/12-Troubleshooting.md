@@ -747,3 +747,71 @@ Rewrite or delete it once the SharePoint path ships. */}
 **Cause** — A published class update is saved as a PDF in Customer Engagement (CE), which most teaching staff have no licence for.
 
 **Fix** — Parents receive the update in the Parent Experience Platform as normal, so publishing has worked. A route for teachers to open their own published updates is being built — until it ships, ask a member of staff with CE access if you need a copy.
+
+## Academic reporting
+
+### Teachers haven't been told to start entering grades or reviewing comments
+
+**Cause** — Each stage of a report starts when its milestone is executed on the report's **Timeline**. Until **Input collection** or **Comment notification sent** is executed, teachers get no notification.
+
+**Fix** — Open the report's **Monitor** tab, go to **Timeline**, and execute the milestone. See [Run the report timeline](./11-Academic-reporting/06-run-the-report-timeline.md).
+
+### I can't assign a human reviewer to a class
+
+**Cause** — Each subject class or roll group can have only one human reviewer. That class or group already has one.
+
+**Fix** — Check the reviewers already added in the **Report process** step and remove or change the existing assignment if it's wrong. See [Configure the report process](./11-Academic-reporting/04-configure-the-report-process.md).
+
+### I can't change the receiving teacher when reassigning classes
+
+**Cause** — With **All classes** selected, every class goes to the one teacher you chose above the table, so the **Assign to** column is filled in and locked.
+
+**Fix** — Choose **By individual classes** instead to pick a receiving teacher for each class. See [Reassign report tasks](./11-Academic-reporting/08-reassign-report-tasks.md).
+
+### There are no actions left for a student with a report block
+
+**Cause** — The block has been resolved. Once a block is resolved, no further emails, reminders or actions are available for that student.
+
+**Fix** — Nothing to do — the student's report is no longer held back. See [Manage report blocks](./11-Academic-reporting/07-manage-report-blocks.md).
+
+### As an admin, I can't enter student grades
+
+**Cause** — Expected. Admins configure what is collected — criteria names and the grade scale — but grades are entered by the teacher.
+
+**Fix** — Set up the class on its **Input collection** tab, then leave grade entry to the teacher. See [Configure input collection](./11-Academic-reporting/09-configure-input-collection.md).
+
+### I can see report comments but can't edit them
+
+**Cause** — Admins and leaders have read-only access to the comments. Only the class's teacher, and any assigned human reviewer, can change them.
+
+**Fix** — Ask the teacher to make the change, or send it back through a revision task from the **QA summary**. See [Monitor comment progress](./11-Academic-reporting/11-monitor-comment-progress.md).
+
+### A comment changed without anyone editing it
+
+**Cause** — The quality assurance (QA) check fixes simple errors by itself. These automatic corrections don't go back to the teacher.
+
+**Fix** — Expected. The admin can see the corrections counted by type on the **QA summary**. See [Review the QA summary](./11-Academic-reporting/13-review-the-qa-summary.md).
+
+### The AI icon on a comment has turned yellow
+
+**Cause** — The comment has been edited by a person, so it no longer matches what the artificial intelligence (AI) drafted.
+
+**Fix** — Expected. Nothing to do.
+
+### My revised comment came straight back from QA
+
+**Cause** — The QA recheck still found errors in the revised version.
+
+**Fix** — Read the highlighted errors and the new suggested improvement, revise again and resubmit. The comment stays on your **Comment revision** page until it passes. See [Revise comments flagged by QA](./11-Academic-reporting/14-revise-comments-flagged-by-qa.md).
+
+### I can't open a class to review as a human reviewer
+
+**Cause** — Human review only opens once a class has been through QA and its status is **Ready for review**.
+
+**Fix** — Wait for the status to change; you get a notification when QA is complete. See [Complete a human review](./11-Academic-reporting/15-complete-a-human-review.md).
+
+### Ready to publish won't complete, or the Publish button is disabled
+
+**Cause** — At least one item on the **Publishing checklist** isn't met — often an unresolved report block.
+
+**Fix** — Go to **Publishing** > **Readiness status** > **Publishing checklist** to see which item is outstanding, resolve it, then execute **Ready to publish** again. See [Publish reports](./11-Academic-reporting/16-publish-reports.md).
