@@ -1,7 +1,7 @@
 ---
 id: review-and-decide-a-leave-request
 summary:
-  - "Requests a parent submits arrive on the **Leave Request** table and you are notified."
+  - "Requests a parent submits arrive on the **Leave Request** table, and you are notified."
   - "Open one to see the reason, any attachments, sibling requests and the **AI recommendation**."
   - "**Approve** or **Decline** with a reason — you have around 15–20 seconds to undo."
 keywords: [leave request, approve leave request, decline leave request, student leave approver, absence request parent, AI recommendation leave, sibling leave request, auto-approve leave, attendance officer leave]
@@ -41,25 +41,29 @@ arrives.
    The table lists the student, the dates and the request status. Click a row to
    open it.
 
+   ![Leave request table in StaffXp, in the Attendance tab](./images/review-and-decide-a-leave-request-1.png)
+
 3. Read the context
 
    Each request shows:
 
    - The **student**, the **dates** and the **absence reason** the parent chose.
-   - **Attachments** — for example a medical certificate.
+   - **Attachments** — for example, a medical certificate.
    - **Sibling requests** — any similar request raised for a sibling over the same dates. Bereavement and family travel usually affect more than one child, so this saves you finding them separately.
 
 4. Read the artificial intelligence (AI) recommendation
 
    The agent recommends approving or reviewing, and says why. Where your school has
    attendance thresholds configured, the recommendation is set against the
-   student's own attendance — for example that a student at 50% against a threshold
+   student's own attendance — for example, that a student at 50% against a threshold
    of 80% is a high-risk profile and the request warrants a closer look.
 
    > **Note:** The recommendation is advice, not a decision. A member of staff
    > reviews every request that is not auto-approved. If no attendance thresholds
    > are configured in Customer Engagement (CE), the agent says so and cannot
    > assess risk.
+
+   ![Leave request with AI recommendation](./images/review-and-decide-a-leave-request-2.png)
 
 5. Approve or decline
 
@@ -78,7 +82,7 @@ arrives.
 
 ## Requests you never see
 
-Your school can set some kinds of request to be approved automatically — typically
+Your school can set some kinds of requests to be approved automatically — typically
 routine reasons where no judgement is needed. Those are approved as they arrive and
 do not reach the queue. Which reasons and leave types qualify is set by a school
 admin in CE; see **Configure leave request auto-approval** under **Agent setup** in
