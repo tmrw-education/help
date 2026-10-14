@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # StaffXP Help
 
-StaffXP is your day-to-day hub for school life — attendance, notices, wellbeing,
+The **Staff Experience Place, StaffXP** is your day-to-day hub for school tasks — attendance, notices, wellbeing,
 activities, reporting, and more, all in one place. Find help by topic below, use the search
 bar up top, or ask **Felix**, the in-app assistant.
 
