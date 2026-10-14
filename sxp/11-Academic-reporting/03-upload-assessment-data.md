@@ -2,9 +2,9 @@
 draft: true
 id: upload-assessment-data
 summary:
-  - "In the **Assessment data** section of report setup, click **Download** to get the workbook template."
+  - "In the **Assessment data** section of report setup, click **Download Template** to get the workbook template."
   - "Fill in every sheet, following the instructions in the workbook."
-  - "Click **Choose file** to upload it, preview the data to check it, then click **Close**."
+  - "Click **Choose file** to upload the completed workbook, preview the data to check it, then click **Close**."
 keywords: [assessment data, workbook, workbook template, download workbook, upload workbook, choose file, manual input, report data, preview uploaded data, academic reporting]
 video:
   youtube:
@@ -43,7 +43,7 @@ the **Assessment data** section of the **Report template** step — see
 
 4. Check the uploaded data
 
-   Once the file uploads, preview the information it contains and check it came
+   Once the file uploads, preview the information it contains and check that it came
    through correctly. Click **Close** to return to the setup page.
 
    ![The preview of an uploaded assessment data workbook, with the Close button](./images/upload-assessment-data-2.png)
