@@ -2,7 +2,7 @@
 draft: true
 id: set-the-report-timeline
 summary:
-  - "In **Report timeline**, set a trigger date for each milestone in the reporting cycle."
+  - "In **Report Timeline**, set a trigger date for each milestone in the reporting cycle."
   - "Keep the milestones in the required order; some can overlap."
   - "Click **Confirm** to finish the report setup."
 keywords: [report timeline, milestones, milestone dates, trigger date, reporting schedule, confirm report setup, milestone sequence, academic reporting setup]
@@ -34,7 +34,7 @@ full list.
 2. Check the sequence
 
    Make sure the milestones follow the required order. Some can overlap,
-   depending on your workflow.
+   depending on your workflow. The system will notify you if any dates are too early. For example, if the dates were set before the report configuration is completed.
 
 3. Confirm the setup
 
