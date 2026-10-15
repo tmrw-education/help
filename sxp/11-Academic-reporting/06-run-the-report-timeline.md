@@ -23,14 +23,14 @@ demo the admin executes every milestone by hand, but the transcript also says
 confirm which milestones run on their own at the trigger date.
 No screenshots available — add to ./images/ from a UAT build. */}
 
-Once a report is set up, you run it from its **Monitor** tab. The **Timeline**
+Once a report cycle is set up, you track it in the **Monitor Progress** tab. The **Timeline**
 lists every milestone that has to be completed before the report can be
 published.
 
 1. Open the report
 
-   In the report list, click the report to open its details, then go to the
-   **Monitor** tab. Its sub-tabs cover each part of the cycle — the timeline,
+   In the report list, click the report title to open its details, then go to the
+   **Monitor Progress** tab. It lists each part of the cycle — the timeline,
    report blocks, reassignment, comment progress and quality assurance (QA).
 
 2. Read the timeline
@@ -62,5 +62,5 @@ published.
 5. Re-execute a milestone that didn't complete
 
    If a milestone stays incomplete because a condition isn't met, fix the
-   underlying issue and execute it again. **Ready to publish**, for example, stays
-   incomplete until every report block is resolved.
+   underlying issue and execute it again. **Reports ready to publish**, for example, stays
+   incomplete until every blocker is resolved.
