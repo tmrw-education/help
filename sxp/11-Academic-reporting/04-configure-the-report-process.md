@@ -32,7 +32,7 @@ and where the finished report goes.
    the **subject class**. Click **Add** to confirm.
 
    Each subject class or roll group can have only one human reviewer. Once one is
-   assigned, it can't be assigned to anyone else.
+   assigned, you can't assign it to anyone else.
 
    ![The human reviewer fields in the Report process step — staff member, year group, roll group, course and subject class — with the Add button](./images/configure-the-report-process-1.png)
 
@@ -44,7 +44,7 @@ and where the finished report goes.
 
 3. Review the parent email template
 
-   Check the email template that will be sent to parents.
+   Click **View & edit email sent** to check the email template that will be sent to parents.
 
 4. Set publishing and notifications
 
