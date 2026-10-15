@@ -20,24 +20,24 @@ transcript says "apply the current student's values to all students in the
 class", which reads oddly for master-data settings.
 No screenshots available — add to ./images/ from a UAT build. */}
 
-**Input collection** is the stage where teachers enter grades for their
-students. As the admin you start it and set up what is collected; you can't
+**Teacher input collection** is the stage where teachers enter grades for their
+students. As the admin, you start it and set up what is collected; you can't
 enter grades yourself.
 
 1. Start input collection
 
-   On the report's **Timeline**, execute the **Input collection** milestone.
+   On the report's **Timeline**, execute the **Teacher input collection** milestone.
    Teachers are notified that they can start entering information, and you get a
    notification when the milestone completes.
 
 2. Open a class
 
-   Open a class in the report and go to its **Input collection** tab. The
-   left-hand panel lists the types of data that need input.
+   Open a class in the **Comments Review** tab. In the dropdown, **Select Report**. From here, you can open a class to track its comment review progress. Select the **Teacher input collection** tab, and the
+   left-hand panel lists the data types that need input.
 
 3. Edit the master data
 
-   Configure or edit the master data items for the class — for example, a
+   Configure or edit the master data items for the class, if needed. For example, a
    **criteria name** or the **grade scale**. Click **Save** to keep your changes.
 
    ![A class's Input collection tab on the admin side, with the data types in the left-hand panel and the criteria and grade scale settings](./images/configure-input-collection-1.png)
