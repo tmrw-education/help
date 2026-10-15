@@ -38,7 +38,7 @@ full list.
 
    > **Note**: The system will notify you if any dates are set too early.
 
-   ![Error message showing a date set too early](./images/set-the-report-timeline-1.png)
+   ![Error message showing a date set too early](./images/set-the-report-timeline-2.png)
 
 4. Confirm the setup
 
