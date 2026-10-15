@@ -34,9 +34,13 @@ full list.
 2. Check the sequence
 
    Make sure the milestones follow the required order. Some can overlap,
-   depending on your workflow. The system will notify you if any dates are too early. For example, if the dates were set before the report configuration is completed.
+   depending on your workflow.
 
-3. Confirm the setup
+   > **Note**: The system will notify you if any dates are set too early.
+
+   ![Error message showing a date set too early](./images/set-the-report-timeline-1.png)
+
+4. Confirm the setup
 
    When every date is set, click **Confirm**. The report appears in the report
    list, ready to run — see
