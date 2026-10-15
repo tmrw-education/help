@@ -28,28 +28,28 @@ published.
 
 1. Collect the blocked students
 
-   On the report's **Timeline**, execute the **Block email sent** milestone. It
-   gathers every student who has a report block. When it completes you get a
-   notification; click it to open the **Report block** sub-tab.
+   On the report's **Timeline**, execute the **Block emails sent** milestone. It
+   gathers every student who has a report block. When it completes, you get a
+   notification; click it to open the **Report Block Progress** sub-tab.
 
 2. Send the first email
 
    The sub-tab lists every student with a report block. Select a student to see
    the actions available, then click **Send** to email the student's parent. The
    status changes to **Email sent**, and a **Send** button appears in the
-   **Reminder** column.
+   **Reminder action** column.
 
    ![The Report block sub-tab with a student's status at Email sent and a Send button in the Reminder column](./images/manage-report-blocks-1.png)
 
 3. Send reminders
 
-   Click **Send** in the **Reminder** column whenever a reminder is needed. Hover
+   Click **Send** in the **Reminder action** column whenever a reminder is needed. Hover
    over the status to see the date of the latest action.
 
 4. Resolve the block
 
-   Once the issue is cleared, select the student and take the action to resolve
-   the block. After that, no further action is available for that student.
+   Once the issue is cleared, select the student and click **Resolve Block** on the top right of the table to clear
+   the block. After that, no further action is available for that student. The **Status** will update to **Block resolved**.
 
    > **Note:** Resolving a block can't be undone from this screen. Resolve it only
    > once the matter is actually cleared.
