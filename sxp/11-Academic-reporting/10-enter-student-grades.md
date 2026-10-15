@@ -23,15 +23,15 @@ When your school's admin opens input collection for a report, you enter the
 grades for each class you've been assigned. The grade scale and criteria are set
 by the admin — see [Configure input collection](./09-configure-input-collection.md).
 
-1. Open the report from your notification
+1. Open the report from your notification or go to the Comments Review tab
 
    You get a notification when a class is assigned to you and another asking you
-   to start input. Click it to open the **Comment review** page, which lists the
-   classes assigned to you for that report.
+   to start input. Click it to open the **Comments Review** page, which lists the
+   classes assigned to you for that report. Optionally, you can access your classes directly from the **Comments Review** tab.
 
 2. Open a class
 
-   Open a class and go to its **Input collection** tab. You'll see the criteria
+   Open a class and go to its **Input Collection** tab. You'll see the criteria
    and grade scale the admin has configured.
 
 3. Enter the grades
