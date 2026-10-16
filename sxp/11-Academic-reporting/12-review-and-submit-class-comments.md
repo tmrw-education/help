@@ -19,13 +19,13 @@ TO VERIFY: the exact approve control; whether a submitted class can be reopened
 by the teacher.
 No screenshots available — add to ./images/ from a UAT build. */}
 
-Artificial intelligence (AI) drafts a comment for each of your students. You check each one, change
+Artificial intelligence (AI) drafts a comment for each student. You check each one, change
 anything that needs it, and approve it before submitting the class.
 
 1. Open the report from your notification
 
    When the comments are ready, you get a notification. Click it to open the
-   **Comment review** page for that report.
+   **Comments Review** page for that report.
 
 2. Open a class
 
@@ -33,20 +33,20 @@ anything that needs it, and approve it before submitting the class.
 
 3. Review and approve each comment
 
-   Read each comment and make any changes it needs, then approve it.
+   Read each comment, make any needed changes, then approve it.
 
    ![A class open on the Comment review page, with each student's AI-drafted comment ready to edit and approve](./images/review-and-submit-class-comments-1.png)
 
-4. Preview the draft report, for homeroom classes
+4. Preview the draft report for homeroom classes
 
-   For a homeroom class you'll also see an **eye** icon beside each student.
+   For a homeroom class, you'll also see an **eye** icon beside each student.
    Click it to preview the student's draft report.
 
    ![A student's draft report opened from the eye icon on a homeroom class](./images/review-and-submit-class-comments-2.png)
 
 5. Submit the class
 
-   Once every comment is reviewed, click **Submit**. The class shows as
+   Once every comment is reviewed, click **Submit**. The submit button is enabled when all the comments are approved. The class shows as
    **Completed** on the admin's progress view. Carry on with any other classes
    still waiting for you.
 
