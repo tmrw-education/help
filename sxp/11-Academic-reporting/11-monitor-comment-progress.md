@@ -45,7 +45,7 @@ and leaders can read the comments but can't change them.
 
 4. Tell teachers to start reviewing
 
-   Execute the **Comment notifications sent - Subject** milestone. Teachers are notified
+   Execute the **Comment notifications sent** milestones (all). Teachers are notified
    that their class comments are ready to review, and leaders are notified that
    the comment review phase has started.
 
