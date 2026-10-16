@@ -2,7 +2,7 @@
 draft: true
 id: review-the-qa-summary
 summary:
-  - "Execute **Report ready for QA**, then **QA report ready**, to run QA on the submitted comments."
+  - "Execute **Reports ready for QA**, then **QA report ready**, to run QA on the submitted comments."
   - "On **QA summary**, the bar chart counts automatic corrections and the **AI recommended changes** table lists comments needing revision."
   - "Send revision tasks to all teachers at once or one at a time, and track them in the table."
 keywords: [QA summary, QA check, report QA, automatic corrections, AI recommended changes, revision task, send revision, QA agent, QA rules, comment quality, QA remediation, academic reporting admin]
@@ -26,19 +26,19 @@ back to the teacher as a revision task.
 
 1. Start QA
 
-   On the report's **Timeline**, execute **Report ready for QA**. This starts the
+   On the report's **Timeline**, execute **Reports ready for QA**. This starts the
    QA check on the comments teachers have reviewed and submitted. When it's done,
    execute **QA report ready**.
 
 2. Open the QA summary
 
    When the QA milestones have updated, you get a notification. Click it to open
-   **QA summary**.
+   **QA summary** or navigate to the **QA Summary** sub-tab.
 
 3. Read the automatic corrections
 
-   The bar chart counts the **automatic corrections** by type. These are errors
-   the system could fix by itself, and it already has.
+   The bar chart counts the **Auto corrections by type**. These are errors
+   the system could fix, and already has.
 
 4. Review the recommended changes
 
@@ -62,4 +62,4 @@ back to the teacher as a revision task.
 
    The **QA remediation completion** milestone checks whether any comments still
    need revising. Once none do, it completes, and you and any human reviewers are
-   notified. Click the notification to see the QA insights for the report.
+   notified. Click the notification to view the report's QA insights.
