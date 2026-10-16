@@ -20,7 +20,7 @@ TO VERIFY: the status values shown on Comment progress; which role counts as a
 No screenshots available — add to ./images/ from a UAT build. */}
 
 Once grades are in, artificial intelligence (AI) drafts a comment for every student. You then follow
-teachers' review of those comments from the **Comment progress** page. Admins
+teachers' review of those comments from the **Comment Progress** sub-tab, under the **Monitor Progress** tab. Admins
 and leaders can read the comments but can't change them.
 
 1. Generate the comments
@@ -31,8 +31,8 @@ and leaders can read the comments but can't change them.
 
 2. Open comment progress
 
-   Click the notification to open **Comment progress**. Track the review by
-   **class**, **year group**, **teacher** and **status**.
+   Click the notification to open **Comment Progress**. Track the review by
+   **Class**, **Year Group**, **Teacher** and **Status**.
 
    ![The Comment progress page showing review progress by class, year group, teacher and status](./images/monitor-comment-progress-1.png)
 
@@ -45,17 +45,17 @@ and leaders can read the comments but can't change them.
 
 4. Tell teachers to start reviewing
 
-   Execute the **Comment notification sent** milestone. Teachers are notified
+   Execute the **Comment notifications sent - Subject** milestone. Teachers are notified
    that their class comments are ready to review, and leaders are notified that
    the comment review phase has started.
 
 5. Track teachers' progress
 
-   As each teacher submits a class, its status on **Comment progress** changes to
+   As each teacher submits a class, its status on **Comment Progress** changes to
    **Completed**.
 
 ## What leaders see
 
 Leaders get a notification when the comment review phase starts. They can open a
-class's detail and read the generated comments, but, like the admin, can't edit
+class's details and read the generated comments, but, like the admin, can't edit
 or approve them.
