@@ -4,7 +4,7 @@ summary:
   - "In **Learning reports**, set **People** and the filters."
   - "Click **Export detail** for one row per person and course, or **Export summary** for the totals."
   - "Large reports are prepared in the background and appear under **Exports** to download."
-  - "Learning managers and report viewers can't export."
+  - "Learning managers and report viewers export the learning of the organisations they're given."
 keywords: [export report, download report, report csv, report to excel, compliance export, export detail, export summary]
 video:
   youtube:
@@ -13,9 +13,9 @@ video:
 
 # Export a learning report
 
-You can download a learning report as a CSV file. You need the **Line manager**, **HR manager** or **Organisation
-administrator** role. Learning managers and report viewers can read reports but can't export them, so they don't see
-the export buttons.
+You can download a learning report as a CSV file. You need the **Line manager**, **Learning manager**, **Report
+viewer**, **HR manager** or **Organisation administrator** role. Learning managers and report viewers export the learning
+of the organisations they're given, and of their child units only if their access includes them.
 
 1. Set up the report
 

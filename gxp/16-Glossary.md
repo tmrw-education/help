@@ -91,7 +91,7 @@ Terms used across Growth Experience Platform and this guide.
 |---|---|
 | Learner | Everyone who signs in. Learners take courses, give feedback, and see their own learning, certificates and calendar. |
 | Learning assignment | See *Assignment*. **Learning assignments** is also the **Manage** page that lists who has which learning. |
-| Learning manager | A role for people who add people to organisations, assign and remove learning, and follow progress and reports for the units they're given. Can't export. |
+| Learning manager | A role for people who add people to organisations, assign and remove learning, and follow and export progress and reports for the units they're given. |
 | Learning pathway | An ordered set of courses, sometimes with prerequisites, that learners follow towards a goal. |
 | Learning rule | A rule that assigns courses automatically, as mandatory or recommended, to everyone who matches conditions such as organisation, staff category or length of service. Rules re-check people when their details change. |
 | Legal entity | A company or school in your HR system. Imported from HR and linked to a unit in the organisation structure, so people are placed in the right unit. |
@@ -137,7 +137,7 @@ Terms used across Growth Experience Platform and this guide.
 | Recommended | Learning a person is encouraged to complete. It's never overdue and isn't escalated, and it only has a due date if one is set. |
 | Recorded in HR | A completion imported from your HR system for learning completed outside the platform. It counts as completed, but there's no certificate or evidence in the platform. |
 | Renewal | Assigning learning again before its completion expires, as the next cycle. The renewal is assigned a set number of days before expiry (the renewal lead time) and is due on the expiry date. |
-| Report viewer | A role for people who see learning progress, reports and the deadlines calendar for the units they're given, without changing anything or exporting. |
+| Report viewer | A role for people who see and export learning progress and reports, and see the deadlines calendar, for the units they're given, without changing anything. |
 | Review limit | The share of HR-linked people (5% by default) or number of people (200 by default) above which a user sync stops for review before disabling anyone. |
 | Roles explained | The tab on **Access and permissions** that shows what each role can do, built from the permissions the platform enforces. |
 

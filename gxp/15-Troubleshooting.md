@@ -75,9 +75,9 @@ Common problems in Growth Experience Platform and how to resolve them. Use the c
 
 ### I can't change a due date or export a report
 
-**Cause** — Changing due dates is for HR managers and organisation administrators. Learning managers and report viewers can't export reports.
+**Cause** — Changing due dates is for HR managers and organisation administrators. Learning managers and report viewers can export reports, but only for the organisations they're given, so the export buttons don't appear for other organisations.
 
-**Fix** — Ask an HR manager or administrator. See [Understand the roles](./12-Access-and-permissions/01-understand-the-roles.md).
+**Fix** — For a due date, ask an HR manager or administrator. For an export, choose one of your own organisations under **People**, or ask an administrator to check where your role applies. See [Understand the roles](./12-Access-and-permissions/01-understand-the-roles.md).
 
 ---
 

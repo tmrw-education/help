@@ -22,8 +22,8 @@ can change there.
    |---|---|---|---|
    | **Learner** | Everyone who signs in | Take courses, give feedback, and see their own learning, certificates and calendar | Their own records |
    | **Line manager** | Anyone with people reporting to them | See their team's learning in **My team**, the team's deadlines and learning reports, and export them | Their direct reports and everyone below them |
-   | **Learning manager** | Given on Access and permissions | Add people to organisations, assign and remove learning, follow progress and reports. They can't export | The units they're given |
-   | **Report viewer** | Given on Access and permissions | See learning progress, reports and the deadlines calendar without changing anything or exporting | The units they're given |
+   | **Learning manager** | Given on Access and permissions | Add people to organisations, assign and remove learning, and follow and export progress and reports | The units they're given |
+   | **Report viewer** | Given on Access and permissions | See and export learning progress and reports, and see the deadlines calendar, without changing anything | The units they're given |
    | **Course manager** | Given on Access and permissions | Create, edit and publish courses, channels, learning pathways and certificate templates, and choose who can see each course | Whole organisation |
    | **HR manager** | Given on Access and permissions | Assign learning to anyone, change due dates, manage learning rules, and run and export learning reports | Whole organisation |
    | **Organisation administrator** | Given on Access and permissions | Everything, including **Access and permissions**, **People**, **Notifications**, **Settings**, the HR integration, **Organisation structure** and the **Audit log** | Whole organisation |
