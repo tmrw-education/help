@@ -4,7 +4,7 @@ summary:
   - "Open **Manage** ▸ **Certificates** ▸ **Awarded certificates**."
   - "Search by learner or certificate number, and filter by **Source**."
   - "Click **Open certificate page** to see a certificate, or **Check certificates** to issue any that are missing."
-  - "Organisation administrators can **Revoke** a certificate."
+  - "Click **Revoke**, then **Revoke certificate**, to take a certificate away."
 keywords: [awarded certificates, issued certificates, certificate list, check certificates, missing certificate, revoke certificate, certificate number]
 video:
   youtube:
@@ -14,7 +14,7 @@ video:
 # View awarded certificates
 
 The **Awarded certificates** tab lists every certificate learners have received. You need the **Course manager** or
-**Organisation administrator** role. Only organisation administrators can revoke certificates.
+**Organisation administrator** role.
 
 1. Open Awarded certificates
 
@@ -40,6 +40,6 @@ The **Awarded certificates** tab lists every certificate learners have received.
 
 5. Revoke a certificate
 
-   Organisation administrators can click **Revoke**, then **Revoke certificate**.
+   Click **Revoke** on the certificate's row, then **Revoke certificate**.
 
    > **Note:** The learner loses the certificate and can no longer download it. You can't undo this.

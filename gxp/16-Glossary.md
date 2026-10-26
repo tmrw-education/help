@@ -35,7 +35,7 @@ Terms used across Growth Experience Platform and this guide.
 | Channel | A collection of courses on a theme, such as Compliance, that learners browse in **Courses**. |
 | Classification | Whether an assignment is **Mandatory** or **Recommended**. Classification belongs to the assignment or the learning rule, not the course, so the same course can be mandatory for some people and recommended for others. Older learning saved before classification existed shows **Not set**. |
 | Completion source | Whether a completion was recorded in the platform or in HR. Exports show it as **LMS** or **HR record**. |
-| Course manager | A role for people who create, edit and publish courses, channels, learning pathways and certificate templates, and choose who can see each course. Covers the whole organisation. |
+| Course manager | A role for people who create, edit and publish courses, channels, learning pathways and certificate templates, choose who can see each course, and revoke awarded certificates. Covers the whole organisation. |
 | Cycle | One round of a piece of learning that must be renewed. When a completion is about to expire, the next cycle is assigned, with its own due date. Earlier cycles stay in the person's training history. |
 
 ## D
