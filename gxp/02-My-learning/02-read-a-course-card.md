@@ -18,6 +18,7 @@ Each card in **My courses** sums up where you are with one course.
 
    The first tag is the status: **Not started**, **In progress** or **Completed**. Other tags can follow:
 
+   - **Overdue**, in red: mandatory learning that's past its due date.
    - **Mandatory** or **Recommended**: how the learning was given to you (hidden once completed).
    - **Renewal 1**, **Renewal 2** and so on: you're on a renewal of learning you completed before.
    - **Self-enrolled**: you enrolled in it yourself.
@@ -44,9 +45,11 @@ Each card in **My courses** sums up where you are with one course.
 4. What clicking does
 
    The last line says what happens when you click the card: **Start course**, **Continue learning**, **Review course**,
-   **Submit feedback**, or **Not available** if the course can't be opened at the moment.
+   or **Not available** if the course can't be opened at the moment. Clicking the card opens the course, even while you
+   owe feedback on it.
 
 5. Buttons under the card
 
-   **Training history** appears once you've completed the course or have earlier cycles of it. **Withdraw** appears on a
-   course you enrolled in yourself and haven't started.
+   **Give feedback** appears while you owe feedback on the course, and opens the feedback form. **Training history**
+   appears once you've completed the course or have earlier cycles of it. **Withdraw** appears on a course you enrolled
+   in yourself and haven't started.

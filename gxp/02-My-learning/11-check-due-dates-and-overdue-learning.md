@@ -2,7 +2,7 @@
 id: gxp-check-due-dates-and-overdue-learning
 summary:
   - "Each card in **My courses** shows **Due** and a date until you complete it."
-  - "Overdue mandatory learning sorts to the top and appears as **Overdue** in the bell and **Calendar**."
+  - "Overdue mandatory learning sorts to the top with a red **Overdue** tag, and shows as **Overdue** in the bell and **Calendar**."
   - "Only an HR manager or administrator can change a due date."
 keywords: [due date, deadline, overdue, late, missed deadline, when is it due, due soon, extend deadline, change due date, grace period, reminders]
 video:
@@ -21,8 +21,9 @@ video:
 
 2. Spot overdue learning
 
-   Mandatory learning that's past its due date moves to the top of **My courses**. It shows as **Overdue** in the
-   **Notifications** bell and on your **Calendar**. Learning due in the next seven days shows as **Due soon** in the bell.
+   Mandatory learning that's past its due date moves to the top of **My courses** with a red **Overdue** tag on its card.
+   It also shows as **Overdue** in the **Notifications** bell and on your **Calendar**. Learning due in the next seven
+   days shows as **Due soon** in the bell.
 
 3. Know where the date came from
 

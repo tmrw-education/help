@@ -1,7 +1,7 @@
 ---
 id: gxp-browse-the-course-catalogue
 summary:
-  - "Click **Courses** to browse every course offered to you."
+  - "Click **Courses** to browse every published course offered to you."
   - "Use the channel tabs, such as **Compliance**, or **All courses**."
   - "Search by title, description or tag, then click a card to see its details."
 keywords: [catalogue, catalog, course catalogue, browse courses, find a course, channels, all courses, search courses, available courses, open to enrol, what courses are there]
@@ -30,12 +30,13 @@ video:
 
 4. Check the card
 
-   Each card shows the course's length and when it was added. **Open to enrol** means you can enrol in it yourself;
-   **Self-enrolled** means you already have.
+   Each card shows the course's length and when it was added, and where you stand with it: **Assigned to you** means
+   it's been given to you, **Self-enrolled** means you enrolled in it yourself, and **Open to enrol** means you can enrol
+   in it yourself.
 
 5. Open the course
 
    Click a card (**View course**) to open its details, where you can enrol or launch it.
 
-You only see courses offered to you, which can depend on your school or organisation. Some courses appear only once
-they've been assigned to you.
+You only see published courses offered to you, which can depend on your school or organisation. Some courses appear
+only once they've been assigned to you.

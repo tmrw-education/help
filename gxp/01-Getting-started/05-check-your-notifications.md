@@ -23,7 +23,8 @@ The bell in the header gathers the things you need to act on in your learning.
 
 2. Read the items
 
-   - **Overdue**: a course you haven't finished was due on the date shown.
+   - **Overdue**: mandatory learning you haven't finished was due on the date shown. Recommended learning is never
+     overdue.
    - **Due soon**: a course is due within the next seven days.
    - **Feedback required**: submit feedback on a course you've finished to receive its certificate.
    - **Feedback needed**: share your feedback on a course you've finished.

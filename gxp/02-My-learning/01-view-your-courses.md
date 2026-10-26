@@ -34,13 +34,14 @@ the catalogue, with your progress.
 
 4. Work from the top
 
-   Courses are ordered for you: overdue mandatory learning first, then courses with a due date (soonest first), then
-   courses in progress, then ones you haven't started. Completed courses go to the end.
+   Courses are ordered for you: overdue mandatory learning first, tagged **Overdue**, then courses with a due date
+   (soonest first), then courses in progress, then ones you haven't started. Completed courses go to the end.
 
 5. Open a course
 
    Click a card to open the course's details, where you can launch it. The words at the bottom of the card tell you what
-   happens next: **Start course**, **Continue learning**, **Review course** or **Submit feedback**.
+   happens next: **Start course**, **Continue learning** or **Review course**. If you owe feedback on a course, click
+   **Give feedback** under its card.
 
 A course you open from **Courses** appears here even if nobody assigned it to you. Courses given to a group you belong to
 appear here too.
