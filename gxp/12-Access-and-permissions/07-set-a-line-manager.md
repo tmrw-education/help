@@ -26,8 +26,9 @@ You need the **Organisation administrator** role, or the **Learning manager** ro
 
    In the **Employment** section, click **Edit employment details**.
 
-   If the form says **Line manager maintained by your HR integration**, the manager comes from HR and updates with each
-   HR sync. Change it in HR instead.
+   If the section says **Maintained by your HR integration** and there's no **Edit employment details** button, the
+   person's employment details and manager come from HR. If the form says **Line manager maintained by your HR
+   integration**, the manager comes from HR and updates with each HR sync. Either way, change it in HR instead.
 
 3. Choose the manager
 

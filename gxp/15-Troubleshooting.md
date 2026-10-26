@@ -97,7 +97,7 @@ Common problems in Growth Experience Platform and how to resolve them. Use the c
 
 ### I can't change someone's line manager
 
-**Cause** — The form says **Line manager maintained by your HR integration**. The manager comes from HR and updates with each sync.
+**Cause** — The person's **Employment** section says **Maintained by your HR integration** and has no **Edit employment details**, or the form says **Line manager maintained by your HR integration**. The manager comes from HR and updates with each sync.
 
 **Fix** — Change the manager in HR. It's updated at the next HR sync.
 

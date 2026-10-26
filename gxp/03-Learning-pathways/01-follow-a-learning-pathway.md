@@ -25,7 +25,7 @@ A learning pathway sets courses in an order, in steps, leading to a certificatio
 
    Click the pathway's card. It opens to show the steps, and moves to the top of the page. Click it again to close it.
 
-   ![The New starter induction pathway open, showing Next up, the key and the steps](./images/gxp-follow-a-learning-pathway-1.png)
+   ![The New starter induction pathway open, showing the course to continue, the key and the steps](./images/gxp-follow-a-learning-pathway-1.png)
 
 3. Pick the next course
 

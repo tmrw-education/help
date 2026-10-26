@@ -22,7 +22,7 @@ video:
    A new tab opens with the certificate and your browser's print dialog. Choose your printer and print, or choose
    **Save as PDF** as the destination to keep a PDF copy.
 
-   ![The browser print dialog over a GXP certificate](./images/gxp-print-a-certificate-1.png)
+   ![The certificate open in its own tab, ready to print](./images/gxp-print-a-certificate-1.png)
 
 If nothing happens when you click **Print**, your browser has probably blocked the new tab. Allow pop-ups for GXP and try
 again.

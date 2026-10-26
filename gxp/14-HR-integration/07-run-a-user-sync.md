@@ -40,7 +40,7 @@ You need the **Organisation administrator** role.
 
    A run only lists the steps it uses. You can leave the page; the sync carries on.
 
-   ![A user sync in progress at Step 1 of 6: Read from HR, with counts for each HR table](./images/gxp-run-a-user-sync-1.png)
+   ![A user sync's progress bar and step list, with the count for each step](./images/gxp-run-a-user-sync-1.png)
 
 3. Pause, resume or cancel if you need to
 

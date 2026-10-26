@@ -23,7 +23,7 @@ Some learning, such as first aid or safeguarding, is only valid for a set time a
    - **Expired** and a date: it has expired.
    - **No expiry**: it never needs renewing.
 
-   ![A completed First aid at work card showing Valid until and the expiry date](./images/gxp-check-when-your-learning-expires-1.png)
+   ![A completed First aid at work card showing its completion date and Expires with the date it expires](./images/gxp-check-when-your-learning-expires-1.png)
 
 2. See expiry dates in your calendar
 
