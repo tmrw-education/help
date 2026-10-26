@@ -14,7 +14,7 @@ topic below, or use the search bar at the top.
 
 - **[Getting started](./01-Getting-started/01-what-is-gxp.md)**: what GXP is, signing in, finding your way around,
   notifications, the emails you receive, themes and signing out.
-- **[My learning](./02-My-learning/01-view-your-courses.md)**: your courses, the catalogue, enrolling, launching and
+- **[My courses](./02-My-learning/01-view-your-courses.md)**: your courses, the catalogue, enrolling, launching and
   completing courses, feedback, due dates, expiry and renewal.
 - **[Learning pathways](./03-Learning-pathways/01-follow-a-learning-pathway.md)**: follow courses in order towards a
   certification.

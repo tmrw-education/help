@@ -3,7 +3,7 @@ id: gxp-allow-self-enrolment
 summary:
   - "In **Edit details**, turn on **Allow self-enrolment**."
   - "Learners in the course audience can then enrol themselves from the catalogue."
-  - "Their enrolment is recommended learning and appears in My learning."
+  - "Their enrolment is recommended learning and appears in **My courses**."
 keywords: [self enrolment, self-enrol, let learners enrol, enrol yourself, optional course, catalogue enrolment]
 video:
   youtube:
@@ -22,8 +22,8 @@ You can let learners add a course to their own learning from the catalogue. You 
 2. Turn on self-enrolment
 
    Turn on **Allow self-enrolment**. Learners in the course audience can then enrol themselves from the catalogue, and
-   the course appears in their My learning as recommended learning. With it off, learners can still open the course from
-   the catalogue, but only an assignment adds it to My learning.
+   the course appears in their **My courses** as recommended learning. With it off, learners can still open the course
+   from the catalogue, but only an assignment adds it to **My courses**.
 
    ![The Allow self-enrolment switch turned on, with its explanation](./images/gxp-allow-self-enrolment-1.png)
 

@@ -25,7 +25,7 @@ for anyone who assigns or reports on learning.
 
 2. Know what recommended means
 
-   **Recommended** learning is suggested and shows in the person's My learning. It's never overdue, and its due date is
+   **Recommended** learning is suggested and shows in the person's **My courses**. It's never overdue, and its due date is
    optional. Courses people enrol themselves in are recommended.
 
 3. Know what "Not set" means
