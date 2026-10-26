@@ -25,6 +25,6 @@ administrator** role.
 
    ![The Delete course confirmation naming the course](./images/gxp-delete-a-course-1.png)
 
-   > **Note:** Deleting can't be undone from the Courses page. Learners can no longer open the course, but their
+   > **Note:** Deleting can't be undone. Learners can no longer open the course, but their
    > records, completions and certificates are kept. To hide a course without deleting it, use **Move to draft** or set
    > an **Expiry date** instead.
