@@ -476,8 +476,10 @@ top of **Deploy to GitHub Pages**:
 **Other things you might need**
 
 - **Take a page down:** add `draft: true` to its front matter (§10). Don't delete it.
-- **Move or rename a file:** its web address changes. Update the links that point
-  to it; the build lists any you miss.
+- **Move or rename a published page** (its file, folder or `id`): its web address
+  changes. Update the links that point to it (the build lists any you miss), and tell
+  the site owners the old and new address so they add a redirect: people's saved
+  links then still work.
 - **Republish without a change** (for example after the site owners change the
   site): **Actions** ▸ **Deploy to GitHub Pages** ▸ **Run workflow**. The site also
   rebuilds every night at 05:00 UTC.
