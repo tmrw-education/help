@@ -5,7 +5,7 @@ summary:
   - "If you see **Assign to**, choose **People**."
   - "Choose the **Person**, the **Course**, **Mandatory** or **Recommended**, and a **Due date (optional)**."
   - "Click **Assign learning**."
-keywords: [assign a course, assign learning, give someone a course, enrol a member of staff, assign training, add course to person, mandatory course for one person]
+keywords: [assign a course, assign learning, give someone a course, enrol a member of staff, assign training, add course to person, mandatory course for one person, growthxp]
 video:
   youtube:
   bunny:
@@ -30,7 +30,7 @@ administrators can assign to anyone.
 3. Choose the person and course
 
    Under **Person**, search by name or email. You can assign to people imported from HR who haven't signed in yet.
-   Under **Course**, choose a published course. Growth Experience Platform checks that the person can see the course;
+   Under **Course**, choose a published course. GrowthXP checks that the person can see the course;
    if not, **This person cannot access the course** explains why. An assignment never overrides a course's audience.
 
    ![The Assign learning window with Assign to set to People, and the Person, Course, Classification and Due date fields](./images/gxp-assign-learning-to-people-1.png)

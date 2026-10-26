@@ -4,7 +4,7 @@ summary:
   - "Click the **Change theme** icon (a sun or a moon) in the header."
   - "Choose **Light**, **Light grey**, **Dark grey** or **Dark**."
   - "It applies straight away and is remembered in this browser."
-keywords: [theme, dark mode, light mode, change theme, appearance, colours, colors, night mode, grey theme]
+keywords: [theme, dark mode, light mode, change theme, appearance, colours, colors, night mode, grey theme, growthxp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Change the theme
 
-Switch GXP between light and dark to suit your screen and surroundings.
+Switch GrowthXP between light and dark to suit your screen and surroundings.
 
 1. Open the theme menu
 

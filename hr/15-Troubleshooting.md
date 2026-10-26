@@ -38,7 +38,7 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Fix** — Create the questionnaire first, then return to **Questionnaire ▸ Distribute ▸ Questionnaire schedules** and select it.
 
-### Employees can't see the questionnaire in ESS
+### Employees can't see the questionnaire in EmployeeXP
 
 **Cause** — The schedule hasn't been started, the current date sits outside the schedule window, or the recipients weren't set.
 
@@ -54,7 +54,7 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Cause** — The Employee Intention Survey Result form only lists employees who answered **Yes** to the intention-to-leave question.
 
-**Fix** — Check whether the employee has submitted the Intention Questionnaire at all. Responses appear live as employees submit through Employee Self-Service (ESS).
+**Fix** — Check whether the employee has submitted the Intention Questionnaire at all. Responses appear live as employees submit through EmployeeXP.
 
 ### I can't edit the fields on an intentions record
 
@@ -96,11 +96,11 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Fix** — Delegated tasks route automatically to the delegate. Check the primary member's delegation settings if this wasn't intended.
 
-### An employee can't complete a task in ESS
+### An employee can't complete a task in EmployeeXP
 
 **Cause** — The task has a dependency on another task that hasn't been finished.
 
-**Fix** — The task detail view in ESS shows which tasks are blocking progress and who is responsible for them. The task unlocks once all dependencies are complete.
+**Fix** — The task detail view in EmployeeXP shows which tasks are blocking progress and who is responsible for them. The task unlocks once all dependencies are complete.
 
 ### A task is appearing for the wrong school
 
@@ -176,13 +176,13 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 ## HR Requests
 
-### A request type isn't showing in ESS
+### A request type isn't showing in EmployeeXP
 
 **Cause** — The **WebESS display** toggle is switched off for that request type.
 
-**Fix** — Open the request type in **Human resources ▸ Setup ▸ HR request types** and switch **WebESS display** on. Request types that HR initiates internally are deliberately hidden from ESS.
+**Fix** — Open the request type in **Human resources ▸ Setup ▸ HR request types** and switch **WebESS display** on. Request types that HR initiates internally are deliberately hidden from EmployeeXP.
 
-### Request types are in the wrong order in ESS
+### Request types are in the wrong order in EmployeeXP
 
 **Cause** — The list is ordered by the **ESS display order** value.
 
@@ -212,15 +212,15 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Fix** — Click **Refresh** on the HR Request form to pull in new submissions. Each has a system-generated request number.
 
-### The status still shows as pending in ESS after I completed the request
+### The status still shows as pending in EmployeeXP after I completed the request
 
-**Cause** — The ESS cache refreshes on a five-minute cycle.
+**Cause** — The EmployeeXP cache refreshes on a five-minute cycle.
 
 **Fix** — Allow 3–5 minutes for the updated status to appear. This delay is by design.
 
 ### The employee says they can't see our response
 
-**Cause** — The response was recorded somewhere other than the field ESS surfaces.
+**Cause** — The response was recorded somewhere other than the field EmployeeXP surfaces.
 
 **Fix** — Enter your response in the **HR notes** field. That text is what the employee sees on their completed request. Any file you add with **Attach** is downloadable by the employee from the same place.
 
@@ -244,7 +244,7 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Cause** — Reviews are routed into the manager's queue by the batch, not created directly on the employee record.
 
-**Fix** — The review appears in the manager's ESS queue under **Team Probation Review Requests** once the batch has run and the **Review 1 Generated** or **Final Review Generated** flag is set to Yes.
+**Fix** — The review appears in the manager's EmployeeXP queue under **Team Probation Review Requests** once the batch has run and the **Review 1 Generated** or **Final Review Generated** flag is set to Yes.
 
 ### An employee has passed probation but their status still isn't Confirmed
 
@@ -268,7 +268,7 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 ## Identification
 
-### The Submit button is disabled in ESS when adding an identification document
+### The Submit button is disabled in EmployeeXP when adding an identification document
 
 **Cause** — An attachment is mandatory for that document type at that company, and no file has been uploaded.
 
@@ -374,13 +374,13 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 ## Leave
 
-### An employee can't see a leave plan in ESS
+### An employee can't see a leave plan in EmployeeXP
 
 **Cause** — Either the plan is hidden at header level, the leave type is restricted, or the employee isn't enrolled.
 
-**Fix** — Check the ESS visibility flag on the leave plan header, then the restriction on the individual leave type — either one hides the type on its own. If both are set correctly, check the employee's enrolment under **Leave and absence** on their record.
+**Fix** — Check the EmployeeXP visibility flag on the leave plan header, then the restriction on the individual leave type — either one hides the type on its own. If both are set correctly, check the employee's enrolment under **Leave and absence** on their record.
 
-### Leave types appear in the wrong order in ESS
+### Leave types appear in the wrong order in EmployeeXP
 
 **Cause** — The dropdown follows the sort order set on each leave type.
 
@@ -572,7 +572,7 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Fix** — Clear the value from its existing box before placing it in the new one.
 
-### A matrix move in ESS hasn't appeared on the employee record
+### A matrix move in EmployeeXP hasn't appeared on the employee record
 
 **Cause** — The update isn't instant.
 
@@ -616,7 +616,7 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Cause** — Only records the manager has already approved reach HR.
 
-**Fix** — Check whether the manager has approved in ESS or in the overtime details form. Overtime moves manager ▸ HR ▸ finance, and each stage only sees what the stage before approved. See [Complete the HR and finance overtime approvals](./14-Time-and-Attendance/10-complete-the-hr-and-finance-overtime-approvals.md).
+**Fix** — Check whether the manager has approved in EmployeeXP or in the overtime details form. Overtime moves manager ▸ HR ▸ finance, and each stage only sees what the stage before approved. See [Complete the HR and finance overtime approvals](./14-Time-and-Attendance/10-complete-the-hr-and-finance-overtime-approvals.md).
 
 ### Finance approval doesn't show records HR approved
 
@@ -648,8 +648,8 @@ Common problems in Dynamics 365 Human Resources (HR) and how to resolve them. Us
 
 **Fix** — The flag is written as the hire worker action completes, so flagging the staff level afterwards doesn't backfill it. Amend **Eligible for overtime** on the employee's employment record directly. See [Set overtime eligibility on staff levels](./14-Time-and-Attendance/03-set-overtime-eligibility-on-staff-levels.md).
 
-### A change made in D365 isn't showing in ESS
+### A change made in D365 isn't showing in EmployeeXP
 
-**Cause** — ESS refreshes on an interval rather than instantly.
+**Cause** — EmployeeXP refreshes on an interval rather than instantly.
 
 **Fix** — Allow about five minutes and refresh. The interval is deliberate — the attendance feed arrives once a day, so a shorter refresh would cost performance for no benefit.

@@ -4,7 +4,7 @@ summary:
   - "In D365, search for **Growth and performance matrix** and open the setup."
   - "Each box in the matrix carries a rating and a measure description, and where each one sits on the grid is configurable."
   - "A given value can only be placed in one box — the system enforces that as you build the grid."
-keywords: [growth and performance matrix, nine box, 9-box, talent matrix, measure description, GEMS star, inconsistent, talent risk, high performer, matrix configuration, performance setup, D365]
+keywords: [growth and performance matrix, nine box, 9-box, talent matrix, measure description, GEMS star, inconsistent, talent risk, high performer, matrix configuration, performance setup, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -30,4 +30,4 @@ The layout is not fixed. Each measure's position on the grid is configurable, so
 
    Define each value only once across the matrix—the system enforces this, so you cannot place the same measure in two boxes. If you are moving measures around, clear a value from its old position before reusing it.
 
-This form configures the matrix but is not where you use it. Human Resources (HR) and managers place employees on the matrix and move them between boxes from the **manager view in Employee Self-Service (ESS)** — see *Use the growth and performance matrix* in the ESS guide. The placements made there are written back to the employee's talent review record in D365, covered in [View talent review records](./09-view-talent-review-records.md).
+This form configures the matrix but is not where you use it. Human Resources (HR) and managers place employees on the matrix and move them between boxes from the **manager view in EmployeeXP** — see *Use the growth and performance matrix* in the EmployeeXP guide. The placements made there are written back to the employee's talent review record in D365, covered in [View talent review records](./09-view-talent-review-records.md).

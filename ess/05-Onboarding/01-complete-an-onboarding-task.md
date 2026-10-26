@@ -1,10 +1,10 @@
 ---
 id: complete-an-onboarding-task
 summary:
-  - "From the ESS portal, navigate to **Tasks**."
+  - "From the EmployeeXP portal, navigate to **Tasks**."
   - "Locate your onboarding task, open it, and update the status in the dropdown to reflect completion."
   - "Click **Confirm** to record the update."
-keywords: [onboarding, onboarding task, complete task, new employee, checklist, task status, task completion]
+keywords: [onboarding, onboarding task, complete task, new employee, checklist, task status, task completion, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ When you join GEMS, we automatically assign you an onboarding checklist. Complet
 
 1. Open your task list
 
-   From the Employee Self-Service (ESS) portal, navigate to **Tasks**. Your onboarding tasks are listed here with their current status (Open, In Progress, or Completed).
+   From the EmployeeXP portal, navigate to **Tasks**. Your onboarding tasks are listed here with their current status (Open, In Progress, or Completed).
 
    ![The Tasks screen showing a list of onboarding tasks with statuses including Open and Completed](./images/complete-an-onboarding-task-1.png)
 

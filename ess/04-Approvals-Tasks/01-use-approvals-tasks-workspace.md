@@ -1,10 +1,10 @@
 ---
 id: use-approvals-tasks-workspace
 summary:
-  - "From the ESS home page, navigate to **Tasks**."
+  - "From the EmployeeXP home page, navigate to **Tasks**."
   - "Use the **Tasks** tab for your assigned checklist items and the **Approvals** tab for items awaiting your review."
   - "Click any item to open it and take action."
-keywords: [approvals, tasks, workspace, pending approvals, task list, checklist, approvals tab, tasks tab]
+keywords: [approvals, tasks, workspace, pending approvals, task list, checklist, approvals tab, tasks tab, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The Approvals and Tasks workspace is your central hub for everything that needs 
 
 1. Open the workspace
 
-   From the Employee Self-Service (ESS) home page, click the **Tasks** tile.
+   From the EmployeeXP home page, click the **Tasks** tile.
 
 2. Switch between tabs
 

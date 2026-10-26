@@ -5,7 +5,7 @@ summary:
   - "Your team is your direct reports and everyone who reports to them."
   - "Open **Manage** ▸ **My team**, **Deadlines calendar** or **Learning reports** to see their learning."
   - "Line manager access is view only: you can see and export learning, but not assign or change it."
-keywords: [line manager, my team, manager access, direct reports, reporting line, who reports to me, team learning, manager role, why can I see my team]
+keywords: [line manager, my team, manager access, direct reports, reporting line, who reports to me, team learning, manager role, why can I see my team, growthxp]
 video:
   youtube:
   bunny:
@@ -13,7 +13,7 @@ video:
 
 # How line manager access works
 
-If people report to you, Growth Experience Platform gives you the **Line manager** role automatically, so you can follow
+If people report to you, GrowthXP gives you the **Line manager** role automatically, so you can follow
 their learning. This page explains who's in your team and what you can see.
 
 1. Know who's in your team

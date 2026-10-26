@@ -4,7 +4,7 @@ summary:
   - "Open the approved request under your time off requests and click **Cancel**."
   - "Add a comment explaining why, then **Submit** the cancellation."
   - "Requests whose **start date** is further in the past than your school's cancellation window cannot be cancelled."
-keywords: [cancel leave, cancel request, leave cancellation, withdraw leave, cancellation window, cancellation not permitted, time off request, ESS]
+keywords: [cancel leave, cancel request, leave cancellation, withdraw leave, cancellation window, cancellation not permitted, time off request, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -18,7 +18,7 @@ You can cancel leave you no longer intend to take, and the days go back to your 
 
    Open your time off requests and select the approved request you want to cancel.
 
-   ![The list of approved time off requests in ESS](./images/cancel-a-leave-request-1.png)
+   ![The list of approved time off requests in EmployeeXP](./images/cancel-a-leave-request-1.png)
 
 2. Click Cancel
 

@@ -4,7 +4,7 @@ summary:
   - "Go to the **My work** tab, click **Questionnaires** and find the Intention Questionnaire."
   - "Click **Start**, answer whether you intend to leave the organisation, and provide any comments."
   - "Click **Submit** to complete it."
-keywords: [intention questionnaire, intention survey, stay or leave, intend to leave, retention survey, intention to leave]
+keywords: [intention questionnaire, intention survey, stay or leave, intend to leave, retention survey, intention to leave, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The Intention Questionnaire is a survey distributed to specific employee groups 
 
 1. Open the Questionnaires tab
 
-   From the Employee Self-Service (ESS) portal, go to **My work** in the Navigation bar, then click **Questionnaires** from the dropdown.
+   From the EmployeeXP portal, go to **My work** in the Navigation bar, then click **Questionnaires** from the dropdown.
 
 2. Find the Intention Questionnaire
 
@@ -30,7 +30,7 @@ The Intention Questionnaire is a survey distributed to specific employee groups 
 
    Answer each question honestly. A key question asks whether you intend to leave the organisation — your response (Yes or No) determines whether HR follows up with you. Additional free-text fields allow you to provide context.
 
-   ![The Intention Questionnaire open in ESS showing the intention to leave question and a free-text response field](./images/complete-intention-questionnaire-1.png)
+   ![The Intention Questionnaire open in EmployeeXP showing the intention to leave question and a free-text response field](./images/complete-intention-questionnaire-1.png)
 
 5. Submit
 

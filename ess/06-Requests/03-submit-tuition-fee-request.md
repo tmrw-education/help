@@ -1,10 +1,10 @@
 ---
 id: submit-tuition-fee-request
 summary:
-  - "From ESS, click **Full profile** on the right."
+  - "From EmployeeXP, click **Full profile** on the right."
   - "Select the dependent; then the **Tuition fee concession** button activates."
   - "Check the data and complete the pop-up form. Click **Submit**."
-keywords: [tuition fee, school fees, child, dependent, tuition request, fee concession, student benefit]
+keywords: [tuition fee, school fees, child, dependent, tuition request, fee concession, student benefit, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The Tuition Fee Concession request lets eligible employees apply for a tuition f
 
 1. Open your Full Profile
 
-   On the Employee Self-Service (ESS) homepage, click **Full profile** to the right of your profile header tile.
+   On the EmployeeXP homepage, click **Full profile** to the right of your profile header tile.
 
 2. Select the dependent
 

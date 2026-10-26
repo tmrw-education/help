@@ -5,7 +5,7 @@ summary:
   - "Choose the **Learner organisations**, the **Course**, the **Classification** and a **Due date (optional)**."
   - "Click **Start assignment**. It runs in the background and you can close the window."
   - "Bulk assignment must be turned on for your organisation by TMRW support."
-keywords: [bulk assign, assign to a school, assign to everyone in an organisation, mass assignment, assign course to department, bulk assignment]
+keywords: [bulk assign, assign to a school, assign to everyone in an organisation, mass assignment, assign course to department, bulk assignment, growthxp]
 video:
   youtube:
   bunny:
@@ -35,7 +35,7 @@ until then the form says **Bulk assignments unavailable**.
 
 4. Start the assignment
 
-   Click **Start assignment**. Growth Experience Platform finds the people in the background, then assigns the course.
+   Click **Start assignment**. GrowthXP finds the people in the background, then assigns the course.
    It checks each person's organisation and the course audience, and skips anyone who isn't eligible or already has the
    course. You can close the window and check back later.
 

@@ -5,7 +5,7 @@ summary:
   - "Choose the organisation under **Show people in**, and tick **Include child organisations** to include its schools or departments."
   - "Search by name or email, and use **Status** to show people who have **Signed in**, are **Not signed in yet** or are **Disabled**."
   - "Click a name to see their details."
-keywords: [find a person, search staff, people list, find employee, staff directory, who is in my school, people page, not signed in yet, disabled people]
+keywords: [find a person, search staff, people list, find employee, staff directory, who is in my school, people page, not signed in yet, disabled people, growthxp]
 video:
   youtube:
   bunny:
@@ -33,7 +33,7 @@ You need the **Learning manager** or **Organisation administrator** role.
 3. Search and filter
 
    Type a name or email in **Search**. Under **Status**, the default **Signed in or not yet** shows everyone who can use
-   Growth Experience Platform. Choose **Signed in**, **Not signed in yet** (imported from HR and waiting for their first
+   GrowthXP. Choose **Signed in**, **Not signed in yet** (imported from HR and waiting for their first
    sign-in), **Disabled**, or **All, including disabled**.
 
 4. Read the list

@@ -1,4 +1,5 @@
 ---
+draft: true
 id: view-the-attendance-risk-dashboard
 summary:
   - "You are notified when the attendance compliance checker has a report ready."

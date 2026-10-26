@@ -1,10 +1,10 @@
 ---
 id: submit-transport-request
 summary:
-  - "From ESS, click **Full profile** on the right."
+  - "From EmployeeXP, click **Full profile** on the right."
   - "Select the dependent; then the **Transport concession** button activates."
   - "Click **Submit** on the popup prompt."
-keywords: [transport request, school bus, transport fee, transport concession, student transport, bus service, dependent transport]
+keywords: [transport request, school bus, transport fee, transport concession, student transport, bus service, dependent transport, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The Transport request lets eligible employees request transport for a dependent 
 
 1. Open your Full Profile
 
-   On the Employee Self-Service (ESS) homepage, to the right of your profile header tile, click **Full profile**.
+   On the EmployeeXP homepage, to the right of your profile header tile, click **Full profile**.
 
 2. Select the dependent
 

@@ -1,10 +1,10 @@
 ---
 id: review-your-teams-mid-year-reviews
 summary:
-  - "In ESS, open your manager view and open the mid-year review waiting for your feedback."
+  - "In EmployeeXP, open your manager view and open the mid-year review waiting for your feedback."
   - "Add your comments and give your own rating against each goal — you can agree with the employee's rating or set a different one."
   - "Click **Submit** to complete the mid-year stage for that employee."
-keywords: [manager view, mid year review, manager rating, manager comments, agree or differ rating, beginner, familiar, proficient, expert, master, training needs, submit, ESS]
+keywords: [manager view, mid year review, manager rating, manager comments, agree or differ rating, beginner, familiar, proficient, expert, master, training needs, submit, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ At mid-year, you give your own rating alongside your comments. You can see what 
 
 1. Open the review
 
-   In Employee Self-Service (ESS), go to your manager view and open your team's performance reviews. The mid-year review shows as **Ready for review** with its due date. Click **View**.
+   In EmployeeXP, go to your manager view and open your team's performance reviews. The mid-year review shows as **Ready for review** with its due date. Click **View**.
 
    ![The manager view showing a mid year review ready for feedback](./images/review-your-teams-mid-year-reviews-1.png)
 

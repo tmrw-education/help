@@ -4,7 +4,7 @@ summary:
   - "Open the **GEMSU integration log** in D365 to see the messages received from GEMSU."
   - "Review the log for a single employee, or across all employees, to check for **errors** and **successful imports**."
   - "Use the log to confirm whether missing course data is an integration failure or a source data issue."
-keywords: [GEMSU, integration log, integration message, errors, successful import, failed import, course data, troubleshooting, D365, learning]
+keywords: [GEMSU, integration log, integration message, errors, successful import, failed import, course data, troubleshooting, D365, learning, employeexp]
 video:
   youtube:
   bunny:
@@ -32,6 +32,6 @@ The integration log records every message that comes into Dynamics 365 (D365) fr
 
 4. Act on what the log tells you
 
-   - Records showing as **successfully imported** confirm the data reached D365. If the employee still can't see the course in Employee Self-Service (ESS), the issue is downstream of the integration.
+   - Records showing as **successfully imported** confirm the data reached D365. If the employee still can't see the course in EmployeeXP, the issue is downstream of the integration.
    - Records showing an **error** need investigating with the GEMSU team — the message arrived but could not be written to the course tables.
    - **No log entry at all** means nothing was received for that employee. Confirm with the GEMSU team that the course was assigned at source.

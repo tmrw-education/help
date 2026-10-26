@@ -4,7 +4,7 @@ summary:
   - "Tags at the top show the status, **Mandatory** or **Recommended**, and anything you need to do."
   - "The line under the description shows the duration, due date, completion date and how long it stays valid."
   - "The bar shows your progress; the last line says what clicking the card does."
-keywords: [course card, tags, status, mandatory tag, recommended tag, self-enrolled, renewal tag, feedback required, due date, progress bar, valid until, expires, what does this tag mean]
+keywords: [course card, tags, status, mandatory tag, recommended tag, self-enrolled, renewal tag, feedback required, due date, progress bar, valid until, expires, what does this tag mean, growthxp]
 video:
   youtube:
   bunny:
@@ -22,7 +22,7 @@ Each card in **My courses** sums up where you are with one course.
    - **Mandatory** or **Recommended**: how the learning was given to you (hidden once completed).
    - **Renewal 1**, **Renewal 2** and so on: you're on a renewal of learning you completed before.
    - **Self-enrolled**: you enrolled in it yourself.
-   - **Recorded in HR**: completed outside GXP and recorded in your HR system.
+   - **Recorded in HR**: completed outside GrowthXP and recorded in your HR system.
    - **Feedback required**, **Feedback overdue** or **Feedback needed**: you owe feedback on the course.
    - Up to three skills the course teaches.
 

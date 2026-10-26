@@ -1,10 +1,10 @@
 ---
 id: complete-offboarding-survey
 summary:
-  - "Go to **Employment ▸ Questionnaires** in ESS and find the Offboarding Survey."
+  - "Go to **Employment ▸ Questionnaires** in EmployeeXP and find the Offboarding Survey."
   - "Click **Start**, answer the exit questions, and click **Submit**."
   - "Mark the associated checklist task as complete after submitting."
-keywords: [offboarding survey, exit survey, exit questionnaire, leaving, offboarding, departure, exit feedback]
+keywords: [offboarding survey, exit survey, exit questionnaire, leaving, offboarding, departure, exit feedback, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The Offboarding Survey is assigned to you as part of the offboarding process whe
 
 1. Open the Questionnaires tab
 
-   From the Employee Self-Service (ESS) portal, go to **Employment ▸ Questionnaires** or click the **Questionnaires** tab.
+   From the EmployeeXP portal, go to **Employment ▸ Questionnaires** or click the **Questionnaires** tab.
 
 2. Find the Offboarding Survey
 
@@ -30,7 +30,7 @@ The Offboarding Survey is assigned to you as part of the offboarding process whe
 
    Work through the exit survey questions, providing honest feedback about your experience.
 
-   ![The Offboarding Survey open in ESS showing exit feedback questions with rating and free-text fields](./images/complete-offboarding-survey-1.png)
+   ![The Offboarding Survey open in EmployeeXP showing exit feedback questions with rating and free-text fields](./images/complete-offboarding-survey-1.png)
 
 5. Submit
 

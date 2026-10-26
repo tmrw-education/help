@@ -1,10 +1,10 @@
 ---
 id: review-and-approve-a-request
 summary:
-  - "Go to **Tasks ▸ Approvals** tab in ESS."
+  - "Go to **Tasks ▸ Approvals** tab in EmployeeXP."
   - "Click on the pending request to open its full details."
   - "Click **Approve** to accept or **Reject** to decline."
-keywords: [approve, reject, approval, review request, pending approval, approve identification, approve education, approve skills]
+keywords: [approve, reject, approval, review request, pending approval, approve identification, approve education, approve skills, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ When a team member submits a profile update that needs your approval—such as a
 
 1. Open the Approvals tab
 
-   From the Employee Self-Service (ESS) portal, go to **Tasks ▸ Approvals**.
+   From the EmployeeXP portal, go to **Tasks ▸ Approvals**.
 
 2. Review the list
 

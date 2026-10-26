@@ -1,10 +1,10 @@
 ---
 id: submit-your-end-of-year-review
 summary:
-  - "In ESS, go to **Skills and performance** and open your end-of-year review."
+  - "In EmployeeXP, go to **Skills and performance** and open your end-of-year review."
   - "Your goal setting and mid-year comments are carried forward — add your end-of-year comments and final self-ratings."
   - "Submit the review. It goes to your manager, who completes it and submits it for calibration."
-keywords: [end of year review, final self rating, complete status, carried forward comments, mid year comments, career aspirations, timeline, manager review pending, calibration, ESS]
+keywords: [end of year review, final self rating, complete status, carried forward comments, mid year comments, career aspirations, timeline, manager review pending, calibration, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -18,7 +18,7 @@ The end-of-year review closes your performance year. Everything from goal settin
 
 1. Open your review
 
-   In Employee Self-Service (ESS), go to **Skills and performance** and open your end-of-year review.
+   In EmployeeXP, go to **Skills and performance** and open your end-of-year review.
 
    ![The end of year review listed in Skills and performance](./images/submit-your-end-of-year-review-1.png)
 

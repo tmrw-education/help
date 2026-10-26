@@ -1,9 +1,9 @@
 ---
 id: view-benefit-plan-details
 summary:
-  - "From the ESS portal, navigate to the **Rewards & Benefits** section and open the **Benefits** tab."
+  - "From the EmployeeXP portal, navigate to the **Rewards & Benefits** section and open the **Benefits** tab."
   - "Review your enrolled benefit plans, entitlement amounts, and gratuity."
-keywords: [benefit plan, benefits tab, gratuity, medical insurance, transport, accommodation, life insurance, enrolled plans, benefit entitlements, ESS, employee benefits]
+keywords: [benefit plan, benefits tab, gratuity, medical insurance, transport, accommodation, life insurance, enrolled plans, benefit entitlements, ESS, employee benefits, employeexp]
 video:
   youtube:
   bunny:
@@ -11,17 +11,17 @@ video:
 
 # View your benefit plan details
 
-The Benefits tab in Employee Self-Service (ESS) shows the individual benefit plans you are enrolled in and the entitlement values associated with each. This is a read-only view; your benefit plans are set up and maintained by the Human Resources (HR) team.
+The Benefits tab in EmployeeXP shows the individual benefit plans you are enrolled in and the entitlement values associated with each. This is a read-only view; your benefit plans are set up and maintained by the Human Resources (HR) team.
 
 1. Open the Benefits section
 
-   From the ESS portal, navigate to the **Rewards & Benefits** section.
+   From the EmployeeXP portal, navigate to the **Rewards & Benefits** section.
 
 2. Open the Benefits tab
 
    Select the **Benefits** tab within the section.
 
-   ![The Benefits section in ESS with the Benefits tab selected](./images/view-benefit-plan-details-1.png)
+   ![The Benefits section in EmployeeXP with the Benefits tab selected](./images/view-benefit-plan-details-1.png)
 
 3. Review your benefit plan details
 

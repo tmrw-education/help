@@ -1,4 +1,5 @@
 ---
+draft: true
 id: log-rewards-for-several-students
 summary:
   - "Prompt Felix with **create rewards for my students**."

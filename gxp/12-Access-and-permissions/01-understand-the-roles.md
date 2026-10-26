@@ -5,7 +5,7 @@ summary:
   - "**Organisation administrator**, **Course manager** and **HR manager** cover the whole organisation."
   - "**Learning manager** and **Report viewer** can be limited to one unit."
   - "Manage → **Access and permissions** → **Roles explained** shows exactly what each role can do."
-keywords: [roles, permissions, what can each role do, roles explained, learner, line manager, learning manager, report viewer, course manager, HR manager, organisation administrator, admin, access levels]
+keywords: [roles, permissions, what can each role do, roles explained, learner, line manager, learning manager, report viewer, course manager, HR manager, organisation administrator, admin, access levels, growthxp]
 video:
   youtube:
   bunny:
@@ -13,7 +13,7 @@ video:
 
 # Understand the roles
 
-Growth Experience Platform has seven roles. A person's role decides which pages they see under **Manage** and what they
+GrowthXP has seven roles. A person's role decides which pages they see under **Manage** and what they
 can change there.
 
 1. Know the roles

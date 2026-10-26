@@ -569,9 +569,11 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 **Fix** — Check the name and student ID Felix offers before confirming. If several students match, they're all listed — pick from those. If Felix says it can't identify the student, retype the name in full rather than rephrasing the request.
 
-{/* SOURCE — the six attendance entries below come from the 9 Oct 2026 SXP Felix
+{/* Hidden until the Felix agent pages (10-AI/02–09 and 11–15, all draft: true) are verified and published. Restore each entry with its page, and turn its [note: …] back into an MDX comment.
+
+[note: SOURCE — the six attendance entries below come from the 9 Oct 2026 SXP Felix
 Attendance walkthrough, demonstrated in the DEV environment. They match the drafted
-pages 10-AI/14 and 10-AI/15; re-verify them on a UAT build alongside those pages. */}
+pages 10-AI/14 and 10-AI/15; re-verify them on a UAT build alongside those pages. ]
 
 ### Felix brought up a different class from the one I wanted to mark
 
@@ -735,18 +737,22 @@ pages 10-AI/14 and 10-AI/15; re-verify them on a UAT build alongside those pages
 
 **Fix** — Open **Notices** for anything older, and check your interests are set — see [Follow notice categories](./04-Notices/02-follow-notice-categories.md).
 
-{/* TO VERIFY BEFORE PUBLISHING — teacher access to a published class update.
+[note: TO VERIFY BEFORE PUBLISHING — teacher access to a published class update.
 On 2 Jun 2026 (8:10-9:10) Meredith raised that the published PDF was only viewable
 in Dynamics CE, which teachers have no licence for. Peter confirmed a SharePoint
 folder structure (class/date) was intended but not yet built. The entry below
 states the current limitation without documenting a route that does not exist.
-Rewrite or delete it once the SharePoint path ships. */}
+Rewrite or delete it once the SharePoint path ships. ]
 
 ### I can't open a class update I've already published
 
 **Cause** — A published class update is saved as a PDF in Customer Engagement (CE), which most teaching staff have no licence for.
 
-**Fix** — Parents receive the update in the Parent Experience Platform as normal, so publishing has worked. A route for teachers to open their own published updates is being built — until it ships, ask a member of staff with CE access if you need a copy.
+**Fix** — Parents receive the update in the Parent Experience Platform as normal, so publishing has worked. If you need a copy, ask a member of staff with CE access.
+
+*/}
+
+{/* Hidden until the Academic reporting pages (11-Academic-reporting, all draft: true) are published. Remove this comment then.
 
 ## Academic reporting
 
@@ -815,3 +821,5 @@ Rewrite or delete it once the SharePoint path ships. */}
 **Cause** — At least one item on the **Publishing checklist** isn't met — often an unresolved report block.
 
 **Fix** — Go to **Publishing** > **Readiness status** > **Publishing checklist** to see which item is outstanding, resolve it, then execute **Ready to publish** again. See [Publish reports](./11-Academic-reporting/16-publish-reports.md).
+
+*/}

@@ -4,7 +4,7 @@ summary:
   - "Sick leave requests may require a medical certificate before you can submit."
   - "During probation, a certificate is required from the first day; once confirmed, it is only required beyond a set number of days."
   - "Upload the document to the request, then click **Submit**."
-keywords: [sick leave, medical certificate, attachment, supporting document, probation, certificate threshold, record at least one document, leave request, ESS]
+keywords: [sick leave, medical certificate, attachment, supporting document, probation, certificate threshold, record at least one document, leave request, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ Sick leave often needs a supporting medical certificate. Whether you need one de
 
 1. Start your sick leave request
 
-   In Employee Self-Service (ESS), go to **Request time off**, select the leave plan containing sick leave, choose **Sick leave** as the leave type, and select the reason code — for example, illness.
+   In EmployeeXP, go to **Request time off**, select the leave plan containing sick leave, choose **Sick leave** as the leave type, and select the reason code — for example, illness.
 
 2. Select your dates
 
@@ -26,7 +26,7 @@ Sick leave often needs a supporting medical certificate. Whether you need one de
 
    Click **Submit**. If a certificate is needed, the request is not accepted, and you see the notification *Please review the form and ensure all mandatory information have been met before processing*.
 
-   ![The ESS sick leave request showing the 'Review the form' notification](./images/attach-a-medical-certificate-1.png)
+   ![The EmployeeXP sick leave request showing the 'Review the form' notification](./images/attach-a-medical-certificate-1.png)
 
    When this appears depends on your status:
 

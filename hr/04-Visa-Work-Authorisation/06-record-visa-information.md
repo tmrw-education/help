@@ -4,7 +4,7 @@ summary:
   - "Open the employee record in D365 and go to the **Employee Visa Information** section."
   - "Click **New** and complete all required fields, selecting from the configured dropdowns."
   - "Enter the **issue date** and **expiry date**, then click **Save**."
-keywords: [record visa, visa information, UID, labour card, visa expiry, visa entry, employee visa, PRO, work authorisation]
+keywords: [record visa, visa information, UID, labour card, visa expiry, visa entry, employee visa, PRO, work authorisation, employeexp]
 video:
   youtube:
   bunny:
@@ -38,4 +38,4 @@ The visa information form captures all fields required for visa processing and r
    - ABC Category
    - Contract Type
      
-   > **Note**: Once saved, expiry dates are monitored by the system. Alerts appear in the employee's Employee Self-Service (ESS) dashboard tiles and in the notification bell as the expiry approaches, based on the threshold configured for each document type.
+   > **Note**: Once saved, expiry dates are monitored by the system. Alerts appear in the employee's EmployeeXP dashboard tiles and in the notification bell as the expiry approaches, based on the threshold configured for each document type.

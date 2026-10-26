@@ -17,7 +17,7 @@ Use the sidebar to navigate by topic, or use the search bar to find a specific p
 - **HR Requests** — configuring request types and processing submitted requests
 - **Probation** — configuring parameters, running the review batch, and monitoring reviews
 - **Identification** — configuring mandatory attachment rules per document type
-- **Benefits** — configuring reward types for the Employee Self-Service (ESS) rewards statement
+- **Benefits** — configuring reward types for the EmployeeXP rewards statement
 - **Offboarding** — configuring the offboarding checklist and assigning it to leavers
 - **Learning** — reviewing GEMSU course data, monitoring the integration log, and importing course records
 - **Leave** — setting up leave plans and types, approval and validation rules, plan assignment through worker actions, calendar changes, and bulk submissions

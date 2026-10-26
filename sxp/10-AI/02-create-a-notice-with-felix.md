@@ -1,4 +1,5 @@
 ---
+draft: true
 id: create-a-notice-with-felix
 summary:
   - "Prompt Felix with **create a notice** and what it is about."

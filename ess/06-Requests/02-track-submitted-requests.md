@@ -1,10 +1,10 @@
 ---
 id: track-submitted-requests
 summary:
-  - "From ESS, on the **Submit request** tile, click **My requests →** to see a list of all your submitted requests."
+  - "From EmployeeXP, on the **Submit request** tile, click **My requests →** to see a list of all your submitted requests."
   - "Open a completed request to view its status, any **HR Feedback**, and attached documents."
   - "Use the **Download** link to save any documents HR has attached."
-keywords: [track request, my requests, request status, submitted requests, HR feedback, download document, request history]
+keywords: [track request, my requests, request status, submitted requests, HR feedback, download document, request history, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ All requests you have submitted are visible in the Human Resources (HR) Requests
 
 1. Open HR Requests
 
-   From the Employee Self-Service (ESS) home page, on the **Submit request** tile, click **My requests →**. Your request history is listed here, each showing a request number and current status.
+   From the EmployeeXP home page, on the **Submit request** tile, click **My requests →**. Your request history is listed here, each showing a request number and current status.
 
 2. Open a request
 
@@ -35,4 +35,4 @@ All requests you have submitted are visible in the Human Resources (HR) Requests
 
    Click the **Download** link next to any document to save it.
 
-   > **Note:** After HR completes a request, there is typically a 3–5 minute delay before the updated status appears — the ESS cache refreshes on a 5-minute cycle.
+   > **Note:** After HR completes a request, there is typically a 3–5 minute delay before the updated status appears — the EmployeeXP cache refreshes on a 5-minute cycle.

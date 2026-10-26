@@ -3,8 +3,8 @@ id: myday-home
 summary:
   - "**MyDay** is your home page — return to it via **StaffXP** in the nav bar."
   - "Tiles show your schedule, assignments to mark, to-do list, notices, and more."
-  - "**Quick links** jumps to Employee Self-Service, Topics & FAQs, and your markbook."
-keywords: [myday, home page, landing page, dashboard, home screen, my day, today, tiles]
+  - "**Quick links** jumps to EmployeeXP, Topics & FAQs, and your markbook."
+keywords: [myday, home page, landing page, dashboard, home screen, my day, today, tiles, employeexp]
 video:
   youtube:
   bunny:
@@ -25,7 +25,7 @@ it any time by clicking **StaffXP** in the navigation bar.
 
 2. Quick links
 
-   The **Quick links** tile is the fast way into **Employee Self-Service**,
+   The **Quick links** tile is the fast way into **EmployeeXP**,
    **Topics & FAQs**, and **View markbook**.
 
    > **Note:** MyDay's look shifts through the day — morning, midday, and evening —

@@ -1,17 +1,17 @@
 ---
 id: gxp-troubleshooting
-keywords: [troubleshooting, problems, not working, error, help, cannot see, missing, why]
+keywords: [troubleshooting, problems, not working, error, help, cannot see, missing, why, growthxp]
 ---
 
 # Troubleshooting
 
-Common problems in Growth Experience Platform and how to resolve them. Use the contents list on the right to jump to a section, or press **Ctrl+F** to search this page.
+Common problems in GrowthXP and how to resolve them. Use the contents list on the right to jump to a section, or press **Ctrl+F** to search this page.
 
 ## Signing in and finding your way
 
 ### I can't sign in: "Your organisation isn't licensed"
 
-**Cause** — Growth Experience Platform isn't available for the organisation your Microsoft account belongs to, or you signed in with a personal or different work account.
+**Cause** — GrowthXP isn't available for the organisation your Microsoft account belongs to, or you signed in with a personal or different work account.
 
 **Fix** — Sign in with your work Microsoft account. If the message stays, ask your administrator to contact TMRW support to check your organisation's access.
 

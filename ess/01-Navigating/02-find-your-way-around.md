@@ -1,18 +1,18 @@
 ---
 id: find-your-way-around-ess
 summary:
-  - "Your **ESS home page** shows tiles for each area — click any tile to go there."
+  - "Your **EmployeeXP home page** shows tiles for each area — click any tile to go there."
   - "Use the **notification bell** at the top right for alerts about expiring documents and new tasks."
   - "Navigate back to the home page at any time using your browser or the **Home** icon."
-keywords: [navigate ESS, home page, tiles, profile, tasks, questionnaires, notifications, notification bell, ESS layout, find your way]
+keywords: [navigate ESS, home page, tiles, profile, tasks, questionnaires, notifications, notification bell, ESS layout, find your way, employeexp]
 video:
   youtube:
   bunny:
 ---
 
-# Find your way around ESS
+# Find your way around EmployeeXP
 
-Employee Self-Service (ESS) is built around a home page of tiles. Click any tile to go directly to that area — no menus to dig through.
+EmployeeXP is built around a home page of tiles. Click any tile to go directly to that area — no menus to dig through.
 
 1. Use the tiles on your home page
 
@@ -27,7 +27,7 @@ Employee Self-Service (ESS) is built around a home page of tiles. Click any tile
    | **Company Directory** | Search for colleagues by name or reporting manager |
    | **Org chart** | Visual view of your team structure and reporting lines |
 
-   ![The ESS home page showing the main navigation tiles including My Profile, Tasks, Questionnaires, Approvals, Company Directory, and Org chart](./images/find-your-way-around-ess-1.png)
+   ![The EmployeeXP home page showing the main navigation tiles including My Profile, Tasks, Questionnaires, Approvals, Company Directory, and Org chart](./images/find-your-way-around-ess-1.png)
 
 2. Check the notification bell
 
@@ -35,4 +35,4 @@ Employee Self-Service (ESS) is built around a home page of tiles. Click any tile
 
 3. Navigate back to home
 
-   To return to the home page at any time, click **ESS System** in the navigation bar or use your browser's back button. ESS runs in any web browser — there is nothing to install.
+   To return to the home page at any time, click **ESS System** in the navigation bar or use your browser's back button. EmployeeXP runs in any web browser — there is nothing to install.

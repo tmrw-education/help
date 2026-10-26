@@ -1,10 +1,10 @@
 ---
 id: compare-talent-profiles
 summary:
-  - "In ESS, open **Talent view** from the manager view, set your filters and click **Search**."
+  - "In EmployeeXP, open **Talent view** from the manager view, set your filters and click **Search**."
   - "Select the employees you want to compare — up to four at a time."
   - "Click **Compare** to see their talent review details side by side."
-keywords: [talent view, talent comparison, compare employees, four employees maximum, risk of loss, impact of loss, high potential, succession planning, talent mapping, manager view, ESS]
+keywords: [talent view, talent comparison, compare employees, four employees maximum, risk of loss, impact of loss, high potential, succession planning, talent mapping, manager view, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,13 +16,13 @@ Talent view puts employees side by side so you can compare their talent reviews 
 
 1. Open talent view
 
-   In Employee Self-Service (ESS), go to your manager view and open **Talent view**.
+   In EmployeeXP, go to your manager view and open **Talent view**.
 
 2. Filter to the employees you want
 
    Set your filters — **year**, **business unit** and **department** — and click **Search**. The employees matching your filters are listed.
 
-   ![Talent view after inputting filters in the ESS manager view](./images/compare-talent-profiles-1.png)
+   ![Talent view after inputting filters in the EmployeeXP manager view](./images/compare-talent-profiles-1.png)
 
 3. Select the employees to compare
 

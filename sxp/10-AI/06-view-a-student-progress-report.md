@@ -1,4 +1,5 @@
 ---
+draft: true
 id: view-a-student-progress-report
 summary:
   - "Ask Felix to **show me [student]'s progress report**."

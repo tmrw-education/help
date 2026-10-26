@@ -5,7 +5,7 @@ summary:
   - "A Microsoft Entra app registration, registered in F&O with a least-privilege service user."
   - "Read access to the people, position, employment and course entities; write access only for the flows you use."
   - "TMRW support to approve your environment and switch on each sync."
-keywords: [requirements, prerequisites, app registration, Entra, Azure AD, certificate, F&O permissions, data entities, service user, security roles, IT checklist, what entities]
+keywords: [requirements, prerequisites, app registration, Entra, Azure AD, certificate, F&O permissions, data entities, service user, security roles, IT checklist, what entities, growthxp]
 video:
   youtube:
   bunny:
@@ -56,7 +56,7 @@ administrator each have a part to play.
 
 5. Someone with the right role
 
-   You need the **Organisation administrator** role in Growth Experience Platform to connect and run the integration.
+   You need the **Organisation administrator** role in GrowthXP to connect and run the integration.
 
 6. TMRW support
 

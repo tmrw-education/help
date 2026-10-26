@@ -4,7 +4,7 @@ summary:
   - "Go to **System Administration ▸ Batch Processes ▸ Generate Probation Reviews**."
   - "Set the **Probation Horizon Days** to control how far ahead to look."
   - "Click **Run** — the batch creates review records and routes them into the workflow."
-keywords: [generate probation review, probation batch, batch process, probation horizon, stage 1, stage 2, create review, batch job]
+keywords: [generate probation review, probation batch, batch process, probation horizon, stage 1, stage 2, create review, batch job, employeexp]
 video:
   youtube:
   bunny:
@@ -37,4 +37,4 @@ The Generate Probation Reviews batch process scans employee records for upcoming
    After the batch runs:
    - The **Review 1 Generated** or **Final Review Generated** flag on the employee record is set to **Yes**.
    - A probation review record is created and submitted to the workflow.
-   - The review appears in the manager's Employee Self-Service (ESS) queue under **Team Probation Review Requests**.
+   - The review appears in the manager's EmployeeXP queue under **Team Probation Review Requests**.

@@ -4,7 +4,7 @@ summary:
   - "Click **My courses** to see everything assigned to you and everything you've started."
   - "Use the tabs **All**, **In progress**, **Not started** and **Completed**, or search by course or skill."
   - "The most urgent courses come first: overdue, then by due date."
-keywords: [my courses, my learning, assigned courses, my training, course list, in progress, not started, completed, search my courses, what do I need to do, dashboard]
+keywords: [my courses, my learning, assigned courses, my training, course list, in progress, not started, completed, search my courses, what do I need to do, dashboard, growthxp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # View your courses
 
-**My courses** is your home page in GXP. It lists every course assigned to you, and every course you've opened from
+**My courses** is your home page in GrowthXP. It lists every course assigned to you, and every course you've opened from
 the catalogue, with your progress.
 
 1. Open My courses

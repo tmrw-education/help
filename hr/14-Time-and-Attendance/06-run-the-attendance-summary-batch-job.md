@@ -4,7 +4,7 @@ summary:
   - "In D365, go to **Time and attendance ▸ Periodic tasks ▸ Execute attendance summary**."
   - "Click **OK** to run it — in normal operation, it is set up as a recurring batch, not run by hand."
   - "It turns the raw punch records in the attendance logs into the summarised attendance details records."
-keywords: [execute attendance summary, attendance summary batch job, periodic tasks, attendance creation process, work duration, regular minutes, overtime minutes, recurring batch, attendance details, D365]
+keywords: [execute attendance summary, attendance summary batch job, periodic tasks, attendance creation process, work duration, regular minutes, overtime minutes, recurring batch, attendance details, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Run the attendance summary batch job
 
-Attendance logs contain only raw punch records. The **Execute attendance summary** job reads them and creates the summary record for each employee and day—their work duration, regular minutes, and overtime minutes—which every other attendance screen and the Employee Self-Service (ESS) portal read from.
+Attendance logs contain only raw punch records. The **Execute attendance summary** job reads them and creates the summary record for each employee and day—their work duration, regular minutes, and overtime minutes—which every other attendance screen and the EmployeeXP portal read from.
 
 In normal operation, this runs as a recurring batch process right after the data feed, so nobody runs it by hand. Run it manually when you have just imported, generated or adjusted attendance logs and want the results now.
 

@@ -1,10 +1,10 @@
 ---
 id: set-up-delegations
 summary:
-  - "From the ESS portal, navigate to **Approval delegations**."
+  - "From the EmployeeXP portal, navigate to **Approval delegations**."
   - "Click **Add delegation**, enter the delegate's name, set the date range, and choose the scope."
   - "Check **Enable delegation** and click **Submit**."
-keywords: [delegation, delegate approvals, out of office, leave, approval delegation, substitute, cover approvals]
+keywords: [delegation, delegate approvals, out of office, leave, approval delegation, substitute, cover approvals, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ Delegations let you hand your approval responsibilities to a colleague while you
 
 1. Open Approval delegations
 
-   From the Employee Self-Service (ESS) portal, navigate to **Approval delegations**.
+   From the EmployeeXP portal, navigate to **Approval delegations**.
 
 2. Add a new delegation
 

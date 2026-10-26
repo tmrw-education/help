@@ -1,10 +1,10 @@
 ---
 id: complete-probation-feedback-employee
 summary:
-  - "From ESS, go to **Employment ▸ Probation Review** when assigned."
+  - "From EmployeeXP, go to **Employment ▸ Probation Review** when assigned."
   - "Read your manager's ratings and comments, then add your own feedback for each competency."
   - "Click **Submit** to finalise."
-keywords: [probation feedback, employee feedback, probation review, employee probation, self feedback, probation response, stage 1, stage 2 employee]
+keywords: [probation feedback, employee feedback, probation review, employee probation, self feedback, probation response, stage 1, stage 2 employee, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ After your manager submits their probation review, the workflow routes it to you
 
 1. Open the probation review
 
-   From the Employee Self-Service (ESS) portal, go to **Employment ▸ Probation Review** (the review appears here when it is assigned to you for feedback).
+   From the EmployeeXP portal, go to **Employment ▸ Probation Review** (the review appears here when it is assigned to you for feedback).
 
    ![Probation tile showing a feedback form with start and due dates visible](./images/complete-probation-feedback-employee-1.png)
 
@@ -35,4 +35,4 @@ After your manager submits their probation review, the workflow routes it to you
 
 4. Submit
 
-   Click **Submit** to finalise your feedback. The review is removed from your ESS queue and the workflow moves to the next stage (HR notification for Stage 2, or completion for Stage 1).
+   Click **Submit** to finalise your feedback. The review is removed from your EmployeeXP queue and the workflow moves to the next stage (HR notification for Stage 2, or completion for Stage 1).

@@ -4,7 +4,7 @@ summary:
   - "Go to **Full Profile ▸ Identification** tab and click **Add New**."
   - "Select the document type, complete the required fields, and upload a copy of the document."
   - "Click **Submit** — the record stays **Pending** until approved by HR."
-keywords: [identification, passport, Emirates ID, labour card, visa, upload document, identification document, add ID, pending approval]
+keywords: [identification, passport, Emirates ID, labour card, visa, upload document, identification document, add ID, pending approval, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Record an identification document
 
-Identification documents are submitted through Employee Self-Service (ESS) and reviewed by Human Resources (HR) before they become active. Once submitted, you cannot make changes to the record until it has been processed.
+Identification documents are submitted through EmployeeXP and reviewed by Human Resources (HR) before they become active. Once submitted, you cannot make changes to the record until it has been processed.
 
 1. Open the Identification tab
 

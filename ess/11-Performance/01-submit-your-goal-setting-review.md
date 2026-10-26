@@ -1,10 +1,10 @@
 ---
 id: submit-your-goal-setting-review
 summary:
-  - "In ESS, go to **Skills and performance** and click the **Goal setting** tile to access your goal-setting review."
+  - "In EmployeeXP, go to **Skills and performance** and click the **Goal setting** tile to access your goal-setting review."
   - "Set a weighting, comment and goal status against each goal — you can add or remove goals as you go."
   - "Record your career aspirations, mobility preferences and training needs, then submit. Your weightings must total exactly 100%."
-keywords: [goal setting, performance review, skills and performance, goal weightage, weighting 100%, goal status, on track, add a goal, remove a goal, career aspirations, mobility, training needs, ESS]
+keywords: [goal setting, performance review, skills and performance, goal weightage, weighting 100%, goal status, on track, add a goal, remove a goal, career aspirations, mobility, training needs, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,9 +16,9 @@ Goal setting is the first stage of the performance year. Human Resources (HR) re
 
 1. Open your review
 
-   In Employee Self-Service (ESS), go to **Skills and performance** and click the **Goal setting tile** to find your reviews. Your goal-setting review is listed with its due date.
+   In EmployeeXP, go to **Skills and performance** and click the **Goal setting tile** to find your reviews. Your goal-setting review is listed with its due date.
 
-   ![The Skills and performance page in ESS showing the goal setting review](./images/submit-your-goal-setting-review-1.png)
+   ![The Skills and performance page in EmployeeXP showing the goal setting review](./images/submit-your-goal-setting-review-1.png)
 
    The timeline at the top of the review shows all the stages of the year — goal setting, mid-year review and end-of-year review — with the current one highlighted and the others marked as not started.
 

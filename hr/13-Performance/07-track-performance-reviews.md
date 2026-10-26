@@ -4,7 +4,7 @@ summary:
   - "In D365, go to **Human Resources ▸ Performance ▸ Reviews** to see every review and its current status."
   - "Open a review to read the goals, the employee's comments and the manager's comments side by side."
   - "The **Ratings** tab shows each rating, its weight, and the total and average scores for the cycle."
-keywords: [reviews list, performance review status, ready for review, in progress, completed, ratings tab, weightage, total score, average score, manager comments, employee comments, D365]
+keywords: [reviews list, performance review status, ready for review, in progress, completed, ratings tab, weightage, total score, average score, manager comments, employee comments, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Track performance reviews in D365
 
-The Reviews list is where Human Resources (HR) confirms the batch job worked and follows reviews as employees and managers complete them. Everything submitted from Employee Self-Service (ESS) is visible here, including comments and ratings from both sides.
+The Reviews list is where Human Resources (HR) confirms the batch job worked and follows reviews as employees and managers complete them. Everything submitted from EmployeeXP is visible here, including comments and ratings from both sides.
 
 1. Open the Reviews list
 
@@ -38,7 +38,7 @@ The Reviews list is where Human Resources (HR) confirms the batch job worked and
 
    ![An open review showing employee and manager comments against each goal](./images/track-performance-reviews-2.png)
 
-   Manager comments are visible to HR here but are not all exposed to the employee in ESS.
+   Manager comments are visible to HR here but are not all exposed to the employee in EmployeeXP.
 
 4. Check the ratings
 

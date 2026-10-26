@@ -1,10 +1,10 @@
 ---
 id: review-your-teams-end-of-year-reviews
 summary:
-  - "In ESS, open your manager view and open the end-of-year review waiting for your feedback."
+  - "In EmployeeXP, open your manager view and open the end-of-year review waiting for your feedback."
   - "Comment and give your final rating against each goal, then set an overall rating and summary for the year."
   - "Click **Submit for calibration** — the total and average scores are calculated, and the record goes to HR."
-keywords: [end of year review, manager final rating, overall rating, development notes, submit for calibration, total score, average score, missed previous review, read only career aspirations, ESS]
+keywords: [end of year review, manager final rating, overall rating, development notes, submit for calibration, total score, average score, missed previous review, read only career aspirations, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The end of year review is where you set an employee's final ratings for the year
 
 1. Open the review
 
-   In Employee Self-Service (ESS), go to your manager view and open the end-of-year review. Everything submitted throughout the year—ratings, comments, both sides—is visible.
+   In EmployeeXP, go to your manager view and open the end-of-year review. Everything submitted throughout the year—ratings, comments, both sides—is visible.
 
    ![An end of year review open in the manager view showing the full year's history](./images/review-your-teams-end-of-year-reviews-1.png)
 

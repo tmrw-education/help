@@ -2,17 +2,17 @@
 sidebar_position: 0
 ---
 
-# Growth Experience Platform help
+# GrowthXP help
 
-The **Growth Experience Platform** (GXP) is where you do your professional learning: the courses you're asked to
+**GrowthXP** is where you do your professional learning: the courses you're asked to
 complete, the ones you choose for yourself, your certificates and your learning deadlines, all in one place. Find help by
 topic below, or use the search bar at the top.
 
-![The GXP My courses page with the learning summary, status tabs and course cards](./01-Getting-started/images/gxp-what-is-gxp-1.png)
+![The GrowthXP My courses page with the learning summary, status tabs and course cards](./01-Getting-started/images/gxp-what-is-gxp-1.png)
 
 ## For everyone
 
-- **[Getting started](./01-Getting-started/01-what-is-gxp.md)**: what GXP is, signing in, finding your way around,
+- **[Getting started](./01-Getting-started/01-what-is-gxp.md)**: what GrowthXP is, signing in, finding your way around,
   notifications, the emails you receive, themes and signing out.
 - **[My courses](./02-My-learning/01-view-your-courses.md)**: your courses, the catalogue, enrolling, launching and
   completing courses, feedback, due dates, expiry and renewal.
@@ -35,11 +35,11 @@ topic below, or use the search bar at the top.
 - **[Access and permissions](./12-Access-and-permissions/01-understand-the-roles.md)**: roles and who can do what.
 - **[Organisation settings](./13-Organisation-settings/01-set-the-email-sender-and-logo.md)**: emails, reminders and
   feedback rules.
-- **[HR integration](./14-HR-integration/01-how-the-hr-integration-works.md)**: connecting GXP to your HR system.
+- **[HR integration](./14-HR-integration/01-how-the-hr-integration-works.md)**: connecting GrowthXP to your HR system.
 - **[Troubleshooting](./15-Troubleshooting.md)**: common problems and how to resolve them.
-- **[Glossary](./16-Glossary.md)**: the terms used across GXP.
+- **[Glossary](./16-Glossary.md)**: the terms used across GrowthXP.
 
 ## New here?
 
-Start with **[What is the Growth Experience Platform?](./01-Getting-started/01-what-is-gxp.md)**, then
+Start with **[What is GrowthXP?](./01-Getting-started/01-what-is-gxp.md)**, then
 **[sign in](./01-Getting-started/02-sign-in.md)** and open **[My courses](./02-My-learning/01-view-your-courses.md)**.

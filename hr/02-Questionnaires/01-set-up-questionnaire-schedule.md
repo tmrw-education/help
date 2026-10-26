@@ -4,7 +4,7 @@ summary:
   - "In the Questionnaire module, open **Questionnaire Schedule** and click **New**."
   - "Set the questionnaire, target legal entity or business segment, and start/end dates."
   - "Click **Start** to release the questionnaire to respondents."
-keywords: [questionnaire schedule, distribute questionnaire, release questionnaire, assign questionnaire, intention survey, exit survey, NPS, cross-company, legal entity]
+keywords: [questionnaire schedule, distribute questionnaire, release questionnaire, assign questionnaire, intention survey, exit survey, NPS, cross-company, legal entity, employeexp]
 video:
   youtube:
   bunny:
@@ -40,6 +40,6 @@ Questionnaire schedules target a questionnaire to specific employees across one 
 
 6. Start the schedule
 
-   Click **Start** to activate the schedule. The questionnaire will appear for targeted employees in the Employee Self-Service (ESS) portal under their **Questionnaires** tab.
+   Click **Start** to activate the schedule. The questionnaire will appear for targeted employees in the EmployeeXP portal under their **Questionnaires** tab.
 
    ![The Questionnaire Schedule record with the Start button highlighted in the Action Pane](./images/set-up-questionnaire-schedule-3.png)

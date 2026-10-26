@@ -4,7 +4,7 @@ summary:
   - "In D365, go to **Human Resources ▸ Employees**, open the employee, and open their **Positions**."
   - "Set the attendance hierarchy and overtime hierarchy on the position, naming the person who approves each."
   - "Leave them unset where the line manager approves; the line hierarchy is used instead."
-keywords: [attendance manager, overtime manager, position hierarchy, assign hierarchy, employee positions, line manager, attendance approver, overtime approver, D365]
+keywords: [attendance manager, overtime manager, position hierarchy, assign hierarchy, employee positions, line manager, attendance approver, overtime approver, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -32,6 +32,6 @@ An employee's attendance and overtime are visible to, and approved by, whoever s
 
 5. Save
 
-   Click **Save**. The employee now appears under that approver when they switch to the hierarchy view in the attendance details and overtime details forms in D365, and under **Hierarchy** on the team attendance screens in Employee Self-Service (ESS).
+   Click **Save**. The employee now appears under that approver when they switch to the hierarchy view in the attendance details and overtime details forms in D365, and under **Hierarchy** on the team attendance screens in EmployeeXP.
 
 Where the line manager is also the attendance and overtime approver, you can leave these unset — the employee will appear under the line view instead. An employee who is in neither your line nor your hierarchy does not appear for you at all, by design.

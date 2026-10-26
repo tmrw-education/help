@@ -2,9 +2,9 @@
 id: view-talent-review-records
 summary:
   - "In D365, open the employee record and go to the **Work** tab, then **Talent review**."
-  - "Everything entered against the employee in the ESS talent review — comments, risk and impact of loss, successor and readiness — is stored here."
+  - "Everything entered against the employee in the EmployeeXP talent review — comments, risk and impact of loss, successor and readiness — is stored here."
   - "Use the **Attachment** button to open any files uploaded with the talent review."
-keywords: [talent review, employee talent mapping, risk of loss, impact of loss, key performer, high potential, identified successor, employee readiness, talent attachment, succession planning, D365]
+keywords: [talent review, employee talent mapping, risk of loss, impact of loss, key performer, high potential, identified successor, employee readiness, talent attachment, succession planning, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # View talent review records
 
-Talent reviews are completed from the Employee Self-Service (ESS) manager view, but Dynamics 365 (D365) stores the records against the employee. This gives Human Resources (HR) a full picture at any point in time without needing the ESS screens.
+Talent reviews are completed from the EmployeeXP manager view, but Dynamics 365 (D365) stores the records against the employee. This gives Human Resources (HR) a full picture at any point in time without needing the EmployeeXP screens.
 
 1. Open the employee record
 
@@ -43,10 +43,10 @@ Talent reviews are completed from the Employee Self-Service (ESS) manager view, 
 
 4. Open the attachments
 
-   Click the **Attachment** button at the top of the record. Any file uploaded with the talent review in ESS is stored against the employee here.
+   Click the **Attachment** button at the top of the record. Any file uploaded with the talent review in EmployeeXP is stored against the employee here.
 
 5. Check a matrix move has landed
 
-   When an employee is moved between boxes on the growth and performance matrix in ESS, the new position is written to this record. If a move doesn't appear right away, wait a moment and refresh—the update isn't instant.
+   When an employee is moved between boxes on the growth and performance matrix in EmployeeXP, the new position is written to this record. If a move doesn't appear right away, wait a moment and refresh—the update isn't instant.
 
 The matrix itself is configured in D365 — see [Configure the growth and performance matrix](./05-configure-the-growth-and-performance-matrix.md).

@@ -1,10 +1,10 @@
 ---
 id: submit-a-leave-request
 summary:
-  - "In ESS, go to **Request time off** and check your **Leave plan** and choose your **Leave type**."
+  - "In EmployeeXP, go to **Request time off** and check your **Leave plan** and choose your **Leave type**."
   - "Select a **Reason code** where one is required, then pick your start and end dates."
   - "Click **Submit** — the request goes to your approver, and you can track it under your time off requests."
-keywords: [leave request, request time off, annual leave, casual leave, leave plan, leave type, reason code, submit leave, advance notice, leave balance, ESS]
+keywords: [leave request, request time off, annual leave, casual leave, leave plan, leave type, reason code, submit leave, advance notice, leave balance, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -12,19 +12,19 @@ video:
 
 # Submit a leave request
 
-Leave is requested from Employee Self-Service (ESS). Choose the plan and leave type you want to take, select your dates, and submit. The request then follows the approval workflow set up for your school.
+Leave is requested from EmployeeXP. Choose the plan and leave type you want to take, select your dates, and submit. The request then follows the approval workflow set up for your school.
 
 1. Open the time off request form
 
-   In ESS, go to **Request time off**.
+   In EmployeeXP, go to **Request time off**.
 
-   ![Link for the Request time off form in ESS](./images/submit-a-leave-request-1.png)
+   ![Link for the Request time off form in EmployeeXP](./images/submit-a-leave-request-1.png)
 
 2. Choose your leave plan
 
    The **Leave plan** you are enrolled in is automatically selected. You are enrolled in your plans when you are hired, and your enrolment is updated if you move to a new position — so the plans you see reflect your current role.
 
-   You only see the plans and types your school has chosen to make available in ESS. If a plan or type you expect isn't in the list, contact your Human Resources (HR) team.
+   You only see the plans and types your school has chosen to make available in EmployeeXP. If a plan or type you expect isn't in the list, contact your Human Resources (HR) team.
 
 3. Choose your leave type
 

@@ -4,7 +4,7 @@ summary:
   - "In D365, go to **System administration ▸ Periodic tasks ▸ GEMS periodic ▸ Batch** and open the performance review."
   - "Select the performance period, its start and end dates, and the matching review template."
   - "Set a creation date that falls inside the period, then run the job — leave the personnel number blank to generate for everyone."
-keywords: [generate performance reviews, batch job, GEMS periodic batch jobs, periodic tasks, performance review batch, creation date, review template, personnel number, bulk review generation, D365]
+keywords: [generate performance reviews, batch job, GEMS periodic batch jobs, periodic tasks, performance review batch, creation date, review template, personnel number, bulk review generation, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -48,4 +48,4 @@ Employees don't create reviews —Human Resources (HR) or Information Technology
 
    Go to **Human Resources ▸ Performance ▸ Reviews** and refresh. Your generated reviews appear in the list. Open one and check that the goals have copied across — a template with seven goals should produce a review with those seven goals populated.
 
-Once generated, the reviews appear in Employee Self-Service (ESS) for employees to complete. You can follow their progress from the same Reviews list — see [Track performance reviews in D365](./07-track-performance-reviews.md).
+Once generated, the reviews appear in EmployeeXP for employees to complete. You can follow their progress from the same Reviews list — see [Track performance reviews in D365](./07-track-performance-reviews.md).

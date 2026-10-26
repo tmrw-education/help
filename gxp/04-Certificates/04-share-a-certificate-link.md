@@ -4,7 +4,7 @@ summary:
   - "Open the certificate page from **Certificates**."
   - "Click **Copy link** and send it."
   - "Only you, your line managers and some administrator roles can open it, after signing in."
-keywords: [share certificate, certificate link, copy link, send certificate, show my manager, certificate page, proof for hr, verify certificate]
+keywords: [share certificate, certificate link, copy link, send certificate, show my manager, certificate page, proof for hr, verify certificate, growthxp]
 video:
   youtube:
   bunny:
@@ -30,7 +30,7 @@ Every certificate has its own page with a permanent address, so you can point yo
 
    Paste the link into an email or message to the person who needs it.
 
-> **Note:** The link isn't public. The person must sign in to GXP, and only you, your line managers and people with
+> **Note:** The link isn't public. The person must sign in to GrowthXP, and only you, your line managers and people with
 > the **Organisation administrator**, **Course manager** or **HR manager** role can open it. Anyone else sees **Certificate not found**. To share with someone outside
 > your organisation, send them the downloaded certificate instead.
 

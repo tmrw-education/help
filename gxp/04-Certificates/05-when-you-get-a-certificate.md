@@ -4,7 +4,7 @@ summary:
   - "Certificates are issued automatically when you complete a course or pathway that awards one."
   - "If feedback is required, you get the certificate once you've submitted it."
   - "Some courses also need a minimum score; completions recorded in HR get no certificate."
-keywords: [how do I get a certificate, certificate not issued, no certificate, missing certificate, certificate after feedback, earn certificate, pathway certificate, minimum score, pass mark]
+keywords: [how do I get a certificate, certificate not issued, no certificate, missing certificate, certificate after feedback, earn certificate, pathway certificate, minimum score, pass mark, growthxp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # How you earn a certificate
 
-Nobody needs to approve your certificate: GXP issues it as soon as you meet the course's conditions.
+Nobody needs to approve your certificate: GrowthXP issues it as soon as you meet the course's conditions.
 
 1. Check that the course awards one
 
@@ -36,4 +36,4 @@ Nobody needs to approve your certificate: GXP issues it as soon as you meet the 
 
 For a learning pathway, you receive its certificate when you've completed every course in it, with any required feedback,
 and met the pathway's average score if it has one. Each renewal of a course earns a new certificate. Completions recorded
-in HR don't get a certificate in GXP; complete the course in GXP if you need one.
+in HR don't get a certificate in GrowthXP; complete the course in GrowthXP if you need one.

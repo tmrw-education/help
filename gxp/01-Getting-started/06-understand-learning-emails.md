@@ -1,10 +1,10 @@
 ---
 id: gxp-understand-learning-emails
 summary:
-  - "GXP can email you when learning is assigned, due, overdue, completed, renewed or certified."
+  - "GrowthXP can email you when learning is assigned, due, overdue, completed, renewed or certified."
   - "Feedback reminders arrive only if your organisation sets a feedback deadline."
   - "Which emails you get is decided by your organisation, not by you."
-keywords: [emails, email notifications, reminder email, overdue email, new learning assigned, course completed email, certificate email, renewal email, feedback reminder, not getting emails, stop emails]
+keywords: [emails, email notifications, reminder email, overdue email, new learning assigned, course completed email, certificate email, renewal email, feedback reminder, not getting emails, stop emails, growthxp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Emails you receive about your learning
 
-GXP sends emails about your learning from your organisation's sender name. Your organisation chooses which ones are
+GrowthXP sends emails about your learning from your organisation's sender name. Your organisation chooses which ones are
 sent and can change their wording, so yours may differ from the defaults below.
 
 1. When learning is assigned to you

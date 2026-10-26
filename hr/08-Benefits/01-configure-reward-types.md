@@ -4,7 +4,7 @@ summary:
   - "Open the **Component Master** in D365 and filter for components that should appear in the rewards statement."
   - "Click **Edit** and set the **Reward Type** field for each applicable component."
   - "Click **Save**."
-keywords: [reward type, component master, rewards statement, benefits classification, allowance type, compensation component, fixed allowance, living allowance, ESS rewards, benefits setup]
+keywords: [reward type, component master, rewards statement, benefits classification, allowance type, compensation component, fixed allowance, living allowance, ESS rewards, benefits setup, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Configure reward types on the component master
 
-The **Reward Type** field on the component master classifies compensation and benefit components so they appear in the correct category on the employee rewards statement in Employee Self-Service (ESS). Components without a reward type are excluded from the statement. This is a one-time configuration step for each applicable component.
+The **Reward Type** field on the component master classifies compensation and benefit components so they appear in the correct category on the employee rewards statement in EmployeeXP. Components without a reward type are excluded from the statement. This is a one-time configuration step for each applicable component.
 
 1. Open the Component Master
 
@@ -40,7 +40,7 @@ The **Reward Type** field on the component master classifies compensation and be
    - **Living** — living or accommodation-related allowances
    - **Other** — any other components to be included in the statement
 
-   Components with a reward type set will appear in the corresponding category on the employee's rewards statement in ESS.
+   Components with a reward type set will appear in the corresponding category on the employee's rewards statement in EmployeeXP.
 
    ![The component record in edit mode with the Reward Type dropdown open showing available category options](./images/configure-reward-types-3.png)
 

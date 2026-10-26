@@ -5,7 +5,7 @@ summary:
   - "The tiles show **Not started**, **In progress**, **Completed** and **Mandatory compliant**."
   - "The table lists each course with its **Classification**, **Status**, **Due date**, **Compliance**, **Validity**, **Feedback** and **Certificate**."
   - "Click the **Training history** icon to see every cycle of a course."
-keywords: [team member learning, person's courses, staff member progress, view certificate, training history, renewal history, line manager view person, compliance of one person]
+keywords: [team member learning, person's courses, staff member progress, view certificate, training history, renewal history, line manager view person, compliance of one person, growthxp]
 video:
   youtube:
   bunny:
@@ -33,7 +33,7 @@ date. It's for line managers, and only for people in your reporting line.
 
    **Classification** is **Mandatory**, **Recommended**, or **Not assigned** for a course they started without being
    assigned it. **Status** is **Not started**, **In progress** or **Completed**. A **Recorded in HR** tag means the
-   completion came from your HR system, with no certificate in Growth Experience Platform. **Compliance** shows
+   completion came from your HR system, with no certificate in GrowthXP. **Compliance** shows
    **Compliant**, **Due**, **Overdue** or **Expired** for mandatory learning. **Validity** shows when a completion
    expires. **Feedback** shows whether they've given course feedback, and when it's due. A renewed course shows
    "Cycle 2" (or later) under its title.

@@ -32,10 +32,8 @@ bar up top, or ask **Felix**, the in-app assistant.
 - **[Student & parent profiles](./09-Profiles/01-find-student-profile.md)** —
   look up student and parent information.
 - **[AI & Felix](./10-AI/01-how-felix-agents-work.md)** — what Felix can do for
-  you, how to prompt it, and a page for each agent.
-- **[Academic reporting](./11-Academic-reporting/01-how-academic-reporting-works.md)** —
-  set up and run a report cycle, enter grades, review and revise the drafted
-  comments, and publish student reports.
+  you, how to prompt it, and the rewards dashboard.
+  {/* Hidden until the Academic reporting pages (11-Academic-reporting, all draft: true) are published. Remove this comment then. - **[Academic reporting](./11-Academic-reporting/01-how-academic-reporting-works.md)** — set up and run a report cycle, enter grades, review and revise the drafted comments, and publish student reports. */}
 - **[Troubleshooting](./12-Troubleshooting.md)** — common problems and how to
   resolve them.
 - **[Glossary](./13-Glossary.md)** — the terms used across StaffXP.

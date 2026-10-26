@@ -4,7 +4,7 @@ summary:
   - "The header runs across the top of every page."
   - "Links: **My courses**, **Courses**, **Learning pathways**, **Certificates**, **Calendar** (and **Manage** if your role has it)."
   - "On the right: your name, **Notifications**, **Change theme** and **Sign out**."
-keywords: [navigate, navigation, header, menu, top bar, get around, find pages, where is, home page, my courses, manage, menu button]
+keywords: [navigate, navigation, header, menu, top bar, get around, find pages, where is, home page, my courses, manage, menu button, growthxp]
 video:
   youtube:
   bunny:
@@ -12,15 +12,15 @@ video:
 
 # Find your way around
 
-The dark header bar sits across the top of every page in GXP.
+The dark header bar sits across the top of every page in GrowthXP.
 
 1. The main links
 
-   Click **Growth Experience Platform** (far left) to return to **My courses**, your home page. Next to it are
+   Click **GrowthXP** (far left) to return to **My courses**, your home page. Next to it are
    **My courses**, **Courses**, **Learning pathways**, **Certificates** and **Calendar**. If your role includes managing
    or reporting on learning, you'll also see **Manage**.
 
-   ![The GXP header with the main links and the icons on the right](./images/gxp-find-your-way-around-1.png)
+   ![The GrowthXP header with the main links and the icons on the right](./images/gxp-find-your-way-around-1.png)
 
 2. The icons on the right
 

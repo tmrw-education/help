@@ -1,4 +1,5 @@
 ---
+draft: true
 id: review-and-decide-a-leave-request
 summary:
   - "Requests a parent submits arrive on the **Leave Request** table, and you are notified."

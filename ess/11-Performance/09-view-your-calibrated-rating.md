@@ -1,10 +1,10 @@
 ---
 id: view-your-calibrated-rating
 summary:
-  - "In ESS, go to **Skills and performance** and open your most recent review."
+  - "In EmployeeXP, go to **Skills and performance** and open your most recent review."
   - "Your final rating, total score and average score are shown in the overall view."
   - "Your rating appears once your manager has published it, after the calibration process is complete."
-keywords: [calibrated rating, final rating, total score, average score, overall view, published rating, skills and performance, end of year result, ESS]
+keywords: [calibrated rating, final rating, total score, average score, overall view, published rating, skills and performance, end of year result, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -12,11 +12,11 @@ video:
 
 # View your calibrated rating
 
-After you submit your end-of-year review, your manager completes their feedback and submits it for calibration. Human Resources (HR) compares ratings across the organisation, your manager confirms the outcome with you, and the final rating is then published to you in Employee Self-Service (ESS).
+After you submit your end-of-year review, your manager completes their feedback and submits it for calibration. Human Resources (HR) compares ratings across the organisation, your manager confirms the outcome with you, and the final rating is then published to you in EmployeeXP.
 
 1. Open your performance page
 
-   In ESS, go to **Skills and performance**.
+   In EmployeeXP, go to **Skills and performance**.
 
 2. Open your most recent review
 

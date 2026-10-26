@@ -3,8 +3,8 @@ id: run-offboarding-questionnaire-batch
 summary:
   - "Go to **Questionnaire ▸ Periodic Question ▸ Questionnaire Schedule for Offboarding Employee**."
   - "Click **Run** to trigger the batch job."
-  - "The job generates questionnaires for employees with an active offboarding checklist and they appear in ESS."
-keywords: [offboarding questionnaire, exit survey, questionnaire batch, offboarding batch, generate questionnaire, departing employee, batch job]
+  - "The job generates questionnaires for employees with an active offboarding checklist and they appear in EmployeeXP."
+keywords: [offboarding questionnaire, exit survey, questionnaire batch, offboarding batch, generate questionnaire, departing employee, batch job, employeexp]
 video:
   youtube:
   bunny:
@@ -25,7 +25,7 @@ The offboarding exit survey is generated automatically via a batch job that dete
    Click **OK** to trigger the batch job. The job:
    - Finds all employees who have been assigned an offboarding checklist.
    - Generates a questionnaire for each employee based on the offset dates defined in the checklist.
-   - Assigns the questionnaire to each employee for completion in Employee Self-Service (ESS).
+   - Assigns the questionnaire to each employee for completion in EmployeeXP.
 
    ![The offboarding questionnaire schedule record with the OK button highlighted](./images/run-offboarding-questionnaire-batch-2.png)
 
@@ -33,4 +33,4 @@ The offboarding exit survey is generated automatically via a batch job that dete
 
 3. Confirm generation
 
-   After the batch runs, a questionnaire ID is generated for each affected employee. Employees will see the questionnaire appear in their ESS portal under the **Questionnaires** tab. To check the answers in D365, go to **Questionnaire ▸ View and analyse results ▸ Answers by person**. Filter the name required, then click **Answers** in the Action Pane. Use the questionnaire number as a reference.
+   After the batch runs, a questionnaire ID is generated for each affected employee. Employees will see the questionnaire appear in their EmployeeXP portal under the **Questionnaires** tab. To check the answers in D365, go to **Questionnaire ▸ View and analyse results ▸ Answers by person**. Filter the name required, then click **Answers** in the Action Pane. Use the questionnaire number as a reference.

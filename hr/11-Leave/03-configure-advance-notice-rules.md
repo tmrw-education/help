@@ -2,9 +2,9 @@
 id: configure-advance-notice-rules
 summary:
   - "On the leave type, set the number of **consecutive days** that trigger the rule and the **days of notice** required."
-  - "ESS blocks any request that meets the day count but is submitted inside the notice period."
+  - "EmployeeXP blocks any request that meets the day count but is submitted inside the notice period."
   - "The rule can be set against any leave type."
-keywords: [advance notice, notice period, long leave, consecutive days, leave validation, casual leave, leave type setup, submission blocked, D365]
+keywords: [advance notice, notice period, long leave, consecutive days, leave validation, casual leave, leave type setup, submission blocked, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Configure advance notice rules for long leave
 
-Long absences usually need warning. An advance notice rule makes Employee Self-Service (ESS) refuse a request when the period is long enough to matter, but the employee hasn't given enough notice.
+Long absences usually need warning. An advance notice rule makes EmployeeXP refuse a request when the period is long enough to matter, but the employee hasn't given enough notice.
 
 1. Open the leave type
 
@@ -31,7 +31,7 @@ Long absences usually need warning. An advance notice rule makes Employee Self-S
 
 3. Save
 
-   Click **Save**. The validation applies to new ESS submissions immediately.
+   Click **Save**. The validation applies to new EmployeeXP submissions immediately.
 
 4. Check the employee experience
 

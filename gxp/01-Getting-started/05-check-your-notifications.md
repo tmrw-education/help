@@ -4,7 +4,7 @@ summary:
   - "Click the **Notifications** bell in the header; a red number shows unread items."
   - "Items tell you about **Overdue** and **Due soon** learning and feedback you owe."
   - "Click an item to go straight to the course or the feedback form; **Mark all as read** clears the count."
-keywords: [notifications, bell, alerts, unread, due soon, overdue, feedback required, feedback needed, mark all as read, reminders in app]
+keywords: [notifications, bell, alerts, unread, due soon, overdue, feedback required, feedback needed, mark all as read, reminders in app, growthxp]
 video:
   youtube:
   bunny:
@@ -40,6 +40,6 @@ The bell in the header gathers the things you need to act on in your learning.
 
    Click **Mark all as read**. When there's nothing left, the panel says **You are all caught up**.
 
-Notifications are worked out from your courses each time GXP loads, and what you've read is remembered in this browser
+Notifications are worked out from your courses each time GrowthXP loads, and what you've read is remembered in this browser
 only. On another computer or browser, items you've already read show as unread again. Emails are separate; see
 [Emails you receive about your learning](./06-understand-learning-emails.md).

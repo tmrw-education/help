@@ -1,10 +1,10 @@
 ---
 id: release-calibrated-ratings-to-your-team
 summary:
-  - "In ESS, open the calibration manager view to see the calibrated ratings HR has released to you."
+  - "In EmployeeXP, open the calibration manager view to see the calibrated ratings HR has released to you."
   - "Check which ratings have changed and hold your conversations with the employees affected."
   - "Click **Publish to employees** to release the final ratings to your team."
-keywords: [calibration manager view, released ratings, calibrated rating changed, publish to employees, downgraded rating, employee conversation, quick profile, calibration inquiry, ESS]
+keywords: [calibration manager view, released ratings, calibrated rating changed, publish to employees, downgraded rating, employee conversation, quick profile, calibration inquiry, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ Once Human Resources (HR) has calibrated, the ratings come back to you before th
 
 1. Open the calibration manager view
 
-   In Employee Self-Service (ESS), go to your manager view and open calibration. Your view populates once HR releases ratings to you—before that, you won't see anything.
+   In EmployeeXP, go to your manager view and open calibration. Your view populates once HR releases ratings to you—before that, you won't see anything.
 
    ![The calibration manager view showing released ratings for the team](./images/release-calibrated-ratings-to-your-team-1.png)
 

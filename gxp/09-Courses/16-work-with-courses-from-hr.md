@@ -5,7 +5,7 @@ summary:
   - "Filter with **Source** ▸ **From HR** to find them."
   - "Add a SCORM package with **Replace or add a version**, set the audience, then **Mark ready**."
   - "In-person HR courses are tagged **In person** and stay as drafts."
-keywords: [courses from hr, hr courses, imported courses, dynamics courses, finance and operations courses, from hr tag, in person, hr course sync]
+keywords: [courses from hr, hr courses, imported courses, dynamics courses, finance and operations courses, from hr tag, in person, hr course sync, growthxp]
 video:
   youtube:
   bunny:
@@ -13,7 +13,7 @@ video:
 
 # Work with courses from HR
 
-Growth Experience Platform can import courses from your HR system, such as Microsoft Dynamics 365 Finance & Operations,
+GrowthXP can import courses from your HR system, such as Microsoft Dynamics 365 Finance & Operations,
 so the two catalogues agree. You need the **Course manager** or **Organisation administrator** role. Importing courses
 from HR is off unless TMRW support turns it on for your organisation.
 
@@ -35,7 +35,7 @@ from HR is off unless TMRW support turns it on for your organisation.
 4. Know what HR keeps in step
 
    The title, description and self-enrolment setting come from HR. If only HR changed them since the last sync, HR's
-   values are taken. If both sides changed, Growth Experience Platform keeps its own value and shows the conflict to
+   values are taken. If both sides changed, GrowthXP keeps its own value and shows the conflict to
    administrators in **Manage** ▸ **Settings** ▸ **Synchronisation**. A course cancelled or removed in HR is never
    deleted here.
 

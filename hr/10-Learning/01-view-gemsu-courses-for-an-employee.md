@@ -4,7 +4,7 @@ summary:
   - "Open the employee record in D365 and go to the **GEMSU courses** tracker."
   - "Review course status, course type, start date and date registered for that employee."
   - "Use the all-employee course form to review course status across the workforce."
-keywords: [GEMSU, courses, learning, course tracker, course status, course type, start date, date registered, employee record, all employees, D365, integration]
+keywords: [GEMSU, courses, learning, course tracker, course status, course type, start date, date registered, employee record, all employees, D365, integration, employeexp]
 video:
   youtube:
   bunny:
@@ -37,7 +37,7 @@ The GEMSU integration writes GEMSU course data into Dynamics 365 (D365), giving 
    | **Start date** | The date the course is due to start |
    | **Date registered** | The date the employee was registered on the course in GEMSU |
 
-   This is the same data the employee sees under **GEMSU courses** in Employee Self-Service (ESS).
+   This is the same data the employee sees under **GEMSU courses** in EmployeeXP.
 
 4. Review courses across all employees
 

@@ -1,11 +1,11 @@
 ---
 id: gxp-glossary
-keywords: [glossary, terms, definitions, what does it mean, vocabulary]
+keywords: [glossary, terms, definitions, what does it mean, vocabulary, growthxp]
 ---
 
 # Glossary
 
-Terms used across Growth Experience Platform and this guide.
+Terms used across GrowthXP and this guide.
 
 [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [U](#u) · [V](#v) · [W](#w)
 

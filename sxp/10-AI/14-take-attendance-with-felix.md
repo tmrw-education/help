@@ -1,4 +1,5 @@
 ---
+draft: true
 id: take-attendance-with-felix
 summary:
   - "Prompt **Felix** with *show me attendance* to bring a class roll into the chat panel."

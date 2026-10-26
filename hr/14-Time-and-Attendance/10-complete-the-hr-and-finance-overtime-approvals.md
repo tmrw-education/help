@@ -44,4 +44,4 @@ Three people approve overtime in sequence: the manager first, then Human Resourc
 
    ![The Finance approval form listing the overtime records approved by the manager and HR](./images/complete-the-hr-and-finance-overtime-approvals-2.png)
 
-Overtime that has cleared all three stages is what gets sent out for payroll processing. At the time this was recorded, the payroll integration was still being built with the Phoenix team, so check with your system administrator what the current hand-off to payroll is.
+Overtime that has cleared all three stages is what gets sent out for payroll processing. Check with your system administrator how it is handed to payroll.

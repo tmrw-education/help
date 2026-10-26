@@ -3,8 +3,8 @@ id: set-up-leave-plans-and-types
 summary:
   - "In D365, go to **Leave and absence ▸ Setup ▸ Leave and absence plans** and create a plan, then group the leave types that belong to it."
   - "Configure accrual, eligibility, carry forward and grant amounts against each leave type."
-  - "Control what employees see in ESS using the visibility flags at plan and leave type level, and set the **sort order**."
-keywords: [leave plan, leave type, accrual type, months of service, hours worked, carry forward, minimum balance, grant amount, full entitlement at once, ESS visibility, sort order, accrual export, enrolled workers, D365]
+  - "Control what employees see in EmployeeXP using the visibility flags at plan and leave type level, and set the **sort order**."
+keywords: [leave plan, leave type, accrual type, months of service, hours worked, carry forward, minimum balance, grant amount, full entitlement at once, ESS visibility, sort order, accrual export, enrolled workers, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Set up leave plans and leave types
 
-Leave plans contain your leave types. There is no limit on how many plans you create and no fixed rule on how types are grouped — the structure is yours to decide, and it drives what employees can request in Employee Self-Service (ESS).
+Leave plans contain your leave types. There is no limit on how many plans you create and no fixed rule on how types are grouped — the structure is yours to decide, and it drives what employees can request in EmployeeXP.
 
 1. Open the leave plan
 
@@ -24,17 +24,17 @@ Leave plans contain your leave types. There is no limit on how many plans you cr
 
    At the bottom of the plan, add the leave types that belong to it. Group types however suits your policy — a plan can hold a single type or many.
 
-3. Set the plan's ESS visibility
+3. Set the plan's EmployeeXP visibility
 
-   At the header level, set whether the whole plan is visible in ESS. Plans set to **No** are hidden from employees entirely; only plans set to **Yes** appear in the ESS leave plan list.
+   At the header level, set whether the whole plan is visible in EmployeeXP. Plans set to **No** are hidden from employees entirely; only plans set to **Yes** appear in the EmployeeXP leave plan list.
 
-4. Restrict individual leave types in ESS
+4. Restrict individual leave types in EmployeeXP
 
    You can also control visibility per leave type. A plan can be visible while specific types within it are hidden — so you can publish a plan and still keep one of its types back from employees. Either control works on its own; use whichever fits the policy.
 
 5. Set the sort order
 
-   The **Sort order** on each leave type controls the order employees see in the ESS dropdown. Set it so the most commonly requested types come first.
+   The **Sort order** on each leave type controls the order employees see in the EmployeeXP dropdown. Set it so the most commonly requested types come first.
 
 6. Configure the accrual
 
@@ -56,7 +56,7 @@ Leave plans contain your leave types. There is no limit on how many plans you cr
 
    For leave that is granted as a fixed entitlement rather than accrued — maternity leave, for example — set the **Grant amount** in working days, and switch on **Full entitlement at once**.
 
-   With that flag on, ESS forces the employee to take the whole grant as a single block: they select a start date, the system calculates the end date from the grant, and they cannot shorten it.
+   With that flag on, EmployeeXP forces the employee to take the whole grant as a single block: they select a start date, the system calculates the end date from the grant, and they cannot shorten it.
 
 9. Review enrolled workers
 

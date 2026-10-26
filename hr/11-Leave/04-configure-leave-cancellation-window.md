@@ -4,7 +4,7 @@ summary:
   - "Set the cancellation parameter to the number of days of leave history that stays cancellable."
   - "The window is measured from the **start date of the leave**, not the submission date."
   - "The value can differ by school, so each legal entity can apply its own policy."
-keywords: [leave cancellation, cancellation window, cancellation not permitted, leave parameters, cancellation horizon, start date, prior year leave, legal entity, D365]
+keywords: [leave cancellation, cancellation window, cancellation not permitted, leave parameters, cancellation horizon, start date, prior year leave, legal entity, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -22,7 +22,7 @@ Without a limit, an employee could cancel leave from a previous period and reope
 
 2. Set the number of days
 
-   Enter the number of days of leave history that remains cancellable — 10 days, for example. Requests older than this time cannot be cancelled in Employee Self-Service (ESS).
+   Enter the number of days of leave history that remains cancellable — 10 days, for example. Requests older than this time cannot be cancelled in EmployeeXP.
 
 3. Understand how the window is measured
 

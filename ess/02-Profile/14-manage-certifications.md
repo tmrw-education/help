@@ -4,7 +4,7 @@ summary:
   - "From the **Skills & performance** tile, click **View All Certificates**."
   - "Review the status of each certificate — **Valid**, **Expiring**, **Expired**, or **Invalid**."
   - "Click **Add new certificate**, complete the details, upload the file, and click **Submit**."
-keywords: [certifications, certificates, add certificate, expiring certificate, valid certificate, professional certificates, compliance]
+keywords: [certifications, certificates, add certificate, expiring certificate, valid certificate, professional certificates, compliance, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The certifications section tracks your professional and compliance certificates,
 
 1. Open your certificates
 
-   From the Employee Self-Service (ESS) home page, locate the **Skills & performance** tile and click **View All Certificates**.
+   From the EmployeeXP home page, locate the **Skills & performance** tile and click **View All Certificates**.
 
 2. Review certificate statuses
 
@@ -29,7 +29,7 @@ The certifications section tracks your professional and compliance certificates,
    | **Expired** | Past expiry date — renewal required |
    | **Invalid** | Marked as no longer valid |
 
-   You will also receive expiry notifications through the **notification bell** on the ESS home screen.
+   You will also receive expiry notifications through the **notification bell** on the EmployeeXP home screen.
 
    ![The certifications landing page to view Total skills, Certificates and Performance goals](./images/manage-certifications-1.png)
 

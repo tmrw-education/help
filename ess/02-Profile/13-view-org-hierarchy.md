@@ -1,10 +1,10 @@
 ---
 id: view-org-hierarchy
 summary:
-  - "From the ESS home page, navigate to **Org chart**."
+  - "From the EmployeeXP home page, navigate to **Org chart**."
   - "Mouse over a person's name to view their details."
   - "Click on any person to navigate to their part of the hierarchy."
-keywords: [org chart, organisational hierarchy, reporting structure, team structure, who reports to, line manager, org chart]
+keywords: [org chart, organisational hierarchy, reporting structure, team structure, who reports to, line manager, org chart, employeexp]
 video:
   youtube:
   bunny:
@@ -16,13 +16,13 @@ The Org chart provides a live visual of the organisation's reporting structure, 
 
 1. Open the Org chart
 
-   From the Employee Self-Service (ESS) home page, navigate to **Org chart**.
+   From the EmployeeXP home page, navigate to **Org chart**.
 
 2. Explore the hierarchy
 
    The chart displays employee photos (where available), names, and reporting relationships. Mouse over any person's name to see their details.
 
-   ![The ESS Org chart showing employee names and photos arranged in a hierarchical tree with reporting lines connecting them](./images/view-org-hierarchy-1.png)
+   ![The EmployeeXP Org chart showing employee names and photos arranged in a hierarchical tree with reporting lines connecting them](./images/view-org-hierarchy-1.png)
 
 3. Navigate levels
 

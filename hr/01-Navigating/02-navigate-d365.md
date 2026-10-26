@@ -4,7 +4,7 @@ summary:
   - "Click the **☰ menu** to open the navigation pane, then select **Modules**."
   - "Drill into the relevant module and submenu to find the page you need."
   - "Use the **Action Pane** at the top of any record to save, edit, or create."
-keywords: [navigate, navigation, modules, hamburger menu, action pane, toolbar, search, find page, D365 layout]
+keywords: [navigate, navigation, modules, hamburger menu, action pane, toolbar, search, find page, D365 layout, employeexp]
 video:
   youtube:
   bunny:

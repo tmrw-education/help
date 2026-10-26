@@ -84,6 +84,11 @@ you want, and Felix hands the request to the right one.
 
 | What you want to do | Prompt something like | Page |
 | --- | --- | --- |
+| See your rewards activity | *show me the rewards dashboard* | [View the rewards dashboard](./10-view-the-rewards-dashboard.md) |
+
+{/* Hidden until these Felix pages are verified and published (each is draft: true and carries a
+TO RE-VERIFY BEFORE PUBLISHING note). Move each row back into the table above when its page goes live.
+
 | Write and publish a notice | *create a cultural event notice for Year 10* | [Create a notice with Felix](./02-create-a-notice-with-felix.md) |
 | Record a wellbeing concern | *Johnny cut his finger in the playground* | [Create a wellbeing note with Felix](./03-create-a-wellbeing-note-with-felix.md) |
 | Catch up on notices | *what notices did I miss?* | [Summarise the notices you missed](./04-summarise-the-notices-you-missed.md) |
@@ -92,12 +97,12 @@ you want, and Felix hands the request to the right one.
 | Send an update to a class's parents | *create a class update* | [Create a class update](./07-create-a-class-update.md) |
 | Recognise or sanction a student | *log a reward for Sophie for helping classmates* | [Log a reward or consequence](./08-log-a-reward-or-consequence.md) |
 | Do the same for a group | *create rewards for my students* | [Log rewards for several students](./09-log-rewards-for-several-students.md) |
-| See your rewards activity | *show me the rewards dashboard* | [View the rewards dashboard](./10-view-the-rewards-dashboard.md) |
 | See who is at attendance risk | *show me the attendance risk dashboard* | [View the attendance risk dashboard](./11-view-the-attendance-risk-dashboard.md) |
 | Act on an at-risk student | open a student from the risk report | [Review a student at attendance risk](./12-review-a-student-at-risk.md) |
 | Decide a parent's leave request | open **Leave Request** from your notification | [Review and decide a leave request](./13-review-and-decide-a-leave-request.md) |
 | Take the roll by prompt | *show me attendance* | [Take attendance with Felix](./14-take-attendance-with-felix.md) |
 | Change a mark on a submitted roll | *I need an attendance correction for 28 September* | [Request an attendance correction with Felix](./15-request-an-attendance-correction-with-felix.md) |
+*/}
 
 ## What Felix is good at, and what it is not
 

@@ -4,7 +4,7 @@ summary:
   - "Go to **Human Resources ▸ Workers ▸ Inquiries and Reports ▸ Employee Intention Survey Result**."
   - "Review the list of employees who have indicated they intend to leave."
   - "Open a record to view their details and current **Retention Status**."
-keywords: [intentions, intention survey, employee intention, employees leaving, retention, intention report, turnover, leavers, who is leaving]
+keywords: [intentions, intention survey, employee intention, employees leaving, retention, intention report, turnover, leavers, who is leaving, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # View the intentions inquiry
 
-The Employee Intention Survey Result form displays all employees who answered "Yes" to the intention-to-leave question in the Intention Questionnaire. Responses are captured live as employees submit the survey through Employee Self-Service (ESS).
+The Employee Intention Survey Result form displays all employees who answered "Yes" to the intention-to-leave question in the Intention Questionnaire. Responses are captured live as employees submit the survey through EmployeeXP.
 
 1. Navigate to the intentions inquiry
 

@@ -4,7 +4,7 @@ summary:
   - "Go to **Identification Types** setup in D365."
   - "Select a document type and configure its **mandatory fields** and **attachment requirement**."
   - "Scope rules by company and worker country/region as needed, then **Save**."
-keywords: [mandatory attachment, mandatory fields, identification types, document type, passport, Emirates ID, attachment required, identification setup]
+keywords: [mandatory attachment, mandatory fields, identification types, document type, passport, Emirates ID, attachment required, identification setup, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Configure mandatory attachments and fields for identification
 
-Each identification document type can have its own set of required fields and attachment rules. When an attachment is made mandatory, the Submit button in Employee Self-Service (ESS) is disabled until the employee uploads a file — preventing incomplete submissions.
+Each identification document type can have its own set of required fields and attachment rules. When an attachment is made mandatory, the Submit button in EmployeeXP is disabled until the employee uploads a file — preventing incomplete submissions.
 
 1. Navigate to the Identification types setup
 
@@ -43,4 +43,4 @@ Each identification document type can have its own set of required fields and at
 
 6. Save
 
-   Click **Save** to apply the configuration. The rules take effect immediately for all new identification submissions in ESS.
+   Click **Save** to apply the configuration. The rules take effect immediately for all new identification submissions in EmployeeXP.

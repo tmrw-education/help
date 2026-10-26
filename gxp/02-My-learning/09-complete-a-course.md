@@ -1,10 +1,10 @@
 ---
 id: gxp-complete-a-course
 summary:
-  - "Finish the course content; GXP marks it **Completed** when the course reports it."
+  - "Finish the course content; GrowthXP marks it **Completed** when the course reports it."
   - "You're asked for feedback, then any certificate is issued automatically."
   - "A completion can have a validity period, after which it needs renewing."
-keywords: [complete course, finish course, mark as complete, completed, course not completing, what happens when I finish, completion date, passed, review course]
+keywords: [complete course, finish course, mark as complete, completed, course not completing, what happens when I finish, completion date, passed, review course, growthxp]
 video:
   youtube:
   bunny:
@@ -17,7 +17,7 @@ A course is complete when the course itself says you've finished or passed it. T
 1. Finish the course content
 
    Work through to the end of the course, including any quiz it ends with. When the course reports **completed** or
-   **passed**, or you reach its final page, GXP records your completion.
+   **passed**, or you reach its final page, GrowthXP records your completion.
 
 2. Give feedback
 

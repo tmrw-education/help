@@ -4,7 +4,7 @@ summary:
   - "Open the **HR Request** form in D365 and refresh to see new submissions."
   - "Review the employee's submission and any attached file."
   - "Enter **HR Feedback**, optionally attach a document, then **Approve** and **Complete** the request."
-keywords: [process request, approve request, complete request, HR feedback, review request, request status, HR request form]
+keywords: [process request, approve request, complete request, HR feedback, review request, request status, HR request form, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Process an HR request
 
-When an employee submits a request through Employee Self-Service (ESS), it is routed to the Human Resources (HR) team via the configured workflow. HR reviews the submission, provides feedback, and marks it complete.
+When an employee submits a request through EmployeeXP, it is routed to the Human Resources (HR) team via the configured workflow. HR reviews the submission, provides feedback, and marks it complete.
 
 1. Open the HR Request form
 
@@ -34,11 +34,11 @@ When an employee submits a request through Employee Self-Service (ESS), it is ro
 
 4. Enter HR Feedback
 
-   In the **HR notes** field, enter your response or notes. This text is visible to the employee when they view their completed request in ESS.
+   In the **HR notes** field, enter your response or notes. This text is visible to the employee when they view their completed request in EmployeeXP.
 
 5. Attach a document (optional)
 
-   If you need to provide the employee with a document — such as an approval letter — click **Attach** to upload a file. The employee will be able to download it from their request in ESS.
+   If you need to provide the employee with a document — such as an approval letter — click **Attach** to upload a file. The employee will be able to download it from their request in EmployeeXP.
 
 6. Approve and complete the request
 
@@ -46,4 +46,4 @@ When an employee submits a request through Employee Self-Service (ESS), it is ro
 
    ![The HR request Action Pane with the Approve and Complete buttons highlighted](./images/process-an-hr-request-3.png)
 
-   > **Note:** After completing a request there is typically a 3–5 minute delay before the updated status appears in ESS. The ESS cache refreshes on a 5-minute cycle — this is by design.
+   > **Note:** After completing a request there is typically a 3–5 minute delay before the updated status appears in EmployeeXP. The EmployeeXP cache refreshes on a 5-minute cycle — this is by design.

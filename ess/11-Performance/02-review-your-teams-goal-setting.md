@@ -1,10 +1,10 @@
 ---
 id: review-your-teams-goal-setting
 summary:
-  - "In ESS, open your manager view to see the performance reviews waiting for your feedback, with overdue ones flagged."
+  - "In EmployeeXP, open your manager view to see the performance reviews waiting for your feedback, with overdue ones flagged."
   - "Work through each goal and add your comments — at goal setting, you comment only; you do not give ratings."
   - "Click **Submit** to complete the stage and close goal setting for that employee."
-keywords: [manager view, team performance reviews, goal setting feedback, manager comments, overdue review, ready for review, submit for completion, no rating at goal setting, ESS]
+keywords: [manager view, team performance reviews, goal setting feedback, manager comments, overdue review, ready for review, submit for completion, no rating at goal setting, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ When someone in your team submits their goal setting, the review comes to you fo
 
 1. Open your manager view
 
-   In Employee Self-Service (ESS), go to your manager view and open your team's performance reviews. Reviews waiting for you are listed as **Ready for review** with their due date, and anything past its due date is flagged as overdue.
+   In EmployeeXP, go to your manager view and open your team's performance reviews. Reviews waiting for you are listed as **Ready for review** with their due date, and anything past its due date is flagged as overdue.
 
    ![The manager view listing team performance reviews with statuses and due dates](./images/review-your-teams-goal-setting-1.png)
 

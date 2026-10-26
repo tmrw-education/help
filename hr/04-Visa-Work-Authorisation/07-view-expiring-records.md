@@ -1,10 +1,10 @@
 ---
 id: view-expiring-records
 summary:
-  - "From the **ESS dashboard**, locate and click the **Expiring Records** tile for the document type."
+  - "From the **EmployeeXP dashboard**, locate and click the **Expiring Records** tile for the document type."
   - "Review the list of employees with expiring or expired documents."
   - "Take the necessary action and update the record."
-keywords: [expiring records, expiring visa, passport expiry, labour card expiry, Emirates ID expiry, expiry workspace, PRO, document renewal]
+keywords: [expiring records, expiring visa, passport expiry, labour card expiry, Emirates ID expiry, expiry workspace, PRO, document renewal, employeexp]
 video:
   youtube:
   bunny:
@@ -18,7 +18,7 @@ The Expiring Records workspace gives Human Resources (HR) and Public Relations O
 
    Follow the pathway **Human resources ▸ Workspaces ▸ Personnel management**.
 
-   ![The ESS dashboard showing Expiring Records tiles for Passport, Visa, Labour Card, and Emirates ID with document counts displayed](./images/view-expiring-records-1.png)
+   ![The EmployeeXP dashboard showing Expiring Records tiles for Passport, Visa, Labour Card, and Emirates ID with document counts displayed](./images/view-expiring-records-1.png)
 
 3. Click the tile
 

@@ -4,7 +4,7 @@ summary:
   - "Go to **Full Profile ▸ Professional experience** tab and click **Add new experience**."
   - "Enter the Employer/referee's details."
   - "Click **Submit** — the record is sent for approval."
-keywords: [reference, referee, professional reference, add reference, employment reference. professional experience, previous experience, work experience, employment history, previous job, work history, add experience, career history]
+keywords: [reference, referee, professional reference, add reference, employment reference. professional experience, previous experience, work experience, employment history, previous job, work history, add experience, career history, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Add professional experience
 
-Previous experience records are submitted through Employee Self-Service (ESS) and go through the approval workflow before being confirmed on your profile.
+Previous experience records are submitted through EmployeeXP and go through the approval workflow before being confirmed on your profile.
 
 1. Open the Professional experience tab
 

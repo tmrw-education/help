@@ -4,7 +4,7 @@ summary:
   - "From the **Skills & performance** tile, click **View skills**."
   - "Click **Add new skill +**, choose the skill type, set proficiency and dates."
   - "Click **Submit** — the record goes to your manager or HR for approval."
-keywords: [skills, add skill, skill management, proficiency, competency, skills update, skills profile]
+keywords: [skills, add skill, skill management, proficiency, competency, skills update, skills profile, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The skills section lets you keep your competency profile current. Any skill you 
 
 1. Open your skills
 
-   From the Employee Self-Service (ESS) home page, locate the **Skills & performance** tile and click **View skills**.
+   From the EmployeeXP home page, locate the **Skills & performance** tile and click **View skills**.
 
 2. Review existing skills
 

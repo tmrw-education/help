@@ -5,7 +5,7 @@ summary:
   - "Click **Save connection**, then **Add certificate** and **Download** the public certificate."
   - "Upload the certificate to your Microsoft Entra app registration."
   - "Click **Test connection** and check every row says **Passed**."
-keywords: [connect HR, HR connection, set up Dynamics, connect F&O, test connection, certificate, app registration, client ID, tenant ID, environment URL]
+keywords: [connect HR, HR connection, set up Dynamics, connect F&O, test connection, certificate, app registration, client ID, tenant ID, environment URL, growthxp]
 video:
   youtube:
   bunny:
@@ -13,7 +13,7 @@ video:
 
 # Connect to Dynamics 365
 
-Connect Growth Experience Platform to your Dynamics 365 Finance and Operations environment. Have the details from
+Connect GrowthXP to your Dynamics 365 Finance and Operations environment. Have the details from
 [What you need to connect Dynamics 365](./02-what-you-need-to-connect-dynamics-365.md) ready.
 
 You need the **Organisation administrator** role.

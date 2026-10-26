@@ -4,7 +4,7 @@ summary:
   - "Go to **Full Profile ▸ Education** tab and click **Add New Qualification**."
   - "Select the qualification type, complete the fields, and upload your certificate."
   - "Click **Submit** — the record shows as **In Review** until approved."
-keywords: [education, qualification, degree, certificate, add qualification, academic, university, Masters, Bachelor]
+keywords: [education, qualification, degree, certificate, add qualification, academic, university, Masters, Bachelor, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Add an education record
 
-Education records are submitted through Employee Self-Service (ESS) and reviewed by Human Resources (HR) before they appear as active on your profile.
+Education records are submitted through EmployeeXP and reviewed by Human Resources (HR) before they appear as active on your profile.
 
 1. Open the Education tab
 

@@ -1,10 +1,10 @@
 ---
 id: search-company-directory
 summary:
-  - "From the ESS home page, navigate to **Company Directory**."
+  - "From the EmployeeXP home page, navigate to **Company Directory**."
   - "Type a colleague's **name** or their **reporting manager's name** in the search bar."
   - "Review the matching profile showing department, position, and contact details."
-keywords: [company directory, find colleague, search employee, staff directory, find staff, contact details, reporting manager]
+keywords: [company directory, find colleague, search employee, staff directory, find staff, contact details, reporting manager, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The Company Directory lets you find any colleague's contact details, department,
 
 1. Open Company Directory
 
-   From the Employee Self-Service (ESS) home page, navigate to **Company directory**.
+   From the EmployeeXP home page, navigate to **Company directory**.
 
 2. Search for a colleague
 

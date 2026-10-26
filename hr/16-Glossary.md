@@ -11,7 +11,7 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | ABC Category | A classification on a worker's visa record that updates automatically based on the visa type selected. |
 | Accrual Type | How a leave type accrues — by **months of service** or **hours worked**. Set on the leave type alongside accrual amount, carry forward and minimum balance. |
 | Action Pane | The toolbar at the top of any D365 record. **Back**, **Save / Edit** and **New** are always present and stay anchored as you move between tabs and sections. |
-| Advance Notice Rule | A validation on a leave type pairing a consecutive-day trigger with a required notice period — for example, 14 or more days must be requested 40 days ahead. Enforced when the employee submits in ESS. |
+| Advance Notice Rule | A validation on a leave type pairing a consecutive-day trigger with a required notice period — for example, 14 or more days must be requested 40 days ahead. Enforced when the employee submits in EmployeeXP. |
 | Active Dependent | The flag on a personal contact marking them as a live dependent of the employee. It must be set to Yes for the dependent to be picked up by the airfare calculation — dependents without it are skipped and no line is written. |
 | Age Group Setup | The form under **Human Resources ▸ Setup** defining the age bands — infant, child, adult — and the from and to ages of each. A dependent's birth date is matched against the bands to decide which fare they attract. |
 | Air Ticket Location | The **from** and **to** fields on an employee's profile identifying the route their airfare entitlement is based on. The values must match the From city and To city on a record in the airfare setup. |
@@ -20,7 +20,7 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Apply Checklist | The button on a worker action or employee record used to attach an onboarding, pre-onboarding, or offboarding checklist and set its target date. |
 | Apply Onboarding Checklist | A flag on a personal action type that causes the nominated default onboarding checklist to be applied automatically when a worker action of that type completes. |
 | Assigned To | The field on a checklist task naming who is responsible — a specific person, a user group, or left blank for manual assignment at the time of hire. |
-| Attachment Mandatory for Company | A setting on an identification type that requires a supporting file before an employee can submit that document in ESS. When enabled, the ESS **Submit** button stays disabled until a file is uploaded. |
+| Attachment Mandatory for Company | A setting on an identification type that requires a supporting file before an employee can submit that document in EmployeeXP. When enabled, the EmployeeXP **Submit** button stays disabled until a file is uploaded. |
 | Attendance Details | The summarised attendance record built from the attendance logs by the SQ attendance summary batch job — one row per employee per day holding work duration, regular minutes and overtime minutes. |
 | Attendance Hierarchy | The position hierarchy selected in human resource parameters that decides who sees and approves an employee’s attendance. Used where a designated attendance manager, rather than the line manager, is responsible. |
 | Attendance Log | The raw record of a punch in and punch out for an employee on a date. Holds no calculated values — durations and overtime come from the summary batch job. |
@@ -43,14 +43,14 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Calibrated Rating | The rating an employee holds after calibration. Blank in the calibration inquiry until HR has calibrated them, and shown alongside the provisional rating so a change is visible. |
 | Calibration Framework | The expected distribution of ratings, entered as a percentage per rating band against the performance year. It is the curve actual results are compared against during calibration. |
 | Calibration Inquiry | The D365 form listing every review submitted for calibration, with the review and employee IDs, the final employee rating, the calibrated rating, the manager, and the two release flags. |
-| Cancellation Window | The parameter limiting how far back leave can be cancelled from ESS, measured from the leave start date rather than the submission date. Set per legal entity. |
+| Cancellation Window | The parameter limiting how far back leave can be cancelled from EmployeeXP, measured from the leave start date rather than the submission date. Set per legal entity. |
 | Code Remark | The value identifying a punch record as a punch in or a punch out, carried on each attendance log row. |
 | Company | A legal entity in D365 — in practice, an individual school. Used to scope checklist tasks, user groups, and identification rules. |
 | Competency | An assessed area on a review template. On probation templates the template defines which competencies are included and the rating model used; on performance review templates competency is one of the goal classifications a review can carry. |
-| Component Master | The compensation setup form listing every pay and benefit component. The **Reward Type** field on each component determines whether and where it appears on the ESS rewards statement. |
+| Component Master | The compensation setup form listing every pay and benefit component. The **Reward Type** field on each component determines whether and where it appears on the EmployeeXP rewards statement. |
 | Contract Type | An employment contract category — Full Time, Limited, Part Time — configured under Visa master and used when recording visa and employment information. |
 | Course Status | The employee's progress on a GEMSU course — not started, in progress, or completed. Sourced from GEMSU. |
-| Course Type | Whether a GEMSU course is mandatory or recommended. Drives the tag the employee sees in ESS. |
+| Course Type | Whether a GEMSU course is mandatory or recommended. Drives the tag the employee sees in EmployeeXP. |
 | Create To Date | The field on the Generate attendance logs form setting how far forward attendance records are generated. |
 | CSV | Comma-separated values — a plain-text spreadsheet format. Attendance data is imported into Dynamics 365 from a CSV file. |
 
@@ -62,7 +62,7 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Data Entity | An import structure used with Data management to load records into D365 from a file. The GEMSU course entity is used for cutover and historical course data; the airfare setup entity is used to load the year's fares in bulk. |
 | Default Category | Used with staff level to define a unique combination for probation configuration — for example, Teacher + Grade 1. Each combination has its own Stage 1 and Stage 2 review days and template. |
 | Delegation | A configured arrangement that routes a person's tasks to a nominated delegate. If a group's primary member has an active delegation, checklist tasks go to the delegate automatically. |
-| Dependency | A prerequisite relationship between checklist tasks. A dependent task stays locked in ESS until its prerequisites are complete, and the task detail view shows what is blocking it. |
+| Dependency | A prerequisite relationship between checklist tasks. A dependent task stays locked in EmployeeXP until its prerequisites are complete, and the task detail view shows what is blocking it. |
 | Device Name | The attendance device a punch was recorded on, imported onto the attendance log alongside the location and location ID. |
 | Due Date Offset from Start Date | The number of days after an employee's start date by which an onboarding task must be completed. Compare with **Offset Date**, used by pre-onboarding checklists. |
 
@@ -74,8 +74,8 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Employee Intention Survey Result | The inquiry form listing every employee who answered Yes to the intention-to-leave question in the Intention Questionnaire. Only **Retention Status** and **Comments** are editable. |
 | Employee Readiness | How long until an identified successor is ready to take on the role — recorded on the talent review. |
 | Employee Visa Information | The form holding an employee's visa and labour card details, including UID number, visa type, professions, working unit and contract type. Populated from the worker action when a hire completes. |
-| ESS | Employee Self-Service — the staff-facing portal where employees complete questionnaires, checklist tasks, requests and probation feedback. The ESS cache refreshes on a five-minute cycle. |
-| ESS Display Order | A number on a request type controlling its position in the ESS request list. Lower numbers appear first. |
+| EmployeeXP | The staff-facing portal, formerly Employee Self-Service (ESS), where employees complete questionnaires, checklist tasks, requests and probation feedback. The EmployeeXP cache refreshes on a five-minute cycle. |
+| ESS Display Order | A number on a request type controlling its position in the EmployeeXP request list. Lower numbers appear first. |
 | Exclude from Probation | A field on an employee record that, when set to Yes, causes the probation batch to skip that employee entirely. |
 | Exit Confirmed | A retention status indicating the employee is confirmed as leaving. Triggers the recruitment process. |
 | Expiring Records | Tiles and workspace views under **Human resources ▸ Workspaces ▸ Personnel management** showing employee documents approaching or past expiry, with days remaining. Thresholds are configured per document type. |
@@ -89,7 +89,7 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Finance Approval | The third and final stage of the overtime approval chain. Lists only the overtime HR has already approved. |
 | Fixed Allowance | A reward type category for recurring fixed allowance components on the rewards statement. |
 | From City / To City | The origin and destination on an airfare setup record. They are matched against the air ticket location fields on the employee's profile — no match, no calculated airfare. |
-| Full Entitlement at Once | A flag on a leave type forcing the whole grant to be taken as a single block. ESS calculates the end date from the start date and prevents the employee shortening it. |
+| Full Entitlement at Once | A flag on a leave type forcing the whole grant to be taken as a single block. EmployeeXP calculates the end date from the start date and prevents the employee shortening it. |
 
 ## G
 
@@ -98,7 +98,7 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | GCO | The group legal entity in which questionnaire schedules are typically created before being released to individual schools or across all companies. |
 | GEMS Periodic Batch Jobs | The area under **System administration ▸ Periodic tasks** grouping the custom batch jobs — probation, performance and talent review. The performance review generation job is run from here. |
 | Gemsstatus | A status dropdown completed on the termination personnel action when offboarding an employee. |
-| GEMSU | The GEMS learning platform. Course assignments and completions flow from GEMSU into D365 through the GEMSU integration, and on into ESS for the employee. |
+| GEMSU | The GEMS learning platform. Course assignments and completions flow from GEMSU into D365 through the GEMSU integration, and on into EmployeeXP for the employee. |
 | GEMSU Course Tracker | The list on an employee record showing their GEMSU courses with course status, course type, start date and date registered. Populated by the integration; not maintained by hand. |
 | GEMSU Integration Log | The log recording every message received from GEMSU, viewable per employee or across all employees, with the state of each record — successful import or error. The first place to check when course data is missing. |
 | Generate Attendance Logs | The function on the attendance logs form that creates punch in and punch out records for selected employees across a date range, using a default start and end time and a working time calendar. Safe to re-run — it does not create duplicates. |
@@ -106,22 +106,22 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Goal Classification | The type of a goal — objective, competency, PIP or PDP. Set on the goal template and drawn from the goal types already defined in the existing system. |
 | Goal Template | A record in the goal library defining a single goal with its name, level, category, status and classification. Goal templates are grouped into review templates and copied onto each review at generation. |
 | Grant Amount | The fixed entitlement in working days configured against a grant-based leave type — 60 days for maternity leave, for example. |
-| Growth and Performance Matrix | The configurable grid employees are placed on — GEMS star, high performer, inconsistent, talent risk and the rest. Configured in D365; used from the ESS manager view. A value can only be defined once across the grid. |
+| Growth and Performance Matrix | The configurable grid employees are placed on — GEMS star, high performer, inconsistent, talent risk and the rest. Configured in D365; used from the EmployeeXP manager view. A value can only be defined once across the grid. |
 
 ## H
 
 | Term | Definition |
 |---|---|
-| Header Setup | The area of a request type configuration where each field is set as **Visible** and/or **Mandatory** for the ESS submission form. |
+| Header Setup | The area of a request type configuration where each field is set as **Visible** and/or **Mandatory** for the EmployeeXP submission form. |
 | Hierarchy View | The view on the attendance and overtime forms showing the employees assigned to you through the attendance or overtime hierarchy on their position, rather than your direct reports. |
 | Holidays and Closures | The calendar records holding announced public holidays. Moving a holiday here triggers automatic adjustment of every affected leave request in that legal entity. |
 | HR Approval | The second stage of the overtime approval chain. Lists only the overtime managers have already approved, and passes what HR approves on to finance. |
 | HRBP | HR business partner. Appears in approval group names such as **WSO HRBP approval group**. |
 | HR Discussion | A retention status indicating a retention conversation has been initiated with the employee. |
-| HR Notes | The field on an HR request where HR records their response. This text is what the employee sees on their completed request in ESS. |
+| HR Notes | The field on an HR request where HR records their response. This text is what the employee sees on their completed request in EmployeeXP. |
 | HR Probation Reviews | The central form where HR views all probation reviews — in progress or complete — with ratings, comments, workflow status and outcome. |
-| HR Request | A submission made by an employee through ESS, routed to HR by the configured workflow. Each has a system-generated request number. |
-| HR Request Types | The setup form defining what employees can request, which fields appear, what is mandatory, which workflow applies, and ESS visibility and ordering. |
+| HR Request | A submission made by an employee through EmployeeXP, routed to HR by the configured workflow. Each has a system-generated request number. |
+| HR Request Types | The setup form defining what employees can request, which fields appear, what is mandatory, which workflow applies, and EmployeeXP visibility and ordering. |
 | Human Resources Parameters | The system setup form whose **Recruitment** tab nominates the default onboarding checklist and the number of days a new employee has to complete their tasks. |
 
 ## I
@@ -148,8 +148,8 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Labour Card | A work authorisation document recorded against an employee alongside their visa. Has its own status values and expiry monitoring. |
 | LC | Labour card. Appears as **LC Holder** in the visa status list. |
 | Leave and Absence Request Workflow | The legal-entity-specific workflow that routes leave requests. Its key condition auto-approves requests where the system generated leave flag is Yes. |
-| Leave Plan | A container grouping leave types. There is no limit on how many plans exist or how types are grouped, and each plan carries its own ESS visibility flag and enrolled worker list. |
-| Leave Type | An individual kind of leave within a plan, carrying its own accrual, eligibility, grant, certificate and advance notice configuration, plus its ESS visibility and sort order. |
+| Leave Plan | A container grouping leave types. There is no limit on how many plans exist or how types are grouped, and each plan carries its own EmployeeXP visibility flag and enrolled worker list. |
+| Leave Type | An individual kind of leave within a plan, carrying its own accrual, eligibility, grant, certificate and advance notice configuration, plus its EmployeeXP visibility and sort order. |
 | Legal Entity | See **Company**. |
 | Line View | The view on the attendance and overtime forms showing your direct reports — the employees whose line manager you are. |
 | Living | A reward type category for living and accommodation-related allowances on the rewards statement. |
@@ -181,7 +181,7 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Outside Probation Certificate Threshold | The field on a leave type setting how many days an absence can run before a confirmed employee must attach a medical certificate. Employees within probation must attach one from the first day. |
 | Overall Rating | The summary rating a manager gives for the year on the end of year review, recorded with a written summary and any development notes. |
 | Overtime Applicable | The flag on the staff levels form marking a staff position category and staff category as able to claim overtime. Drives the Eligible for overtime flag at hire. |
-| Overtime Details | The manager’s overtime form in D365. Filtered to employees with overtime records only, and the D365 counterpart of the overtime approval a manager does in ESS. |
+| Overtime Details | The manager’s overtime form in D365. Filtered to employees with overtime records only, and the D365 counterpart of the overtime approval a manager does in EmployeeXP. |
 | Overtime Hierarchy | The position hierarchy selected in human resource parameters that decides who approves an employee’s overtime. Can be a different person from the attendance approver and from the line manager. |
 
 ## P
@@ -227,8 +227,8 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Review 1 Generated | A flag set to Yes on an employee record when the probation batch creates their Stage 1 review. |
 | Review Outcome | The result recorded on a Stage 2 probation review — Meets Expectations or Performance Concerns. A Performance Concerns outcome routes to HR only; the employee is not notified. |
 | Review Template | The definition of one stage of the performance cycle — the goal templates it carries, its rating model, and whether the rating weight factor applies. Selected when generating reviews. |
-| Reward Type | The field on a component master record classifying a component as Fixed Allowance, Living, or Other. Components with no reward type are excluded from the ESS rewards statement. |
-| Rewards Statement | The ESS view showing an employee their compensation and benefit components, grouped by reward type. |
+| Reward Type | The field on a component master record classifying a component as Fixed Allowance, Living, or Other. Components with no reward type are excluded from the EmployeeXP rewards statement. |
+| Rewards Statement | The EmployeeXP view showing an employee their compensation and benefit components, grouped by reward type. |
 | Risk of Loss | How likely an employee is to leave, recorded on their talent review alongside impact of loss. |
 
 ## S
@@ -247,7 +247,7 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 
 | Term | Definition |
 |---|---|
-| Talent Review | The succession record held against an employee under the **Work** tab, holding comments, risk and impact of loss, matrix position, identified successor, readiness and any attachments. Completed from the ESS manager view. |
+| Talent Review | The succession record held against an employee under the **Work** tab, holding comments, risk and impact of loss, matrix position, identified successor, readiness and any attachments. Completed from the EmployeeXP manager view. |
 | Target Date | The date entered when applying a checklist, from which individual task due dates are calculated using each task's offset. For offboarding, it should match the employee's end date. |
 | Task Management | The area of the Human Resources module holding onboarding, pre-onboarding, and offboarding checklists, and the workspace where assigned tasks are worked. |
 | Template | The probation review template linked to a staff level and category combination, defining the competencies assessed and the rating model used. |
@@ -277,13 +277,13 @@ Terms used across Dynamics 365 Human Resources (HR) and this guide.
 | Visa Master | The setup area under **Human Resources ▸ Setup** holding visa status, visa type, MOL and MOE professions, and contract type reference tables. |
 | Visa Programme | A field on the employee visa information record identifying the programme under which the visa was issued. |
 | Visa Type | The visa category recorded against an employee — for example, Employment Visa A. Determines the ABC Category automatically. |
-| Visible | A toggle on a request type field controlling whether it appears on the employee's ESS submission form. |
+| Visible | A toggle on a request type field controlling whether it appears on the employee's EmployeeXP submission form. |
 
 ## W
 
 | Term | Definition |
 |---|---|
-| WebESS Display | A toggle on a request type controlling whether employees can see and raise it in ESS. Request types HR initiates internally are set not to display. |
+| WebESS Display | A toggle on a request type controlling whether employees can see and raise it in EmployeeXP. Request types HR initiates internally are set not to display. |
 | Weighting | The share of overall performance a goal represents, set by the employee. Weightings across a review must total exactly 100% — the system blocks both an under-total and an over-total on submission. |
 | Work Duration | The total minutes between an employee’s clock in and clock out on a day, calculated by the attendance summary batch job. Splits into regular minutes and overtime minutes. |
 | Work History | The section of an employee record holding the probation fields — Stage 1 and Stage 2 dates, end date, template, generation flags, status, and exclusion. |

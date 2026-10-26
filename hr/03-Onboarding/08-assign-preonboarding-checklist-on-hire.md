@@ -4,7 +4,7 @@ summary:
   - "On the worker action form, click **Apply checklist** and select **Pre-onboarding** as the process type."
   - "Select the checklist to apply and set the **target date** — individual task due dates are calculated automatically from offset settings."
   - "Continue with the worker action — tasks are released to the assigned group or person immediately."
-keywords: [pre-onboarding, checklist, worker action, hire, apply checklist, target date, offset, due date, task assignment, recruitment, new hire, pre-onboarding checklist]
+keywords: [pre-onboarding, checklist, worker action, hire, apply checklist, target date, offset, due date, task assignment, recruitment, new hire, pre-onboarding checklist, employeexp]
 video:
   youtube:
   bunny:
@@ -42,7 +42,7 @@ The pre-onboarding checklist must be configured before it can be assigned here. 
 
 6. Confirm
 
-   Click **OK** (or the equivalent confirm button). Tasks are immediately released to the assigned groups or individuals. Group members can see and complete these tasks from the D365 task management workspace or from Employee Self-Service (ESS).
+   Click **OK** (or the equivalent confirm button). Tasks are immediately released to the assigned groups or individuals. Group members can see and complete these tasks from the D365 task management workspace or from EmployeeXP.
 
 7. Continue with the worker action
 

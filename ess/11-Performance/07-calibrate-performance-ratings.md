@@ -1,10 +1,10 @@
 ---
 id: calibrate-performance-ratings
 summary:
-  - "In ESS, open the HR view of calibration, filter to the year and group you are calibrating, and click **Search**."
+  - "In EmployeeXP, open the HR view of calibration, filter to the year and group you are calibrating, and click **Search**."
   - "Compare the expected curve against the actual distribution, then drag employees between ratings to adjust."
   - "Save your changes with a comment, then click **Release to manager** to send the calibrated ratings back."
-keywords: [calibration, HR view, expected versus actual, bell curve, calibration framework, drag and drop rating, provisional rating, calibrated rating, calibration comment, release to manager, ESS]
+keywords: [calibration, HR view, expected versus actual, bell curve, calibration framework, drag and drop rating, provisional rating, calibrated rating, calibration comment, release to manager, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -12,15 +12,15 @@ video:
 
 # Calibrate performance ratings
 
-Calibration is where Human Resources (HR) compares the ratings managers have submitted against the distribution the organisation expects, and adjusts where individuals sit relative to their peers. HR does this from the HR view in Employee Self-Service (ESS).
+Calibration is where Human Resources (HR) compares the ratings managers have submitted against the distribution the organisation expects, and adjusts where individuals sit relative to their peers. HR does this from the HR view in EmployeeXP.
 
 This view is only available to users with HR rights. A manager without HR access sees only the manager view.
 
 1. Open the HR view
 
-   In ESS, go to your manager view and click the **HR view** of calibration.
+   In EmployeeXP, go to your manager view and click the **HR view** of calibration.
 
-   ![The HR view of calibration in ESS](./images/calibrate-performance-ratings-1.png)
+   ![The HR view of calibration in EmployeeXP](./images/calibrate-performance-ratings-1.png)
 
 2. Filter to the group you are calibrating
 

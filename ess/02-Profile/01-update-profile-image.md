@@ -4,7 +4,7 @@ summary:
   - "From your **Full Profile**, click **Change profile image**."
   - "Choose a file from your device and click **Open**."
   - "Your image is sent for approval and shows as pending until reviewed."
-keywords: [profile image, profile photo, change photo, upload photo, profile picture, update photo]
+keywords: [profile image, profile photo, change photo, upload photo, profile picture, update photo, employeexp]
 video:
   youtube:
   bunny:
@@ -14,7 +14,7 @@ video:
 
 1. Open your Full Profile
 
-   From the Employee Self-Service (ESS) home page, navigate to your **Full profile →** on the right side of your profile tile.
+   From the EmployeeXP home page, navigate to your **Full profile →** on the right side of your profile tile.
 
 2. Open the image upload
         

@@ -1,9 +1,9 @@
 ---
 id: view-rewards-statement
 summary:
-  - "From the ESS portal, navigate to the **Rewards & Benefits** section to open your rewards statement."
+  - "From the EmployeeXP portal, navigate to the **Rewards & Benefits** section to open your rewards statement."
   - "Review your total reward, pay, benefits breakdown, variable pay, concessions, and bonuses."
-keywords: [rewards statement, total reward, pay, allowances, variable pay, concessions, tuition, transport, visa disbursement, bonus, children's concessions, airfare, ESS, employee benefits]
+keywords: [rewards statement, total reward, pay, allowances, variable pay, concessions, tuition, transport, visa disbursement, bonus, children's concessions, airfare, ESS, employee benefits, employeexp]
 video:
   youtube:
   bunny:
@@ -11,17 +11,17 @@ video:
 
 # View your rewards statement
 
-Your rewards statement in Employee Self-Service (ESS) gives you a personalised view of your total compensation package — including salary, allowances, benefit entitlements, and concessions. This is a read-only view; Human Resources (HR) and Finance set up and maintain your entitlements.
+Your rewards statement in EmployeeXP gives you a personalised view of your total compensation package — including salary, allowances, benefit entitlements, and concessions. This is a read-only view; Human Resources (HR) and Finance set up and maintain your entitlements.
 
 1. Open the Benefits section
 
-   From the ESS portal, navigate to the **Rewards & Benefits** tile to open your rewards statement.
+   From the EmployeeXP portal, navigate to the **Rewards & Benefits** tile to open your rewards statement.
 
 2. Review your total reward
 
    At the top of the statement, you can see your **Total reward** — the combined value of your salary, benefits, and variable pay.
 
-   ![The ESS rewards statement showing total reward at the top, with sections for pay, benefits, and variable pay](./images/view-rewards-statement-1.png)
+   ![The EmployeeXP rewards statement showing total reward at the top, with sections for pay, benefits, and variable pay](./images/view-rewards-statement-1.png)
 
 3. Review your pay and benefits breakdown
 

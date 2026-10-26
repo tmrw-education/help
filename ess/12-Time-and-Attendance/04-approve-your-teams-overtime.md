@@ -1,10 +1,10 @@
 ---
 id: approve-your-teams-overtime
 summary:
-  - "In ESS, open the **Attendance** tile and go to the **Overtime** tab."
+  - "In EmployeeXP, open the **Attendance** tile and go to the **Overtime** tab."
   - "Check the clock-in and clock-out times against each overtime entry."
   - "Click **Approve** on a line and confirm — the total approved minutes updates as you go."
-keywords: [approve overtime, team overtime, overtime tab, overtime approval, clock in clock out, total approved minutes, confirm approval, manager approval, ESS]
+keywords: [approve overtime, team overtime, overtime tab, overtime approval, clock in clock out, total approved minutes, confirm approval, manager approval, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -12,13 +12,13 @@ video:
 
 # Approve your team's overtime
 
-Your team's overtime is raised for you to approve in Employee Self-Service (ESS). Your approval is the first of three approvals — Human Resources (HR) and finance approve after you in Dynamics 365 (D365) — so nothing goes to payroll based on your approval alone.
+Your team's overtime is raised for you to approve in EmployeeXP. Your approval is the first of three approvals — Human Resources (HR) and finance approve after you in Dynamics 365 (D365) — so nothing goes to payroll based on your approval alone.
 
 1. Open the overtime tab
 
-   In ESS, open the **Attendance** tile and go to the **Overtime** tab.
+   In EmployeeXP, open the **Attendance** tile and go to the **Overtime** tab.
 
-   ![The Overtime tab in ESS showing overtime entries awaiting approval](./images/approve-your-teams-overtime-1.png)
+   ![The Overtime tab in EmployeeXP showing overtime entries awaiting approval](./images/approve-your-teams-overtime-1.png)
 
 2. Choose line or hierarchy
 

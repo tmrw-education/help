@@ -1,10 +1,10 @@
 ---
 id: view-your-attendance
 summary:
-  - "In ESS, scroll down the home page and click the **Attendance** tile."
+  - "In EmployeeXP, scroll down the home page and click the **Attendance** tile."
   - "Open **My attendance** and use the week view, or switch to the multi-week overview."
   - "The calendar shows your scheduled hours, booked hours, absence hours, breaks and approved leave."
-keywords: [my attendance, view attendance, attendance tile, week view, overview, scheduled hours, booked hours, absence hours, breaks, actual hours worked, public holiday, approved leave, ESS]
+keywords: [my attendance, view attendance, attendance tile, week view, overview, scheduled hours, booked hours, absence hours, breaks, actual hours worked, public holiday, approved leave, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -12,17 +12,17 @@ video:
 
 # View your attendance
 
-Your attendance in Employee Self-Service (ESS) is a calendar of the days you have worked, built from the clock-in and clock-out records from the attendance system. Use it to check what has been recorded for you before it goes anywhere else.
+Your attendance in EmployeeXP is a calendar of the days you have worked, built from the clock-in and clock-out records from the attendance system. Use it to check what has been recorded for you before it goes anywhere else.
 
 1. Open attendance
 
-   In ESS, scroll down the home page and click the **Attendance** tile.
+   In EmployeeXP, scroll down the home page and click the **Attendance** tile.
 
 2. Open My attendance
 
    The first tab is **My attendance**, showing your own record.
 
-   ![The My attendance calendar in ESS](./images/view-your-attendance-1.png)
+   ![The My attendance calendar in EmployeeXP](./images/view-your-attendance-1.png)
 
 3. Choose a week
 

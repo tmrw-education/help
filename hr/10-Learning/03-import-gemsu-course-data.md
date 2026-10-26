@@ -4,7 +4,7 @@ summary:
   - "Use the GEMSU course **data entity** to load course records from Excel."
   - "Prepare the file to match the entity fields, then import through **Data management**."
   - "Check the GEMSU integration log to confirm the records landed."
-keywords: [GEMSU, data entity, import, Excel upload, manual import, cutover, historical data, data management, course data, D365, learning]
+keywords: [GEMSU, data entity, import, Excel upload, manual import, cutover, historical data, data management, course data, D365, learning, employeexp]
 video:
   youtube:
   bunny:
@@ -36,4 +36,4 @@ Alongside the live integration, a data entity lets you load GEMSU course records
 
    Open the GEMSU integration log to confirm the imported records are present, then spot-check an employee record to confirm the courses show on their GEMSU course tracker.
 
-   Imported courses appear in Employee Self-Service (ESS) for the employee in the same way as integrated ones, so check the data before running a large load.
+   Imported courses appear in EmployeeXP for the employee in the same way as integrated ones, so check the data before running a large load.

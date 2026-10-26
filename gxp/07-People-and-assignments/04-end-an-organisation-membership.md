@@ -4,7 +4,7 @@ summary:
   - "Open the person's details from **People**."
   - "Under **Organisations**, click **End membership** next to the organisation."
   - "Confirm with **End membership**. Their learning records stay."
-keywords: [end membership, remove from organisation, remove from school, leave school, take someone out of a department]
+keywords: [end membership, remove from organisation, remove from school, leave school, take someone out of a department, growthxp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # End an organisation membership
 
-You can end a membership that was added in Growth Experience Platform. You need the **Learning manager** or
+You can end a membership that was added in GrowthXP. You need the **Learning manager** or
 **Organisation administrator** role.
 
 1. Open the person's details

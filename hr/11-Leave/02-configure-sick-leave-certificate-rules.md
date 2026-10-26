@@ -4,7 +4,7 @@ summary:
   - "On the leave type, set the **outside probation certificate threshold** in days."
   - "Employees within probation must attach a certificate to any request of that type."
   - "Confirmed employees are only asked for one once the absence exceeds the threshold."
-keywords: [sick leave, medical certificate, attachment, certificate threshold, outside probation, probation status, pending confirmation, confirmed, leave type setup, D365]
+keywords: [sick leave, medical certificate, attachment, certificate threshold, outside probation, probation status, pending confirmation, confirmed, leave type setup, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Configure sick leave certificate rules
 
-Certificate rules control when Employee Self-Service (ESS) requires a supporting document before it accepts a leave request. The rule is set per leave type, can differ by school, and applies differently depending on whether the employee has passed probation.
+Certificate rules control when EmployeeXP requires a supporting document before it accepts a leave request. The rule is set per leave type, can differ by school, and applies differently depending on whether the employee has passed probation.
 
 1. Open the leave type
 
@@ -30,13 +30,13 @@ Certificate rules control when Employee Self-Service (ESS) requires a supporting
 
    The employee's probation status on their work history determines which rule applies:
 
-   | Probation status | Behaviour in ESS |
+   | Probation status | Behaviour in EmployeeXP |
    |---|---|
    | **Pending confirmation** | A certificate is required for any request of this type, from the first day. Submitting without one returns *Sick leave requires at least one document to be attached to the leave request* |
    | **Confirmed** | A certificate is only required once the absence exceeds the threshold. Shorter requests can be submitted without one |
 
 4. Save
 
-   Click **Save**. The rule applies to new ESS submissions immediately.
+   Click **Save**. The rule applies to new EmployeeXP submissions immediately.
 
-   The same mechanism works for any leave type, not only sick leave. Set a threshold in days against the type, and ESS starts enforcing an attachment once a request goes beyond that number.
+   The same mechanism works for any leave type, not only sick leave. Set a threshold in days against the type, and EmployeeXP starts enforcing an attachment once a request goes beyond that number.

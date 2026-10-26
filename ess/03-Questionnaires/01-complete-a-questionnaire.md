@@ -1,10 +1,10 @@
 ---
 id: complete-a-questionnaire
 summary:
-  - "Go to **Questionnaires** in the **My Work** tab in ESS and select a questionnaire."
+  - "Go to **Questionnaires** in the **My Work** tab in EmployeeXP and select a questionnaire."
   - "Click **Start** (or **Continue** if resuming), answer each question, and click **Submit**."
   - "To save progress and return later, click **Save as Draft**."
-keywords: [questionnaire, survey, complete questionnaire, answer questionnaire, submit survey, draft, save progress]
+keywords: [questionnaire, survey, complete questionnaire, answer questionnaire, submit survey, draft, save progress, employeexp]
 video:
   youtube:
   bunny:
@@ -12,11 +12,11 @@ video:
 
 # Complete a questionnaire
 
-Questionnaires are assigned by Human Resources (HR) and appear in the Questionnaires tab of your Employee Self-Service (ESS) portal. You can save your progress and return later if needed.
+Questionnaires are assigned by Human Resources (HR) and appear in the Questionnaires tab of your EmployeeXP portal. You can save your progress and return later if needed.
 
 1. Open the Questionnaires tab
 
-   From the ESS portal, click the **My work** tab and scroll down to **Questionnaires**.
+   From the EmployeeXP portal, click the **My work** tab and scroll down to **Questionnaires**.
 
    ![Accessing the questionnaires tab from My work in the navigation bar](./images/complete-a-questionnaire-1.png)
 

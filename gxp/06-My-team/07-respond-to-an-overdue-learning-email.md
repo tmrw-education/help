@@ -4,7 +4,7 @@ summary:
   - "If your organisation has turned on manager escalation, you're emailed when someone in your team still hasn't completed overdue mandatory learning."
   - "The email names the person, the course, the due date and how many reminders they've had."
   - "Click **View their learning** to open their page in **My team**, then talk to them about completing it."
-keywords: [overdue email, escalation email, manager escalation, team member overdue, learning in your team is overdue, why did I get this email, overdue reminder manager]
+keywords: [overdue email, escalation email, manager escalation, team member overdue, learning in your team is overdue, why did I get this email, overdue reminder manager, growthxp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Respond to an overdue learning email
 
-If your organisation has turned on manager escalation, Growth Experience Platform emails you when someone in your team
+If your organisation has turned on manager escalation, GrowthXP emails you when someone in your team
 still hasn't completed their overdue mandatory learning. It's for line managers. Manager escalation is off unless an
 organisation administrator turns it on.
 

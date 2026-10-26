@@ -4,7 +4,7 @@ summary:
   - "In D365, open the calibration inquiry to see every review submitted for calibration in one list."
   - "A blank **calibrated rating** means the employee has not been calibrated yet."
   - "The release flags show whether ratings have been released to the manager and on to the employee."
-keywords: [calibration inquiry, submitted for calibration, calibrated rating, final employee rating, released to manager, released to direct reports, performance year filter, calibration status, D365]
+keywords: [calibration inquiry, submitted for calibration, calibrated rating, final employee rating, released to manager, released to direct reports, performance year filter, calibration status, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -14,7 +14,7 @@ video:
 
 When managers submit end-of-year reviews for calibration, each record lands in the calibration inquiry. It is the central list Human Resources (HR) uses to see how many records are waiting, what ratings they came in with, and how far along each one is in the release process.
 
-This form reports on calibration — the calibration itself is done from the HR view in Employee Self-Service (ESS).
+This form reports on calibration — the calibration itself is done from the HR view in EmployeeXP.
 
 1. Open the calibration inquiry
 
@@ -46,4 +46,4 @@ This form reports on calibration — the calibration itself is done from the HR 
 
    ![Calibration inquiry records showing blank calibrated ratings against uncalibrated employees](./images/monitor-the-calibration-inquiry-2.png)
 
-HR carries out calibration in ESS, HR view, where ratings are shown against the expected curve and can be adjusted — see [Calibrate performance ratings](https://github.com/tmrw-education/help/blob/main/ess/11-Performance/07-calibrate-performance-ratings.md) in the ESS guide.
+HR carries out calibration in EmployeeXP, HR view, where ratings are shown against the expected curve and can be adjusted — see [Calibrate performance ratings](https://github.com/tmrw-education/help/blob/main/ess/11-Performance/07-calibrate-performance-ratings.md) in the EmployeeXP guide.

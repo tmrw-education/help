@@ -1,10 +1,10 @@
 ---
 id: submit-your-mid-year-review
 summary:
-  - "In ESS, go to **Skills and performance** and open your mid-year review — your goals and comments from goal setting are carried forward."
+  - "In EmployeeXP, go to **Skills and performance** and open your mid-year review — your goals and comments from goal setting are carried forward."
   - "Add your mid-year comments and rate yourself against each goal."
   - "Update your career aspirations and training needs if anything has changed, then submit."
-keywords: [mid year review, self rating, proficient, carried forward comments, goal setting comments, career aspirations, mobility, training needs, edit mode, read only after submit, ESS]
+keywords: [mid year review, self rating, proficient, carried forward comments, goal setting comments, career aspirations, mobility, training needs, edit mode, read only after submit, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ The mid-year review is your checkpoint against the goals you agreed on at goal s
 
 1. Open your review
 
-   In Employee Self-Service (ESS), go to **Skills and performance** and open your mid-year review.
+   In EmployeeXP, go to **Skills and performance** and open your mid-year review.
 
    Your goals are copied across from goal setting, and the comments you and your manager made then are visible alongside them. You can see both sides of that earlier conversation as you work.
 

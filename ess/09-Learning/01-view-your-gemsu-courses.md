@@ -1,10 +1,10 @@
 ---
 id: view-your-gemsu-courses
 summary:
-  - "From the ESS home page, click the **GEMSU courses** tile to open your GEMSU courses."
+  - "From the EmployeeXP home page, click the **GEMSU courses** tile to open your GEMSU courses."
   - "Review your **In progress**, **Not started** and **Completed** courses, each tagged **Mandatory** or **Recommended**."
   - "Check the **Overdue** flag for any course whose start date has passed."
-keywords: [GEMSU, courses, learning, professional development, training, mandatory course, recommended course, in progress, not started, completed, overdue, course status, ESS]
+keywords: [GEMSU, courses, learning, professional development, training, mandatory course, recommended course, in progress, not started, completed, overdue, course status, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -12,13 +12,13 @@ video:
 
 # View your GEMSU courses
 
-Your GEMSU learning is surfaced directly in Employee Self-Service (ESS), so you don't need to go into GEMSU to see where you stand. Courses flow into ESS automatically through the integration between GEMSU and ESS — this is a read-only view, and you still complete the courses themselves in GEMSU.
+Your GEMSU learning is surfaced directly in EmployeeXP, so you don't need to go into GEMSU to see where you stand. Courses flow into EmployeeXP automatically through the integration between GEMSU and EmployeeXP — this is a read-only view, and you still complete the courses themselves in GEMSU.
 
 1. Open your courses
 
-   From the ESS home page, click the **GEMSU courses** tile. This opens your GEMSU course list.
+   From the EmployeeXP home page, click the **GEMSU courses** tile. This opens your GEMSU course list.
 
-   ![The ESS home page with the Learning and Professional Development tile highlighted](./images/view-your-gemsu-courses-1.png)
+   ![The EmployeeXP home page with the Learning and Professional Development tile highlighted](./images/view-your-gemsu-courses-1.png)
 
 2. Review your courses in progress
 
@@ -26,7 +26,7 @@ Your GEMSU learning is surfaced directly in Employee Self-Service (ESS), so you 
 
    Courses you have opened show as **In progress**. Courses assigned to you but not yet opened show as **Not started**.
 
-   ![The GEMSU course list in ESS showing the GEMSU courses active tab](./images/view-your-gemsu-courses-2.png)
+   ![The GEMSU course list in EmployeeXP showing the GEMSU courses active tab](./images/view-your-gemsu-courses-2.png)
 
 3. Check for overdue courses
 
@@ -36,4 +36,4 @@ Your GEMSU learning is surfaced directly in Employee Self-Service (ESS), so you 
 
    Completed courses stay on the list with a **Completed** status, and keep their **Mandatory** or **Recommended** tag. This gives you a running record of the learning you have finished.
 
-   If a course you have completed in GEMSU still shows as in progress in ESS, allow time for the integration to run before raising it with your Human Resources (HR) team.
+   If a course you have completed in GEMSU still shows as in progress in EmployeeXP, allow time for the integration to run before raising it with your Human Resources (HR) team.

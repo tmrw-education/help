@@ -3,8 +3,8 @@ id: adjust-an-attendance-record
 summary:
   - "In D365, go to **Time and attendance ▸ Attendance log** and find the employee and date to correct."
   - "Click **Edit** and change the clock-in or clock-out date and time, then **Save**."
-  - "Re-run **Execute attendance summary** — the correction does not reach the attendance details or ESS until you do."
-keywords: [adjust attendance, correct attendance record, edit attendance log, clock in time, clock out time, machine not working, late arrival, early exit, re-run batch job, ESS refresh, D365]
+  - "Re-run **Execute attendance summary** — the correction does not reach the attendance details or EmployeeXP until you do."
+keywords: [adjust attendance, correct attendance record, edit attendance log, clock in time, clock out time, machine not working, late arrival, early exit, re-run batch job, ESS refresh, D365, employeexp]
 video:
   youtube:
   bunny:
@@ -42,8 +42,8 @@ When an employee's recorded times are wrong—the biometric machine wasn't worki
 
    Go back to **Time and attendance ▸ Attendance details**, or to **Employees ▸ Work ▸ Attendance ▸ View attendance** on the employee, and confirm the corrected times and the recalculated duration.
 
-7. Check it in Employee Self-Service (ESS)
+7. Check it in EmployeeXP
 
-   Open the employee's attendance in ESS and check the same date. ESS refreshes with a five-minute delay rather than instantly, so allow a moment before deciding the change hasn't taken effect.
+   Open the employee's attendance in EmployeeXP and check the same date. EmployeeXP refreshes with a five-minute delay rather than instantly, so allow a moment before deciding the change hasn't taken effect.
 
    The interval is deliberate—the attendance feed arrives once a day, so refreshing the portal221 every minute would cost performance for no gain.

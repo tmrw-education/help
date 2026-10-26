@@ -4,7 +4,7 @@ summary:
   - "In **Manage** ▸ **Courses**, click **Add course**."
   - "Drop the SCORM .zip file, check the **Course title**, choose the **Course audience** and **Course visibility**, then click **Upload and continue**."
   - "Add the details and click **Save course**, or **Finish later**."
-keywords: [add course, upload course, upload scorm, new course, create course, scorm zip, import course package]
+keywords: [add course, upload course, upload scorm, new course, create course, scorm zip, import course package, growthxp]
 video:
   youtube:
   bunny:
@@ -21,7 +21,7 @@ You add a course by uploading its SCORM package, a .zip file, and describing it.
 
 2. Upload the package
 
-   Drag the SCORM .zip file onto **Course package**, or click to browse. Growth Experience Platform reads the package
+   Drag the SCORM .zip file onto **Course package**, or click to browse. GrowthXP reads the package
    and fills in the **Course title**; change it if you need to.
 
    ![The Add course window, Package step, with a .zip file chosen and the Course title filled in](./images/gxp-add-a-course-1.png)

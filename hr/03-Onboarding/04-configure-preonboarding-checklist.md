@@ -4,7 +4,7 @@ summary:
   - "Go to **Modules ▸ Human Resources ▸ Task Management ▸ Pre-onboarding checklists**."
   - "Select a checklist, click **Edit**, and configure tasks with owners, offset dates, and legal entity scoping."
   - "Click **Save** to apply."
-keywords: [pre-onboarding, checklist, configure, pre onboarding tasks, task management, new hire, task assignment, offset date, legal entity, worker action, recruitment]
+keywords: [pre-onboarding, checklist, configure, pre onboarding tasks, task management, new hire, task assignment, offset date, legal entity, worker action, recruitment, employeexp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Configure a pre-onboarding checklist
 
-Pre-onboarding checklists define tasks that must be completed by Human Resources (HR) and support teams *before* a new employee's start date — for example, collecting credentials or sending welcome documents. These checklists are assigned when the hire worker action is processed, and tasks are visible in both the Dynamics 365 (D365) task management workspace and Employee Self-Service (ESS).
+Pre-onboarding checklists define tasks that must be completed by Human Resources (HR) and support teams *before* a new employee's start date — for example, collecting credentials or sending welcome documents. These checklists are assigned when the hire worker action is processed, and tasks are visible in both the Dynamics 365 (D365) task management workspace and EmployeeXP.
 
 Pre-onboarding checklists are configured separately from onboarding checklists. They follow the same structure but are scoped to tasks that occur before the employee joins.
 

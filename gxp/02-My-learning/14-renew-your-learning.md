@@ -4,7 +4,7 @@ summary:
   - "Mandatory learning that's about to expire is assigned to you again, usually 30 days before."
   - "Its card shows a **Renewal** tag, **Not started** and a due date on the expiry date."
   - "Complete it again to start a new validity period and earn a new certificate."
-keywords: [renew, renewal, renewal due, refresher, redo course, retake, annual renewal, expiring training, renewal 1, do it again, recertify]
+keywords: [renew, renewal, renewal due, refresher, redo course, retake, annual renewal, expiring training, renewal 1, do it again, recertify, growthxp]
 video:
   youtube:
   bunny:
@@ -12,7 +12,7 @@ video:
 
 # Renew your learning
 
-When mandatory learning is close to expiring, GXP gives it to you again so you can renew it before it lapses.
+When mandatory learning is close to expiring, GrowthXP gives it to you again so you can renew it before it lapses.
 
 1. Notice the renewal
 

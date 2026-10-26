@@ -4,7 +4,7 @@ summary:
   - "Open the onboarding checklist and select the task to configure."
   - "Click **Set Dependency** and select the prerequisite task."
   - "Click **Save**."
-keywords: [dependency, task dependency, prerequisites, blocked task, onboarding order, task sequence]
+keywords: [dependency, task dependency, prerequisites, blocked task, onboarding order, task sequence, employeexp]
 video:
   youtube:
   bunny:
@@ -32,4 +32,4 @@ Dependencies prevent a task from being completed until a prerequisite task is fi
 
    Click **Save** to apply the configuration.
 
-   In Employee Self-Service (ESS), employees will see the dependent task in their list but it is locked until all dependency tasks are complete. The task detail view shows which tasks are blocking progress and who is responsible for completing them.
+   In EmployeeXP, employees will see the dependent task in their list but it is locked until all dependency tasks are complete. The task detail view shows which tasks are blocking progress and who is responsible for completing them.

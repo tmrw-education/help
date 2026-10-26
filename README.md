@@ -16,7 +16,7 @@ you never have to touch — or accidentally delete — any of it.
 | Folder | Section | App | Audience |
 |---|---|---|---|
 | `sxp/` | `/sxp` | StaffXP | Teachers, admin, school leaders |
-| `hr/` | `/ess` | Employee Self-Service | All staff (HR) |
+| `hr/` | `/ess` | EmployeeXP | All staff (HR) |
 | `finops/` | `/fo` | Finance & Operations | Bursars, accountants |
 | `pxp/` | `/pxp` | Parent Experience | Parents |
 | `lxp/` | `/lxp` | Learner Experience | Students |

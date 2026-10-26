@@ -5,7 +5,7 @@ summary:
   - "Read what will happen, then click **Remove assignment**."
   - "Learning from HR or a learning rule can't be removed here: change it in HR or in the rule."
   - "Progress, completions and certificates stay on record."
-keywords: [remove assignment, unassign, withdraw course, delete assignment, take a course away, cancel assignment]
+keywords: [remove assignment, unassign, withdraw course, delete assignment, take a course away, cancel assignment, growthxp]
 video:
   youtube:
   bunny:
@@ -13,7 +13,7 @@ video:
 
 # Remove an assignment
 
-You can withdraw learning that was assigned in Growth Experience Platform. You need the **Learning manager**, **HR
+You can withdraw learning that was assigned in GrowthXP. You need the **Learning manager**, **HR
 manager** or **Organisation administrator** role. Learning managers can remove learning for people in the organisations
 they're responsible for.
 
@@ -34,5 +34,5 @@ they're responsible for.
 3. Confirm
 
    Read the message, then click **Remove assignment**. Any progress, completion and certificate stay on record. If
-   other sources also require the course, such as a learning rule, only what was assigned in Growth Experience Platform
+   other sources also require the course, such as a learning rule, only what was assigned in GrowthXP
    is removed and the person keeps the course; the dialog says **Stays assigned** when this will happen.

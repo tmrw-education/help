@@ -1,20 +1,20 @@
 # Troubleshooting
 
-Common problems in Employee Self-Service and how to resolve them. Use the contents list on the right to jump to a section, or press **Ctrl+F** to search this page.
+Common problems in EmployeeXP and how to resolve them. Use the contents list on the right to jump to a section, or press **Ctrl+F** to search this page.
 
-## Navigating ESS
+## Navigating EmployeeXP
 
-### I can't sign in to ESS
+### I can't sign in to EmployeeXP
 
 **Cause** — A personal or non-GEMS Microsoft account is being used, or the portal link is wrong.
 
-**Fix** — Sign in with your **GEMS Microsoft 365** email address and password — the same login you use for email. There is no separate Employee Self-Service (ESS) password. Your Information Technology (IT) team or Human Resources (HR) provides the portal URL.
+**Fix** — Sign in with your **GEMS Microsoft 365** email address and password — the same login you use for email. There is no separate EmployeeXP password. Your Information Technology (IT) team or Human Resources (HR) provides the portal URL.
 
 ### Do I need to install anything?
 
-**Cause** — ESS is sometimes assumed to be a separate app.
+**Cause** — EmployeeXP is sometimes assumed to be a separate app.
 
-**Fix** — No. ESS runs in any web browser. There is nothing to install and no app to download.
+**Fix** — No. EmployeeXP runs in any web browser. There is nothing to install and no app to download.
 
 ### A tile is missing from my home page
 
@@ -88,7 +88,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 ### I can't see my old bank account
 
-**Cause** — Only the active account is shown in ESS. Inactive accounts are filtered out.
+**Cause** — Only the active account is shown in EmployeeXP. Inactive accounts are filtered out.
 
 **Fix** — This is expected behaviour.
 
@@ -206,7 +206,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 ### The request type I need isn't listed
 
-**Cause** — Only request types HR has enabled for ESS are shown. Some types are initiated internally by HR.
+**Cause** — Only request types HR has enabled for EmployeeXP are shown. Some types are initiated internally by HR.
 
 **Fix** — Contact HR to ask whether the request should be raised through another route.
 
@@ -230,7 +230,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 ### My request status hasn't changed even though HR says it's done
 
-**Cause** — The ESS cache refreshes on a five-minute cycle.
+**Cause** — The EmployeeXP cache refreshes on a five-minute cycle.
 
 **Fix** — Allow 3–5 minutes for the updated status to appear. This delay is by design.
 
@@ -314,21 +314,21 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 ### I can't find my GEMSU courses
 
-**Cause** — GEMSU courses are surfaced through a tile on the ESS home page rather than a menu.
+**Cause** — GEMSU courses are surfaced through a tile on the EmployeeXP home page rather than a menu.
 
 **Fix** — Click the **Learning and Professional Development** tile on the home page. If the tile isn't there, contact HR to confirm your role and permissions.
 
 ### A course I've completed in GEMSU still shows as in progress
 
-**Cause** — Course status reaches ESS through the integration with GEMSU, so there is a delay between finishing a course and the status updating.
+**Cause** — Course status reaches EmployeeXP through the integration with GEMSU, so there is a delay between finishing a course and the status updating.
 
 **Fix** — Allow time for the integration to run, then check again. If the status still hasn't changed, contact your HR team.
 
-### A course I've been assigned isn't showing in ESS
+### A course I've been assigned isn't showing in EmployeeXP
 
 **Cause** — The course hasn't come through from GEMSU.
 
-**Fix** — Confirm in GEMSU that the course is assigned to you. If it is and it still isn't in ESS, contact your HR team — they can check the integration log.
+**Fix** — Confirm in GEMSU that the course is assigned to you. If it is and it still isn't in EmployeeXP, contact your HR team — they can check the integration log.
 
 ### I don't know which courses I have to complete
 
@@ -336,11 +336,11 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 **Fix** — Check the tag on each course. **Mandatory** courses are required; **Recommended** courses are optional. Anything flagged **Overdue** has passed its start date and should be picked up first.
 
-### I can't update or complete a course from ESS
+### I can't update or complete a course from EmployeeXP
 
-**Cause** — The ESS course list is a read-only view of your GEMSU record.
+**Cause** — The EmployeeXP course list is a read-only view of your GEMSU record.
 
-**Fix** — Complete the course itself in GEMSU. Your progress flows back into ESS through the integration.
+**Fix** — Complete the course itself in GEMSU. Your progress flows back into EmployeeXP through the integration.
 
 ---
 
@@ -348,7 +348,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 ### The leave plan or leave type I want isn't in the list
 
-**Cause** — HR controls which plans and types are visible in ESS, and you only see the plans you are enrolled in.
+**Cause** — HR controls which plans and types are visible in EmployeeXP, and you only see the plans you are enrolled in.
 
 **Fix** — Your enrolment comes from your position, so it updates when you move roles. If a plan or type you expect is missing, contact your HR team.
 
@@ -356,7 +356,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 **Cause** — Grant-based leave types must be taken as one full block.
 
-**Fix** — Select your start date and let the system calculate the end date from the full grant. The block can't be shortened in ESS — speak to HR if you need a different arrangement.
+**Fix** — Select your start date and let the system calculate the end date from the full grant. The block can't be shortened in EmployeeXP — speak to HR if you need a different arrangement.
 
 ### My leave is longer than the days I requested
 
@@ -506,7 +506,7 @@ Common problems in Employee Self-Service and how to resolve them. Use the conten
 
 **Cause** — The punch recorded against you doesn't match what you actually worked — the machine wasn't available, or a late arrival or early exit was agreed.
 
-**Fix** — This can't be corrected in ESS. Raise it with HR, who amend the underlying attendance log in Dynamics 365 (D365). The change appears here at the next refresh. See [View your attendance](./12-Time-and-Attendance/01-view-your-attendance.md).
+**Fix** — This can't be corrected in EmployeeXP. Raise it with HR, who amend the underlying attendance log in Dynamics 365 (D365). The change appears here at the next refresh. See [View your attendance](./12-Time-and-Attendance/01-view-your-attendance.md).
 
 ### I can't see the Team attendance tab
 

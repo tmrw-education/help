@@ -4,7 +4,7 @@ summary:
   - "Grant-based leave — such as maternity leave — must be taken as one full block."
   - "Select the **start date**; the system calculates the end date from the full grant, and you cannot change it."
   - "Public holidays and weekends already in your calendar are skipped, so the block extends past them."
-keywords: [grant based leave, maternity leave, paternity leave, full entitlement at once, grant amount, one block, start date, end date, leave request, ESS]
+keywords: [grant based leave, maternity leave, paternity leave, full entitlement at once, grant amount, one block, start date, end date, leave request, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ Some leave types are granted as a fixed entitlement that must be taken in a sing
 
 1. Start a time off request
 
-   In Employee Self-Service (ESS), go to **Request time off** and select the leave plan and leave type — for example, maternity leave.
+   In EmployeeXP, go to **Request time off** and select the leave plan and leave type — for example, maternity leave.
 
 2. Select your start date
 
@@ -36,4 +36,4 @@ Some leave types are granted as a fixed entitlement that must be taken in a sing
 
    Click **Submit**. The request is created with a status of **In review** and routed for approval like any other leave request.
 
-   If you need a shorter period than the full grant, speak to your Human Resources (HR) team — the block cannot be broken up in ESS.
+   If you need a shorter period than the full grant, speak to your Human Resources (HR) team — the block cannot be broken up in EmployeeXP.

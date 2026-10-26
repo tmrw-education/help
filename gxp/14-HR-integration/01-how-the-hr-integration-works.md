@@ -5,7 +5,7 @@ summary:
   - "People, positions, line managers, staff categories and legal entities come from HR; courses and enrolments go both ways."
   - "Learner progress and completions are written back to the HR learning record."
   - "Syncs run on a schedule, and administrators can run them by hand from **Settings** → **Synchronisation**."
-keywords: [HR integration, Dynamics 365, F&O, Finance and Operations, HR sync, HRIS, integration overview, what syncs, people sync, Microsoft Dynamics, HR system]
+keywords: [HR integration, Dynamics 365, F&O, Finance and Operations, HR sync, HRIS, integration overview, what syncs, people sync, Microsoft Dynamics, HR system, growthxp]
 video:
   youtube:
   bunny:
@@ -13,7 +13,7 @@ video:
 
 # How the HR integration works
 
-The HR integration keeps Growth Experience Platform and your HR system in step, so nobody has to type staff, schools or
+The HR integration keeps GrowthXP and your HR system in step, so nobody has to type staff, schools or
 course records in twice. The first HR system supported is **Microsoft Dynamics 365 Finance and Operations** (F&O).
 
 The integration is set up and run by your **Organisation administrator**, with TMRW support switching on each part for

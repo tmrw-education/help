@@ -1,10 +1,10 @@
 ---
 id: complete-probation-review-manager
 summary:
-  - "Go to **Performance Management ▸ Team probations** in ESS."
+  - "Go to **Performance Management ▸ Team probations** in EmployeeXP."
   - "Open the pending review and complete the competency ratings and comments."
   - "For Stage 2, set the **Review Outcome**, then click **Submit**."
-keywords: [probation review, manager probation, team probation, rate employee, competency rating, stage 1, stage 2, probation manager]
+keywords: [probation review, manager probation, team probation, rate employee, competency rating, stage 1, stage 2, probation manager, employeexp]
 video:
   youtube:
   bunny:
@@ -12,11 +12,11 @@ video:
 
 # Complete a probation review as a manager
 
-When a team member is due for a probation review, the workflow routes it to you. You receive a notification, and the review appears in your Employee Self-Service (ESS) queue.
+When a team member is due for a probation review, the workflow routes it to you. You receive a notification, and the review appears in your EmployeeXP queue.
 
 1. Open your probation review queue
 
-   From the ESS portal, go to **Skills & performance ▸ Performance Management ▸ Team Probation Review Requests**. Pending reviews are listed here. You can also find them in your **Manager View** or **My Team** section.
+   From the EmployeeXP portal, go to **Skills & performance ▸ Performance Management ▸ Team Probation Review Requests**. Pending reviews are listed here. You can also find them in your **Manager View** or **My Team** section.
 
 2. Open the review
 

@@ -1,10 +1,10 @@
 ---
 id: use-the-growth-and-performance-matrix
 summary:
-  - "In ESS, open **Growth and performance** from the manager view, set your filters and click **Search**."
+  - "In EmployeeXP, open **Growth and performance** from the manager view, set your filters and click **Search**."
   - "Drag employees between boxes to change their position on the matrix, then save."
   - "Use the three dots next to an employee's name to open their profile and complete their talent review."
-keywords: [growth and performance matrix, nine box, manager view, GEMS star, inconsistent, talent risk, high performer, key performer, high potential, talent review, risk of loss, impact of loss, identified successor, employee readiness, ESS]
+keywords: [growth and performance matrix, nine box, manager view, GEMS star, inconsistent, talent risk, high performer, key performer, high potential, talent review, risk of loss, impact of loss, identified successor, employee readiness, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -18,7 +18,7 @@ This view is restricted. It is available to users with Human Resources (HR) acce
 
 1. Open the matrix
 
-   In Employee Self-Service (ESS), go to your manager view and open **Growth and performance**.
+   In EmployeeXP, go to your manager view and open **Growth and performance**.
 
 2. Filter to the employees you want
 

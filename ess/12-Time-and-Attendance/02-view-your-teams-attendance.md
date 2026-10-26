@@ -1,10 +1,10 @@
 ---
 id: view-your-teams-attendance
 summary:
-  - "In ESS, open the **Attendance** tile and go to the **Team attendance** tab."
+  - "In EmployeeXP, open the **Attendance** tile and go to the **Team attendance** tab."
   - "Switch between **Line** and **Hierarchy** to change which employees you see."
   - "Change the week or widen the date range to see a longer period."
-keywords: [team attendance, manager attendance view, line, hierarchy, direct reports, attendance manager, week range, refresh, ESS]
+keywords: [team attendance, manager attendance view, line, hierarchy, direct reports, attendance manager, week range, refresh, ESS, employeexp]
 video:
   youtube:
   bunny:
@@ -16,7 +16,7 @@ If people report to you, the attendance area has a team tab alongside your own. 
 
 1. Open team attendance
 
-   In Employee Self-Service (ESS), open the **Attendance** tile and go to the **Team attendance** tab.
+   In EmployeeXP, open the **Attendance** tile and go to the **Team attendance** tab.
 
 2. Choose line or hierarchy
 

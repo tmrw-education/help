@@ -1,4 +1,5 @@
 ---
+draft: true
 id: create-a-class-update
 summary:
   - "Prompt Felix with **create a class update** and select your classes."
