@@ -39,7 +39,7 @@ published.
    status changes to **Email sent**, and a **Send** button appears in the
    **Reminder action** column.
 
-   ![The Report block sub-tab with a student's status at Email sent and a Send button in the Reminder column](./images/manage-report-blocks-1.png)
+   ![The Report block sub-tab with a student's status send email and resolve block buttons are active](./images/manage-report-blocks-1.png)
 
 3. Send reminders
 
