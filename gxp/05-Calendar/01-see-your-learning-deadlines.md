@@ -37,13 +37,14 @@ expire and when renewals start. It doesn't show sessions or events.
 
 5. Open a deadline
 
-   Click a deadline. The **Deadline details** panel shows what the date means, the course's **Classification** and its
-   **Learning cycle**.
+   Click a deadline. The **Deadline details** panel shows what the date means and the course's **Classification**. For a
+   renewal, **Learning cycle** names it as **My courses** does, such as **Renewal 1**.
 
 6. Go to the course
 
    Click **Open course** to open the course's details in **My courses**.
 
-Dates are calendar dates, the same in every time zone. Renewal dates appear for mandatory learning only. Learning given
-to a whole group you belong to appears in **My courses** but may not appear here. You can also move around the calendar
-with the keyboard: arrow keys move by day and week, Page Up and Page Down by month.
+Dates are calendar dates, the same in every time zone. Renewal dates appear for mandatory learning only. The calendar
+shows the same learning as **My courses**, including learning given to a group you belong to, with one due date per
+course. You can also move around the calendar with the keyboard: arrow keys move by day and week, Page Up and Page Down
+by month.
