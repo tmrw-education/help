@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+  # PRs build too (no deploy): a broken link or a link to a draft page fails the check
+  pull_request:
   workflow_dispatch:
   schedule:
     - cron: '0 5 * * *'  # daily 05:00 UTC catch-all (picks up help-site tooling changes too)
@@ -46,7 +48,10 @@ jobs:
         run: npm run build
         working-directory: site
 
+      # Only reached when the build passed: the site config fails the build on any broken link
+      # (including a link to a `draft: true` page), so the live site keeps its last good version.
       - name: Deploy
+        if: github.event_name != 'pull_request'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
