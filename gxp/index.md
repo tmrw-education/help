@@ -36,7 +36,7 @@ topic below, or use the search bar at the top.
 - **[Organisation settings](./13-Organisation-settings/01-set-the-email-sender-and-logo.md)**: emails, reminders and
   feedback rules.
 - **[HR integration](./14-HR-integration/01-how-the-hr-integration-works.md)**: connecting GrowthXP to your HR system.
-- **[Troubleshooting](./15-Troubleshooting.md)**: common problems and how to resolve them.
+- **[Troubleshooting](./15-Troubleshooting/index.md)**: common problems and how to resolve them.
 - **[Glossary](./16-Glossary.md)**: the terms used across GrowthXP.
 
 ## New here?
