@@ -1,5 +1,5 @@
 ---
-id: gxp-link-legal-entities-to-an-organisation
+id: link-legal-entities-to-an-organisation
 summary:
   - "Import legal entities from HR first."
   - "In **Organisation structure**, select the parent organisation."

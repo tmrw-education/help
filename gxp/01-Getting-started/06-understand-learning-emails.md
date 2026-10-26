@@ -1,5 +1,5 @@
 ---
-id: gxp-understand-learning-emails
+id: understand-learning-emails
 summary:
   - "GrowthXP can email you when learning is assigned, due, overdue, completed, renewed or certified."
   - "Feedback reminders arrive only if your organisation sets a feedback deadline."

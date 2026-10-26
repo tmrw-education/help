@@ -1,5 +1,5 @@
 ---
-id: activity-cost-pxp
+id: activity-cost
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **Activity Cost** from the suggested prompts."

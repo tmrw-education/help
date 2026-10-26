@@ -1,5 +1,5 @@
 ---
-id: gxp-view-your-teams-learning
+id: view-your-teams-learning
 summary:
   - "Open **Manage** ▸ **My team**."
   - "Use **People**, **Search people**, **Mandatory learning only** and **Overdue only** to narrow the list."

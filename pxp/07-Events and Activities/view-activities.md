@@ -1,5 +1,5 @@
 ---
-id: view-activities-pxp
+id: view-activities
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **View Activities** from the suggested prompts."

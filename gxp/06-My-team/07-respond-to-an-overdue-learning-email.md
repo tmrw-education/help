@@ -1,5 +1,5 @@
 ---
-id: gxp-respond-to-an-overdue-learning-email
+id: respond-to-an-overdue-learning-email
 summary:
   - "If your organisation has turned on manager escalation, you're emailed when someone in your team still hasn't completed overdue mandatory learning."
   - "The email names the person, the course, the due date and how many reminders they've had."

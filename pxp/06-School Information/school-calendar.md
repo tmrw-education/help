@@ -1,5 +1,5 @@
 ---
-id: school-calendar-pxp
+id: school-calendar
 summary:
   - "Click the **School Information** tile on the home screen."
   - "Select **School Calendar** from the suggested prompts."

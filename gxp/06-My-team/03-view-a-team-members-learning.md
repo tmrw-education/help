@@ -1,5 +1,5 @@
 ---
-id: gxp-view-a-team-members-learning
+id: view-a-team-members-learning
 summary:
   - "In **My team**, click the person's name."
   - "The tiles show **Not started**, **In progress**, **Completed** and **Mandatory compliant**."

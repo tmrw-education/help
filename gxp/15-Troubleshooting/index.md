@@ -1,6 +1,4 @@
 ---
-id: gxp-troubleshooting
-slug: /gxp-troubleshooting
 keywords: [troubleshooting, problems, not working, error, help, cannot see, missing, why, growthxp]
 ---
 

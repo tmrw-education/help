@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-cant-change-due-date-or-export
+id: fix-cant-change-due-date-or-export
 summary:
   - "Due dates are for HR managers and organisation administrators. Export buttons only appear for the organisations your role covers."
   - "For a due date, ask an HR manager or administrator. For an export, choose one of your own organisations under **People**."

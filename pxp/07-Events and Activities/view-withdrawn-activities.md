@@ -1,5 +1,5 @@
 ---
-id: view-withdrawn-activities-pxp
+id: view-withdrawn-activities
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **View withdrawn activities** from the suggested prompts."

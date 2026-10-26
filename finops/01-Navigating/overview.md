@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: fo-overview
+id: overview
 summary:
   - "F&O is the financial backbone of the tmrw platform, built on Microsoft Dynamics 365 Finance & Operations."
   - "Because F&O shares a unified data layer with Student Management and HR, fee generation, payments, and reporting flow through one source of truth."

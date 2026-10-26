@@ -1,5 +1,5 @@
 ---
-id: gxp-manage-staff-categories
+id: manage-staff-categories
 summary:
   - "Go to **Manage** → **People** and click **Staff categories**."
   - "Add a category with its **Code** and display name, or rename one."

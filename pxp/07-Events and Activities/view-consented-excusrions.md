@@ -1,5 +1,5 @@
 ---
-id: view-consented-excursions-pxp
+id: view-consented-excursions
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **View consented excursions** from the suggested prompts."

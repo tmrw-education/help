@@ -1,5 +1,5 @@
 ---
-id: days-absent-pxp
+id: days-absent
 summary:
   - "Click the **Attendance** tile."
   - "Select **Days Absent** from the suggested prompts."

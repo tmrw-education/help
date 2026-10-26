@@ -1,5 +1,5 @@
 ---
-id: extra-support-pxp
+id: extra-support
 summary:
   - "Click the **School Information** tile."
   - Select **Extra Support** from the suggested prompts."

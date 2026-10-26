@@ -1,5 +1,5 @@
 ---
-id: gxp-add-an-organisation
+id: add-an-organisation
 summary:
   - "Go to **Manage** → **Organisation structure** and click **Add organisation**."
   - "Choose the **Type**, enter the **Name** and choose the **Parent organisation**."

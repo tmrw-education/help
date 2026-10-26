@@ -1,5 +1,5 @@
 ---
-id: gxp-preview-and-activate-a-rule
+id: preview-and-activate-a-rule
 summary:
   - "In **Learning rules**, open the rule's row menu and choose **Preview** to see who it would assign."
   - "Then choose **Activate**, decide whether to **Email the people assigned now**, and click **Activate rule**."

@@ -1,5 +1,5 @@
 ---
-id: gxp-how-line-manager-access-works
+id: how-line-manager-access-works
 summary:
   - "You become a **Line manager** automatically when someone reports to you. Nobody needs to give you the role."
   - "Your team is your direct reports and everyone who reports to them."

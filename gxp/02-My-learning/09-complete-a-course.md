@@ -1,5 +1,5 @@
 ---
-id: gxp-complete-a-course
+id: complete-a-course
 summary:
   - "Finish the course content; GrowthXP marks it **Completed** when the course reports it."
   - "You're asked for feedback, then any certificate is issued automatically."

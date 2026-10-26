@@ -1,5 +1,5 @@
 ---
-id: class-timetable-pxp
+id: class-timetable
 summary:
   - "Click the **Timetable** tile."
   - "Select **View Class Timetable** from the suggested prompts."

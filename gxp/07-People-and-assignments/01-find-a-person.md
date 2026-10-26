@@ -1,5 +1,5 @@
 ---
-id: gxp-find-a-person
+id: find-a-person
 summary:
   - "Open **Manage** ▸ **People**."
   - "Choose the organisation under **Show people in**, and tick **Include child organisations** to include its schools or departments."

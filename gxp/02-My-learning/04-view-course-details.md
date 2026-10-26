@@ -1,5 +1,5 @@
 ---
-id: gxp-view-course-details
+id: view-course-details
 summary:
   - "Click any course card to open **Course details**."
   - "Read **About this course**, the skills you'll develop and any **Materials**."

@@ -1,5 +1,5 @@
 ---
-id: gxp-when-you-get-a-certificate
+id: when-you-get-a-certificate
 summary:
   - "Certificates are issued automatically when you complete a course or pathway that awards one."
   - "If feedback is required, you get the certificate once you've submitted it."

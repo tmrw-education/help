@@ -1,5 +1,5 @@
 ---
-id: gxp-edit-or-delete-a-learning-pathway
+id: edit-or-delete-a-learning-pathway
 summary:
   - "Open the pathway and click **Edit details** to change its title, description, certificate or colour."
   - "Choose a **Certificate template** and **Minimum grade required (%)** to award a certificate when learners finish."

@@ -1,5 +1,5 @@
 ---
-id: gxp-find-a-course-to-manage
+id: find-a-course-to-manage
 summary:
   - "Open **Manage** ▸ **Content** ▸ **Courses**."
   - "Use the **Draft**, **Ready** and **All** tabs, the search box, and the **Source** and **Status** filters."

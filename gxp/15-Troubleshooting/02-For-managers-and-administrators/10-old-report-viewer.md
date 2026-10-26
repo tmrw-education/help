@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-old-report-viewer
+id: fix-old-report-viewer
 summary:
   - "An older role that gives nothing beyond a learner."
   - "Replace the grant: see *Replace an old report viewer grant*."

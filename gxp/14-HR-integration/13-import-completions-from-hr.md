@@ -1,5 +1,5 @@
 ---
-id: gxp-import-completions-from-hr
+id: import-completions-from-hr
 summary:
   - "Completions recorded in HR are imported as completed learning, tagged **Recorded in HR**."
   - "Go to **Settings** → **Synchronisation** → **Courses**, row **Completions from HR**."

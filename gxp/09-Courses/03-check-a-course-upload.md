@@ -1,5 +1,5 @@
 ---
-id: gxp-check-a-course-upload
+id: check-a-course-upload
 summary:
   - "After you upload a package, the course's status shows its progress: **Uploaded - queued**, **Scanning for malware**, **Extracting package**, then **Draft**."
   - "**Blocked - malware** or **Processing failed** means the package can't be used."

@@ -1,5 +1,5 @@
 ---
-id: gxp-choose-learner-emails
+id: choose-learner-emails
 summary:
   - "Go to **Manage** → **Notifications** → **Learner emails**."
   - "Switch each email on or off: **New course assigned**, **Completion email**, **Renewal notice**, **Certificate email**."

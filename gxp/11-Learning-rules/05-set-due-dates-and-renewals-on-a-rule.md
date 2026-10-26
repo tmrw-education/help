@@ -1,5 +1,5 @@
 ---
-id: gxp-set-due-dates-and-renewals-on-a-rule
+id: set-due-dates-and-renewals-on-a-rule
 summary:
   - "Under **Due dates**, leave **Grace days (optional)** and **Renewal lead time in days (optional)** empty to use the assignment settings, or set the rule's own."
   - "Check the **Calculation preview** for example due dates."

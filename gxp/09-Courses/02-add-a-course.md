@@ -1,5 +1,5 @@
 ---
-id: gxp-add-a-course
+id: add-a-course
 summary:
   - "In **Manage** ▸ **Courses**, click **Add course**."
   - "Drop the SCORM .zip file, check the **Course title**, choose the **Course audience** and **Course visibility**, then click **Upload and continue**."

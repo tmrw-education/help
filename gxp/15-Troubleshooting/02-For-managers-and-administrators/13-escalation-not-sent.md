@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-escalation-not-sent
+id: fix-escalation-not-sent
 summary:
   - "Escalation is off by default, or the person has no line manager who can be emailed. **Last daily check** shows the reason."
   - "Turn escalation on and fix the line manager. It's tried again at the next daily check."

@@ -1,5 +1,5 @@
 ---
-id: gxp-replace-an-old-report-viewer-grant
+id: replace-an-old-report-viewer-grant
 summary:
   - "In **Who has access**, filter **Role** to **Old report viewer (no effect)**."
   - "Click the give icon to give **Report viewer** for the whole organisation, then **Give access**."

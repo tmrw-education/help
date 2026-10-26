@@ -1,5 +1,5 @@
 ---
-id: gxp-set-the-email-sender-and-logo
+id: set-the-email-sender-and-logo
 summary:
   - "Go to **Manage** → **Notifications** → **Delivery and branding**."
   - "Set the **Sender display name** and an optional **Reply-to address**."

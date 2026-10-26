@@ -1,5 +1,5 @@
 ---
-id: gxp-map-hr-course-titles
+id: map-hr-course-titles
 summary:
   - "Go to **Settings** → **Synchronisation** → **Learning records** → **HR course titles**."
   - "Click **Update from course export** to fill mappings from courses sent to HR."

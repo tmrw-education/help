@@ -1,5 +1,5 @@
 ---
-id: request-transfer-certificate-pxp
+id: request-transfer-certificate
 summary:
   - "Click the **Student** tile."
   - "Select **Request transfer certificate** from the prompts."

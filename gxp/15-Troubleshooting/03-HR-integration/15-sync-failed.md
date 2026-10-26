@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-sync-failed
+id: fix-sync-failed
 summary:
   - "The run shows the reason, such as the HR service being unreachable or rejecting access."
   - "For a temporary problem, run it again later. If access was rejected, use **Test connection**. Still failing? Contact TMRW support with the run's details from **Sync history**."

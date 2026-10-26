@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-sync-not-activated
+id: fix-sync-not-activated
 summary:
   - "TMRW support hasn't switched that sync on for your organisation, or the connection isn't connected."
   - "Expand the row to see the reason, and contact TMRW support to switch the sync on."

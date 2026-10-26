@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-new-role-not-showing
+id: fix-new-role-not-showing
 summary:
   - "Reload the page: it was loaded before the role was given."
   - "Still missing? Ask the administrator to check **Who has access**, including **Where** the role applies."

@@ -1,5 +1,5 @@
 ---
-id: gxp-download-course-materials
+id: download-course-materials
 summary:
   - "Open the course's details."
   - "In **Materials**, click **Download** next to the file you want."

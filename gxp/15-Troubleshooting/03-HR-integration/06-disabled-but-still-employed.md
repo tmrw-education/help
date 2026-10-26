@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-disabled-but-still-employed
+id: fix-disabled-but-still-employed
 summary:
   - "In HR they're inactive, have only temporary positions, or have no current employment."
   - "Correct the record in HR; the next sync re-enables them. To restore access now, re-enable the account in **People**."

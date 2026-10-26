@@ -1,5 +1,5 @@
 ---
-id: gxp-track-your-pathway-progress
+id: track-your-pathway-progress
 summary:
   - "Each pathway card shows a progress ring with the percentage done, and how many of its courses you've completed."
   - "The key explains the course marks: **Done**, **In progress**, **Available** and **Locked**."

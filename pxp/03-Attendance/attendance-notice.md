@@ -1,5 +1,5 @@
 ---
-id: attendance-notice-pxp
+id: attendance-notice
 summary:
   - "Click the **Attendance** tile."
   - “Select **Attendance Notice** and the relevant child.” 

@@ -1,5 +1,5 @@
 ---
-id: gxp-edit-an-email-template
+id: edit-an-email-template
 summary:
   - "Go to **Manage** → **Notifications** and click **Edit template** on an email."
   - "Change the **Subject**, **Heading** and **Message**; click a placeholder to insert it."

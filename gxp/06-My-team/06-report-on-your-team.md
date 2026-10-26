@@ -1,5 +1,5 @@
 ---
-id: gxp-report-on-your-team
+id: report-on-your-team
 summary:
   - "Open **Manage** ▸ **Learning reports**."
   - "Under **People**, choose **Your line reports**."

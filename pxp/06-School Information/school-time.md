@@ -1,5 +1,5 @@
 ---
-id: school-time-pxp
+id: school-time
 summary:
   - "Click the **School Information** tile."
   - "Select **School Time** from the prompts."

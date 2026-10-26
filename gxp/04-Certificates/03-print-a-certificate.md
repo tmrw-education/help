@@ -1,5 +1,5 @@
 ---
-id: gxp-print-a-certificate
+id: print-a-certificate
 summary:
   - "Click **Print** on the certificate's card, or on its certificate page."
   - "A new tab opens with your browser's print dialog."

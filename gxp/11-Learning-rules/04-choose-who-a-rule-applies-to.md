@@ -1,5 +1,5 @@
 ---
-id: gxp-choose-who-a-rule-applies-to
+id: choose-who-a-rule-applies-to
 summary:
   - "Under **Who it applies to**, set any of **Staff categories**, **Organisations**, **Worker types**, **Job titles** and months employed."
   - "Every condition you set must match. Leave a condition empty to ignore it."

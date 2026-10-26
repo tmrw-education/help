@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-enrolments-not-going-to-hr
+id: fix-enrolments-not-going-to-hr
 summary:
   - "Writes to HR are held until your F&O team approves them: **To HR** shows **Held**. Nothing is lost."
   - "Contact TMRW support when your F&O team is ready to approve them."

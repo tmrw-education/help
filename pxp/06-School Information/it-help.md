@@ -1,5 +1,5 @@
 ---
-id: it-help-pxp
+id: it-help
 summary:
   - "Click the **School Information** tile."
   - "Select **IT Help** from the prompts."

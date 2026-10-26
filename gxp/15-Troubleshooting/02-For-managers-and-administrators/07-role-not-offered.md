@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-role-not-offered
+id: fix-role-not-offered
 summary:
   - "You can only give roles whose permissions you hold yourself. Hidden roles are listed under **Not shown** with the reason."
   - "Ask another organisation administrator to give it."

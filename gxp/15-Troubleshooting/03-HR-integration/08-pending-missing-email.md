@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-pending-missing-email
+id: fix-pending-missing-email
 summary:
   - "HR has no work email for them. They're still imported."
   - "Add the work email in HR; the next sync updates them."

@@ -1,5 +1,5 @@
 ---
-id: gxp-how-the-hr-integration-works
+id: how-the-hr-integration-works
 summary:
   - "The HR integration connects the platform to Microsoft Dynamics 365 Finance and Operations."
   - "People, positions, line managers, staff categories and legal entities come from HR; courses and enrolments go both ways."

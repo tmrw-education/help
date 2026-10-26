@@ -1,5 +1,5 @@
 ---
-id: gxp-require-feedback-before-a-certificate
+id: require-feedback-before-a-certificate
 summary:
   - "In **Edit details**, under **Certificate**, set **Feedback before certificate**."
   - "Choose **Use the customer default**, **Required** or **Not required**."

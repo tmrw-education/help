@@ -1,5 +1,5 @@
 ---
-id: newsletters-circulars-pxp
+id: newsletters-circulars
 summary:
   - "Click **School Information** from the home screen."
   - "Select **Newsletters and Circulars** from the prompts."

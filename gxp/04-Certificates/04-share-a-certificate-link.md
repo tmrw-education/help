@@ -1,5 +1,5 @@
 ---
-id: gxp-share-a-certificate-link
+id: share-a-certificate-link
 summary:
   - "Open the certificate page from **Certificates**."
   - "Click **Copy link** and send it."

@@ -1,5 +1,5 @@
 ---
-id: becoming-activity-volunteer-pxp
+id: becoming-activity-volunteer
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **Becoming activity volunteer** from the suggested prompts."

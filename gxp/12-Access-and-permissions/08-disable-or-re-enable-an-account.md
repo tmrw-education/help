@@ -1,5 +1,5 @@
 ---
-id: gxp-disable-or-re-enable-an-account
+id: disable-or-re-enable-an-account
 summary:
   - "Go to **Manage** → **People** and open the **⋯** menu on the person's row."
   - "Choose **Disable account** or **Re-enable account**."

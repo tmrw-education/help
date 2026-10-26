@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-test-connection-fails
+id: fix-test-connection-fails
 summary:
   - "Each **Failed** row names what failed: the certificate, the app registration, or the F&O service user's access."
   - "Upload the certificate to the Microsoft Entra app registration, check the app under **Microsoft Entra applications** in F&O, and check the service user's access."

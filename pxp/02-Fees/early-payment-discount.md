@@ -1,5 +1,5 @@
 ---
-id: early-payment-discount-pxp
+id: early-payment-discount
 summary:
   - "Click **Fees** on the home screen."
   - "Select **Early payment discount**."

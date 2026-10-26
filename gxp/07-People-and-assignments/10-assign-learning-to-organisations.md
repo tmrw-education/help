@@ -1,5 +1,5 @@
 ---
-id: gxp-assign-learning-to-organisations
+id: assign-learning-to-organisations
 summary:
   - "In **Learning assignments**, click **Assign learning** and choose **Assign to** ▸ **Organisations**."
   - "Choose the **Learner organisations**, the **Course**, the **Classification** and a **Due date (optional)**."

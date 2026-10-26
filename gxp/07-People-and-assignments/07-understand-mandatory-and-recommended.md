@@ -1,5 +1,5 @@
 ---
-id: gxp-understand-mandatory-and-recommended
+id: understand-mandatory-and-recommended
 summary:
   - "**Mandatory** learning is required: it counts towards compliance, can become overdue and gets overdue reminders."
   - "**Recommended** learning is suggested: it's never overdue and its due date is optional."

@@ -1,5 +1,5 @@
 ---
-id: gxp-build-a-learning-pathway
+id: build-a-learning-pathway
 summary:
   - "Open the pathway in **Manage** ▸ **Learning pathways**."
   - "Click **Add course** in a tier, or **Add new tier**, and choose a course."

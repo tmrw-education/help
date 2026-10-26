@@ -1,5 +1,5 @@
 ---
-id: gxp-attach-a-certificate-to-a-course
+id: attach-a-certificate-to-a-course
 summary:
   - "In **Edit details**, under **Certificate**, choose a **Certificate template**."
   - "Set **Minimum grade required (%)**, or leave it at 0 for no grade requirement."

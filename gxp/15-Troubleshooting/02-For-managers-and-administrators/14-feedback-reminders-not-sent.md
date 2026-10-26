@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-feedback-reminders-not-sent
+id: fix-feedback-reminders-not-sent
 summary:
   - "Feedback reminders are only sent when there's a feedback deadline."
   - "Set a deadline in **Settings** → **Course feedback**."

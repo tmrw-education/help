@@ -1,5 +1,5 @@
 ---
-id: gxp-give-feedback-on-a-course
+id: give-feedback-on-a-course
 summary:
   - "After you complete a course, the **Course feedback** form opens."
   - "Choose an **Overall rating**, write at least 10 characters, then click **Submit feedback**."

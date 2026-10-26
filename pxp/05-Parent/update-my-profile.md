@@ -1,5 +1,5 @@
 ---
-id: update-my-profile-pxp
+id: update-my-profile
 summary:
   - "Click the **Parent** tile."
   - "Select **Update My Profile** from the prompts."

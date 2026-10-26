@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-manage-not-showing
+id: fix-manage-not-showing
 summary:
   - "**Manage** only appears if you have a role beyond learner, or people report to you."
   - "Expected for most staff. If you should have a role, ask your organisation administrator."

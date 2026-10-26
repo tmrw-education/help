@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-syncing-stopped-after-connection-change
+id: fix-syncing-stopped-after-connection-change
 summary:
   - "Changing the environment, tenant, client ID or certificate stops syncing until the connection is tested again."
   - "Click **Test connection** and check every row passes."

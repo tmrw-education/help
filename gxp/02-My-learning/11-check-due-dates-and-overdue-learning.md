@@ -1,5 +1,5 @@
 ---
-id: gxp-check-due-dates-and-overdue-learning
+id: check-due-dates-and-overdue-learning
 summary:
   - "Each card in **My courses** shows **Due** and a date until you complete it."
   - "Overdue mandatory learning sorts to the top with a red **Overdue** tag, and shows as **Overdue** in the bell and **Calendar**."

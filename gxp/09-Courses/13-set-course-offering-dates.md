@@ -1,5 +1,5 @@
 ---
-id: gxp-set-course-offering-dates
+id: set-course-offering-dates
 summary:
   - "In **Edit details**, under **Offering dates**, set the **Offering start date and time** and **Offering end date and time**, in your own time zone."
   - "These dates are sent to your HR system with the course. They don't change learner access or course expiry."

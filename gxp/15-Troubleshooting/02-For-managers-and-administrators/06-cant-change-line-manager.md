@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-cant-change-line-manager
+id: fix-cant-change-line-manager
 summary:
   - "The line manager comes from HR (**Maintained by your HR integration**) and updates with each sync."
   - "Change the manager in HR. It's updated at the next HR sync."

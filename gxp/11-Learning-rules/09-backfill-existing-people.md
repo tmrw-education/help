@@ -1,5 +1,5 @@
 ---
-id: gxp-backfill-existing-people
+id: backfill-existing-people
 summary:
   - "In **Learning rules**, under **Existing people**, click **Backfill existing people**."
   - "Click **Check more people** until everyone has been checked."

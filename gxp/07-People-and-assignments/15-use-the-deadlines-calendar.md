@@ -1,5 +1,5 @@
 ---
-id: gxp-use-the-deadlines-calendar
+id: use-the-deadlines-calendar
 summary:
   - "Open **Manage** ▸ **Deadlines calendar**."
   - "Under **People**, choose **Your line reports**, **An organisation** or **Everyone**. For an organisation, choose it under **Organisation**."

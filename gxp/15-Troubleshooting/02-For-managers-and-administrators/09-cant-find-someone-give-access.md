@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-cant-find-someone-give-access
+id: fix-cant-find-someone-give-access
 summary:
   - "They haven't been imported from HR yet, or your directory couldn't be searched (**Directory not searched**)."
   - "Search by their work email. For a new starter, import them first with **Individual HR lookup**."

@@ -1,5 +1,5 @@
 ---
-id: gxp-filter-the-deadlines-calendar
+id: filter-the-deadlines-calendar
 summary:
   - "Use **Event types** to choose **Assignment due**, **Feedback due**, **Expiry** or **Renewal due**."
   - "Narrow by **Status**, **Classification**, **Course source**, **Channel**, **School or organisation** and **Staff category**."

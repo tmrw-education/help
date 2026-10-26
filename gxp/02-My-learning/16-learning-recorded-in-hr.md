@@ -1,5 +1,5 @@
 ---
-id: gxp-understand-recorded-in-hr
+id: understand-recorded-in-hr
 summary:
   - "**Recorded in HR** means you completed the course outside GrowthXP and your HR system recorded it."
   - "It counts as completed, with its own expiry, but there's no certificate in GrowthXP."

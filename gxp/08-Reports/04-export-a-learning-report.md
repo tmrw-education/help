@@ -1,5 +1,5 @@
 ---
-id: gxp-export-a-learning-report
+id: export-a-learning-report
 summary:
   - "In **Learning reports**, set **People** and the filters."
   - "Click **Export detail** for one row per person and course, or **Export summary** for the totals."

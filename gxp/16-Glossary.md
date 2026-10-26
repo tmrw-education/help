@@ -1,5 +1,4 @@
 ---
-id: gxp-glossary
 toc_max_heading_level: 2
 keywords: [glossary, terms, definitions, what does it mean, vocabulary, growthxp]
 ---

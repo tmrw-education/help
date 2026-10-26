@@ -1,5 +1,5 @@
 ---
-id: gxp-edit-course-details
+id: edit-course-details
 summary:
   - "In **Manage** ▸ **Courses**, open the row menu and choose **Edit details**."
   - "Change the title, description, duration, tags, skills, channels or thumbnail."

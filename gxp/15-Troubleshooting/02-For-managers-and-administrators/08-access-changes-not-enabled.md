@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-access-changes-not-enabled
+id: fix-access-changes-not-enabled
 summary:
   - "Giving access is switched off for your organisation."
   - "Contact TMRW support."

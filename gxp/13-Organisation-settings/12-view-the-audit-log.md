@@ -1,5 +1,5 @@
 ---
-id: gxp-view-the-audit-log
+id: view-the-audit-log
 summary:
   - "Go to **Manage** → **Audit log**."
   - "Search actions, targets and people, or filter by **Category**."

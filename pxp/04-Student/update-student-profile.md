@@ -1,5 +1,5 @@
 ---
-id: update-student-profile-pxp
+id: update-student-profile
 summary:
   - "Click the **Student** tile."
   - "Select **Update Student Profile** from the prompts."

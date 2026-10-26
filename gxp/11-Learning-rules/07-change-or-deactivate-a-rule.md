@@ -1,5 +1,5 @@
 ---
-id: gxp-change-or-deactivate-a-rule
+id: change-or-deactivate-a-rule
 summary:
   - "Choose **Edit** to change a rule. For an active rule, the changes wait until you preview and activate them."
   - "Choose **Run now** to check everyone against an active rule again."

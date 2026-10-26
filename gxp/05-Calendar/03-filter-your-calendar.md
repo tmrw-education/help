@@ -1,5 +1,5 @@
 ---
-id: gxp-filter-your-calendar
+id: filter-your-calendar
 summary:
   - "Use the filters above the calendar: **Event types**, **Status**, **Classification**, **Course source**, **Channel**, **Due from** and **Due to**."
   - "**Clear filters** puts everything back."

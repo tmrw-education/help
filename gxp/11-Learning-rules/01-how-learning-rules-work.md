@@ -1,5 +1,5 @@
 ---
-id: gxp-how-learning-rules-work
+id: how-learning-rules-work
 summary:
   - "A learning rule assigns courses automatically to everyone who matches its conditions, as **Mandatory** or **Recommended**."
   - "Nothing is assigned until you activate the rule. Edits to an active rule wait until you activate them."

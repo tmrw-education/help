@@ -1,5 +1,5 @@
 ---
-id: gxp-add-course-materials
+id: add-course-materials
 summary:
   - "In **Edit details**, under **Training materials**, click **Add material**."
   - "Drop a PDF, Word, Excel, PowerPoint, image, text or CSV file, give it a **Name** and **Purpose (optional)**, and click **Upload material**."

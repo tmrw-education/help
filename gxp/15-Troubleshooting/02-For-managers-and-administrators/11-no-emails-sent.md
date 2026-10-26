@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-no-emails-sent
+id: fix-no-emails-sent
 summary:
   - "**Delivery and branding** shows why: emails are switched off for your organisation, or a delivery tag says **Not sent** or **Not set up**."
   - "Contact TMRW support to switch emails on for your organisation."

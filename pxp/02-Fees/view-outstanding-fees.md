@@ -1,5 +1,5 @@
 ---
-id: view-outstanding-fees-pxp
+id: view-outstanding-fees
 summary:
   - "Click the **Fees** tile."
   - "Select **View Outstanding Fees** from the prompts."

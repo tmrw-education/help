@@ -1,5 +1,5 @@
 ---
-id: gxp-view-compliance-on-the-overview
+id: view-compliance-on-the-overview
 summary:
   - "On the **Manage** overview, click the **Compliance** tab for the organisation-wide compliance report."
   - "Click the **Courses** tab for charts of completion, course performance and activity."

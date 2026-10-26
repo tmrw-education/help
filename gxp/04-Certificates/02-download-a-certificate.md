@@ -1,5 +1,5 @@
 ---
-id: gxp-download-a-certificate
+id: download-a-certificate
 summary:
   - "In **Certificates**, click **Download** on the certificate's card."
   - "Or open the certificate page and click **Download**."

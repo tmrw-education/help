@@ -1,5 +1,5 @@
 ---
-id: gxp-choose-who-can-see-a-course
+id: choose-who-can-see-a-course
 summary:
   - "In **Edit details**, set **Course audience** to **Everyone in the organisation** or **Selected organisation scopes**."
   - "For selected scopes, choose the organisations and tick **Direct members only** to leave out their child organisations."

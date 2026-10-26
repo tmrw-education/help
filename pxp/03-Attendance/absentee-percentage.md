@@ -1,5 +1,5 @@
 ---
-id: absentee-percentage-pxp
+id: absentee-percentage
 summary:
   - "Click the **Attendance** tile."
   - "Select **Absentee Percentage** from the prompts."

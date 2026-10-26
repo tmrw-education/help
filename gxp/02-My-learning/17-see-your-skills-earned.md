@@ -1,5 +1,5 @@
 ---
-id: gxp-see-your-skills-earned
+id: see-your-skills-earned
 summary:
   - "In **My courses**, **Skills earned** counts the skills from courses you've completed."
   - "A badge for each skill shows when you earned it and from how many courses."

@@ -1,5 +1,5 @@
 ---
-id: gxp-remove-an-assignment
+id: remove-an-assignment
 summary:
   - "In **Learning assignments**, open the row menu and choose **Remove**."
   - "Read what will happen, then click **Remove assignment**."

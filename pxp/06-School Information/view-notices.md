@@ -1,5 +1,5 @@
 ---
-id: view-notices-pxp
+id: view-notices
 summary:
   - "Click the **School Information** tile."
   - "Select **View notice** from the suggested prompts."

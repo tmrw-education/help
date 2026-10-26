@@ -32,7 +32,8 @@ the other apps. GrowthXP shows the troubleshooting and glossary formats.
 
 ## How to write docs
 
-**Read [CONTRIBUTING.md](./CONTRIBUTING.md) first: everyone follows it.** It covers
+**Read [CONTRIBUTING.md](./CONTRIBUTING.md) first: everyone follows it.** Step-by-step
+publishing is in its §11. It covers
 page structure, the front matter Felix reads, steps, screenshots, troubleshooting
 and glossary pages, and what may be published. The research behind it is in
 [DOC_FORMAT_RATIONALE.md](./DOC_FORMAT_RATIONALE.md).
@@ -46,11 +47,12 @@ Every push to `main` rebuilds the site and publishes it within a couple of
 minutes, but only if the build passes. A broken link, or a published page that
 still says **VERIFY BEFORE PUBLISHING**, stops it: the live site keeps its last
 good version and GitHub emails you. The failed run in the **Actions** tab names
-the file and line to fix. See CONTRIBUTING.md §10.
+the file and what to fix. See CONTRIBUTING.md §10–11.
 
 ## What happened to all the other files?
 
 The Docusaurus config, `package.json`, `src/`, `static/`, etc. moved to the
 [`help-site`](https://github.com/tmrw-education/help-site) repo. They're not
 needed for writing docs and were easy to delete by mistake, so they're out of
-your way now.
+your way now. **Only the site owners change `help-site`**; ask them if the site itself
+needs changing.

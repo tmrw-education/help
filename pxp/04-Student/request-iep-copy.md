@@ -1,5 +1,5 @@
 ---
-id: request-iep-copy-pxp
+id: request-iep-copy
 summary:
   - "Click **Student** from the home screen."
   - "Select **Request copy IEP** from the prompts."

@@ -1,5 +1,5 @@
 ---
-id: gxp-when-hr-syncs-run
+id: when-hr-syncs-run
 summary:
   - "TMRW support sets the schedule: hourly, every 6 hours, daily or weekly, at your local time."
   - "Course changes go to HR as you save them; learner status is sent continuously."

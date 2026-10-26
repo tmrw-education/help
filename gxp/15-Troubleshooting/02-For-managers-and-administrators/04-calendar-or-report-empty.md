@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-calendar-or-report-empty
+id: fix-calendar-or-report-empty
 summary:
   - "Learning managers and report viewers see nothing until they choose an organisation."
   - "Choose your school or unit in **Organisation**, and tick **Include child organisations** for the units below it."

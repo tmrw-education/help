@@ -1,5 +1,5 @@
 ---
-id: gxp-create-a-learning-rule
+id: create-a-learning-rule
 summary:
   - "Open **Manage** ▸ **Learning rules** and click **Create rule**."
   - "Enter the **Rule name**, choose the **Courses**, and choose **Assign as** **Mandatory** or **Recommended**."

@@ -1,5 +1,5 @@
 ---
-id: gxp-review-people-changes
+id: review-people-changes
 summary:
   - "In **Learning rules**, scroll to **People changes**."
   - "Under **Show**, choose **Need review**, **Waiting for start date**, **Waiting to be evaluated**, **Evaluation failed** or **Evaluated**."

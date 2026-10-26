@@ -1,5 +1,5 @@
 ---
-id: activity-day-and-time-pxp
+id: activity-day-and-time
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **Activity Day and Time** from the suggested prompts."

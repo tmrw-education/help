@@ -1,5 +1,5 @@
 ---
-id: gxp-filter-assignments-with-the-summary
+id: filter-assignments-with-the-summary
 summary:
   - "The four tiles above **Learning assignments** count **Overdue**, **Due in the next 30 days**, **In progress** and **Completed**."
   - "Click a tile to show only that status. Click it again to show everything."

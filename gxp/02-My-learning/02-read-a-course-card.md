@@ -1,5 +1,5 @@
 ---
-id: gxp-read-a-course-card
+id: read-a-course-card
 summary:
   - "Tags at the top show the status, **Mandatory** or **Recommended**, and anything you need to do."
   - "The line under the description shows the duration, due date, completion date and how long it stays valid."

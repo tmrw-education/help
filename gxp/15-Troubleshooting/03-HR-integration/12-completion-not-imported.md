@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-completion-not-imported
+id: fix-completion-not-imported
 summary:
   - "The HR course title isn't mapped, the person has no verified HR identity, or the course is still a draft."
   - "Check the reason in the preview, then map the title or publish the course."

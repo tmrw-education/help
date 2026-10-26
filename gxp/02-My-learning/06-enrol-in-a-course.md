@@ -1,5 +1,5 @@
 ---
-id: gxp-enrol-in-a-course
+id: enrol-in-a-course
 summary:
   - "In **Courses**, find a course marked **Open to enrol** and open it."
   - "Click **Enrol**."

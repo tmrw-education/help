@@ -1,5 +1,5 @@
 ---
-id: gxp-see-your-teams-deadlines
+id: see-your-teams-deadlines
 summary:
   - "In **My team**, click **Team calendar**, or open **Manage** ▸ **Deadlines calendar**."
   - "**People** is set to **Your line reports**."

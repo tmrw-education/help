@@ -1,5 +1,5 @@
 ---
-id: sign-in-ess
+id: sign-in
 summary:
   - "Navigate to the **EmployeeXP portal URL** provided by your IT team or HR."
   - "Click **Sign in with Microsoft** and enter your **GEMS Microsoft 365** credentials."

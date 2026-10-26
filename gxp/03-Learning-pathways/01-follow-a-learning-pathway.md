@@ -1,5 +1,5 @@
 ---
-id: gxp-follow-a-learning-pathway
+id: follow-a-learning-pathway
 summary:
   - "Click **Learning pathways**, then click a pathway's card to open it."
   - "Click **Start course** or **Continue course**, or any course in the steps, to open its details and launch it."

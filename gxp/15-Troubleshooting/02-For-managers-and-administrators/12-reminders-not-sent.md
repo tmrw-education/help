@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-reminders-not-sent
+id: fix-reminders-not-sent
 summary:
   - "Scheduled emails aren't switched on, or **Upcoming deadline reminders** or **Overdue reminders** are off. Overdue reminders are for mandatory learning only."
   - "Check the reminder schedule on **Notifications**, and contact TMRW support to switch on scheduled emails."

@@ -1,5 +1,5 @@
 ---
-id: gxp-see-your-learning-deadlines
+id: see-your-learning-deadlines
 summary:
   - "Click **Calendar** to see a month of your learning deadlines."
   - "Click a day to list its deadlines, then click one for its **Deadline details**."

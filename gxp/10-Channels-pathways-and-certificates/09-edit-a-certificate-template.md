@@ -1,5 +1,5 @@
 ---
-id: gxp-edit-a-certificate-template
+id: edit-a-certificate-template
 summary:
   - "In **Manage** ▸ **Certificates** ▸ **Templates**, click the **Edit** icon on the template."
   - "Make your changes and click **Save template**."

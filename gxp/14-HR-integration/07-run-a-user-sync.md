@@ -1,5 +1,5 @@
 ---
-id: gxp-run-a-user-sync
+id: run-a-user-sync
 summary:
   - "Go to **Manage** → **Settings** → **Synchronisation** → **People**."
   - "On the **Users** row, click **Sync now: users**."

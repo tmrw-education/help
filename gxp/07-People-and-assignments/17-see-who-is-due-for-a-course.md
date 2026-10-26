@@ -1,5 +1,5 @@
 ---
-id: gxp-see-who-is-due-for-a-course
+id: see-who-is-due-for-a-course
 summary:
   - "In the deadlines calendar, each course appears once per day and type of deadline, with the number of people."
   - "Click it to see how many people are in each state, and who they are."

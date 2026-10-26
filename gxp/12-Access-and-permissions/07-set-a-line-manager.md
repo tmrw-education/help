@@ -1,5 +1,5 @@
 ---
-id: gxp-set-a-line-manager
+id: set-a-line-manager
 summary:
   - "Go to **Manage** → **People**, then **View details** on the person."
   - "Under **Employment**, click **Edit employment details**."

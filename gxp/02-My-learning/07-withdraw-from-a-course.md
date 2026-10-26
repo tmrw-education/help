@@ -1,5 +1,5 @@
 ---
-id: gxp-withdraw-from-a-course
+id: withdraw-from-a-course
 summary:
   - "In **My courses**, find the **Self-enrolled** course."
   - "Click **Withdraw** under its card, then **Withdraw enrolment**."

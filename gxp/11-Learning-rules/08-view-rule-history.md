@@ -1,5 +1,5 @@
 ---
-id: gxp-view-rule-history
+id: view-rule-history
 summary:
   - "In **Learning rules**, open the rule's row menu and choose **History**."
   - "**Versions** lists each activated version, who activated it and when."

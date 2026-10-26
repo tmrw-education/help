@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-user-sync-paused
+id: fix-user-sync-paused
 summary:
   - "The sync would disable more people than your review limit, so it stopped before disabling anyone. All user syncs wait until it's decided."
   - "Click **Review people to disable**, check the list, then choose **Disable people** or **Keep everyone**."

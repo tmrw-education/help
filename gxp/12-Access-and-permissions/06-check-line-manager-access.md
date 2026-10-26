@@ -1,5 +1,5 @@
 ---
-id: gxp-check-line-manager-access
+id: check-line-manager-access
 summary:
   - "Line manager access is automatic: anyone with people reporting to them gets it."
   - "On **Who has access**, click **Show line managers** to list them."

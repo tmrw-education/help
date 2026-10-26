@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-organisation-not-licensed
+id: fix-organisation-not-licensed
 summary:
   - "GrowthXP isn't available for the Microsoft account you signed in with."
   - "Sign in with your work Microsoft account. If the message stays, ask your administrator to contact TMRW support."

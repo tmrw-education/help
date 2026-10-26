@@ -1,5 +1,5 @@
 ---
-id: student-documents-pxp
+id: student-documents
 summary:
   - "Click on the **Student** tile."
   - "Select **Student Documents** from the prompts."

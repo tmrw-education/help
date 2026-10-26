@@ -1,5 +1,5 @@
 ---
-id: teacher-list-pxp
+id: teacher-list
 summary:
   - "Click the **Timetable** tile."
   - "Select **Teacher List** from the suggested prompts."

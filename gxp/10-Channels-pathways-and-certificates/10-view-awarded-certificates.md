@@ -1,5 +1,5 @@
 ---
-id: gxp-view-awarded-certificates
+id: view-awarded-certificates
 summary:
   - "Open **Manage** ▸ **Certificates** ▸ **Awarded certificates**."
   - "Search by learner or certificate number, and filter by **Source**."

@@ -1,5 +1,5 @@
 ---
-id: view-upcoming-tuition-fees-pxp
+id: view-upcoming-tuition-fees
 summary:
   - "Click **Fees** from the home screen."
   - "Select **View Upcoming Tuition Fees** from the prompts."

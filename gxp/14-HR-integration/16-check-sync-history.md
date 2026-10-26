@@ -1,5 +1,5 @@
 ---
-id: gxp-check-sync-history
+id: check-sync-history
 summary:
   - "Go to **Settings** → **Synchronisation** → **History**."
   - "Filter by **Trigger**: **Manual**, **Scheduled**, **Course changes** or **Not recorded**."

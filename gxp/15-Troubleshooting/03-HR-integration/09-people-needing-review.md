@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-people-needing-review
+id: fix-people-needing-review
 summary:
   - "Their staff category isn't defined, or HR sends conflicting categories."
   - "Add the category in **Staff categories**, or fix the value in HR."

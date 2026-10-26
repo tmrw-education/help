@@ -1,5 +1,5 @@
 ---
-id: gxp-sign-in
+id: sign-in
 summary:
   - "Open GrowthXP and click **Sign in**."
   - "Choose your organisation's Microsoft account and finish Microsoft's sign-in."

@@ -1,5 +1,5 @@
 ---
-id: gxp-publish-or-unpublish-a-course
+id: publish-or-unpublish-a-course
 summary:
   - "To publish a draft, open its row menu in **Manage** ▸ **Courses** and choose **Mark ready**."
   - "To unpublish, choose **Move to draft**."

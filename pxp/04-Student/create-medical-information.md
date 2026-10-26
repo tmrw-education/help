@@ -1,5 +1,5 @@
 ---
-id: create-medical-information-pxp
+id: create-medical-information
 summary:
   - "Click the **Student** tile."
   - "Select **Create medical information**."

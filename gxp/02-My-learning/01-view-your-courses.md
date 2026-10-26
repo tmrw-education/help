@@ -1,5 +1,5 @@
 ---
-id: gxp-view-your-courses
+id: view-your-courses
 summary:
   - "Click **My courses** to see everything assigned to you and everything you've started."
   - "Use the tabs **All**, **In progress**, **Not started** and **Completed**, or search by course or skill."

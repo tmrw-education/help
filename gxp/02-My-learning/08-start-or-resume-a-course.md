@@ -1,5 +1,5 @@
 ---
-id: gxp-start-or-resume-a-course
+id: start-or-resume-a-course
 summary:
   - "Open the course's details and click **Launch course**."
   - "Your progress saves automatically as you go."

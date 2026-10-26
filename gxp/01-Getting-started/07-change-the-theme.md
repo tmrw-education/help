@@ -1,5 +1,5 @@
 ---
-id: gxp-change-the-theme
+id: change-the-theme
 summary:
   - "Click the **Change theme** icon (a sun or a moon) in the header."
   - "Choose **Light**, **Light grey**, **Dark grey** or **Dark**."

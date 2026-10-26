@@ -1,5 +1,5 @@
 ---
-id: gxp-see-who-has-access
+id: see-who-has-access
 summary:
   - "Go to **Manage** → **Access and permissions** → **Who has access**."
   - "Search by name, or filter by **Role**."

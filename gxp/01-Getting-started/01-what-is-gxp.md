@@ -1,5 +1,5 @@
 ---
-id: gxp-what-is-gxp
+id: what-is
 summary:
   - "**GrowthXP** is where you do your professional learning."
   - "**My courses** shows what you've been given and what you've started; **Courses** is the catalogue."

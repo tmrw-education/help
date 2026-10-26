@@ -1,5 +1,5 @@
 ---
-id: gxp-set-how-long-a-completion-is-valid
+id: set-how-long-a-completion-is-valid
 summary:
   - "In **Edit details**, under **Completion validity**, choose **Use the customer default**, **Expires after a number of months** or **Never expires**."
   - "For months, enter **Months valid** (1 to 120)."

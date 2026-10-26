@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-learner-status-skipped
+id: fix-learner-status-skipped
 summary:
   - "The learner has no HR identity, or the course has no HR course title in their legal entity. Titles must match exactly."
   - "Add or correct the HR course title mapping."

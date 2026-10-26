@@ -1,5 +1,5 @@
 ---
-id: view-student-profile-pxp
+id: view-student-profile
 summary:
   - "Click the **Student** tile."
   - "Select **View Student Profile** from the prompts."

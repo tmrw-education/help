@@ -1,5 +1,5 @@
 ---
-id: update-medical-information-pxp
+id: update-medical-information
 summary:
   - "Click the **Student** tile."
   - "Select **Update medical information** from the prompts."

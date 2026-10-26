@@ -1,5 +1,5 @@
 ---
-id: gxp-open-learning-reports
+id: open-learning-reports
 summary:
   - "Open **Manage** ▸ **Learning reports**."
   - "Under **People**, choose **Everyone**, **An organisation** or **Your line reports**."

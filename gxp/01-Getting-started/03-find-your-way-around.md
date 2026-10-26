@@ -1,5 +1,5 @@
 ---
-id: gxp-find-your-way-around
+id: find-your-way-around
 summary:
   - "The header runs across the top of every page."
   - "Links: **My courses**, **Courses**, **Learning pathways**, **Certificates**, **Calendar** (and **Manage** if your role has it)."

@@ -1,5 +1,5 @@
 ---
-id: gxp-export-your-teams-learning
+id: export-your-teams-learning
 summary:
   - "Open **Manage** ▸ **My team** and set the filters you want."
   - "Click **Export summary** for one row per person, or **Export detail** for one row per person and course."

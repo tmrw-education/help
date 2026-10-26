@@ -1,5 +1,5 @@
 ---
-id: gxp-view-your-training-history
+id: view-your-training-history
 summary:
   - "In **My courses**, click **Training history** under a course card."
   - "Each row is one cycle: **First completion**, then each renewal."

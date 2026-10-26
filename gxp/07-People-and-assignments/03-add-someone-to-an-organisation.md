@@ -1,5 +1,5 @@
 ---
-id: gxp-add-someone-to-an-organisation
+id: add-someone-to-an-organisation
 summary:
   - "In **People**, click **Add to an organisation**."
   - "Search for the **Person**, choose the **Organisation**, and add an **End date (optional)**."

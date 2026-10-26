@@ -1,5 +1,5 @@
 ---
-id: gxp-delete-a-course
+id: delete-a-course
 summary:
   - "In **Manage** ▸ **Courses**, open the row menu and choose **Delete course**."
   - "Confirm with **Delete course**."

@@ -1,5 +1,5 @@
 ---
-id: gxp-set-feedback-reminders
+id: set-feedback-reminders
 summary:
   - "Set a feedback deadline first, in **Settings** → **Course feedback**."
   - "Go to **Manage** → **Notifications** → **Feedback reminders**."

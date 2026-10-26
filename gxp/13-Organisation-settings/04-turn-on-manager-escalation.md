@@ -1,5 +1,5 @@
 ---
-id: gxp-turn-on-manager-escalation
+id: turn-on-manager-escalation
 summary:
   - "Manager escalation is off by default."
   - "Go to **Manage** → **Notifications** → **Manager escalation**."

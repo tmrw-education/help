@@ -1,5 +1,5 @@
 ---
-id: view-consented-camps-pxp
+id: view-consented-camps
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **View consented camps** from the suggested prompts."

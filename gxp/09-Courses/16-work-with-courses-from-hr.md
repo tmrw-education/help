@@ -1,5 +1,5 @@
 ---
-id: gxp-work-with-courses-from-hr
+id: work-with-courses-from-hr
 summary:
   - "If your organisation imports courses from HR, new HR courses arrive as drafts tagged **From HR**, with no content."
   - "Filter with **Source** ▸ **From HR** to find them."

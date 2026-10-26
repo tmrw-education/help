@@ -1,5 +1,5 @@
 ---
-id: gxp-choose-courses-by-tag-or-hr-course-type
+id: choose-courses-by-tag-or-hr-course-type
 summary:
   - "In the rule, under **Courses**, choose **Courses with a tag** or **Courses with an HR course type**."
   - "Choose up to 20 tags or HR course types."

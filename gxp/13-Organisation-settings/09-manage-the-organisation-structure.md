@@ -1,5 +1,5 @@
 ---
-id: gxp-manage-the-organisation-structure
+id: manage-the-organisation-structure
 summary:
   - "Go to **Manage** → **Organisation structure**."
   - "Select an organisation in the **Organisation hierarchy** tree."

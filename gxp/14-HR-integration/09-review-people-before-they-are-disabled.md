@@ -1,5 +1,5 @@
 ---
-id: gxp-review-people-before-they-are-disabled
+id: review-people-before-they-are-disabled
 summary:
   - "A sync that would disable more than 5% of HR-linked people, or more than 200, stops before disabling anyone."
   - "**User sync is paused** appears, and all user syncs wait."

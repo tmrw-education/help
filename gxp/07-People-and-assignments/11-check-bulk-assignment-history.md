@@ -1,5 +1,5 @@
 ---
-id: gxp-check-bulk-assignment-history
+id: check-bulk-assignment-history
 summary:
   - "In **Learning assignments**, click **Bulk assignment history**."
   - "Choose a job under **Assignment history**."

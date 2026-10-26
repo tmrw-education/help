@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-sync-details-removed
+id: fix-sync-details-removed
 summary:
   - "The people in each user sync are kept for 7 days, or while it's one of your latest 7 syncs."
   - "Expected. The run's counts stay in **Sync history**."

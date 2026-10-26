@@ -1,5 +1,5 @@
 ---
-id: gxp-edit-a-channel
+id: edit-a-channel
 summary:
   - "In **Manage** ▸ **Channels**, click the **Edit** icon on the channel's row."
   - "In **Edit channel**, change the **Channel name** or **Description**."

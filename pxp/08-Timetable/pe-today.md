@@ -1,5 +1,5 @@
 ---
-id: pe-today-pxp
+id: pe-today
 summary:
   - "Select the **Timetable** tile."
   - "Click **PE Today** from the suggested prompts."

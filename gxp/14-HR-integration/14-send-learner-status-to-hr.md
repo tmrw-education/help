@@ -1,5 +1,5 @@
 ---
-id: gxp-send-learner-status-to-hr
+id: send-learner-status-to-hr
 summary:
   - "Go to **Settings** → **Synchronisation** → **Learning records**."
   - "Turn on **Send learner status** and choose **Send unclassified learning as**."

@@ -1,5 +1,5 @@
 ---
-id: find-your-way-around-ess
+id: find-your-way-around
 summary:
   - "Your **EmployeeXP home page** shows tiles for each area — click any tile to go there."
   - "Use the **notification bell** at the top right for alerts about expiring documents and new tasks."

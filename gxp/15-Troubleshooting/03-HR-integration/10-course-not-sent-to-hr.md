@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-course-not-sent-to-hr
+id: fix-course-not-sent-to-hr
 summary:
   - "HR needs start and end offering dates, so a course without them is skipped."
   - "Add **Offering dates** to the course. It's sent at the next sync."

@@ -1,5 +1,5 @@
 ---
-id: gxp-check-your-notifications
+id: check-your-notifications
 summary:
   - "Click the **Notifications** bell in the header; a red number shows unread items."
   - "Items tell you about **Overdue** and **Due soon** learning and feedback you owe."

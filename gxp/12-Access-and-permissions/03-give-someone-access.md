@@ -1,5 +1,5 @@
 ---
-id: gxp-give-someone-access
+id: give-someone-access
 summary:
   - "On **Access and permissions**, click **Give access**."
   - "Under **Who**, search for the person; under **Role**, choose one role."

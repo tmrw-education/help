@@ -1,5 +1,5 @@
 ---
-id: gxp-view-your-certificates
+id: view-your-certificates
 summary:
   - "Click **Certificates** in the header."
   - "Each card shows the course or pathway, when it was **Awarded** and its certificate number."

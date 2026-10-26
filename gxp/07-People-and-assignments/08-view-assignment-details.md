@@ -1,5 +1,5 @@
 ---
-id: gxp-view-assignment-details
+id: view-assignment-details
 summary:
   - "In **Learning assignments**, open the row menu and choose **View details**."
   - "**Why they have it** lists every source of the assignment."

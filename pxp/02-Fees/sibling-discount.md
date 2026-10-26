@@ -1,5 +1,5 @@
 ---
-id: sibling-discount-pxp
+id: sibling-discount
 summary:
   - "Click the **Fees** tile."
   - "Select **Sibling Discount** from the prompts."

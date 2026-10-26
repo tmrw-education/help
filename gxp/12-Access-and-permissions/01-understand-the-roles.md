@@ -1,5 +1,5 @@
 ---
-id: gxp-understand-the-roles
+id: understand-the-roles
 summary:
   - "Everyone who signs in is a **Learner**; line managers get their team automatically."
   - "**Organisation administrator**, **Course manager** and **HR manager** cover the whole organisation."

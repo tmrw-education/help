@@ -1,5 +1,5 @@
 ---
-id: gxp-mandatory-and-recommended-learning
+id: mandatory-and-recommended-learning
 summary:
   - "**Mandatory** learning must be completed by its due date; you're reminded, and it can become overdue."
   - "**Recommended** learning is optional: never overdue, never renewed."

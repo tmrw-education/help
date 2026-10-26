@@ -1,5 +1,5 @@
 ---
-id: gxp-allow-self-enrolment
+id: allow-self-enrolment
 summary:
   - "In **Edit details**, turn on **Allow self-enrolment**."
   - "Learners in the course audience can then enrol themselves from the catalogue."

@@ -1,5 +1,5 @@
 ---
-id: welcome-screen-pxp
+id: welcome-screen
 summary:
   - "Sign into the ParentExperience app, **Watch video**."
   - "Or **Skip and get started**."

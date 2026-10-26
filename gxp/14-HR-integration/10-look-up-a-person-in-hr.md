@@ -1,5 +1,5 @@
 ---
-id: gxp-look-up-a-person-in-hr
+id: look-up-a-person-in-hr
 summary:
   - "Go to **Settings** → **Synchronisation** → **People** → **Individual HR lookup**."
   - "Enter a name or personnel number and click **Search HR**, or **Check number** for an exact number."

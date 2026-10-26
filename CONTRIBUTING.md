@@ -77,6 +77,7 @@ every problem, plus one subfolder per audience (`For-everyone/`,
 - **H1** = the problem as the reader would say it, quoting any on-screen error
   exactly: `I can't sign in: "Your account has been disabled"`.
 - **Body** = **Cause** — … and **Fix** — …, nothing else.
+- **`id`** = `fix-` plus the problem: `fix-account-disabled`.
 - **`keywords`** = the error text plus how people ask ("locked out", "can't log in").
 - **`summary`** = two lines for Felix: the cause in a sentence, then the fix,
   exact labels bolded. The site doesn't show it as a Quick answer box on pages in a
@@ -89,6 +90,9 @@ every term its own `### Term` heading and put the definition in the paragraph be
 No tables: a heading gives each term its own link, so search and Felix land on the term.
 Add `toc_max_heading_level: 2` to the front matter so the contents list shows letters
 only; it is the jump bar, so no A–Z links at the top. Reference: `gxp/16-Glossary.md`.
+
+**Pages without an `id`.** An app's or section's `index.md`, the Glossary and a
+Troubleshooting `index.md` aren't tasks, so they have no `id`. Every other page does.
 
 ---
 
@@ -113,7 +117,7 @@ video:
 
 | Field | What it is | Tips |
 |---|---|---|
-| `id` | The page's **permanent name tag** Felix uses to find it | **Required.** Flat `kebab-case`, **verb-first**, one task: `create-notice`, `edit-notice`, `rsvp-to-notice`. No app/feature prefix, except GrowthXP, whose pages all start `gxp-`: keep that there. **Pick once, never rename** (renaming breaks Felix's link). See below. |
+| `id` | The page's **permanent name tag** Felix uses to find it | **Required** on every task page. Flat `kebab-case`, **verb-first**, one task: `create-notice`, `edit-notice`, `rsvp-to-notice`. **No app code** in it. **Pick once, never rename** (renaming breaks Felix's link and the page's address). See below. |
 | `summary` | The **3–4 line gist** Felix shows first | Keep it short — point-of-need, not the manual. Bold the **exact** button names. |
 | `keywords` | Phrases people might type | Add synonyms + how people actually ask ("post a notice", "make an announcement"). Helps Felix find the page. |
 | `video.youtube` | The **YouTube video id** (primary) | Just the id from the URL — see §7. |
@@ -124,8 +128,16 @@ summary always reads better. Write it.
 
 > **About `id` — the one field that must never change.** It is the stable key the
 > app uses to pull this exact page (and, later, to deep-link from in-app help icons).
-> Rules: **flat kebab-case, verb-first, one task** (`delete-notice`, not
-> `notices.delete` or `sxp-notice-delete`). It is **the KB page's own id** — the docs
+> Rules: **flat kebab-case, verb-first, one task, no app code** (`delete-notice`, not
+> `notices.delete`, `sxp-delete-notice` or `delete-notice-pxp`).
+>
+> **Unique within its app, not across apps.** The folder already says which app the
+> page belongs to, so Felix and other agents know a page as `<app folder>/<id>`:
+> `sxp/sign-in` and `gxp/sign-in` are two different pages, and both are fine. Never add
+> the app to the id to make it unique; the build rejects it. Two pages in the **same**
+> app can't share an id.
+>
+> It is **the KB page's own id** — the docs
 > are the source of truth; the app matches us. If the app **already** ships a tag for
 > this task (`create-notice`, `edit-notice`, `set-notice-featured` exist today), reuse
 > that **exact** string so nothing breaks. Once published, **treat it as frozen** — to
@@ -404,13 +416,16 @@ When it's checked, delete the note and the `draft: true` line, and it goes live.
 **What the site checks for you.** Every push to `main` rebuilds the site, and the
 new version is published only if the build passes. It fails when:
 
-- a link points to a page that doesn't exist or is a draft, or
-- a published page still has a **VERIFY BEFORE PUBLISHING** note.
+- a link points to a page that doesn't exist or is a draft,
+- a published page has no content (only front matter and a title),
+- a published page still has a **VERIFY BEFORE PUBLISHING** note,
+- a task page has no `id`, or its `id` contains its app's code (`gxp-…`, `…-pxp`), or
+- two pages in the same app share an `id`.
 
 If it fails, the live site keeps its last good version, and GitHub emails whoever
 pushed. Open the failed run in the repo's **Actions** tab: the error names the file,
-the line and the link. Fix it and push again. A pull request gets the same check
-before it's merged.
+the problem. Fix it and push again. A pull request gets the same check
+before it's merged. Step by step: §11.
 
 **Product names.** Write the names as the site shows them: **StaffXP**,
 **EmployeeXP** (not ESS or Employee Self-Service), **GrowthXP** (not GXP),
@@ -419,12 +434,62 @@ System** link, bold it exactly as shown: that's a label, not the product name.
 
 ---
 
-## 11. Before you publish — checklist
+## 11. How to publish
+
+Everything you publish goes through this repo, **`tmrw-education/help`**. The site
+itself (layout, search, the homepage) lives in `tmrw-education/help-site`: **only the
+site owners change that.** If something about the site needs changing, ask them.
+
+**Before you start.** Others edit this repo too, often in the web editor. In GitHub
+Desktop, click **Fetch origin** (then **Pull origin**) before you change anything, so
+you're working on the latest version.
+
+**Option A — in the browser (GitHub web editor)**
+
+1. Open the file on github.com and click the **pencil** (Edit). To add a page, open
+   the folder and choose **Add file** ▸ **Create new file**; to add screenshots,
+   open the folder's `images/` and choose **Add file** ▸ **Upload files**.
+2. Make your change and click **Commit changes…**.
+3. Choose one:
+   - **Commit directly to the `main` branch** — publishes it.
+   - **Create a new branch … and start a pull request** — runs the same checks
+     without publishing. When the check is green, click **Merge pull request** to
+     publish. Use this for big changes, or when you want someone to look first.
+
+**Option B — GitHub Desktop**
+
+1. **Fetch origin** / **Pull origin** first.
+2. Edit the files in your editor, then in GitHub Desktop write a short summary and
+   click **Commit to main**.
+3. Click **Push origin**. That publishes it.
+
+**After you publish.** Open the repo's **Actions** tab and find your change at the
+top of **Deploy to GitHub Pages**:
+
+- **Green tick** — it's live at <https://help.tmrw.education> within a couple of
+  minutes. A brand-new page can take a minute longer to appear.
+- **Red cross** — nothing was published; the live site keeps its last good version,
+  and GitHub has emailed you. Open the run, click **Build**, and read the
+  `[check-content]` or `Broken link` lines: each names the file and what to fix.
+  Fix it and push again.
+
+**Other things you might need**
+
+- **Take a page down:** add `draft: true` to its front matter (§10). Don't delete it.
+- **Move or rename a file:** its web address changes. Update the links that point
+  to it; the build lists any you miss.
+- **Republish without a change** (for example after the site owners change the
+  site): **Actions** ▸ **Deploy to GitHub Pages** ▸ **Run workflow**. The site also
+  rebuilds every night at 05:00 UTC.
+
+---
+
+## 12. Before you publish — checklist
 
 - [ ] **One page per task**, named in `kebab-case`, in the right feature folder.
 - [ ] A `--- … ---` **frontmatter** block at the very top.
-- [ ] An `id` — flat **kebab-case, verb-first**, unique, and **never** reused or
-      renamed. Reuse the app's existing tag if one exists for this task.
+- [ ] An `id` — flat **kebab-case, verb-first**, no app code, unique within the app,
+      and **never** reused or renamed. Reuse the app's existing tag if one exists.
 - [ ] `summary` is 3–4 short lines with the **button names bolded**.
 - [ ] `keywords` include how people actually ask.
 - [ ] **One H1, no `##` sub-headings.** The body is a plain numbered list.

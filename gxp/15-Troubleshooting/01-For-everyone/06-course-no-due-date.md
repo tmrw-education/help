@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-course-no-due-date
+id: fix-course-no-due-date
 summary:
   - "Recommended learning usually has no due date, and it's never overdue."
   - "Expected. If the learning should be mandatory, ask your learning manager or HR manager."

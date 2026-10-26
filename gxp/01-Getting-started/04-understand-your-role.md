@@ -1,5 +1,5 @@
 ---
-id: gxp-understand-your-role
+id: understand-your-role
 summary:
   - "Everyone who signs in is a **Learner** and sees the same learning pages."
   - "**Manage** appears only if you also have a management or reporting role."

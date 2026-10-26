@@ -1,5 +1,5 @@
 ---
-id: gxp-remove-someones-access
+id: remove-someones-access
 summary:
   - "Go to **Manage** → **Access and permissions** → **Who has access**."
   - "Find the row and click its remove icon."

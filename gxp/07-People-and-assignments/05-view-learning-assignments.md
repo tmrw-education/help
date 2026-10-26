@@ -1,5 +1,5 @@
 ---
-id: gxp-view-learning-assignments
+id: view-learning-assignments
 summary:
   - "Open **Manage** ▸ **Learning assignments**."
   - "Choose whose learning to see under **Show people in**, then filter by **Course**, **Status**, **Mandatory or recommended** and **Assigned by**."

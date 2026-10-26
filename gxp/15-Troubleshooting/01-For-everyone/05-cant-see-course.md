@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-cant-see-course
+id: fix-cant-see-course
 summary:
   - "You only see courses whose audience includes your school or organisation, or that are assigned to you. Unpublished courses are hidden."
   - "Ask your learning manager or course manager to assign it to you, or to check its audience and that it's published."

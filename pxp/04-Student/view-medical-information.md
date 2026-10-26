@@ -1,5 +1,5 @@
 ---
-id: view-medical-information-pxp
+id: view-medical-information
 summary:
   - "Click **Student** from the home screen."
   - "Select **View Medical Information** from the prompts."

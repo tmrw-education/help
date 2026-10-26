@@ -1,5 +1,5 @@
 ---
-id: cancel-event-activity-registration-pxp
+id: cancel-event-activity-registration
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **Cancel event/activity registration** from the suggested prompts."

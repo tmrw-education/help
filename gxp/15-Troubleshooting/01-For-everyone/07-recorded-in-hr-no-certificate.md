@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-recorded-in-hr-no-certificate
+id: fix-recorded-in-hr-no-certificate
 summary:
   - "The course was completed outside GrowthXP and recorded in HR, so there's no certificate. The completion still counts."
   - "Need a certificate? Complete the course in GrowthXP; that completion replaces the HR record."

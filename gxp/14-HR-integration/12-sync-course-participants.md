@@ -1,5 +1,5 @@
 ---
-id: gxp-sync-course-participants
+id: sync-course-participants
 summary:
   - "Go to **Settings** → **Synchronisation** → **Courses**, row **Course participants**."
   - "People registered on a linked course in HR are assigned it in the platform."

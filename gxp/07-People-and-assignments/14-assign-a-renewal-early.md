@@ -1,5 +1,5 @@
 ---
-id: gxp-assign-a-renewal-early
+id: assign-a-renewal-early
 summary:
   - "In **Learning assignments**, open the completed assignment's details."
   - "Under **History**, click **Assign renewal now**."

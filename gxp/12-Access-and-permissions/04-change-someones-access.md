@@ -1,5 +1,5 @@
 ---
-id: gxp-change-someones-access
+id: change-someones-access
 summary:
   - "Roles can't be edited in place."
   - "Click **Give access** and give the new role or unit."

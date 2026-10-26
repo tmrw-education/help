@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-missing-from-my-team
+id: fix-missing-from-my-team
 summary:
   - "**My team** shows the people who report to you in the manager hierarchy, and everyone below them. Disabled people are left out."
   - "Ask your administrator to check the person's line manager in **People**, or ask HR if line managers come from HR."

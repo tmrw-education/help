@@ -1,5 +1,5 @@
 ---
-id: gxp-sign-out
+id: sign-out
 summary:
   - "Close any open course first."
   - "Click **Sign out**, the icon at the far right of the header."

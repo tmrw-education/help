@@ -1,5 +1,5 @@
 ---
-id: supported-payment-methods-pxp
+id: supported-payment-methods
 summary:
   - "Tap the **Fees** tile."
   - "Select **Supported payment methods** from the prompts."

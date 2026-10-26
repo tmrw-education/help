@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-cant-remove-assignment
+id: fix-cant-remove-assignment
 summary:
   - "Learning registered in HR, or assigned by a learning rule, can't be removed: HR or the rule would assign it again."
   - "Cancel the registration in HR, or change the learning rule or the person's details."

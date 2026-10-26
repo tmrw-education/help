@@ -1,5 +1,5 @@
 ---
-id: gxp-create-a-certificate-template
+id: create-a-certificate-template
 summary:
   - "Open **Manage** ▸ **Content** ▸ **Certificates** ▸ **Templates** and click **Create template**."
   - "Enter the **Template name**, choose the **Orientation**, add a logo and colours, and write the text."

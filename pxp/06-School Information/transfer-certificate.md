@@ -1,5 +1,5 @@
 ---
-id: transfer-certificate-pxp
+id: transfer-certificate
 summary:
   - "Select the **School Information** tile."
   - "Click Transfer Certificate from the suggested prompts."

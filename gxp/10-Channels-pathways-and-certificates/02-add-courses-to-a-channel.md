@@ -1,5 +1,5 @@
 ---
-id: gxp-add-courses-to-a-channel
+id: add-courses-to-a-channel
 summary:
   - "In **Manage** ▸ **Channels**, click the **Courses** icon on the channel's row."
   - "Choose a **Course** and click **Add**."

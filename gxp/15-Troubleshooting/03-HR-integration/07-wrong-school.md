@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-wrong-school
+id: fix-wrong-school
 summary:
   - "Their legal entity in HR isn't linked to the right unit, or HR has them in a different legal entity."
   - "Link the legal entity in **Organisation structure**, or correct the employment in HR."

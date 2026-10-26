@@ -1,5 +1,5 @@
 ---
-id: gxp-create-a-channel
+id: create-a-channel
 summary:
   - "Open **Manage** ▸ **Content** ▸ **Channels** and click **Create channel**."
   - "Enter the **Channel name** and **Description**."

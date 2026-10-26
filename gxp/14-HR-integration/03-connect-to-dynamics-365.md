@@ -1,5 +1,5 @@
 ---
-id: gxp-connect-to-dynamics-365
+id: connect-to-dynamics-365
 summary:
   - "Go to **Manage** → **Settings** → **HR connection** and enter the environment and app details."
   - "Click **Save connection**, then **Add certificate** and **Download** the public certificate."

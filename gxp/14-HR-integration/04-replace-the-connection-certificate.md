@@ -1,5 +1,5 @@
 ---
-id: gxp-replace-the-connection-certificate
+id: replace-the-connection-certificate
 summary:
   - "In **Settings** → **HR connection**, click **Add certificate** and **Download** the new one."
   - "Upload it to the Microsoft Entra app registration and click **Test connection**."

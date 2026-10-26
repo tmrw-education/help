@@ -1,5 +1,5 @@
 ---
-id: gxp-delete-a-channel
+id: delete-a-channel
 summary:
   - "In **Manage** ▸ **Channels**, click the **Delete** icon on the channel's row."
   - "Confirm with **Delete channel**. Its courses aren't deleted."

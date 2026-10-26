@@ -1,5 +1,5 @@
 ---
-id: gxp-break-down-report-totals
+id: break-down-report-totals
 summary:
   - "In **Learning reports**, use **Totals by** to choose **Course**, **School** or **Staff category**."
   - "The table shows each one's people, progress and mandatory compliance."

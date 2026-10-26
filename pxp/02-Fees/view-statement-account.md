@@ -1,5 +1,5 @@
 ---
-id: view-statement-account-pxp
+id: view-statement-account
 summary:
   - "Click **Fees** on the home screen."
   - "Select **View Statement of Account**."

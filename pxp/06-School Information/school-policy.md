@@ -1,5 +1,5 @@
 ---
-id: school-policy-pxp
+id: school-policy
 summary:
   - "Select the **School Information** tile."
   - "Tap the **School Policy** prompt."

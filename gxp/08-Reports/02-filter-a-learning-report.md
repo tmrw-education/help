@@ -1,5 +1,5 @@
 ---
-id: gxp-filter-a-learning-report
+id: filter-a-learning-report
 summary:
   - "In **Learning reports**, use **Search people**, **School or organisation**, **Staff category**, **Course**, **Classification**, **Status** and **Compliance**."
   - "Click **More filters** for **Validity**, **Feedback**, **Learner status** and date ranges."

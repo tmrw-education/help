@@ -1,5 +1,5 @@
 ---
-id: log-out-pxp
+id: log-out
 summary:
   - "Click the hamburger menu at the top left of the navigation bar."
   - "Click **Log out**."

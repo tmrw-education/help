@@ -1,5 +1,5 @@
 ---
-id: gxp-view-a-persons-details
+id: view-a-persons-details
 summary:
   - "In **People**, click the person's name."
   - "**Person details** shows their email, status, job title and whether they're linked to HR."

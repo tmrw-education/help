@@ -1,5 +1,5 @@
 ---
-id: gxp-change-assignment-settings
+id: change-assignment-settings
 summary:
   - "In **Learning rules**, click **Settings**."
   - "Set the default **Classification**, what happens when someone stops matching a rule, and how months employed are counted."

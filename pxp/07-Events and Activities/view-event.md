@@ -1,5 +1,5 @@
 ---
-id: view-event-pxp
+id: view-event
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **View Event** from the suggested prompts."

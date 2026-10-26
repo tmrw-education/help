@@ -1,5 +1,5 @@
 ---
-id: navigation-pxp
+id: navigation
 summary:
   - "The **navigation bar** runs across the top of the home screen."
   - "Use the tiles to access different parts of the app."

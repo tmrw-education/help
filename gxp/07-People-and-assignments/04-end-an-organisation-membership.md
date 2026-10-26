@@ -1,5 +1,5 @@
 ---
-id: gxp-end-an-organisation-membership
+id: end-an-organisation-membership
 summary:
   - "Open the person's details from **People**."
   - "Under **Organisations**, click **End membership** next to the organisation."

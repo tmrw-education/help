@@ -1,5 +1,5 @@
 ---
-id: gxp-renew-your-learning
+id: renew-your-learning
 summary:
   - "Mandatory learning that's about to expire is assigned to you again, usually 30 days before."
   - "Its card shows a **Renewal** tag, **Not started** and a due date on the expiry date."

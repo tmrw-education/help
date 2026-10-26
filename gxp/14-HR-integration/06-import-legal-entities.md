@@ -1,5 +1,5 @@
 ---
-id: gxp-import-legal-entities
+id: import-legal-entities
 summary:
   - "Go to **Manage** → **Settings** → **Synchronisation** → **People**."
   - "On the **Legal entities** row, click **Sync now: legal entities**."

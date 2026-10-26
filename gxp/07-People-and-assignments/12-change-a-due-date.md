@@ -1,5 +1,5 @@
 ---
-id: gxp-change-a-due-date
+id: change-a-due-date
 summary:
   - "In **Learning assignments**, open the row menu and choose **Change due date**."
   - "Pick the new **Due date**."

@@ -1,5 +1,5 @@
 ---
-id: gxp-switch-on-each-hr-sync
+id: switch-on-each-hr-sync
 summary:
   - "TMRW support switches on each sync for your organisation and sets its schedule."
   - "You switch on **Send learner status** yourself, in **Learning records**."

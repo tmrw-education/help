@@ -1,5 +1,5 @@
 ---
-id: gxp-set-course-feedback-rules
+id: set-course-feedback-rules
 summary:
   - "Go to **Manage** → **Settings** → **Course feedback**."
   - "Turn on **Require feedback before certificate** to hold certificates until feedback is given."

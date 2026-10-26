@@ -1,5 +1,5 @@
 ---
-id: gxp-set-a-course-expiry-date
+id: set-a-course-expiry-date
 summary:
   - "In **Edit details**, set the **Expiry date**."
   - "After that date the course is tagged **Expired** and can't be launched."

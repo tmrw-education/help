@@ -1,5 +1,5 @@
 ---
-id: gxp-create-a-learning-pathway
+id: create-a-learning-pathway
 summary:
   - "Open **Manage** ▸ **Content** ▸ **Learning pathways** and click **New pathway**."
   - "Enter the **Title**, **Description** and **Certification (optional)**."

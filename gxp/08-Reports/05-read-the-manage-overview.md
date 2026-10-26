@@ -1,5 +1,5 @@
 ---
-id: gxp-read-the-manage-overview
+id: read-the-manage-overview
 summary:
   - "Click **Manage** in the header to open the overview."
   - "Choose a **Period**: **All time**, **Last 30 days**, **Last 90 days** or **Last 12 months**."

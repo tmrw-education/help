@@ -1,5 +1,5 @@
 ---
-id: view-my-profile-pxp
+id: view-my-profile
 summary:
   - "Click the **Parent** tile."
   - "Select **View My Profile** from the prompts."

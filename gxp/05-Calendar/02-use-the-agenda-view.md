@@ -1,5 +1,5 @@
 ---
-id: gxp-use-the-agenda-view
+id: use-the-agenda-view
 summary:
   - "In **Calendar**, click the **Agenda** tab."
   - "Every day with deadlines this month is listed in order."

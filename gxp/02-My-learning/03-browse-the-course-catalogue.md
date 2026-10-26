@@ -1,5 +1,5 @@
 ---
-id: gxp-browse-the-course-catalogue
+id: browse-the-course-catalogue
 summary:
   - "Click **Courses** to browse every published course offered to you."
   - "Use the channel tabs, such as **Compliance**, or **All courses**."

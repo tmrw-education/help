@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-certificate-not-issued
+id: fix-certificate-not-issued
 summary:
   - "Your organisation or the course needs your course feedback first, or the course has no certificate."
   - "Open the course and give your feedback. The certificate is issued as soon as valid feedback is submitted."

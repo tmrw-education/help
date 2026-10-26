@@ -1,5 +1,5 @@
 ---
-id: fee-schedule-pxp
+id: fee-schedule
 summary:
   - "Click the **Fees** tile."
   - "Select **Fees Schedule (current academic year)** from the prompts."

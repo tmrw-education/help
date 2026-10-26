@@ -1,5 +1,5 @@
 ---
-id: uniform-requirement-pxp
+id: uniform-requirement
 summary:
   - "Click the **School Information** tile."
   - "Select the **Uniform Requirement** from the prompts."

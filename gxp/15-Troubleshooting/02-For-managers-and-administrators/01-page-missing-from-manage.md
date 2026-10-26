@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-page-missing-from-manage
+id: fix-page-missing-from-manage
 summary:
   - "Each page under **Manage** belongs to particular roles."
   - "Check what your role includes on **Access and permissions** → **Roles explained**, or ask your organisation administrator."

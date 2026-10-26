@@ -1,5 +1,5 @@
 ---
-id: gxp-ts-someone-not-imported
+id: fix-someone-not-imported
 summary:
   - "The import rules left them out, for example **Inactive in HR** or **No current employment in HR**."
   - "Check them with **Individual HR lookup**, which shows the reason. Fix the record in HR, then run a sync."

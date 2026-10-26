@@ -1,5 +1,5 @@
 ---
-id: view-events-with-rsvps-pxp
+id: view-events-with-rsvps
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **View events with RSVPs** from the suggested prompts."

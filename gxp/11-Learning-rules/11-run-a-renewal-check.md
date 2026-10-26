@@ -1,5 +1,5 @@
 ---
-id: gxp-run-a-renewal-check
+id: run-a-renewal-check
 summary:
   - "In **Learning rules**, under **Renewals**, click **Check renewals** to preview what a check would renew."
   - "Click **Run renewal check** to assign the renewals."

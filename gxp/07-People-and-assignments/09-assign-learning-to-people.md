@@ -1,5 +1,5 @@
 ---
-id: gxp-assign-learning-to-people
+id: assign-learning-to-people
 summary:
   - "In **Learning assignments**, click **Assign learning**."
   - "If you see **Assign to**, choose **People**."

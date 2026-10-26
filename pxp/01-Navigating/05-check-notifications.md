@@ -1,5 +1,5 @@
 ---
-id: check-notifications-pxp
+id: check-notifications
 summary:
   - "Tap the **Notifications** bell icon."
   - "Select the child's name (if you have more than one)."

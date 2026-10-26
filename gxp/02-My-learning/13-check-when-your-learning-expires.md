@@ -1,5 +1,5 @@
 ---
-id: gxp-check-when-your-learning-expires
+id: check-when-your-learning-expires
 summary:
   - "Completed cards in **My courses** show **Valid until**, **Expires**, **Expired** or **No expiry**."
   - "Validity counts whole months from the day you completed the course, such as 12 months."

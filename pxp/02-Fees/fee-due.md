@@ -1,5 +1,5 @@
 ---
-id: fee-due-pxp
+id: fee-due
 summary:
   - "Click **Fees** from the home screen."
   - "Select **Fee Due** from the prompts."

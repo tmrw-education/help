@@ -1,5 +1,5 @@
 ---
-id: contact-person-for-an-activity-pxp
+id: contact-person-for-an-activity
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **Contact person for an Activity** from the suggested prompts."

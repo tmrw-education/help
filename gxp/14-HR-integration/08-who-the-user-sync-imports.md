@@ -1,5 +1,5 @@
 ---
-id: gxp-who-the-user-sync-imports
+id: who-the-user-sync-imports
 summary:
   - "Only active workers in occupied, current positions are imported; temporary positions are left out."
   - "People are placed in the legal entities of their current employments, and moved when HR moves them."

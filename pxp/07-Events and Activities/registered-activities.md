@@ -1,5 +1,5 @@
 ---
-id: registered-activities-pxp
+id: registered-activities
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **Registered Activities** from the suggested prompts."

@@ -1,5 +1,5 @@
 ---
-id: gxp-what-you-need-to-connect-dynamics-365
+id: what-you-need-to-connect-dynamics-365
 summary:
   - "A Dynamics 365 Finance and Operations environment and its URL."
   - "A Microsoft Entra app registration, registered in F&O with a least-privilege service user."

@@ -1,5 +1,5 @@
 ---
-id: gxp-send-a-test-email
+id: send-a-test-email
 summary:
   - "Go to **Manage** → **Notifications**."
   - "Click **Send test email** on any email, or inside **Edit template**."

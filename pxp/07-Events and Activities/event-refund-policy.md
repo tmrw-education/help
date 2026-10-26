@@ -1,5 +1,5 @@
 ---
-id: event-refund-policy-pxp
+id: event-refund-policy
 summary:
   - "Click the **Events and Activities** tile."
   - "Select **Event Refund Policy** from the suggested prompts."

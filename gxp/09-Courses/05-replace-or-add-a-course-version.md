@@ -1,5 +1,5 @@
 ---
-id: gxp-replace-or-add-a-course-version
+id: replace-or-add-a-course-version
 summary:
   - "In **Manage** ▸ **Courses**, open the row menu and choose **Replace or add a version**."
   - "Choose **Replace** for a fix, or **New version** for a major update."

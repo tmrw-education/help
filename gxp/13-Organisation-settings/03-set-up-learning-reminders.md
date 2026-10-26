@@ -1,5 +1,5 @@
 ---
-id: gxp-set-up-learning-reminders
+id: set-up-learning-reminders
 summary:
   - "Go to **Manage** → **Notifications** → **Reminders and overdue notices**."
   - "Set the **Daily send time**, then the days for **Upcoming deadline reminders**."

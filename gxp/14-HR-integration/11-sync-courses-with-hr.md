@@ -1,5 +1,5 @@
 ---
-id: gxp-sync-courses-with-hr
+id: sync-courses-with-hr
 summary:
   - "Go to **Settings** → **Synchronisation** → **Courses**."
   - "**Courses** to HR sends platform courses to HR; **Courses** from HR brings HR courses in as drafts."
