@@ -20,8 +20,8 @@ You need the **Organisation administrator** role.
 1. Open History
 
    Go to **Manage** → **Settings** → **Synchronisation** and open **History**. **Sync history** lists recent syncs with
-   **Requested (UAE)**, **Status**, **Trigger**, **Direction** (for example **Users from HR** or **Courses to HR**) and
-   **Result**. Times are in UAE time (UTC+4).
+   **Requested**, **Status**, **Trigger**, **Direction** (for example **Users from HR** or **Courses to HR**) and
+   **Result**. Times are in your own time zone, with its short name.
 
    ![Sync history with scheduled and manual runs and an expanded user sync](./images/gxp-check-sync-history-1.png)
 

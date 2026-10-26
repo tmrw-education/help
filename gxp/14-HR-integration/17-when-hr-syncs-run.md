@@ -25,7 +25,7 @@ You need the **Organisation administrator** role to run syncs by hand.
    | **Users** | On your schedule: hourly, every 6 hours, daily or weekly, at a local time you choose with TMRW support |
    | **Legal entities** | On your schedule, as above |
    | Course sync: courses from and to HR, course participants and completions from HR | On your schedule, as one run. Completions are imported after courses and participants |
-   | **Courses** to HR | Also each time a course is saved. Failed writes are retried every night at 02:00 UAE time |
+   | **Courses** to HR | Also each time a course is saved. Failed writes are retried once a day |
    | **Learner status to HR** | Continuously, shortly after each change |
 
    A daily user sync before the working day means changes made in HR the day before are in place when staff start work.

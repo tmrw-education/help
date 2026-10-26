@@ -29,7 +29,8 @@ You need the **Organisation administrator** role.
 
    Course changes are sent to HR automatically when you save a course. To send outstanding changes sooner, click **Sync
    now: courses to HR**. Courses without the start and end dates HR needs are skipped, not failed. Add **Offering dates**
-   to the course and it's sent at the next sync. Failed writes are retried every night at 02:00 UAE time.
+   to the course and it's sent at the next sync. Failed writes are retried once a day; the row's details show the time
+   in your own time zone.
 
 3. Bring courses in from HR
 

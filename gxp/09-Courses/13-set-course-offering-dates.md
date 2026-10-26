@@ -1,10 +1,10 @@
 ---
 id: gxp-set-course-offering-dates
 summary:
-  - "In **Edit details**, under **Offering dates**, set the **Offering start date and time (UAE)** and **Offering end date and time (UAE)**."
+  - "In **Edit details**, under **Offering dates**, set the **Offering start date and time** and **Offering end date and time**, in your own time zone."
   - "These dates are sent to your HR system with the course. They don't change learner access or course expiry."
   - "Some HR course types need both dates before the course can be sent to HR."
-keywords: [offering dates, hr course dates, course start date, course end date, send course to hr, course sync dates]
+keywords: [offering dates, hr course dates, course start date, course end date, send course to hr, course sync dates, time zone]
 video:
   youtube:
   bunny:
@@ -22,8 +22,10 @@ sends courses to HR. You need the **Course manager** or **Organisation administr
 
 2. Enter the dates
 
-   Under **Offering dates**, enter the **Offering start date and time (UAE)** and **Offering end date and time (UAE)**.
-   Times are UAE time (UTC+04:00). The dates don't change who can open the course or when it expires.
+   Under **Offering dates**, enter the **Offering start date and time** and **Offering end date and time**. You enter
+   them in your own time zone: the note above the fields names it, and each label shows its short name, such as
+   **(GMT)**. Everyone sees the dates in their own time zone. The dates don't change who can open the course or when it
+   expires.
 
    ![The Offering dates section with the start and end date and time fields](./images/gxp-set-course-offering-dates-1.png)
 
@@ -36,3 +38,6 @@ sends courses to HR. You need the **Course manager** or **Organisation administr
 
    Click **Save changes**. Leave both dates blank for an unscheduled course, or click **Clear offering dates**. Once a
    course may have been sent to HR, you can replace its dates but not clear them.
+
+If a time doesn't exist in your time zone because the clocks go forward that night, the field asks you to choose
+another time.
