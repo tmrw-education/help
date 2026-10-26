@@ -1,10 +1,10 @@
 ---
 id: gxp-track-your-pathway-progress
 summary:
-  - "Each pathway card shows a percentage and how many of its courses you've done."
-  - "The key explains the course marks: **Done**, **Available** and **Locked**."
-  - "A course you've started shows how far through it you are."
-keywords: [pathway progress, how far through, done, available, locked, padlock, progress ring, percentage, courses completed, pathway complete]
+  - "Each pathway card shows a progress ring with the percentage done, and how many of its courses you've completed."
+  - "The key explains the course marks: **Done**, **In progress**, **Available** and **Locked**."
+  - "A course you've started shows how far through it you are, for example **40% done**."
+keywords: [pathway progress, how far through, done, in progress, available, locked, padlock, progress ring, percentage, courses completed, pathway complete]
 video:
   youtube:
   bunny:
@@ -12,14 +12,13 @@ video:
 
 # Track your pathway progress
 
-{/* PO REVIEW: see gxp-help-reference/features/learning-pathways.md, open questions 1 and 2. In the current build the
-Done marks and the percentage are not worked out from the learner's completions, and Locked is not enforced. This page
-describes the intended behaviour and must be confirmed or rewritten before publishing. */}
+Your progress through a pathway comes from your own learning, so it matches **My courses**.
 
 1. Check the card
 
-   On **Learning pathways**, each closed card shows a ring with a percentage, the number of courses done out of the
-   total (for example **2/6 courses**) and a short line such as **Next:** and a course, or **Pathway complete**.
+   On **Learning pathways**, each closed card shows a ring with the percentage done, the number of courses done out of
+   the total (for example **2/6 courses**) and a short line: **Next:** or **Continue:** and a course, how many courses
+   are ready to start, **Nothing available yet** or **Pathway complete**.
 
    ![Pathway cards showing progress rings, course counts and the next course](./images/gxp-track-your-pathway-progress-1.png)
 
@@ -28,11 +27,14 @@ describes the intended behaviour and must be confirmed or rewritten before publi
    Open the pathway. The key explains the mark on each course:
 
    - **Done**: you've completed it.
-   - **Available**: you can take it now, because the courses before it are done or it has none.
-   - **Locked**: it builds on a course you haven't completed yet.
+   - **In progress**: you've started it.
+   - **Available**: you can start it now, because the courses before it are done, it has none, or it's assigned to you.
+   - **Locked**: a course before it isn't done yet.
 
 3. See progress in a course
 
-   A course you've started shows how far through it you are, for example **40% done**.
+   A course you've started shows how far through it you are, for example **40% done**. A course that's available only
+   because it's assigned to you says **Assigned to you**.
 
-Your progress on each course is the same as in **My courses**, so check there for due dates and completion dates.
+A course counts as done when you've completed it as shown in **My courses**. When a course is renewed, it counts as done
+again once you complete the renewal. Check **My courses** for due dates and completion dates.
