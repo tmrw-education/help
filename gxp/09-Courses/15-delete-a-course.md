@@ -21,7 +21,7 @@ administrator** role.
 
 2. Confirm
 
-   Read the message and click **Delete course**. You can't undo this from the Courses page.
+   Read the message and click **Delete course**.
 
    ![The Delete course confirmation naming the course](./images/gxp-delete-a-course-1.png)
 
