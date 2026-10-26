@@ -31,7 +31,7 @@ topic below, or use the search bar at the top.
 - **[Courses](./09-Courses/01-find-a-course-to-manage.md)**: adding and managing courses.
 - **[Channels, pathways and certificates](./10-Channels-pathways-and-certificates/01-create-a-channel.md)**: organising
   courses and designing certificates.
-- **Learning rules**: assigning mandatory and recommended learning automatically.
+- **[Learning rules](./11-Learning-rules/01-how-learning-rules-work.md)**: assigning mandatory and recommended learning automatically.
 - **[Access and permissions](./12-Access-and-permissions/01-understand-the-roles.md)**: roles and who can do what.
 - **[Organisation settings](./13-Organisation-settings/01-set-the-email-sender-and-logo.md)**: emails, reminders and
   feedback rules.
