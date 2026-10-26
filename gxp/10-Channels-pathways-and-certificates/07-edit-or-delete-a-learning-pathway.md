@@ -4,7 +4,7 @@ summary:
   - "Open the pathway and click **Edit details** to change its title, description, certificate or colour."
   - "Choose a **Certificate template** and **Minimum grade required (%)** to award a certificate when learners finish."
   - "Click **Apply**, then **Save changes**."
-  - "Click **Delete pathway** to delete it straight away."
+  - "Click **Delete pathway**, then confirm, to delete it."
 keywords: [edit pathway, pathway certificate, pathway colour, rename pathway, delete pathway, pathway details]
 video:
   youtube:
@@ -38,7 +38,8 @@ administrator** role.
 
 5. Delete the pathway
 
-   Click **Delete pathway** at the bottom of the editor. It's deleted at once.
+   Click **Delete pathway** at the bottom of the editor, then **Delete pathway** again in the confirmation. If it can't
+   be deleted, **Pathway not deleted** says why and the pathway stays open.
 
-   > **Note:** **Delete pathway** deletes the pathway straight away, without asking you to confirm. The courses in it
-   > aren't deleted.
+   > **Note:** Learners no longer see a deleted pathway. Its courses, and pathway certificates already awarded, are
+   > kept. This can't be undone.

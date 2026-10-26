@@ -19,12 +19,12 @@ courses as prerequisites. You need the **Course manager** or **Organisation admi
 1. Open the pathway
 
    In **Manage** ▸ **Learning pathways**, click the pathway's card. The editor shows the courses and tiers, for example
-   "4 courses · 2 tiers".
+   "4 courses · 2 tiers". Each course card shows the course's duration, if it has one.
 
 2. Add courses
 
    Click **Add course** at the end of a tier, or **Add new tier** under the last tier. Choose a **Course** and click
-   **Add**.
+   **Add**. If **Courses not loaded** appears, click **Try again**: you can't add courses until the course list loads.
 
    ![The pathway editor with two tiers of courses, a prerequisite link between them, and Save changes](./images/gxp-build-a-learning-pathway-1.png)
 
@@ -40,5 +40,6 @@ courses as prerequisites. You need the **Course manager** or **Organisation admi
 
 5. Save
 
-   Click **Save changes**. Nothing is saved until you do. Learners only see a pathway when they can see every course in
-   it, so check each course's audience.
+   Click **Save changes**. Nothing is saved until you do. If the changes can't be saved, **Changes not saved** appears
+   above the buttons with the reason, and your changes stay in the editor. Learners only see a pathway when they can see
+   every course in it, so check each course's audience.
