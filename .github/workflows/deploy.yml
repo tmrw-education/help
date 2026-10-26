@@ -16,6 +16,13 @@ on:
 permissions:
   contents: write
 
+# One deploy at a time: a push here and a help-site push used to start two runs that raced to
+# publish, and the loser failed. Now they queue; a waiting run that's overtaken is cancelled
+# (the newer one carries everything). PR checks don't deploy, so each PR gets its own group.
+concurrency:
+  group: ${{ github.event_name == 'pull_request' && format('pr-{0}', github.ref) || 'deploy' }}
+  cancel-in-progress: false
+
 jobs:
   deploy:
     name: Deploy
