@@ -22,7 +22,7 @@ manager** or **Organisation administrator** role.
 2. Choose the template
 
    Under **Certificate**, choose a **Certificate template**. Choose **None** for no certificate. To create a template,
-   see [Create a certificate template](../10-Channels-pathways-and-certificates/07-create-a-certificate-template.md).
+   see [Create a certificate template](../10-Channels-pathways-and-certificates/08-create-a-certificate-template.md).
 
    ![The Certificate section of Edit course with a template chosen, the minimum grade and Feedback before certificate](./images/gxp-attach-a-certificate-to-a-course-1.png)
 

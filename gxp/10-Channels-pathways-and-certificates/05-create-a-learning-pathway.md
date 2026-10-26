@@ -30,4 +30,4 @@ end. You need the **Course manager** or **Organisation administrator** role.
 3. Create it
 
    Click **Create**. The pathway opens in the editor, ready for you to
-   [add courses](./05-build-a-learning-pathway.md).
+   [add courses](./06-build-a-learning-pathway.md).
