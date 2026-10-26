@@ -67,12 +67,6 @@ Common problems in Growth Experience Platform and how to resolve them. Use the c
 
 **Fix** — Open the course and give your feedback. The certificate is issued as soon as valid feedback is submitted.
 
-### Course uploads are limited to administrators
-
-**Cause** — The message "Course package uploads are limited to administrators until secure content hosting is set up." means your environment isn't yet set up to host course content separately. Until then, only organisation administrators can upload or replace course packages.
-
-**Fix** — Ask an organisation administrator to upload the package. Course managers can still do everything else with courses. Contact TMRW support about secure content hosting.
-
 ### I can't remove an assignment
 
 **Cause** — Learning registered in HR, or assigned by a learning rule, can't be removed in Learning assignments, because HR or the rule would assign it again. The message says which: "Managed by HR — cancel the registration in HR" or "Assigned by rule … — change the rule or the person's details".

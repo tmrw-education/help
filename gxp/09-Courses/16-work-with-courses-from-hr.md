@@ -26,8 +26,7 @@ from HR is off unless TMRW support turns it on for your organisation.
 
 2. Add the content
 
-   Open the row menu and choose **Replace or add a version** to upload its SCORM package. While uploads are limited to
-   organisation administrators, an administrator does this step.
+   Open the row menu and choose **Replace or add a version** to upload its SCORM package.
 
 3. Set it up and publish it
 

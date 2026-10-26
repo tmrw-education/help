@@ -4,7 +4,6 @@ summary:
   - "In **Manage** ▸ **Courses**, open the row menu and choose **Replace or add a version**."
   - "Choose **Replace** for a fix, or **New version** for a major update."
   - "Add a **Note (optional)**, drop the new .zip file, and click **Replace course** or **Add version**."
-  - "Limited to organisation administrators until secure content hosting is set up."
 keywords: [replace package, new version, update course, upload new scorm, fix course, course version, version history]
 video:
   youtube:
@@ -14,8 +13,7 @@ video:
 # Replace or add a course version
 
 When a course's content changes, upload a new SCORM package to the same course. You need the **Course manager** or
-**Organisation administrator** role. Until secure content hosting is set up for your organisation, only organisation
-administrators can upload packages, so **Replace or add a version** is unavailable to course managers.
+**Organisation administrator** role.
 
 1. Open Update course
 

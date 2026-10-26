@@ -4,7 +4,6 @@ summary:
   - "In **Manage** ▸ **Courses**, click **Add course**."
   - "Drop the SCORM .zip file, check the **Course title**, choose the **Course audience** and **Course visibility**, then click **Upload and continue**."
   - "Add the details and click **Save course**, or **Finish later**."
-  - "Uploading is limited to organisation administrators until secure content hosting is set up."
 keywords: [add course, upload course, upload scorm, new course, create course, scorm zip, import course package]
 video:
   youtube:
@@ -14,8 +13,7 @@ video:
 # Add a course
 
 You add a course by uploading its SCORM package, a .zip file, and describing it. You need the **Course manager** or
-**Organisation administrator** role. Until secure content hosting is set up for your organisation, only organisation
-administrators can upload packages: course managers see **Course uploads limited** and **Add course** is unavailable.
+**Organisation administrator** role.
 
 1. Start adding
 
