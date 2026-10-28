@@ -18,7 +18,7 @@ video:
 TO VERIFY: whether a reviewer's edits go back through QA.
 No screenshots available — add to ./images/ from a UAT build. */}
 
-If the admin has assigned you as a **human reviewer**, you get a final look at
+If the admin has assigned you as a **Human reviewer**, you get a final look at
 the comments for your classes after quality assurance (QA), before the reports are published.
 Reviewers are assigned during setup — see
 [Configure the report process](./04-configure-the-report-process.md).
@@ -37,12 +37,12 @@ Reviewers are assigned during setup — see
 
 3. Edit comments, if needed
 
-   Read the comments and make any changes they need.
+   Read the comments and make any needed changes.
 
 4. Submit the class
 
-   When you've finished, click **Submit**. The class status changes to
+   When you've finished, click **Submitted**. The class status changes to
    **Reviewed**.
 
 Once every reviewer is done, the admin executes the **Human review completed**
-milestone, which checks all review tasks are finished and notifies the admin.
+milestone, which checks that all review tasks are finished and notifies the admin.
