@@ -2,9 +2,9 @@
 draft: true
 id: publish-reports
 summary:
-  - "Execute **Ready to publish** to check every publishing condition is met."
-  - "On **Publishing** > **Readiness status**, open the **Publishing checklist**, then fix anything incomplete and re-execute."
-  - "Click **Publish** and confirm; check **Success report** to view or download the published reports."
+  - "Execute **Ready to publish** to check that every publishing condition is met."
+  - "On **Publishing** ▸ **Readiness status**, open the **Publishing checklist**, then fix anything incomplete and re-execute."
+  - "Click **Publish** and confirm; check the  **Publishing success report** to view or download the published reports."
 keywords: [publish reports, ready to publish, publishing checklist, readiness status, success report, download student reports, view published report, publish button disabled, academic reporting publish]
 video:
   youtube:
@@ -30,7 +30,7 @@ needs is in place before you publish the reports to students.
 
 2. Open the publishing checklist
 
-   Go to the **Publishing** tab, select the **Readiness status** sub-tab, then
+   Go to the **Publishing** tab, select the **Publishing readiness status** sub-tab, then
    select **Publishing checklist**. It lists every requirement and whether it's
    met.
 
@@ -45,7 +45,7 @@ needs is in place before you publish the reports to students.
 
 4. Publish
 
-   When every requirement is met, the **Publish** button on the checklist is
+   When every requirement is met, go to the **Publishing checklist** sub-tab; the **Publish** button on the checklist is
    enabled. Click **Publish**, then confirm in the pop-up. The system starts
    publishing the reports.
 
@@ -54,7 +54,7 @@ needs is in place before you publish the reports to students.
 
 5. Check what was published
 
-   Go to the **Success report** sub-tab to see the publishing status. You can
-   view or download each student report that published successfully.
+   Go to the **Publishing success report** sub-tab to see the publishing status. You can
+   view or download each student report that was published successfully.
 
    ![The Success report sub-tab showing publishing status, with options to view or download each student report](./images/publish-reports-2.png)
