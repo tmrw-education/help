@@ -1,6 +1,6 @@
 # Glossary
 
-Terms used across Procurement XP and the Supply Chain Management guide.
+Terms used across Procurement XP and this guide.
 
 [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [I](#i) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v)
 
@@ -133,7 +133,7 @@ Terms used across Procurement XP and the Supply Chain Management guide.
 | Term | Definition |
 |---|---|
 | Schedule | The section of a sourcing project or contract where the submission close date — the last day vendors can submit — and any run and end dates are set. |
-| SCM | Supply Chain Management — Microsoft Dynamics 365 Supply Chain Management, the platform this guide covers. |
+| SCM | Supply Chain Management — Microsoft Dynamics 365 Supply Chain Management, the system Procurement XP runs on. You work in Procurement XP, not in SCM directly. |
 | Scope of Work | Part of the technical content of a sourcing project, describing what the vendor is being asked to deliver. |
 | Send Back | The button used by any contract reviewer to return a contract to the initiator or contract manager for updating rather than approving it. |
 | Service Providers | The section of a sourcing project or contract where the vendors and prospective vendors it applies to are selected. |

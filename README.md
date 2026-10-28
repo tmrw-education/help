@@ -21,7 +21,7 @@ you never have to touch — or accidentally delete — any of it.
 | `pxp/` | `/pxp` | ParentXP | Parents and guardians |
 | `finops/` | `/fo` | Finance & Operations (Dynamics 365) | Bursars, accountants |
 | `hr/` | `/hr` | Human Resources (Dynamics 365) | HR administrators |
-| `scm/` | `/scm` | Supply Chain Management (Dynamics 365) | Procurement and vendor administrators |
+| `scm/` | `/scm` | Procurement XP (front end on Dynamics 365 Supply Chain Management) | Procurement and vendor administrators |
 
 `lxp/` (LearnerXP) and `ce/` are here but not on the site yet: they go live once
 they have real, checked articles.
