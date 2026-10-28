@@ -39,9 +39,11 @@ Reviewers are assigned during setup — see
 
    Read the comments and make any needed changes.
 
+   ![Editing a comment in Human Review](./images/complete-a-human-review-2.png)
+
 4. Submit the class
 
-   When you've finished, click **Submitted**. The class status changes to
+   When you've finished, click **Submit**. The class status changes to
    **Reviewed**.
 
 Once every reviewer is done, the admin executes the **Human review completed**
