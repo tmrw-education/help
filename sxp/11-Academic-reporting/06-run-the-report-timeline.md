@@ -1,5 +1,4 @@
 ---
-draft: true
 id: run-the-report-timeline
 summary:
   - "Open the report from the report list and go to the **Monitor** tab."
@@ -12,16 +11,6 @@ video:
 ---
 
 # Run the report timeline
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the names of the Monitor sub-tabs (transcript mentions Timeline, report
-block, reassign report, comment progress and QA summary, but never lists them);
-the status values a milestone can show; the name of the first milestone. In the
-demo the admin executes every milestone by hand, but the transcript also says
-"in practice, the system executes the QA remediation completion milestone" —
-confirm which milestones run on their own at the trigger date.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 Once a report cycle is set up, you track it in the **Monitor Progress** tab. The **Timeline**
 lists every milestone that has to be completed before the report can be

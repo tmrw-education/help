@@ -1,5 +1,4 @@
 ---
-draft: true
 id: upload-assessment-data
 summary:
   - "In the **Assessment data** section of report setup, click **Download Template** to get the workbook template."
@@ -12,12 +11,6 @@ video:
 ---
 
 # Upload assessment data
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: what happens if the uploaded workbook fails validation — the transcript
-only shows a successful upload.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 Some report templates include information that isn't held anywhere in the
 system and has to be supplied by hand. You provide it as a workbook, uploaded in

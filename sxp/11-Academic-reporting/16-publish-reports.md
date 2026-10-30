@@ -1,5 +1,4 @@
 ---
-draft: true
 id: publish-reports
 summary:
   - "Execute **Ready to publish** to check that every publishing condition is met."
@@ -12,13 +11,6 @@ video:
 ---
 
 # Publish reports
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: whether publishing can be reversed or a single report withdrawn;
-whether parents receive the email template from setup at the moment of publishing.
-The transcript says "published to students"; confirm who receives the reports.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 **Ready to publish** is the last milestone. It checks that everything the report
 needs is in place before you publish the reports to students.

@@ -1,5 +1,4 @@
 ---
-draft: true
 id: enter-student-grades
 summary:
   - "Click the notification asking you to start input to open the **Comment review** page for the report."
@@ -12,12 +11,6 @@ video:
 ---
 
 # Enter student grades
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: whether grade input has its own submit step or is complete once saved;
-whether the input notification really lands on the "comment review" page.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 When your school's admin opens input collection for a report, you enter the
 grades for each class you've been assigned. The grade scale and criteria are set

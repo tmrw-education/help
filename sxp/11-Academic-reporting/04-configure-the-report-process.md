@@ -1,5 +1,4 @@
 ---
-draft: true
 id: configure-the-report-process
 summary:
   - "In **Report process**, optionally assign human reviewers by staff member, year group, roll group, course and subject class."
@@ -12,14 +11,6 @@ video:
 ---
 
 # Configure the report process
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the one-reviewer rule — the transcript says "each subject class or you
-group"; read here as roll group. What can be configured for report blocks, and
-which "relevant systems" the publishing settings share the report with — the
-transcript does not show either in detail.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 The second setup step controls how the report moves through the reporting cycle:
 who reviews it, which students' reports can be held back, what parents are sent,

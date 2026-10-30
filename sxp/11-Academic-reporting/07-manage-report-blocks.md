@@ -1,5 +1,4 @@
 ---
-draft: true
 id: manage-report-blocks
 summary:
   - "Execute **Block email sent** on the timeline to collect every student with a report block."
@@ -12,14 +11,6 @@ video:
 ---
 
 # Manage report blocks
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the exact name of the resolve action; whether a resolved block can be
-reopened (transcript: "no further action is available for the student"); whether
-reasons other than financial ones can raise a block. Transcript calls the page both
-"report block sub tab" and "report block progress page".
-No screenshots available — add to ./images/ from a UAT build. */}
 
 A **report block** holds back a student's report — for example, where there is
 an outstanding financial matter. Blocked reports are followed up with the

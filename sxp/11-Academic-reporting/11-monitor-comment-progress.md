@@ -1,5 +1,4 @@
 ---
-draft: true
 id: monitor-comment-progress
 summary:
   - "Execute **Populate data into template** to fill the template and have the AI draft each student's comments."
@@ -12,12 +11,6 @@ video:
 ---
 
 # Monitor comment progress
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the status values shown on Comment progress; which role counts as a
-"leader" here and how leaders reach the class detail.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 Once grades are in, artificial intelligence (AI) drafts a comment for every student. You then follow
 teachers' review of those comments from the **Comment Progress** sub-tab, under the **Monitor Progress** tab. Admins

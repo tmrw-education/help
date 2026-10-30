@@ -1,5 +1,4 @@
 ---
-draft: true
 id: complete-a-human-review
 summary:
   - "Click the review notification to open the **Human reviewer** page with the classes assigned to you."
@@ -12,11 +11,6 @@ video:
 ---
 
 # Complete a human review
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: whether a reviewer's edits go back through QA.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 If the admin has assigned you as a **Human reviewer**, you get a final look at
 the comments for your classes after quality assurance (QA), before the reports are published.

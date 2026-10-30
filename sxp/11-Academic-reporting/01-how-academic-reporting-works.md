@@ -1,5 +1,4 @@
 ---
-draft: true
 id: how-academic-reporting-works
 summary:
   - "An admin sets up each report in three steps: **Report Template**, **Report Process** and **Report Timeline**."
@@ -12,13 +11,6 @@ video:
 ---
 
 # How academic reporting works
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026). No timestamps in the transcript.
-TO VERIFY: the name of the first milestone (the transcript says only that it "has
-already been completed"); whether the tool sits inside StaffXP or is a separate
-app; the exact name of the admin role.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 The **academic reporting tool** produces a set of student reports for one
 reporting cycle — for example, the Term 1 report for a year group. It collects

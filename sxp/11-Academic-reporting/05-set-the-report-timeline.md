@@ -1,5 +1,4 @@
 ---
-draft: true
 id: set-the-report-timeline
 summary:
   - "In **Report Timeline**, set a trigger date for each milestone in the reporting cycle."
@@ -12,13 +11,6 @@ video:
 ---
 
 # Set the report timeline
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: whether the system blocks out-of-sequence dates or only expects you to
-avoid them; whether a confirmed report can still be edited; whether milestones
-run automatically on their trigger date or only when an admin executes them.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 The last setup step puts dates on the reporting cycle. Each **milestone** — such
 as input collection, comment review, quality assurance (QA) and publishing — gets a trigger date.

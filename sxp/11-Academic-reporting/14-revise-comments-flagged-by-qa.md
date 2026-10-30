@@ -1,5 +1,4 @@
 ---
-draft: true
 id: revise-comments-flagged-by-qa
 summary:
   - "Click the **revision required** notification to open the **Comment Revision** page."
@@ -12,13 +11,6 @@ video:
 ---
 
 # Revise comments flagged by QA
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the transcript says the suggested improvement can be edited "for AI
-generated comments" — check whether teacher-written comments behave differently;
-the exact label of the submit-for-recheck action.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 When quality assurance (QA) flags one of your comments, it comes back to you as a revision task with
 the problem highlighted and a suggested fix.

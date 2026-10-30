@@ -1,5 +1,4 @@
 ---
-draft: true
 id: configure-input-collection
 summary:
   - "Execute the **Input collection** milestone to tell teachers they can start entering grades."
@@ -12,13 +11,6 @@ video:
 ---
 
 # Configure input collection
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: exactly what "apply to all students" copies on the admin side — the
-transcript says "apply the current student's values to all students in the
-class", which reads oddly for master-data settings.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 **Teacher input collection** is the stage where teachers enter grades for their
 students. As the admin, you start it and set up what is collected; you can't

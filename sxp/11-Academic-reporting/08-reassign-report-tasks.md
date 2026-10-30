@@ -1,5 +1,4 @@
 ---
-draft: true
 id: reassign-report-tasks
 summary:
   - "On the **Reassign Reports** sub-tab, choose to reassign **All classes** or **By individual classes**."
@@ -12,13 +11,6 @@ video:
 ---
 
 # Reassign report tasks
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the exact labels of the two reassignment types; what makes a class
-"eligible" for reassignment (for example, whether a submitted class can still be
-moved).
-No screenshots available — add to ./images/ from a UAT build. */}
 
 If a teacher can't complete their reporting tasks, you can move their classes to
 another teacher. You can hand over everything in one go, or split their classes

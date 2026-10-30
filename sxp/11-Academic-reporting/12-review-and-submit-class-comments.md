@@ -1,5 +1,4 @@
 ---
-draft: true
 id: review-and-submit-class-comments
 summary:
   - "Click the **comments ready for review** notification to open the **Comment review** page."
@@ -12,12 +11,6 @@ video:
 ---
 
 # Review and submit class comments
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the exact approve control; whether a submitted class can be reopened
-by the teacher.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 Artificial intelligence (AI) drafts a comment for each student. You check each one, change
 anything that needs it, and approve it before submitting the class.

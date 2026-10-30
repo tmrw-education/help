@@ -1,5 +1,4 @@
 ---
-draft: true
 id: review-the-qa-summary
 summary:
   - "Execute **Reports ready for QA**, then **QA report ready**, to run QA on the submitted comments."
@@ -12,13 +11,6 @@ video:
 ---
 
 # Review the QA summary
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the exact labels of the send-all and send-individual actions; where QA
-rules are configured (the transcript says "configured QA rules" but doesn't show
-where); what the "insight sections" on the post-remediation page contain.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 Every comment a teacher submits is checked by the **quality assurance (QA) agent** against your
 school's QA rules. Simple errors are fixed automatically. Anything more is sent

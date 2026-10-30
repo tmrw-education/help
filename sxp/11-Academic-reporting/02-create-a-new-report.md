@@ -1,5 +1,4 @@
 ---
-draft: true
 id: create-a-new-report
 summary:
   - "On the report settings page, click **New report** to start a new report cycle."
@@ -12,12 +11,6 @@ video:
 ---
 
 # Create a new report
-
-{/* SOURCE — Academic Reporting Tool walkthrough video transcript
-(AR_Video Transcript.docx, received 13 Oct 2026).
-TO VERIFY: the exact name of the landing page (transcript: "report setting page")
-and of the New report button; the fields in a signature block.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 Setting up a report takes three steps: **report template**, **report process**
 and **report timeline**. This page covers the first. You need admin access to
