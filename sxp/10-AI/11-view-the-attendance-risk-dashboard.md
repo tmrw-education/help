@@ -1,5 +1,4 @@
 ---
-draft: true
 id: view-the-attendance-risk-dashboard
 summary:
   - "You are notified when the attendance compliance checker has a report ready."
@@ -12,16 +11,6 @@ video:
 ---
 
 # View the attendance risk dashboard
-
-{/* SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
-Request (0:07–14:38); 26 Aug 2026 Agent walkthrough (1:30–7:58); 9 Oct 2026 SXP
-Felix Attendance walkthrough (6:00–11:09), homeroom teacher and principal views.
-NOTE: the 26 Aug transcript began mid-session and the opening of this flow was
-lost; the 3 Sep demo restores it.
-TO RE-VERIFY BEFORE PUBLISHING: Peter noted the ad-hoc-prompt response ("your
-attendance compliance check has been queued and will be processed shortly") does
-not yet reflect the next scheduled update, and said it would be improved.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 The **attendance compliance checker** works through your school's attendance data
 on a schedule and sorts students into risk bands against the thresholds your

@@ -1,5 +1,4 @@
 ---
-draft: true
 id: request-an-attendance-correction-with-felix
 summary:
   - "Ask **Felix** for an **attendance correction**, saying it is a past mark and giving the date."
@@ -12,21 +11,6 @@ video:
 ---
 
 # Request an attendance correction with Felix
-
-{/* SOURCE — 9 Oct 2026 SXP Felix Attendance walkthrough with Amber Do (11:24–19:15).
-Demonstrated in the DEV environment, not UAT (Amber, 25:03).
-TO RE-VERIFY BEFORE PUBLISHING:
-(1) The flow differs from the build documented in
-    ../03-Attendance/08-request-attendance-correction.md, where Felix opens a form
-    pre-filled for a recent session and asks for a reason. In this demo Felix
-    replied with a button to open the form, and the teacher picked the date and
-    then the class. A reason field was not shown or mentioned. Confirm which flow
-    is in UAT, then align this page and page 08.
-(2) The officer side was not shown end to end. The data had not synced after
-    submission (19:15), so approve or deny is written from Amber's description.
-(3) The wording of the alert for a class with no students was not read out.
-No screenshots — the transcript holds speaker avatars only. Add to ./images/ from a
-UAT build. */}
 
 Once you submit a roll it is locked. To change a mark — a student you marked
 present who actually arrived late, say — you ask Felix for a correction, and an

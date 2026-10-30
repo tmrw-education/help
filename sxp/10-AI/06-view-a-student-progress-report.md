@@ -1,5 +1,4 @@
 ---
-draft: true
 id: view-a-student-progress-report
 summary:
   - "Ask Felix to **show me [student]'s progress report**."
@@ -12,12 +11,6 @@ video:
 ---
 
 # View a student progress report
-
-{/* SOURCE — 26 Aug 2026 Agent walkthrough (13:24–21:47, 33:01–34:52, 1:05:46–1:08:35).
-TO RE-VERIFY BEFORE PUBLISHING: the canvas styling was being reworked to match the
-standalone EduScope app. Download and print were named on screen but not clicked.
-The standalone EduScope app is a marketplace product — confirm with the product
-team whether it needs any mention here at all before publishing. */}
 
 The **EduScope** agent builds a progress report for one student from their
 Microsoft Teams assignments — what was set, what was handed in, the rubric the

@@ -1,5 +1,4 @@
 ---
-draft: true
 id: take-attendance-with-felix
 summary:
   - "Prompt **Felix** with *show me attendance* to bring a class roll into the chat panel."
@@ -12,24 +11,6 @@ video:
 ---
 
 # Take attendance with Felix
-
-{/* SOURCE — 9 Oct 2026 SXP Felix Attendance walkthrough with Amber Do (2:20–10:26).
-Demonstrated in the DEV environment, not UAT (Amber, 25:03).
-TO RE-VERIFY BEFORE PUBLISHING:
-(1) Which class Felix brings up is changing. In the demo Felix retrieved the
-    teacher's next class, but the on-screen prompt text said to mark "a class that
-    just finished" — Amber described this as a new enhancement from SIT feedback
-    she had not seen yet. Brendan flagged the wording as confusing (3:09). Step 1
-    is written as "the class Felix brings up"; confirm on a UAT build whether it is
-    the current, next or just-finished class, and whether a teacher can name a
-    specific class in the prompt (Amber, 3:48 — not demonstrated).
-(2) The today-only rule (step 1 note) predates that enhancement (11:37). Amber was
-    not sure it still holds.
-(3) Unanswered: can a roll be updated during the lesson, for a student who
-    arrives late? Brendan asked at 4:05; no answer was given.
-(4) The label on the control that expands the roll to the canvas was not read out.
-No screenshots — the transcript holds speaker avatars only. Add to ./images/ from a
-UAT build. */}
 
 You can take the roll without leaving what you are doing. Ask Felix and it brings
 the class roll into the chat panel, where you mark students and submit just as you

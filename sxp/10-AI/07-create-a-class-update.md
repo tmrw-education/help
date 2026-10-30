@@ -1,5 +1,4 @@
 ---
-draft: true
 id: create-a-class-update
 summary:
   - "Prompt Felix with **create a class update** and select your classes."
@@ -12,20 +11,6 @@ video:
 ---
 
 # Create a class update
-
-{/* SOURCE — 26 Aug 2026 Agent walkthrough (34:53–44:50, primary);
-2 Jun 2026 AI Agents Sprint Demo (0:05–12:22).
-TO RE-VERIFY BEFORE PUBLISHING:
-(1) Consent fix — on 2 Jun Meredith asked for the "replace the name with a
-    student" suggestion to be dropped in favour of simply removing the student
-    from the birthday list. The 26 Aug build still offered substitution. Step 5
-    describes substitution; rewrite if the change has landed.
-(2) Teacher access to the published PDF — shown in Dynamics CE only, which
-    teachers have no licence for. A SharePoint folder structure (class/date) was
-    intended but not built. DO NOT document a teacher access path until it exists.
-(3) Editability indicators were flagged as confusing and were awaiting a design
-    pass with Ginno.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 A class update is the round-up you send to the parents of a class — what happened
 last week, what is coming up, birthdays, assignments due and your reminders. Felix

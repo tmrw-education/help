@@ -20,6 +20,7 @@ Terms used across StaffXP and this guide.
 | Assessment Data | The section of report setup where an admin uploads a completed workbook for any information the report template needs entered by hand. The workbook template is downloaded from the same section. |
 | At a Glance | The landing tab of a student profile: photo, core identity details, the alert icon row, shared documents, and the alert key. |
 | Attendance Analytics | The screen holding the at-risk banner, four stat cards, the Trends charts, and the at-risk table. Needs **Attendance-analytics read** access. |
+| Attendance Compliance Checker | The agent that works through the school's attendance data on a schedule and sorts students into low, medium and high risk bands. It runs in the background and cannot be triggered on demand — staff see the results of the last run. |
 | Attendance Overview | The whole-school attendance dashboard that school leaders and attendance officers land on. Holds the Roll reminders, Students at risk and View trends tiles, three charts, and the Class rolls list. |
 | Attendance Roll | The table listing every student in a class on one page — no pagination, so nobody is missed. Shows up to four prior sessions read-only on the left and today's editable column on the right. |
 | Attendance Threshold | The attendance percentage range that defines one risk band. Set per school by a school admin in Customer Engagement (CE), as an unbroken run of ranges from 0% upwards. Without thresholds the compliance checker has nothing to measure against. |
@@ -41,6 +42,7 @@ Terms used across StaffXP and this guide.
 | Case Status | The state of a wellbeing case: **Active** (blue, open and being worked), **Resolved** (green, finished and read-only), or **Cancelled** (grey, closed without resolution and read-only). |
 | CE | Customer Engagement — the Dynamics 365 back office where your school admin configures StaffXP: attendance risk thresholds, agent schedules, reward values and milestones, and the intervention library. Most teaching staff have no CE licence — the settings reach you through StaffXP. |
 | Class Rolls | The list on the Attendance overview from which leaders and officers open any class's roll across the school. Searchable by class or teacher, filterable by year group, with a date-range trigger for past sessions. |
+| Class Update | The round-up sent to a class's parents — last week's events, what is coming up, birthdays, assignments due and the teacher's reminders. Drafted by an agent from class data, checked against student consent, and published to the Parent Experience Platform. |
 | Cleared Classes | The table on the Emergency coordinator page listing classes fully accounted for, so attention goes to the ones still outstanding. |
 | Comment Progress | The admin page tracking teachers' review of the AI-drafted report comments, by class, year group, teacher and status. Admins and leaders can read the comments from here but can't change them. |
 | Comment Review | The teacher page listing the classes assigned to them for a report. Where teachers enter grades and then review, edit, approve and submit the AI-drafted comments for each class. |
@@ -61,6 +63,7 @@ Terms used across StaffXP and this guide.
 
 | Term | Definition |
 |---|---|
+| EduScope | The agent that builds a progress report for one student from their Microsoft Teams assignments — what was set, what was handed in, the rubric applied, the marks and the feedback. Read-only, reached only by prompting Felix, and limited to a five-week period. |
 | Emergency Coordinator | The live page shown to emergency coordinators and school leaders during an active emergency. Holds the muster table of all classes and muster points, plus the Cleared classes table. Also where a leader ends the incident. |
 | Emergency Roll | The stripped-down headcount every teacher's roll becomes when a leader declares an emergency. Two columns only — Student name and Emergency roll — marked Present or Missing, with no all-marked gate on submit. |
 | Enable Waitlist | The setting that lets students beyond the maximum join a waitlist rather than being turned away. Available on overseas trips and extra-curricular activities. |
@@ -130,6 +133,8 @@ Terms used across StaffXP and this guide.
 | Not on Roll | The group below an emergency roll holding students added from other classes. Each is marked Present and counts toward your Present total, with Remove and Edit/add note actions. |
 | Not Yet Marked | The default attendance status (shown as `···`) before you mark a student. Blocks Submit until cleared. |
 | Note Type | A required classification on a wellbeing note, set alongside sentiment and priority. |
+| Notice Summary | The agent that reads the recent notices in the categories you follow and hands back a short summary of each. Currently covers notices from the past 24 hours. |
+| Notification Summary | The agent that summarises the notifications you have not read, grouped into Alerts and Messages. |
 | Notify Parents | A wellbeing note setting that defaults to **On**. Turn it off before publishing if parents shouldn't be notified. |
 
 ## O
@@ -172,7 +177,9 @@ Terms used across StaffXP and this guide.
 | Report Timeline | The third report setup step, where each milestone gets a trigger date. Once the report is set up, the Timeline sub-tab of its Monitor tab is where the admin executes each milestone. |
 | Resource Booking | The optional second step of an activity request, covering Finance, Equipment, Transportation and Technology. Skippable entirely, but a started booking row must be finished — a category *and* a resource — or Next stays disabled. |
 | Review Notes | The notes an approver must enter when declining a request or sending it back for more info. Read by the requester via **View review notes** on the request row. |
+| Rewards and Consequences | The agent for recognising or sanctioning a student. Matches the behaviour to one of the school's values, logs the points, and creates the postcard. A consequence also opens a case in Customer Engagement (CE) so it can be assigned and tracked. |
 | Risk Management | The step in an activity, venue or extra-curricular request where each category — Student lists, Activity based, Transport, Staff capacity — either lists risks with mitigations or is explicitly marked "no risk". Visits have no Transport category. |
+| Risk Profile | The per-student page reached from the attendance risk report, holding the student's risk level, the case summary, the supporting data behind it, what the agent has already set in motion, and the actions the intervention library recommends. |
 | Roll Reminders | An Attendance overview tile showing a live count of classes that haven't submitted their roll yet. **View all** lists them by teacher, class, period and outstanding count. |
 | RSVP | The reply a notice asks for when it needs numbers. Staff respond yes or no, and whoever created the notice sees who is coming. |
 
@@ -184,6 +191,7 @@ Terms used across StaffXP and this guide.
 | Staff to Notify | The escalation contacts listed for a student on the Wellbeing tab of their profile. |
 | Staffing | The Extra-curricular tab listing staff assigned to activities with Name, Role, Phone, Email and Consent. Consent shows **View** for an external member's clearance document, **Internal** for internal staff, or a dash. |
 | Status Pill | The interactive control in a wellbeing case header used to move the case between Active, Resolved and Cancelled. |
+| Student Leave Request Approver | The agent that acts on every leave request a parent submits. Requests matching the school's auto-approval rules are approved on arrival; the rest go to the attendance officer with the reason, any attachments, any sibling request over the same dates, and a recommendation. |
 | Students at Risk | An Attendance overview tile showing a live count of students below the attendance threshold. |
 | Students Not on Roll | The button on an emergency roll used to add a student from another class who is physically with you. Shows a live count once anyone is added; the same student can't be added twice. |
 | Success Report | The Publishing sub-tab showing the publishing status of a report, where each successfully published student report can be viewed or downloaded. |
@@ -228,15 +236,3 @@ Terms used across StaffXP and this guide.
 | Term | Definition |
 |---|---|
 | Your Requests | The request queue general staff see on the Activities and Extra-curricular hubs, holding only their own submissions. Always shows all statuses. |
-
-{/* Felix agent terms, hidden until the Felix agent pages (10-AI/02–09 and 11–15, all draft: true) are verified and published. Put each row back in its [letter] section, then delete this comment.
-
-[A] | Attendance Compliance Checker | The agent that works through the school's attendance data on a schedule and sorts students into low, medium and high risk bands. It runs in the background and cannot be triggered on demand — staff see the results of the last run. |
-[C] | Class Update | The round-up sent to a class's parents — last week's events, what is coming up, birthdays, assignments due and the teacher's reminders. Drafted by an agent from class data, checked against student consent, and published to the Parent Experience Platform. |
-[E] | EduScope | The agent that builds a progress report for one student from their Microsoft Teams assignments — what was set, what was handed in, the rubric applied, the marks and the feedback. Read-only, reached only by prompting Felix, and limited to a five-week period. |
-[N] | Notice Summary | The agent that reads the recent notices in the categories you follow and hands back a short summary of each. Currently covers notices from the past 24 hours. |
-[N] | Notification Summary | The agent that summarises the notifications you have not read, grouped into Alerts and Messages. |
-[R] | Rewards and Consequences | The agent for recognising or sanctioning a student. Matches the behaviour to one of the school's values, logs the points, and creates the postcard. A consequence also opens a case in Customer Engagement (CE) so it can be assigned and tracked. |
-[R] | Risk Profile | The per-student page reached from the attendance risk report, holding the student's risk level, the case summary, the supporting data behind it, what the agent has already set in motion, and the actions the intervention library recommends. |
-[S] | Student Leave Request Approver | The agent that acts on every leave request a parent submits. Requests matching the school's auto-approval rules are approved on arrival; the rest go to the attendance officer with the reason, any attachments, any sibling request over the same dates, and a recommendation. |
-*/}

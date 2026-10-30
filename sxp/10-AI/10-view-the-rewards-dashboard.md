@@ -12,16 +12,6 @@ video:
 
 # View the rewards dashboard
 
-{/* SOURCE — 26 Aug 2026 Agent walkthrough (1:03:00–1:04:40, teacher view);
-2 Jul 2026 AI Agents Sprint Demo (8:30–10:20).
-TO CONFIRM BEFORE PUBLISHING:
-(1) The leader / admin cross-class view was shown only in passing (26 Aug,
-    1:02:00–1:03:00) while Peter was on the wrong account, and was not walked
-    through. The section below is thin and needs a proper demo.
-(2) "Ask Felix to suggest a reward" was named as available from the insight
-    (1:04:20) but was not demonstrated.
-No screenshots available — add to ./images/ from a UAT build. */}
-
 The dashboard shows what you have logged this term and where the gaps are — which
 students you have recognised, which you have not, and how your rewards balance
 against your consequences.

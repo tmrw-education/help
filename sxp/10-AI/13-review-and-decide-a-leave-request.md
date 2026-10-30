@@ -1,5 +1,4 @@
 ---
-draft: true
 id: review-and-decide-a-leave-request
 summary:
   - "Requests a parent submits arrive on the **Leave Request** table, and you are notified."
@@ -12,17 +11,6 @@ video:
 ---
 
 # Review and decide a leave request
-
-{/* SOURCE — 3 Sep 2026 SXP Agent Demo, Attendance Compliance and Student Leaver
-Request (14:38–21:43).
-TO RE-VERIFY BEFORE PUBLISHING:
-(1) The demo tenant had no attendance thresholds configured, so the AI
-    recommendation shown said only that it could not assess risk. The richer
-    recommendation described by Peter ("this student is at 50%, the threshold is
-    80") was never seen on screen. Step 4 is written from his description.
-(2) What the parent receives after a decision was not shown or described. Left
-    out deliberately — add once confirmed.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 When a parent asks for their child to be away from school, the request comes to the
 attendance officer with the context needed to decide it — the reason, any

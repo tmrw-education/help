@@ -1,5 +1,4 @@
 ---
-draft: true
 id: summarise-the-notifications-you-missed
 summary:
   - "Ask Felix **summarise my notifications** or **what notifications did I miss?**"
@@ -12,13 +11,6 @@ video:
 ---
 
 # Summarise the notifications you missed
-
-{/* SOURCE — 21 Apr 2026 AI Agents Sprint Demo (13:25–16:10).
-TO RE-VERIFY BEFORE PUBLISHING: at demo time the footnote opened the notification
-in a new browser tab. A change to open it in the canvas was built but held back
-from deployment — step 4 is written for the canvas behaviour. Confirm which
-shipped before publishing.
-No screenshots available — add to ./images/ from a UAT build. */}
 
 If your notifications have built up, Felix can read them for you and hand back a
 short summary of each, so you do not have to work down the whole list.
