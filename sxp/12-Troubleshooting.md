@@ -752,8 +752,6 @@ Rewrite or delete it once the SharePoint path ships. ]
 
 */}
 
-{/* Hidden until the Academic reporting pages (11-Academic-reporting, all draft: true) are published. Remove this comment then.
-
 ## Academic reporting
 
 ### Teachers haven't been told to start entering grades or reviewing comments
@@ -821,5 +819,3 @@ Rewrite or delete it once the SharePoint path ships. ]
 **Cause** — At least one item on the **Publishing checklist** isn't met — often an unresolved report block.
 
 **Fix** — Go to **Publishing** > **Readiness status** > **Publishing checklist** to see which item is outstanding, resolve it, then execute **Ready to publish** again. See [Publish reports](./11-Academic-reporting/16-publish-reports.md).
-
-*/}
