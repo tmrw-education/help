@@ -17,7 +17,8 @@ a fire-drill backup — you can print it straight from the roll.
 
 1. Open the roll you want to print
 
-   Open the class roll from your calendar, a roll reminder, or Felix.
+   Open the class roll from your calendar, a roll reminder, or Felix — see
+   [Take attendance with Felix](../10-AI/14-take-attendance-with-felix.md).
 
 2. Print it
 

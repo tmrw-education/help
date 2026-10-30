@@ -31,8 +31,10 @@ bar up top, or ask **Felix**, the in-app assistant.
   messages and alerts.
 - **[Student & parent profiles](./09-Profiles/01-find-student-profile.md)** —
   look up student and parent information.
-- **[AI & Felix](./10-AI/01-how-felix-agents-work.md)** — what Felix can do for
-  you, how to prompt it, and the rewards dashboard.
+- **[AI & Felix](./10-AI/01-how-felix-agents-work.md)** — how to prompt Felix,
+  and use its agents to create notices, wellbeing notes and class updates, log
+  rewards, take the roll and request corrections, catch up on notices and
+  notifications, and track attendance risk and leave requests.
 - **[Academic reporting](./11-Academic-reporting/01-how-academic-reporting-works.md)** — set up and run a
   report cycle, enter grades, review and revise the drafted comments, and publish student reports.
 - **[Troubleshooting](./12-Troubleshooting.md)** — common problems and how to

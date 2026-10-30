@@ -48,7 +48,7 @@ Common problems in StaffXP and how to resolve them. Use the contents list on the
 
 **Cause** — A submitted roll is locked. There's no direct edit.
 
-**Fix** — Ask Felix to correct an attendance mark ("I need to correct an attendance mark"). Felix opens a pre-filled correction form — set the corrected mark and a reason, then submit. An attendance officer resolves it from their **Correction request** tab. This is the only route; you can't edit the locked roll yourself.
+**Fix** — Ask Felix for an attendance correction for a past mark, with the date ("I need an attendance correction for 28 September"). Open the correction form Felix offers, pick the date, class and student, set the corrected mark, then submit. See [Request an attendance correction with Felix](./10-AI/15-request-an-attendance-correction-with-felix.md). An attendance officer resolves it from their **Correction request** tab. This is the only route; you can't edit the locked roll yourself.
 
 ### Bulk marking skipped some students
 

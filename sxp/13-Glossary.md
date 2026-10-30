@@ -48,7 +48,7 @@ Terms used across StaffXP and this guide.
 | Comment Review | The teacher page listing the classes assigned to them for a report. Where teachers enter grades and then review, edit, approve and submit the AI-drafted comments for each class. |
 | Comment Revision | The teacher page listing every report comment the QA agent has sent back. Shows the errors highlighted and a suggested improvement, which the teacher edits if needed and resubmits for a QA recheck. |
 | Consent Flag | The warning a class update raises against any student whose parents have not consented to their name, birthday or photo being shared. Every flag must be resolved before the update can be published. |
-| Correction Form | The form Felix opens when you ask to correct a submitted attendance mark. You choose the session, the student and the corrected mark, then submit it to an attendance officer. |
+| Correction Form | The form Felix opens when you ask to correct a submitted attendance mark. You pick the date, the class and the student, set the corrected mark, then submit it to an attendance officer. |
 | Correction Request | A teacher's request to change an already-submitted attendance mark, logged through Felix — it can't be raised from the canvas or the roll — and resolved by an attendance officer from their Correction request tab. The only way to change a locked mark. |
 | Custody Alert | A student alert indicating a custody order limits who may collect them. Opens the Caregivers tab so authorisation can be confirmed before release. |
 

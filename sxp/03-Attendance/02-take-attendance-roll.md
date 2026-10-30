@@ -18,7 +18,7 @@ and submit.
 1. Open the class roll
 
    From the **Attendance** page, click your class on the **calendar**, follow a
-   **roll reminder**, or ask Felix ("take the roll"). The page header shows the
+   **roll reminder**, or ask Felix — see [Take attendance with Felix](../10-AI/14-take-attendance-with-felix.md). The page header shows the
    **class name**, the **period and student count** (for example "Period 2 · 24
    students"), and the date.
 
@@ -55,7 +55,8 @@ and submit.
 
    > **Note:** Once submitted, a roll is locked — there's no direct edit. To fix
    > a mistake, ask Felix to log a correction request, which an attendance
-   > officer resolves.
+   > officer resolves — see
+   > [Request an attendance correction with Felix](../10-AI/15-request-an-attendance-correction-with-felix.md).
 
 6. Check what the icons mean
 
