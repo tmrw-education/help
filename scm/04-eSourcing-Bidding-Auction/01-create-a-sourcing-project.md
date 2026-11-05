@@ -13,11 +13,11 @@ video:
 
 # Create a Sourcing Project
 
-A sourcing project takes a purchase requisition raised in **D365 Finance & Operations** and runs it as an request for proposal (RFP) or request for quotation (RFQ). You build out the project with technical specifications, terms, a price sheet and vendor assessments, then publish to invite vendors to bid.
+A sourcing project takes a purchase requisition raised in **D365 Finance & Operations** and runs it as a request for proposal (RFP) or request for quotation (RFQ). You build the project with technical specifications, terms, a price sheet, and vendor assessments, then publish it to invite vendors to bid.
 
 1. Start a new project
 
-   Open **Projects** and click **Create new project**. Enter a **Project description**, set the **Price visibility** option, then select the purchase requisition from the list — each requisition can hold multiple line items, which become the items vendors bid on. Click **Save project**.
+   Open **Projects** and click **New project**. Enter a **Project description**, set the **Price visibility** option, then select the purchase requisition from the list — each requisition can hold multiple line items, which become the items vendors bid on. Click **Save project**.
 
    ![The create new project page showing the purchase requisition list](./images/create-sourcing-project-1.png)
 
@@ -31,7 +31,7 @@ A sourcing project takes a purchase requisition raised in **D365 Finance & Opera
 
 4. Set up the project
 
-   Open **Service providers** and select the vendors to invite. Prospective vendors can be included — they receive the invitation email but must complete full onboarding before their bid can be accepted. Optionally, in **Collaboration**, add any users who will work on the project with you and set their access level. Also, optionally, in **Assessments**, select the **Company type**, then select the required assessments — the assessments that apply depend on the company type, so a service company may need only a few or none.
+   Open **Service providers** and select the vendors to invite. You can include prospective vendors — they receive the invitation email but must complete full onboarding before you can accept their bid. Optionally, in **Collaboration**, add any users who will work on the project with you and set their access level. Also, optionally, in **Assessments**, select the **Company type**, then select the required assessments — the assessments that apply depend on the company type, so a service company may need only a few or none.
 
 5. Schedule, review, and publish the message
 
