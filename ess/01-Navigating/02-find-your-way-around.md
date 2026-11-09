@@ -6,7 +6,7 @@ summary:
   - "Navigate back to the home page at any time using your browser or the **Home** icon."
 keywords: [navigate ESS, home page, tiles, profile, tasks, questionnaires, notifications, notification bell, ESS layout, find your way, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/BTDtFkXwYzw
   bunny:
 ---
 
