@@ -6,7 +6,7 @@ summary:
   - "Your image is sent for approval and shows as pending until reviewed."
 keywords: [profile image, profile photo, change photo, upload photo, profile picture, update photo, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/65JfGmDsPy0
   bunny:
 ---
 
