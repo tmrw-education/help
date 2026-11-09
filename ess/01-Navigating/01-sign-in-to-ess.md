@@ -6,7 +6,7 @@ summary:
   - "You land on your personalised **EmployeeXP home page**."
 keywords: [sign in, log in, login, ESS, employee self service, access ESS, portal, GEMS login, Microsoft, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/KnKkKixpVyM
   bunny:
 ---
 
