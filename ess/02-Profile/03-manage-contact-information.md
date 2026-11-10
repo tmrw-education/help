@@ -6,7 +6,7 @@ summary:
   - "Mark one contact as **primary** and click **Submit**."
 keywords: [contact information, phone number, email, add contact, update contact, primary contact, contact details]
 video:
-  youtube:
+  youtube: https://youtu.be/yQ0SLj_VF6E
   bunny:
 ---
 
