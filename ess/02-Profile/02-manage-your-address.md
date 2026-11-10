@@ -6,7 +6,7 @@ summary:
   - "Mark one address as **Primary Residence** and click **Submit**."
 keywords: [address, home address, update address, add address, primary address, residential address, address management]
 video:
-  youtube:
+  youtube: https://youtu.be/Hjc03vJlV9s
   bunny:
 ---
 
