@@ -6,7 +6,7 @@ summary:
   - "Click **Save** when complete."
 keywords: [personal contact, dependent, emergency contact, beneficiary, add dependent, family member, next of kin]
 video:
-  youtube:
+  youtube: https://youtu.be/UtBnqLUTEjA
   bunny:
 ---
 
