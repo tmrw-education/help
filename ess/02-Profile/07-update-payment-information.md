@@ -6,7 +6,7 @@ summary:
   - "Set the account to **Active** and click **Submit**."
 keywords: [payment information, bank account, bank details, IBAN, payroll, salary, payment method, bank account update, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/0M0c40c5Mog
   bunny:
 ---
 
