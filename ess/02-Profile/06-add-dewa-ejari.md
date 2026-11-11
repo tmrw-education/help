@@ -6,7 +6,7 @@ summary:
   - "Complete the fields, attach the documentation, and click **Submit**."
 keywords: [DEWA, Ejari, Dubai Electricity, tenancy, utility, DEWA account, housing, Ejari registration]
 video:
-  youtube:
+  youtube: https://youtu.be/SyuxAXh16I8
   bunny:
 ---
 
