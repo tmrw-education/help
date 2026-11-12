@@ -6,7 +6,7 @@ summary:
   - "Review the matching profile showing department, position, and contact details."
 keywords: [company directory, find colleague, search employee, staff directory, find staff, contact details, reporting manager, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/jtQ624D7cJQ
   bunny:
 ---
 
