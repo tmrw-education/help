@@ -6,7 +6,7 @@ summary:
   - "Only items explicitly enabled for employee action can be updated."
 keywords: [screenings, compliance check, pre-employment screening, view screenings, screening status]
 video:
-  youtube:
+  youtube: https://youtu.be/RGcybUeqfKA
   bunny:
 ---
 
