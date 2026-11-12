@@ -6,7 +6,7 @@ summary:
   - "Click **Submit** — the record is sent for approval."
 keywords: [reference, referee, professional reference, add reference, employment reference. professional experience, previous experience, work experience, employment history, previous job, work history, add experience, career history, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/XgNJGRBVvQU
   bunny:
 ---
 
