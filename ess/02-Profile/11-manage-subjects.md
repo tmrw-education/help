@@ -6,7 +6,7 @@ summary:
   - "Click **Submit** — the record is sent for approval."
 keywords: [subjects, teaching subjects, add subject, subject management, primary subject, qualified to teach]
 video:
-  youtube:
+  youtube: https://youtu.be/e_NdYN8OEp4
   bunny:
 ---
 
