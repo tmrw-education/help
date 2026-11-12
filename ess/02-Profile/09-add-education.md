@@ -6,7 +6,7 @@ summary:
   - "Click **Submit** — the record shows as **In Review** until approved."
 keywords: [education, qualification, degree, certificate, add qualification, academic, university, Masters, Bachelor, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/NMWvL-bur_Q
   bunny:
 ---
 
