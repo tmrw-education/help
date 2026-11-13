@@ -6,7 +6,7 @@ summary:
   - "Click on any person to navigate to their part of the hierarchy."
 keywords: [org chart, organisational hierarchy, reporting structure, team structure, who reports to, line manager, org chart, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/Mu3tH9r9980
   bunny:
 ---
 
