@@ -6,7 +6,7 @@ summary:
   - "Click **Add new certificate**, complete the details, upload the file, and click **Submit**."
 keywords: [certifications, certificates, add certificate, expiring certificate, valid certificate, professional certificates, compliance, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/qLJgRPx-Zqk
   bunny:
 ---
 
