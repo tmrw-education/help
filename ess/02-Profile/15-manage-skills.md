@@ -6,13 +6,13 @@ summary:
   - "Click **Submit** — the record goes to your manager or HR for approval."
 keywords: [skills, add skill, skill management, proficiency, competency, skills update, skills profile, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/iKR3H9pC5aA
   bunny:
 ---
 
 # Manage your skills
 
-The skills section lets you keep your competency profile current. Any skill you add or update is routed through an approval workflow with your manager or Human Resources (HR).
+The skills section lets you keep your competency profile up to date. Any skill you add or update is routed through an approval workflow with your manager or Human Resources (HR).
 
 1. Open your skills
 
