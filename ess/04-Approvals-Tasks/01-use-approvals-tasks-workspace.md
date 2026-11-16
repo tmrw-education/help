@@ -6,7 +6,7 @@ summary:
   - "Click any item to open it and take action."
 keywords: [approvals, tasks, workspace, pending approvals, task list, checklist, approvals tab, tasks tab, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/6hy9UZKfX8A
   bunny:
 ---
 
@@ -16,7 +16,7 @@ The Approvals and Tasks workspace is your central hub for everything that needs 
 
 1. Open the workspace
 
-   From the EmployeeXP home page, click the **Tasks** tile.
+   From the EmployeeXP home page, either click **View tasks** on the **Tasks** tile or **View approvals** on the **Approvals** tile.
 
 2. Switch between tabs
 
