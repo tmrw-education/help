@@ -6,7 +6,7 @@ summary:
   - "Click **Submit** to complete it."
 keywords: [NPS, net promoter score, pulse survey, employee feedback, rating survey, recommend GEMS, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/N8p90-HmTf8
   bunny:
 ---
 
