@@ -1,18 +1,18 @@
 ---
 id: complete-a-questionnaire
 summary:
-  - "Go to **Questionnaires** in the **My Work** tab in EmployeeXP and select a questionnaire."
+  - "Go to **Questionnaires** in the **My work** tab in EmployeeXP and select a questionnaire."
   - "Click **Start** (or **Continue** if resuming), answer each question, and click **Submit**."
   - "To save progress and return later, click **Save as Draft**."
 keywords: [questionnaire, survey, complete questionnaire, answer questionnaire, submit survey, draft, save progress, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/N8p90-HmTf8
   bunny:
 ---
 
 # Complete a questionnaire
 
-Questionnaires are assigned by Human Resources (HR) and appear in the Questionnaires tab of your EmployeeXP portal. You can save your progress and return later if needed.
+Human Resources (HR) assigns questionnaires, which appear in the Questionnaires tab of your EmployeeXP portal. You can save your progress and return later if needed.
 
 1. Open the Questionnaires tab
 
