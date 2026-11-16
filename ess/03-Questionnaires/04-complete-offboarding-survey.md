@@ -6,7 +6,7 @@ summary:
   - "Mark the associated checklist task as complete after submitting."
 keywords: [offboarding survey, exit survey, exit questionnaire, leaving, offboarding, departure, exit feedback, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/N8p90-HmTf8
   bunny:
 ---
 
