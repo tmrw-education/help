@@ -6,7 +6,7 @@ summary:
   - "Click **Approve** to accept or **Reject** to decline."
 keywords: [approve, reject, approval, review request, pending approval, approve identification, approve education, approve skills, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/NOtGwpTOa2M
   bunny:
 ---
 
@@ -16,7 +16,7 @@ When a team member submits a profile update that needs your approval—such as a
 
 1. Open the Approvals tab
 
-   From the EmployeeXP portal, go to **Tasks ▸ Approvals**.
+   From the EmployeeXP portal, in the **My work** dropdown, select **Tasks ▸ Approvals**.
 
 2. Review the list
 
