@@ -6,7 +6,7 @@ summary:
   - "Click **Confirm** to record the update."
 keywords: [onboarding, onboarding task, complete task, new employee, checklist, task status, task completion, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/eCS_9o5zrOU
   bunny:
 ---
 
