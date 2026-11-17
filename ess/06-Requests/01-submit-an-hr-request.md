@@ -6,7 +6,7 @@ summary:
   - "Click **Submit** — a request number is generated, and your request enters the approval workflow."
 keywords: [HR request, submit request, police clearance, early exit, destination change, request form, submit, ESS request, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/2OyW1nYcyHk
   bunny:
 ---
 
