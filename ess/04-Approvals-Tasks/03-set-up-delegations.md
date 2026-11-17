@@ -6,7 +6,7 @@ summary:
   - "Check **Enable delegation** and click **Submit**."
 keywords: [delegation, delegate approvals, out of office, leave, approval delegation, substitute, cover approvals, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/P8VATnmGXyE
   bunny:
 ---
 
