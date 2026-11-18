@@ -5,7 +5,7 @@ summary:
   - "Review your enrolled benefit plans, entitlement amounts, and gratuity."
 keywords: [benefit plan, benefits tab, gratuity, medical insurance, transport, accommodation, life insurance, enrolled plans, benefit entitlements, ESS, employee benefits, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/Y1BHUFrjvfk
   bunny:
 ---
 
