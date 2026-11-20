@@ -6,7 +6,7 @@ summary:
   - "Upload the document to the request, then click **Submit**."
 keywords: [sick leave, medical certificate, attachment, supporting document, probation, certificate threshold, record at least one document, leave request, ESS, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/1pB8fuFbsWM
   bunny:
 ---
 
