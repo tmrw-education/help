@@ -6,7 +6,7 @@ summary:
   - "Requests whose **start date** is further in the past than your school's cancellation window cannot be cancelled."
 keywords: [cancel leave, cancel request, leave cancellation, withdraw leave, cancellation window, cancellation not permitted, time off request, ESS, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/QDRB_i4OzoI
   bunny:
 ---
 
