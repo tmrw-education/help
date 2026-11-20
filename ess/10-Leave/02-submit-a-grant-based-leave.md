@@ -6,7 +6,7 @@ summary:
   - "Public holidays and weekends already in your calendar are skipped, so the block extends past them."
 keywords: [grant based leave, maternity leave, paternity leave, full entitlement at once, grant amount, one block, start date, end date, leave request, ESS, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/47s0e2LrkAQ
   bunny:
 ---
 
