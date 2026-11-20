@@ -6,13 +6,13 @@ summary:
   - "Check the **Overdue** flag for any course whose start date has passed."
 keywords: [GEMSU, courses, learning, professional development, training, mandatory course, recommended course, in progress, not started, completed, overdue, course status, ESS, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/lvH_UP8R3-U
   bunny:
 ---
 
 # View your GEMSU courses
 
-Your GEMSU learning is surfaced directly in EmployeeXP, so you don't need to go into GEMSU to see where you stand. Courses flow into EmployeeXP automatically through the integration between GEMSU and EmployeeXP — this is a read-only view, and you still complete the courses themselves in GEMSU.
+Your GEMSU learning (online learning platform for staff professional development) is surfaced directly in EmployeeXP, so you don't need to go into GEMSU to see where you stand. Courses flow into EmployeeXP automatically through the integration between GEMSU and EmployeeXP—this is a read-only view, and you still complete the courses in GEMSU.
 
 1. Open your courses
 
