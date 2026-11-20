@@ -6,7 +6,7 @@ summary:
   - "Click **Submit** — the request goes to your approver, and you can track it under your time off requests."
 keywords: [leave request, request time off, annual leave, casual leave, leave plan, leave type, reason code, submit leave, advance notice, leave balance, ESS, employeexp]
 video:
-  youtube:
+  youtube: https://youtu.be/a-8jiNX3u80
   bunny:
 ---
 
