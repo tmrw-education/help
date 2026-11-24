@@ -6,7 +6,7 @@ summary:
   - "The far-right icons are **Notifications** and your **User menu**."
 keywords: [navigate, navigation bar, menu, get around, find pages, top bar, where is, move around, toolbar]
 video:
-  youtube:
+  youtube: https://youtu.be/QLizausyLm8
   bunny:
 ---
 
