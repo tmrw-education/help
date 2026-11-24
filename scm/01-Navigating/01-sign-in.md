@@ -6,7 +6,7 @@ summary:
   - "Click **Sign in**."
 keywords: [sign in, log in, login, microsoft, entra, access procurement, get in, procurement xp]
 video:
-  youtube:
+  youtube: https://youtu.be/FGMaOrP4ZXs
   bunny:
 ---
 
