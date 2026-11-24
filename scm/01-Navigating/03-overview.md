@@ -5,7 +5,7 @@ summary:
   - "Tabs cycle through expiring contracts, projects in progress, vendors in review, approaching bid deadlines, and trade licences expiring soon."
 keywords: [overview, home page, landing page, dashboard, home screen, summary, snapshot, procurement overview]
 video:
-  youtube:
+  youtube: https://youtu.be/7n5r5z9PPOg
   bunny:
 ---
 
@@ -15,7 +15,7 @@ The **Overview** is your Procurement XP landing page — a snapshot of everythin
 
 1. What's on it
 
-   A set of tabs cycles through key activity across the platform:
+   A set of tabs cycles through key activities across the platform:
 
    - **Expiring contracts** — contracts approaching their end date that may need renewal or action.
    - **Procurement projects in progress** — active sourcing, bidding, and auction projects.
