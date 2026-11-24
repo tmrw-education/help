@@ -3,10 +3,10 @@ id: add-new-prospective-vendor
 summary:
    - "Add new prospective vendor +."
    - "Select a local or overseas vendor and fill in the form."
-   - "Invite a vendor to upload their details onto the file."
+   - "Invite a vendor to upload their details to the file."
 keywords: [adding a new vendor, prospective vendor, add a new prospective vendor, new vendor, vendor form, invite vendor]
 video:
-   youtube:
+   youtube: https://youtu.be/dQi7_kOpOfQ
    bunny:
 ---
 
