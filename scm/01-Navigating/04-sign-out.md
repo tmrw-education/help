@@ -6,7 +6,7 @@ summary:
   - "You're returned to the sign-in page."
 keywords: [sign out, log out, logout, end session, leave, exit procurement]
 video:
-  youtube:
+  youtube: https://youtu.be/WaZ9mOz73QQ
   bunny:
 ---
 
