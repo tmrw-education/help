@@ -6,7 +6,7 @@ summary:
    - "Approve the form."
 keywords: [finance prospective vendor approval, review and approve prospective vendor, prospective vendor review finance, prospective vendor data review, prospective vendor application review, new vendor review finance]
 videos:
-   youtube:
+   youtube: https://youtu.be/wkZXu3NsePA
    bunny:
 ---
 
